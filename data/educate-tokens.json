@@ -1,0 +1,207 @@
+{
+  "educateBrand": {
+    "metadata": {
+      "name": "Grupo Edúcate Colombia",
+      "version": "4.0",
+      "manual": "Educate-manual-de-identidad-4.pdf",
+      "extracted": "2025-12-25",
+      "usage": "Design Tokens para web - CSS Variables, Tailwind, React/Vue"
+    },
+    "logo": {
+      "principal": {
+        "name": "Imagotipo principal (Logotipo + Isotipo)",
+        "minSize": {
+          "print": "2.5 x 1 cm",
+          "digital": "85 px"
+        },
+        "clearSpace": "Área de reserva = altura del isotipo",
+        "preferred": true,
+        "versions": [
+          "Horizontal estándar",
+          "Vertical",
+          "Fondo oscuro",
+          "Una línea (espacios estrechos)"
+        ]
+      },
+      "assets": [
+        "/assets/logo-principal.png",
+        "/assets/logo-vertical.png", 
+        "/assets/logo-dark-bg.png",
+        "/assets/logo-narrow.png"
+      ],
+      "rules": "Preferir versión principal. No elementos en área de reserva."
+    },
+    "colors": {
+      "table": [
+        {
+          "category": "Neutros",
+          "name": "Negro",
+          "hex": "#000000",
+          "rgb": "0,0,0",
+          "cmyk": "0,0,0,100"
+        },
+        {
+          "category": "Neutros", 
+          "name": "Blanco",
+          "hex": "#FFFFFF",
+          "rgb": "255,255,255",
+          "cmyk": "0,0,0,0"
+        },
+        {
+          "category": "Neutros",
+          "name": "Gris",
+          "hex": "#808080",
+          "rgb": "128,128,128",
+          "cmyk": "0,0,0,50"
+        },
+        {
+          "category": "Primarios",
+          "name": "Primario 1",
+          "hex": "#17334B",
+          "rgb": "23,51,75",
+          "cmyk": "88,48,28,12"
+        },
+        {
+          "category": "Primarios",
+          "name": "Primario 2", 
+          "hex": "#11678B",
+          "rgb": "17,103,139",
+          "cmyk": "65,0,40,0"
+        },
+        {
+          "category": "Primarios",
+          "name": "Primario 3",
+          "hex": "#54BBAB",
+          "rgb": "84,187,171",
+          "cmyk": "10,80,100,0"
+        },
+        {
+          "category": "Secundarios",
+          "name": "Secundario 1",
+          "hex": "#F39325",
+          "rgb": "243,147,37",
+          "cmyk": "0,50,90,0"
+        },
+        {
+          "category": "Secundarios",
+          "name": "Secundario 2",
+          "hex": "#D94D15",
+          "rgb": "217,77,21",
+          "cmyk": "20,100,82,15"
+        },
+        {
+          "category": "Secundarios",
+          "name": "Secundario 3",
+          "hex": "#B01829",
+          "rgb": "176,24,41",
+          "cmyk": "60,100,45,50"
+        },
+        {
+          "category": "Secundarios",
+          "name": "Secundario 4",
+          "hex": "#521537",
+          "rgb": "82,21,55",
+          "cmyk": "49,32,100,17"
+        },
+        {
+          "category": "Secundarios",
+          "name": "Secundario 5",
+          "hex": "#878721",
+          "rgb": "135,135,33",
+          "cmyk": "100,80,50,35"
+        }
+      ],
+      "tokens": {
+        "neutros": {
+          "black": {"value": "#000000"},
+          "white": {"value": "#FFFFFF"},
+          "gray": {"value": "#808080"}
+        },
+        "primary": {
+          "100": {"value": "#17334B"},
+          "200": {"value": "#11678B"},
+          "300": {"value": "#54BBAB"}
+        },
+        "secondary": {
+          "100": {"value": "#F39325"},
+          "200": {"value": "#D94D15"},
+          "300": {"value": "#B01829"},
+          "400": {"value": "#521537"},
+          "500": {"value": "#878721"}
+        }
+      },
+      "rules": {
+        "maxSecondary": 2,
+        "base": "Neutros obligatorios + máx. 2 secundarios",
+        "lightVersions": "Permitidas para accesibilidad",
+        "illustrations": "Colores propios solo para ambientación"
+      }
+    },
+    "typography": {
+      "family": {
+        "primary": "Barlow Condensed, sans-serif",
+        "fallback": "sans-serif"
+      },
+      "weights": [
+        "Light",
+        "Regular", 
+        "SemiBold",
+        "Bold",
+        "Extra Italic"
+      ],
+      "usage": {
+        "headings": "Bold, SemiBold",
+        "body": "Regular, Light",
+        "lineHeight": "1.5x tamaño fuente"
+      },
+      "css": {
+        "@import": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;600;700;800&display=swap"
+      }
+    },
+    "graphics": {
+      "pattern": {
+        "name": "Retícula geométrica (basada en isotipo)",
+        "usage": "Decorativo. Color pleno o 50% opacidad. Sobre fotos OK.",
+        "assets": ["/assets/pattern-full.svg", "/assets/pattern-50.svg"]
+      },
+      "system": "Monocromático principal + colores controlados"
+    },
+    "cssVariables": {
+      "root": [
+        "--color-black: #000000;",
+        "--color-white: #FFFFFF;",
+        "--color-gray: #808080;",
+        "--color-primary-100: #17334B;",
+        "--color-primary-200: #11678B;",
+        "--color-primary-300: #54BBAB;",
+        "--font-family: 'Barlow Condensed', sans-serif;",
+        "--logo-min-digital: 85px;",
+        "--pattern-opacity: 0.5;"
+      ]
+    },
+    "implementation": {
+      "tailwind": {
+        "config": {
+          "theme": {
+            "extend": {
+              "colors": {
+                "educate": {
+                  "black": "#000000",
+                  "primary": {"100": "#17334B"}
+                }
+              },
+              "fontFamily": {
+                "barlow": ["Barlow Condensed", "sans-serif"]
+              }
+            }
+          }
+        }
+      },
+      "files": {
+        "json": "educate-tokens.json",
+        "css": "educate-variables.css",
+        "scss": "_educate-tokens.scss"
+      }
+    }
+  }
+}
