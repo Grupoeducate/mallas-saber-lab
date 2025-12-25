@@ -4,12 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mallas Saber Lab - Grupo Edúcate Colombia</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      /* GEC Tokens [file:45] */
       --color-primary-100: #17334B;
       --color-primary-200: #11678B;
       --color-primary-300: #54BBAB;
@@ -18,7 +15,6 @@
       --color-white: #FFFFFF;
       --color-gray: #808080;
       --font-family: 'Barlow Condensed', sans-serif;
-      --pattern-opacity: 0.05;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { 
@@ -28,49 +24,16 @@
       line-height: 1.5;
     }
     
-    /* Header GEC */
     .header {
       background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-200));
       color: var(--color-white);
-      padding: 1rem 2rem;
-      position: relative;
-      overflow: hidden;
+      padding: 1.5rem 2rem;
+      text-align: center;
     }
-    .header::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background-image: url('assets/pattern-50.svg');
-      opacity: var(--pattern-opacity);
-      background-size: 100px;
-    }
-    .header-content { 
-      position: relative; 
-      max-width: 1200px; 
-      margin: 0 auto;
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-    }
-    .logo { 
-      height: 85px; /* --logo-min-digital [file:45] */
-      width: auto;
-    }
-    .title { 
-      font-weight: 700; 
-      font-size: 1.8rem;
-    }
-    .subtitle { 
-      opacity: 0.9; 
-      font-weight: 300;
-    }
+    .header h1 { font-size: 2rem; font-weight: 700; margin-bottom: 0.25rem; }
+    .header p { opacity: 0.9; font-weight: 300; }
     
-    /* Dashboard Filtros */
-    .dashboard {
-      max-width: 1200px;
-      margin: 2rem auto;
-      padding: 0 2rem;
-    }
+    .dashboard { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
     .filtros {
       background: #f8f9fa;
       padding: 2rem;
@@ -78,381 +41,159 @@
       box-shadow: 0 4px 20px rgba(23,51,75,0.1);
       margin-bottom: 2rem;
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 1rem;
     }
-    .filtro-grupo {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
+    label { font-weight: 600; color: var(--color-primary-100); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.5px; }
+    select { 
+      width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 8px; 
+      font-family: inherit; font-size: 1rem; background: white;
     }
-    label { 
-      font-weight: 600; 
-      color: var(--color-primary-100);
-      font-size: 0.9rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    select, input[type="radio"] {
-      padding: 0.75rem;
-      border: 2px solid #e9ecef;
-      border-radius: 8px;
-      font-family: inherit;
-      font-size: 1rem;
-      transition: all 0.3s ease;
-    }
-    select:focus {
-      outline: none;
-      border-color: var(--color-primary-300);
-      box-shadow: 0 0 0 3px rgba(84,187,171,0.1);
-    }
-    .radio-group {
-      display: flex;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-    .radio-group label {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      cursor: pointer;
-      font-weight: 400;
-      text-transform: none;
-    }
-    input[type="radio"]:checked + span {
-      color: var(--color-secondary-100);
-      font-weight: 600;
-    }
+    select:focus { outline: none; border-color: var(--color-primary-300); box-shadow: 0 0 0 3px rgba(84,187,171,0.1); }
+    .radio-group { display: flex; gap: 1rem; }
+    .radio-group label { display: flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 400; text-transform: none; }
     .btn-buscar {
-      grid-column: 1 / -1;
-      background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-200));
-      color: white;
-      border: none;
-      padding: 1rem 2rem;
-      font-family: inherit;
-      font-size: 1.1rem;
-      font-weight: 600;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.3s ease;
+      grid-column: 1 / -1; background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-200));
+      color: white; border: none; padding: 1rem 2rem; font-family: inherit; font-size: 1.1rem;
+      font-weight: 600; border-radius: 8px; cursor: pointer; transition: all 0.3s;
     }
-    .btn-buscar:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 8px 25px rgba(23,51,75,0.3);
-    }
+    .btn-buscar:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(23,51,75,0.3); }
     
-    /* Resultados Tabla */
-    .resultados {
-      display: none;
-    }
-    .resultados.mostrar {
-      display: block;
-      animation: fadeIn 0.5s ease;
-    }
+    .resultados { display: none; animation: fadeIn 0.5s; }
+    .resultados.mostrar { display: block; }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
     .tabla-container {
-      background: var(--color-white);
-      border-radius: 12px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
-      overflow: hidden;
-      border: 1px solid #e9ecef;
+      background: white; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      overflow: hidden; border: 1px solid #e9ecef;
     }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th {
-      background: var(--color-primary-100);
-      color: white;
-      padding: 1.25rem 1rem;
-      text-align: left;
-      font-weight: 600;
-      font-size: 0.9rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    td {
-      padding: 1.25rem 1rem;
-      border-bottom: 1px solid #f1f3f4;
-      vertical-align: top;
-    }
-    tr:hover {
-      background: rgba(84,187,171,0.05);
-      cursor: pointer;
-    }
-    tr.copiable {
-      background: rgba(243,147,37,0.1);
-      cursor: copy;
-    }
-    .componente { font-weight: 600; color: var(--color-primary-200); }
-    .codigo { 
-      background: var(--color-secondary-100);
-      color: white;
-      padding: 0.25rem 0.5rem;
-      border-radius: 4px;
-      font-size: 0.8rem;
-      font-weight: 700;
-    }
-    .array { 
-      background: #f8f9fa;
-      padding: 0.75rem;
-      border-radius: 6px;
-      font-size: 0.9rem;
-      line-height: 1.4;
-    }
+    table { width: 100%; border-collapse: collapse; }
+    th { background: var(--color-primary-100); color: white; padding: 1rem; text-align: left; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; }
+    td { padding: 1rem; border-bottom: 1px solid #f1f3f4; vertical-align: top; }
+    tr:hover { background: rgba(84,187,171,0.05); cursor: pointer; }
+    tr.copiable { background: rgba(243,147,37,0.1) !important; }
+    .codigo { background: var(--color-secondary-100); color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.8rem; font-weight: 700; }
+    .array { background: #f8f9fa; padding: 0.75rem; border-radius: 6px; font-size: 0.9rem; }
     .array ul { margin: 0; padding-left: 1.25rem; }
-    .array li { margin-bottom: 0.25rem; }
     
-    /* Responsive */
     @media (max-width: 768px) {
-      .header-content { flex-direction: column; text-align: center; }
       .filtros { grid-template-columns: 1fr; padding: 1.5rem; }
-      .tabla-container { font-size: 0.9rem; overflow-x: auto; display: block; white-space: nowrap; }
-      th, td { padding: 0.75rem 0.5rem; }
+      .tabla-container { overflow-x: auto; display: block; }
+      th, td { padding: 0.75rem 0.5rem; font-size: 0.85rem; }
     }
-    
-    /* Loading */
-    .loading {
-      text-align: center;
-      padding: 3rem;
-      color: var(--color-primary-200);
-    }
-    .spinner {
-      border: 3px solid #f3f3f3;
-      border-top: 3px solid var(--color-primary-300);
-      border-radius: 50%;
-      width: 40px;
-      height: 40px;
-      animation: spin 1s linear infinite;
-      margin: 0 auto 1rem;
-    }
-    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
   </style>
 </head>
 <body>
-  <!-- Header GEC Branding -->
   <header class="header">
-    <div class="header-content">
-      <img src="assets/logo-principal.png" alt="Grupo Edúcate Colombia" class="logo">
-      <div>
-        <h1 class="title">Mallas Saber Lab</h1>
-        <p class="subtitle">Propuesta Curricular Nacional</p>
-      </div>
-    </div>
+    <h1>Mallas Saber Lab</h1>
+    <p>Propuesta Curricular Nacional - Grupo Edúcate Colombia</p>
   </header>
 
-  <!-- Dashboard Filtros -->
   <main class="dashboard">
     <section class="filtros">
-      <!-- Toggle 3/4 Períodos [file:42][file:44] -->
       <div class="filtro-grupo">
-        <label>Organización del Colegio</label>
+        <label>Mi colegio usa</label>
         <div class="radio-group">
-          <label><input type="radio" name="periodos" value="3" checked> <span>3 Períodos</span></label>
-          <label><input type="radio" name="periodos" value="4"> <span>4 Períodos</span></label>
+          <label><input type="radio" name="periodos" value="3" checked> 3 Períodos</label>
+          <label><input type="radio" name="periodos" value="4"> 4 Períodos</label>
         </div>
       </div>
-
       <div class="filtro-grupo">
         <label for="area">Área</label>
-        <select id="area">
-          <option value="">Seleccionar área</option>
-          <option value="matematicas">Matemáticas</option>
-          <option value="lenguaje">Lenguaje</option>
-          <option value="ciencias-sociales">Ciencias Sociales y Ciudadanas</option>
-          <option value="ciencias-naturales">Ciencias Naturales y Ambiental</option>
-          <option value="ingles">Inglés</option>
-        </select>
+        <select id="area"><option value="">Seleccionar área</option><option value="matematicas">Matemáticas</option></select>
       </div>
-
       <div class="filtro-grupo">
         <label for="grado">Grado</label>
-        <select id="grado" disabled>
-          <option value="">Seleccionar grado</option>
-          <option value="jardin">Jardín</option>
-          <option value="transicion">Transición</option>
-          <option value="1">1°</option>
-          <option value="2">2°</option>
-          <option value="3">3°</option>
-          <option value="4">4°</option>
-          <option value="5">5°</option>
-          <option value="6">6°</option>
-          <option value="7">7°</option>
-          <option value="8">8°</option>
-          <option value="9">9°</option>
-          <option value="10">10°</option>
-          <option value="11">11°</option>
-        </select>
+        <select id="grado" disabled><option value="">Seleccionar grado</option><option value="5">5°</option></select>
       </div>
-
       <div class="filtro-grupo">
         <label for="periodo">Período</label>
-        <select id="periodo" disabled>
-          <option value="">Seleccionar período</option>
-        </select>
+        <select id="periodo" disabled><option value="">Seleccionar período</option></select>
       </div>
-
       <div class="filtro-grupo">
         <label for="componente">Componente</label>
-        <select id="componente" disabled>
-          <option value="todos">Todos</option>
-        </select>
+        <select id="componente" disabled><option value="todos">Todos</option></select>
       </div>
-
       <button class="btn-buscar" onclick="buscarMalla()">🔍 Consultar Malla</button>
     </section>
 
-    <!-- Resultados -->
     <section id="resultados" class="resultados">
       <div class="tabla-container">
         <table id="tabla-mallas">
-          <thead>
-            <tr>
-              <th>Componente</th>
-              <th>Código EBC</th>
-              <th>Estandar</th>
-              <th>DBA</th>
-              <th>Evidencias</th>
-              <th>Saberes</th>
-              <th>Socioemocional</th>
-              <th>Tareas DCE</th>
-              <th>Fuente</th>
-            </tr>
-          </thead>
+          <thead><tr><th>Componente</th><th>Código EBC</th><th>Estandar</th><th>DBA</th><th>Evidencias</th><th>Saberes</th><th>Socioemocional</th><th>Tareas DCE</th><th>Fuente</th></tr></thead>
           <tbody id="tabla-body"></tbody>
         </table>
       </div>
     </section>
-
-    <!-- Loading -->
-    <div id="loading" class="loading" style="display: none;">
-      <div class="spinner"></div>
-      <p>Cargando malla curricular...</p>
-    </div>
   </main>
 
   <script>
-    // Datos reales PDF Matemáticas 5° P1 [file:43]
     const dataMallas = {
-      matematicas: {
-        5: {
-          1: {
-            'numerico-variacional': [
-              {
-                codigo: 'EBC-Mat-5-1',
-                componente: 'Numérico Variacional',
-                estandar: 'Resuelvo y formulo problemas cuya estrategia de solución requiera de las relaciones y propiedades de los números naturales y sus operaciones.',
-                dba: ['DBA 1: Describe e interpreta variaciones de dependencia entre cantidades...', 'DBA 8: Interpreta la relación parte-todo...'],
-                evidencias: ['Interpreta y utiliza números naturales y racionales...', 'Propone patrones de comportamiento numéricos...'],
-                saberes: ['Relaciones parte todo', 'Uso de números racionales y fraccionarios', 'Planteamiento de patrones numéricos'],
-                socioemocional: 'Pendiente [Cátedra Transversal]',
-                tareas_dce: ['Pendiente desarrollo'],
-                fuente: 'PG-8'
-              }
-            ],
-            'espacial-metrico': [
-              {
-                codigo: 'EBC-Mat-5-6',
-                componente: 'Espacial Métrico',
-                estandar: 'Identifica y justifica relaciones de congruencia y semejanza entre figuras.',
-                dba: ['DBA 6: Justifica relaciones entre superficie y volumen...', 'DBA 4: Relaciona objetos tridimensionales...'],
-                evidencias: ['Reconoce relaciones intra e inter figurales', 'Determina las medidas reales de una figura...'],
-                saberes: ['Relaciones intra e inter figurales', 'Cálculo de medidas reales mediante planos'],
-                socioemocional: 'Pendiente [Cátedra Transversal]',
-                tareas_dce: ['Pendiente desarrollo'],
-                fuente: 'PG-8'
-              }
-            ],
-            'aleatorio': [
-              {
-                codigo: 'EBC-Mat-5-10',
-                componente: 'Aleatorio',
-                estandar: 'Interpreto información presentada en tablas y gráficas.',
-                dba: ['DBA 10: Formula preguntas y elabora encuestas...'],
-                evidencias: ['Registra, organiza y presenta la información recolectada...'],
-                saberes: ['Diseño, recolección de datos para estudios estadísticos'],
-                socioemocional: 'Pendiente [Cátedra Transversal]',
-                tareas_dce: ['Pendiente desarrollo'],
-                fuente: 'PG-8'
-              }
-            ]
-          }
-        }
-      }
+      matematicas: {5: {1: {
+        'numerico-variacional': [{
+          codigo: 'EBC-Mat-5-1', componente: 'Numérico Variacional',
+          estandar: 'Resuelvo y formulo problemas cuya estrategia de solución requiera...',
+          dba: ['DBA 1: Describe e interpreta variaciones...', 'DBA 8: Interpreta la relación parte-todo...'],
+          evidencias: ['Interpreta y utiliza números naturales...', 'Propone patrones numéricos...'],
+          saberes: ['Relaciones parte todo', 'Uso de números racionales...', 'Planteamiento de patrones'],
+          socioemocional: 'Pendiente', tareas_dce: ['Pendiente'], fuente: 'PG-8'
+        }],
+        'espacial-metrico': [{
+          codigo: 'EBC-Mat-5-6', componente: 'Espacial Métrico',
+          estandar: 'Identifica y justifica relaciones de congruencia...',
+          dba: ['DBA 6: Justifica relaciones entre superficie...', 'DBA 4: Relaciona objetos tridimensionales...'],
+          evidencias: ['Reconoce relaciones intra e inter figurales...'], saberes: ['Relaciones intra e inter figurales'],
+          socioemocional: 'Pendiente', tareas_dce: ['Pendiente'], fuente: 'PG-8'
+        }],
+        'aleatorio': [{
+          codigo: 'EBC-Mat-5-10', componente: 'Aleatorio',
+          estandar: 'Interpreto información presentada en tablas y gráficas.',
+          dba: ['DBA 10: Formula preguntas y elabora encuestas...'],
+          evidencias: ['Registra, organiza y presenta la información...'], saberes: ['Diseño, recolección de datos...'],
+          socioemocional: 'Pendiente', tareas_dce: ['Pendiente'], fuente: 'PG-8'
+        }]
+      }}}
     };
 
-    // Lógica Filtros Secuenciales
-    document.querySelectorAll('select').forEach(select => {
-      select.addEventListener('change', enableNextFilter);
-    });
+    document.querySelectorAll('select').forEach((s,i) => s.addEventListener('change',e=>{
+      const selects = ['#area','#grado','#periodo','#componente'];
+      selects.slice(i+1).forEach(id=>document.querySelector(id).disabled=!e.target.value);
+      if(e.target.id==='periodo') updateComponentes();
+    }));
 
-    function enableNextFilter() {
-      const selects = ['#area', '#grado', '#periodo', '#componente'];
-      selects.forEach((selector, index) => {
-        const el = document.querySelector(selector);
-        const nextEl = document.querySelector(selects[index + 1]);
-        if (nextEl) nextEl.disabled = !el.value;
-      });
+    function updateComponentes() {
+      const periodo = document.getElementById('periodo').value;
+      const componente = document.getElementById('componente');
+      componente.innerHTML = '<option value="todos">Todos</option>';
+      if(periodo) {
+        const malla = dataMallas[document.getElementById('area').value]?.[document.getElementById('grado').value]?.[periodo];
+        if(malla) Object.keys(malla).forEach(key=> {
+          componente.innerHTML += `<option value="${key}">${key.replace('-',' ').replace(/\b\w/g,c=>c.toUpperCase())}</option>`;
+        });
+      }
+      componente.disabled = !periodo;
     }
 
     function buscarMalla() {
-      const periodos = document.querySelector('input[name="periodos"]:checked').value;
       const area = document.getElementById('area').value;
       const grado = document.getElementById('grado').value;
       const periodo = document.getElementById('periodo').value;
       const componente = document.getElementById('componente').value;
-
-      if (!area || !grado || !periodo) {
-        alert('Selecciona área, grado y período');
-        return;
-      }
-
-      showLoading(true);
-      setTimeout(() => {
-        showLoading(false);
-        const malla = dataMallas[area]?.[grado]?.[periodo];
-        if (!malla) {
-          document.getElementById('resultados').innerHTML = '<p>No hay datos para esta combinación</p>';
-          return;
-        }
-
-        const items = componente === 'todos' 
-          ? Object.values(malla).flat()
-          : malla[componente] || [];
-
-        renderTabla(items);
-        document.getElementById('resultados').classList.add('mostrar');
-      }, 1500);
-    }
-
-    function renderTabla(items) {
-      const tbody = document.getElementById('tabla-body');
-      tbody.innerHTML = items.map(item => `
-        <tr onclick="copiarFila(this)" title="Click para copiar">
-          <td class="componente">${item.componente}</td>
-          <td><span class="codigo">${item.codigo}</span></td>
-          <td>${item.estandar}</td>
-          <td class="array"><ul>${item.dba.map(d => `<li>${d}</li>`).join('')}</ul></td>
-          <td class="array"><ul>${item.evidencias.map(e => `<li>${e}</li>`).join('')}</ul></td>
-          <td class="array"><ul>${item.saberes.map(s => `<li>${s}</li>`).join('')}</ul></td>
-          <td>${item.socioemocional}</td>
-          <td>${item.tareas_dce}</td>
-          <td>${item.fuente}</td>
-        </tr>
-      `).join('');
-    }
-
-    function copiarFila(row) {
-      const text = Array.from(row.cells).map(cell => cell.textContent.trim()).join('\t');
-      navigator.clipboard.writeText(text).then(() => {
-        row.classList.add('copiable');
-        setTimeout(() => row.classList.remove('copiable'), 1000);
-      });
-    }
-
-    function showLoading(show) {
-      document.getElementById('loading').style.display = show ? 'block' : 'none';
-      document.getElementById('resultados').classList.toggle('mostrar', !show);
+      
+      if(!area || !grado || !periodo) return alert('Selecciona área, grado y período');
+      
+      const malla = dataMallas[area]?.[grado]?.[periodo];
+      if(!malla) return document.getElementById('resultados').innerHTML = '<p style="padding:2rem;text-align:center">No hay datos</p>';
+      
+      const items = componente === 'todos' ? Object.values(malla).flat() : malla[componente] || [];
+      document.getElementById('tabla-body').innerHTML = items.map(item => `
+        <tr onclick="navigator.clipboard.writeText('${[item.componente,item.codigo,item.estandar,item.dba.join(';'),item.evidencias.join(';'),item.saberes.join(';'),item.socioemocional,item.tareas_dce,item.fuente].join('\t')}').then(()=>this.classList.add('copiable'),setTimeout(()=>this.classList.remove('copiable'),1000))" title="Click para copiar">
+          <td>${item.componente}</td><td><span class="codigo">${item.codigo}</span></td><td>${item.estandar}</td>
+          <td class="array"><ul>${item.dba.map(d=>`<li>${d}</li>`).join('')}</ul></td>
+          <td class="array"><ul>${item.evidencias.map(e=>`<li>${e}</li>`).join('')}</ul></td>
+          <td class="array"><ul>${item.saberes.map(s=>`<li>${s}</li>`).join('')}</ul></td>
+          <td>${item.socioemocional}</td><td>${item.tareas_dce}</td><td>${item.fuente}</td>
+        </tr>`).join('');
+      document.getElementById('resultados').classList.add('mostrar');
     }
   </script>
 </body>
