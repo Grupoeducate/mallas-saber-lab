@@ -10,57 +10,87 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (!areaSel || !gradoSel || !periodoSel || !compSel || !btnBuscar || !resultados) return;
 
+  // Cuando terminen de cargar las mallas, poblar grados si el área es Matemáticas
+  // (data-loader.js ya dejó MallasData.matematicas listo)
+  inicializarGrados();
+
   // LISTENERS
 
-  // Radio "Mallas a: 3 / 4 períodos"
   document.querySelectorAll('input[name="periodos"]').forEach(radio => {
     radio.addEventListener('change', updatePeriodosUI);
   });
 
-  // Cambio de área
   areaSel.addEventListener('change', () => {
-    // Por ahora solo Matemáticas; si no es Matemáticas, deshabilitar
     const isMatematicas = areaSel.value === 'matematicas';
-    gradoSel.disabled = !isMatematicas;
-    if (!isMatematicas) {
-      gradoSel.value = '';
-      periodoSel.innerHTML = '<option value="">Seleccionar</option>';
-      periodoSel.disabled = true;
-      compSel.innerHTML = '<option value="todos">Todos</option>';
-      compSel.disabled = true;
+    if (isMatematicas) {
+      poblarGradosDesdeDatos();
+    } else {
+      gradoSel.disabled = true;
+      gradoSel.innerHTML = '<option value="">Seleccionar</option>';
+      limpiarPeriodosYComponentes();
     }
   });
 
-  // Cambio de grado
   gradoSel.addEventListener('change', () => {
     updatePeriodosUI();
   });
 
-  // Cambio de período
   periodoSel.addEventListener('change', () => {
     updateComponentesUI();
   });
 
-  // Botón Consultar
   btnBuscar.addEventListener('click', () => {
     consultarMalla();
   });
 
   // FUNCIONES
 
+  function inicializarGrados() {
+    // Si al cargar la página ya está seleccionada Matemáticas, poblar grados
+    if (areaSel.value === 'matematicas') {
+      poblarGradosDesdeDatos();
+    }
+  }
+
+  function poblarGradosDesdeDatos() {
+    const datosMat = window.MallasData?.matematicas || {};
+    const gradosDisponibles = Object.keys(datosMat).sort((a, b) => Number(a) - Number(b));
+
+    gradoSel.innerHTML = '<option value="">Seleccionar</option>';
+
+    gradosDisponibles.forEach(g => {
+      const texto = `${g}°`;
+      gradoSel.innerHTML += `<option value="${g}">${texto}</option>`;
+    });
+
+    gradoSel.disabled = gradosDisponibles.length === 0;
+    limpiarPeriodosYComponentes();
+  }
+
+  function limpiarPeriodosYComponentes() {
+    periodoSel.innerHTML = '<option value="">Seleccionar</option>';
+    periodoSel.disabled = true;
+
+    compSel.innerHTML = '<option value="todos">Todos</option>';
+    compSel.disabled = true;
+  }
+
   function obtenerMallaSeleccionada() {
     const area = areaSel.value;
     const grado = gradoSel.value;
-
     if (area !== 'matematicas' || !grado) return null;
-
     const data = window.MallasData?.matematicas?.[grado];
     return data || null;
   }
 
   function updatePeriodosUI() {
     const malla = obtenerMallaSeleccionada();
-    const maxPeriodoJSON = malla?.numero_periodos || 4; // 3 o 4 según JSON
+    if (!malla) {
+      limpiarPeriodosYComponentes();
+      return;
+    }
+
+    const maxPeriodoJSON = malla.numero_periodos || 4;
 
     const valorToggle = document.querySelector('input[name="periodos"]:checked')?.value;
     const maxPeriodoToggle = valorToggle ? Number(valorToggle) : maxPeriodoJSON;
@@ -72,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
       periodoSel.innerHTML += `<option value="${i}">${i}</option>`;
     }
 
-    periodoSel.disabled = !malla;
+    periodoSel.disabled = false;
     updateComponentesUI();
   }
 
@@ -122,6 +152,6 @@ document.addEventListener('DOMContentLoaded', () => {
     resultados.classList.add('mostrar');
   }
 
-  // Inicializar con estado actual (por si ya hay algo seleccionado)
+  // Inicial
   updatePeriodosUI();
 });
