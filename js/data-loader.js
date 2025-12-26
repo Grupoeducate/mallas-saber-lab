@@ -4,21 +4,20 @@
 // MallasData[area][grado][tipo_malla] = json
 window.MallasData = {};
 
-// helper para asegurar estructura
 function ensureAreaGradeTipo(area, grado, tipo) {
   if (!window.MallasData[area]) window.MallasData[area] = {};
   if (!window.MallasData[area][grado]) window.MallasData[area][grado] = {};
   if (!window.MallasData[area][grado][tipo]) window.MallasData[area][grado][tipo] = null;
 }
 
-// Carga explícita de Matemáticas 1°–5° a 4 períodos
 function cargarMatematicas4Periodos() {
   const areaNombre = "Matemáticas";
   const tipo_malla = "4_periodos";
-
   const promesas = [];
 
-  for (let grado = 1; grado <= 5; grado++) {
+  // ANTES: for (let grado = 1; grado <= 5; grado++)
+  // AHORA: 1 a 11
+  for (let grado = 1; grado <= 11; grado++) {
     const fileName = `data/matematicas_${grado}_4_periodos.json`;
 
     const p = fetch(fileName)
@@ -46,7 +45,7 @@ function cargarMatematicas4Periodos() {
   return Promise.all(promesas);
 }
 
-// Llamada de carga inicial
 cargarMatematicas4Periodos().then(() => {
-  console.log("Intento de carga de Matemáticas 1°–5° a 4 períodos completado.");
+  console.log("Intento de carga de Matemáticas 1°–11° a 4 períodos completado.");
 });
+
