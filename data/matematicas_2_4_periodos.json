@@ -9,13 +9,13 @@
         "componente": "Numérico Variacional",
         "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros). Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección y la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
         "dba": [
-          "DBA 1.",
-          "DBA 8."
+          "DBA-MAT-2-1: Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección, la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
+          "DBA-MAT-2-8: Propone e identifica patrones y usa propiedades de los números y de las operaciones para calcular valores desconocidos en expresiones aritméticas."
         ],
         "evidencias": [
-          "Reconoce en diferentes situaciones relaciones aditivas y multiplicativas y formula problemas a partir de ellas.",
-          "Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",
-          "Establece relaciones de reversibilidad entre la suma y la resta."
+          "MAT-2-D1-E3: Reconoce en diferentes situaciones relaciones aditivas y multiplicativas y formula problemas a partir de ellas.",
+          "MAT-2-D1-E2: Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",
+          "MAT-2-D8-E1: Establece relaciones de reversibilidad entre la suma y la resta."
         ],
         "saberes": [
           "Problemas básicos con relaciones aditivas y multiplicativas.",
@@ -30,15 +30,15 @@
         "componente": "Espacial Métrico",
         "estandar": "Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños. Comparo y ordeno objetos respecto a atributos medibles. Clasifica, describe y representa objetos del entorno a partir de sus propiedades geométricas para establecer relaciones entre las formas bidimensionales y tridimensionales.",
         "dba": [
-          "DBA 6.",
-          "DBA 4."
+          "DBA-MAT-2-6: Clasifica, describe y representa objetos del entorno a partir de sus propiedades geométricas para establecer relaciones entre las formas bidimensionales y tridimensionales.",
+          "DBA-MAT-2-4: Compara y explica características que se pueden medir, en el proceso de resolución de problemas relativos a longitud, superficie, velocidad, peso o duración de los eventos, entre otros."
         ],
         "evidencias": [
-          "Reconoce las figuras geométricas según el número de lados.",
-          "Diferencia los cuerpos geométricos.",
-          "Compara figuras y cuerpos geométricos y establece relaciones y diferencias entre ambos.",
-          "Utiliza instrumentos y unidades de medición apropiados para medir algunas magnitudes.",
-          "Describe los procedimientos necesarios para medir longitudes, superficies, capacidades, pesos de los objetos y la duración de los eventos."
+          "MAT-2-D6-E1: Reconoce las figuras geométricas según el número de lados.",
+          "MAT-2-D6-E2: Diferencia los cuerpos geométricos.",
+          "MAT-2-D6-E3: Compara figuras y cuerpos geométricos y establece relaciones y diferencias entre ambos.",
+          "MAT-2-D4-E1: Utiliza instrumentos y unidades de medición apropiados para medir magnitudes diferentes.",
+          "MAT-2-D4-E2: Describe los procedimientos necesarios para medir longitudes, superficies, capacidades, pesos de los objetos y la duración de los eventos."
         ],
         "saberes": [
           "Formas de figuras bidimensionales y tridimensionales.",
@@ -53,12 +53,11 @@
         "componente": "Aleatorio",
         "estandar": "Interpreto cualitativamente datos referidos a situaciones del entorno escolar.",
         "dba": [
-          "DBA 10."
+          "DBA-MAT-2-10: Clasifica y organiza datos, los representa usando tablas de conteo, pictogramas con escalas y gráficos de puntos, comunica los resultados obtenidos para responder preguntas sencillas."
         ],
         "evidencias": [
-          "Clasifica y organiza datos, los representa utilizando tablas de conteo, pictogramas con escalas y gráficos de puntos, comunica los resultados obtenidos para responder preguntas sencillas.",
-          "Identifica la equivalencia de fichas u objetos con el valor de la variable.",
-          "Organiza los datos en tablas de conteo y en pictogramas con escala (uno a muchos)."
+          "MAT-2-D10-E1: Identifica la equivalencia de fichas u objetos con el valor de la variable.",
+          "MAT-2-D10-E2: Organiza los datos en tablas de conteo y en pictogramas con escala uno a muchos."
         ],
         "saberes": [
           "Organización de la información en datos o pictogramas."
@@ -74,12 +73,12 @@
         "componente": "Numérico Variacional",
         "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros). Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección y la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
         "dba": [
-          "DBA 1.",
-          "DBA 8."
+          "DBA-MAT-2-1: Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección, la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
+          "DBA-MAT-2-8: Propone e identifica patrones y usa propiedades de los números y de las operaciones para calcular valores desconocidos en expresiones aritméticas."
         ],
         "evidencias": [
-          "Interpreta y construye diagramas para representar relaciones aditivas y multiplicativas entre cantidades que se presentan en situaciones o fenómenos.",
-          "Utiliza diferentes procedimientos para calcular un valor desconocido."
+          "MAT-2-D1-E1: Interpreta y construye diagramas para representar relaciones aditivas y multiplicativas entre cantidades que se presentan en situaciones o fenómenos.",
+          "MAT-2-D8-E2: Utiliza diferentes procedimientos para calcular un valor desconocido."
         ],
         "saberes": [
           "Representación de relaciones aditivas y multiplicativas.",
@@ -94,15 +93,14 @@
         "componente": "Espacial Métrico",
         "estandar": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia. Comparo y ordeno objetos respecto a atributos medibles.",
         "dba": [
-          "DBA 7.",
-          "DBA 4."
+          "DBA-MAT-2-7: Describe desplazamientos y referencia la posición de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solución de problemas.",
+          "DBA-MAT-2-4: Compara y explica características que se pueden medir, en el proceso de resolución de problemas relativos a longitud, superficie, velocidad, peso o duración de los eventos, entre otros."
         ],
         "evidencias": [
-          "Describe desplazamientos y referencia la posición de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solución de problemas.",
-          "Describe desplazamientos a partir de las posiciones de las líneas.",
-          "Representa líneas y reconoce las diferentes posiciones y la relación entre ellas.",
-          "Mide magnitudes con unidades estandarizadas y no estandarizadas.",
-          "Estima la medida de diferentes magnitudes en situaciones prácticas."
+          "MAT-2-D7-E1: Describe desplazamientos a partir de las posiciones de las líneas.",
+          "MAT-2-D7-E2: Representa líneas y reconoce las diferentes posiciones y la relación entre ellas.",
+          "MAT-2-D4-E3: Mide magnitudes con unidades arbitrarias y estandarizadas.",
+          "MAT-2-D4-E4: Estima la medida de diferentes magnitudes en situaciones prácticas."
         ],
         "saberes": [
           "Nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad.",
@@ -117,11 +115,11 @@
         "componente": "Aleatorio",
         "estandar": "Describo situaciones o eventos a partir de un conjunto de datos.",
         "dba": [
-          "DBA 10."
+          "DBA-MAT-2-10: Clasifica y organiza datos, los representa usando tablas de conteo, pictogramas con escalas y gráficos de puntos, comunica los resultados obtenidos para responder preguntas sencillas."
         ],
         "evidencias": [
-          "Lee la información presentada en tablas de conteo, pictogramas con escala y gráficos de puntos.",
-          "Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos se repite?"
+          "MAT-2-D10-E3: Lee la información presentada en tablas de conteo, pictogramas con escala y gráficos de puntos.",
+          "MAT-2-D10-E4: Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos se repite?"
         ],
         "saberes": [
           "Descripción y comunicación de información presentada en tablas."
@@ -137,14 +135,14 @@
         "componente": "Numérico Variacional",
         "estandar": "Describo, comparo y cuantifico situaciones con números, en diferentes contextos y con diversas representaciones. Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos.",
         "dba": [
-          "DBA 2.",
-          "DBA 9."
+          "DBA-MAT-2-2: Utiliza diferentes estrategias para calcular (agrupar, representar elementos en colecciones, etc.) o estimar el resultado de una suma y resta, multiplicación o reparto equitativo.",
+          "DBA-MAT-2-9: Opera sobre secuencias numéricas para encontrar números u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares o extraescolares."
         ],
         "evidencias": [
-          "Construye representaciones pictóricas y establece relaciones entre las cantidades involucradas en diferentes fenómenos o situaciones.",
-          "Usa algoritmos no convencionales para calcular o estimar el resultado de sumas, restas, multiplicaciones y divisiones entre números naturales, los describe y los justifica.",
-          "Utiliza las propiedades de las operaciones para encontrar números desconocidos en igualdades numéricas.",
-          "Utiliza las propiedades de las operaciones para encontrar operaciones faltantes en un proceso de cálculo numérico."
+          "MAT-2-D2-E1: Construye representaciones pictóricas y establece relaciones entre las cantidades involucradas en diferentes fenómenos o situaciones.",
+          "MAT-2-D2-E2: Usa algoritmos no convencionales para calcular o estimar el resultado de sumas, restas, multiplicaciones y divisiones entre números naturales, los describe y los justifica.",
+          "MAT-2-D9-E1: Utiliza las propiedades de las operaciones para encontrar números desconocidos en igualdades numéricas.",
+          "MAT-2-D9-E2: Utiliza las propiedades de las operaciones para encontrar operaciones faltantes en un proceso de cálculo numérico."
         ],
         "saberes": [
           "Estrategias para resolver sumas y multiplicaciones.",
@@ -159,13 +157,13 @@
         "componente": "Espacial Métrico",
         "estandar": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia. Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto.",
         "dba": [
-          "DBA 7.",
-          "DBA 5."
+          "DBA-MAT-2-7: Describe desplazamientos y referencia la posición de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solución de problemas.",
+          "DBA-MAT-2-5: Utiliza patrones, unidades e instrumentos convencionales y no convencionales en procesos de medición, cálculo y estimación de magnitudes como longitud, peso, capacidad y tiempo."
         ],
         "evidencias": [
-          "Identifica posiciones de objetos, de aristas o líneas que son paralelas, verticales o perpendiculares, en dibujos, objetos o espacios reales.",
-          "Describe objetos y eventos de acuerdo con atributos medibles: superficie, tiempo, longitud, peso, amplitud angular.",
-          "Realiza mediciones con instrumentos y unidades no estandarizadas, como pasos, cuadrados o rectángulos, cuartas, metros, entre otros."
+          "MAT-2-D7-E3: En dibujos, objetos o espacios reales, identifica posiciones de objetos, de aristas o líneas que son paralelas, verticales o perpendiculares.",
+          "MAT-2-D5-E1: Describe objetos y eventos de acuerdo con atributos medibles superficie, tiempo, longitud, peso, ángulos.",
+          "MAT-2-D5-E2: Realiza mediciones con instrumentos y unidades no convencionales, como pasos, cuadrados o rectángulos, cuartas, metros, entre otros."
         ],
         "saberes": [
           "Descripción de posiciones de los cuerpos.",
@@ -181,11 +179,11 @@
         "componente": "Aleatorio",
         "estandar": "Explico desde mi experiencia la posibilidad o imposibilidad de ocurrencia de eventos cotidianos.",
         "dba": [
-          "DBA 11."
+          "DBA-MAT-2-11: Explica, a partir de la experiencia, la posibilidad de ocurrencia o no de un evento cotidiano y el resultado lo utiliza para predecir la ocurrencia de otros eventos."
         ],
         "evidencias": [
-          "Diferencia situaciones cotidianas cuyo resultado puede ser incierto de aquellas cuyo resultado es conocido o seguro.",
-          "Identifica resultados posibles o imposibles, según corresponda, en una situación cotidiana."
+          "MAT-2-D11-E1: Diferencia situaciones cotidianas cuyo resultado puede ser incierto de las que es conocido o seguro.",
+          "MAT-2-D11-E2: Identifica resultados posibles o imposibles, según corresponda, en una situación cotidiana."
         ],
         "saberes": [
           "Posibilidad y eventos."
@@ -201,15 +199,15 @@
         "componente": "Numérico Variacional",
         "estandar": "Uso representaciones principalmente concretas y pictóricas para realizar equivalencias de un número en las diferentes unidades del sistema decimal. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
         "dba": [
-          "DBA 3.",
-          "DBA 9."
+          "DBA-MAT-2-3: Utiliza el Sistema de Numeración Decimal para comparar, ordenar y establecer diferentes relaciones entre dos o más secuencias de números con ayuda de diferentes recursos.",
+          "DBA-MAT-2-9: Opera sobre secuencias numéricas para encontrar números u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares o extraescolares."
         ],
         "evidencias": [
-          "Compara y ordena números de menor a mayor y viceversa a través de recursos como la calculadora, aplicación, material gráfico que represente billetes, diagramas de colecciones, entre otros.",
-          "Reconoce y establece relaciones entre expresiones numéricas (hay más que, hay menos que, hay la misma cantidad) y describe el tipo de operaciones que debe realizarse para que, a pesar de cambiar los valores numéricos, la relación se conserve.",
-          "Propone ejemplos y comunica de forma oral y escrita las condiciones que puede establecer para conservar una relación (mayor que, menor que) cuando se aplican algunas operaciones a ellos.",
-          "Reconoce que un número puede escribirse de varias maneras equivalentes.",
-          "Utiliza ensayo y error para encontrar valores u operaciones desconocidas."
+          "MAT-2-D3-E1: Compara y ordena números de menor a mayor y viceversa a través de recursos como la calculadora, aplicación, material gráfico que represente billetes, diagramas de colecciones, etc.",
+          "MAT-2-D3-E3: Reconoce y establece relaciones entre expresiones numéricas hay más, hay menos, hay la misma cantidad y describe el tipo de operaciones que debe realizarse para que a pesar de cambiar los valores numéricos, la relación se conserve.",
+          "MAT-2-D3-E2: Propone ejemplos y comunica de forma oral y escrita las condiciones que puede establecer para conservar una relación mayor que, menor que cuando se aplica algunas operaciones a ellos.",
+          "MAT-2-D9-E3: Reconoce que un número puede escribirse de varias maneras equivalentes.",
+          "MAT-2-D9-E4: Utiliza ensayo y error para encontrar valores u operaciones desconocidas."
         ],
         "saberes": [
           "Sistema de numeración decimal.",
@@ -224,12 +222,12 @@
         "componente": "Espacial Métrico",
         "estandar": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia. Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto.",
         "dba": [
-          "DBA 7.",
-          "DBA 5."
+          "DBA-MAT-2-7: Describe desplazamientos y referencia la posición de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solución de problemas.",
+          "DBA-MAT-2-5: Utiliza patrones, unidades e instrumentos convencionales y no convencionales en procesos de medición, cálculo y estimación de magnitudes como longitud, peso, capacidad y tiempo."
         ],
         "evidencias": [
-          "Argumenta las diferencias entre las posiciones de las líneas.",
-          "Compara eventos según su duración, para ello utiliza relojes convencionales."
+          "MAT-2-D7-E4: Argumenta las diferencias entre las posiciones de las líneas.",
+          "MAT-2-D5-E3: Compara eventos según su duración, para ello utiliza relojes convencionales."
         ],
         "saberes": [
           "Descripción de posiciones de los cuerpos.",
@@ -244,10 +242,10 @@
         "componente": "Aleatorio",
         "estandar": "Explico desde mi experiencia la posibilidad o imposibilidad de ocurrencia de eventos cotidianos.",
         "dba": [
-          "DBA 11."
+          "DBA-MAT-2-11: Explica, a partir de la experiencia, la posibilidad de ocurrencia o no de un evento cotidiano y el resultado lo utiliza para predecir la ocurrencia de otros eventos."
         ],
         "evidencias": [
-          "Predice la ocurrencia o no de eventos cotidianos basado en sus observaciones."
+          "MAT-2-D11-E3: Predice la ocurrencia o no de eventos cotidianos basado en sus observaciones."
         ],
         "saberes": [
           "Predicción de un evento desde el análisis de las posibilidades."
