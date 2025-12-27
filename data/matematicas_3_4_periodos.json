@@ -8,15 +8,16 @@
       {
         "componente": "Numérico Variacional",
         "estandar": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas. Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
-        "dba": [
-          "DBA 1.",
-          "DBA 8."
+       "dba": [
+              "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que involucren cantidades discretas y continuas en diferentes contextos.",
+              "DBA-MAT-3-8: Describe cualitativamente situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas, e identifica regularidades en secuencias numéricas y patrones."
+             ],
+       "evidencias": [
+            "MAT-3-D1-E1: Construye diagramas para representar relaciones aditivas o multiplicativas observadas entre las cantidades presentes en una situación.",
+            "MAT-3-D1-E2: Resuelve problemas aditivos (suma o resta) y multiplicativos (multiplicación o división) de composición de medida y de conteo.",
+            "MAT-3-D8-E1: Describe de manera cualitativa situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas."
         ],
-        "evidencias": [
-          "Construye diagramas para representar relaciones aditivas o multiplicativas observadas entre las cantidades presentes en una situación.",
-          "Resuelve problemas aditivos (suma o resta) y multiplicativos (multiplicación o división) de composición de medida y de conteo.",
-          "Describe de manera cualitativa situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas."
-        ],
+       
         "saberes": [
           "Diagramas para representar situaciones aditivas y multiplicativas.",
           "Descripción cualitativa de comportamiento de secuencias."
@@ -30,14 +31,14 @@
         "componente": "Espacial Métrico",
         "estandar": "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas tridimensionales y dibujos o figuras geométricas bidimensionales. Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición. Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas.",
         "dba": [
-          "DBA 6.",
-          "DBA 4."
-        ],
-        "evidencias": [
-          "Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos.",
-          "Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado.",
-          "Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales.",
-          "Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación."
+         "DBA-MAT-3-6: Clasifica, describe y representa formas bidimensionales y tridimensionales del entorno, comparando sus propiedades geométricas.",
+  "DBA-MAT-3-4: Toma decisiones sobre la magnitud a medir (longitud, área, capacidad, peso, duración) y sobre los instrumentos pertinentes para hacerlo, de acuerdo con la situación."
+],
+"evidencias": [
+  "MAT-3-D6-E1: Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos.",
+  "MAT-3-D6-E2: Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado.",
+  "MAT-3-D6-E3: Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales.",
+  "MAT-3-D4-E1: Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación."
         ],
         "saberes": [
           "Descripción y representación de formas bidimensionales y tridimensionales.",
@@ -53,12 +54,12 @@
         "componente": "Aleatorio",
         "estandar": "Identificó regularidades y tendencias en un conjunto de datos.",
         "dba": [
-          "DBA 10."
-        ],
-        "evidencias": [
-          "Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno.",
-          "Identifica las características de la población en estudio y establece su tamaño.",
-          "Construye tablas y gráficos que representan los datos a partir de la información dada."
+          "DBA-MAT-3-10: Identifica regularidades y tendencias en un conjunto de datos, y utiliza tablas y gráficos para representarlos e interpretarlos."
+],
+"evidencias": [
+  "MAT-3-D10-E1: Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno.",
+  "MAT-3-D10-E2: Identifica las características de la población en estudio y establece su tamaño.",
+  "MAT-3-D10-E3: Construye tablas y gráficos que representan datos a partir de la información dada."
         ],
         "saberes": [
           "Población.",
@@ -75,13 +76,19 @@
         "componente": "Numérico Variacional",
         "estandar": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas. Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
         "dba": [
-          "DBA 1.",
-          "DBA 8."
-        ],
-        "evidencias": [
-          "Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos.",
-          "Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible.",
-          "Encuentra y representa generalidades y valida sus hallazgos de acuerdo con el contexto."
+         Periodo 2 de grado 3°; sustituye solo las listas dba y evidencias de cada componente.
+​
+
+Numérico variacional
+json
+"dba": [
+  "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que involucren cantidades discretas y continuas en diferentes contextos.",
+  "DBA-MAT-3-8: Describe cualitativamente situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas, e identifica regularidades en secuencias numéricas y patrones."
+],
+"evidencias": [
+  "MAT-3-D1-E3: Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos.",
+  "MAT-3-D1-E4: Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible.",
+  "MAT-3-D8-E2: Encuentra y representa generalidades y valida sus hallazgos de acuerdo con el contexto."
         ],
         "saberes": [
           "Estrategias para resolver problemas aditivos y multiplicativos.",
@@ -96,15 +103,13 @@
         "componente": "Espacial Métrico",
         "estandar": "Reconozco y aplico traslaciones y giros sobre una figura. Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición. Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas.",
         "dba": [
-          "DBA 7.",
-          "DBA 4."
-        ],
-        "evidencias": [
-          "Formula y resuelve problemas que se relacionan con la posición, la dirección y el movimiento de objetos en el entorno.",
-          "Localiza objetos o personas a partir de la descripción o representación de una trayectoria y construye representaciones pictóricas para describir sus relaciones.",
-          "Identifica y describe patrones de movimiento de figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras.",
-          "Mide y calcula el área y el perímetro de un rectángulo y expresa el resultado en unidades apropiadas según el caso.",
-          "Reconoce que figuras de igual perímetro pueden tener diferente área."
+        "DBA-MAT-3-7: Describe y representa transformaciones geométricas (ampliaciones, reducciones, traslaciones, reflexiones) y cambios de posición en el plano o en el espacio.",
+  "DBA-MAT-3-5: Compara, mide y estima longitudes, áreas, capacidades, volúmenes, pesos y tiempos usando unidades convencionales y no convencionales según la situación."
+],
+"evidencias": [
+  "MAT-3-D7-E1: Describe transformaciones geométricas como ampliaciones y reducciones sobre figuras en el plano.",
+  "MAT-3-D5-E1: Compara objetos según su longitud, área, capacidad, volumen, etc.",
+  "MAT-3-D5-E2: Hace estimaciones de longitud, área, volumen, peso y tiempo según su necesidad en la situación."
         ],
         "saberes": [
           "Reflexiones, traslaciones y rotaciones.",
@@ -119,13 +124,12 @@
         "componente": "Aleatorio",
         "estandar": "Resuelvo y formulo preguntas que requieran para su solución coleccionar y analizar datos del entorno próximo.",
         "dba": [
-          "DBA 10."
-        ],
-        "evidencias": [
-          "Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno.",
-          "Analiza e interpreta información que ofrecen las tablas y los gráficos de acuerdo con el contexto.",
-          "Identifica la moda a partir de datos que se presentan en gráficos y tablas.",
-          "Compara la información representada en diferentes tablas y gráficos para formular y responder preguntas."
+         "DBA-MAT-3-11: Predice, a partir de experiencias y simulaciones, la posibilidad de ocurrencia de eventos sencillos y compara cuál es más o menos probable."
+],
+"evidencias": [
+  "MAT-3-D11-E1: Plantea y resuelve preguntas sobre la posibilidad de ocurrencia de situaciones aleatorias cotidianas y cuantifica la posibilidad de ocurrencia de eventos simples en una escala cualitativa (mayor, menor e igual).",
+  "MAT-3-D11-E2: Formula y resuelve preguntas que involucran expresiones que jerarquizan la posibilidad de ocurrencia de un evento, por ejemplo: imposible, menos posible, igualmente posible, más posible, seguro.",
+  "MAT-3-D11-E3: Representa los posibles resultados de una situación aleatoria simple por enumeración o usando diagramas."
         ],
         "saberes": [
           "Análisis de la información estadística presentado en diversos formatos."
@@ -141,14 +145,14 @@
         "componente": "Numérico Variacional",
         "estandar": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas. Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables. Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.",
         "dba": [
-          "DBA 2.",
-          "DBA 9."
-        ],
-        "evidencias": [
-          "Utiliza las propiedades de las operaciones y del Sistema de Numeración Decimal para justificar en los cálculos acciones como: descomposición de números, completar hasta la decena más cercana, duplicar, cambiar la posición, multiplicar abreviadamente por múltiplos de 10, entre otros.",
-          "Reconoce el uso de las operaciones para calcular la medida (compuesta) de diferentes objetos de su entorno.",
-          "Argumenta cuando algunos atributos de los objetos se pueden ser medidos mediante la comparación directa con una unidad y cuándo pueden ser calculados con algunas operaciones entre números.",
-          "Propone soluciones con base en los datos a pesar de no conocer el número."
+          "DBA-MAT-3-2: Utiliza diferentes estrategias (agrupaciones, descomposiciones, representaciones) para calcular o estimar resultados de sumas, restas, multiplicaciones y divisiones, y evalúa la razonabilidad de los resultados.",
+  "DBA-MAT-3-9: Opera sobre secuencias numéricas para encontrar números u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares."
+],
+"evidencias": [
+  "MAT-3-D2-E1: Construye representaciones pictóricas y establece relaciones entre las cantidades involucradas en diferentes fenómenos o situaciones.",
+  "MAT-3-D2-E2: Usa algoritmos no convencionales para calcular o estimar el resultado de sumas, restas, multiplicaciones y divisiones entre números naturales, los describe y los justifica.",
+  "MAT-3-D9-E1: Utiliza las propiedades de las operaciones para encontrar números desconocidos en igualdades numéricas.",
+  "MAT-3-D9-E2: Utiliza las propiedades de las operaciones para encontrar operaciones faltantes en un proceso de cálculo numérico."
         ],
         "saberes": [
           "Estrategias para realizar estimaciones en operaciones aritméticas.",
@@ -163,13 +167,13 @@
         "componente": "Espacial Métrico",
         "estandar": "Reconozco congruencia y semejanza entre figuras (ampliar, reducir). Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias.",
         "dba": [
-          "DBA 7.",
-          "DBA 5."
-        ],
-        "evidencias": [
-          "Identifica y describe patrones de movimiento de figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras.",
-          "Compara objetos según su longitud, área, capacidad, volumen, etc.",
-          "Hace estimaciones de longitud, área, volumen, peso y tiempo según su necesidad en la situación."
+         "DBA-MAT-3-7: Describe y representa transformaciones geométricas (ampliaciones, reducciones, traslaciones, reflexiones) y cambios de posición en el plano o en el espacio.",
+  "DBA-MAT-3-5: Compara, mide y estima longitudes, áreas, capacidades, volúmenes, pesos y tiempos usando unidades convencionales y no convencionales según la situación."
+],
+"evidencias": [
+  "MAT-3-D7-E2: Identifica posiciones de objetos, aristas o líneas que son paralelas, verticales o perpendiculares en dibujos u objetos reales.",
+  "MAT-3-D5-E3: Describe objetos y eventos de acuerdo con atributos medibles como superficie, tiempo, longitud, peso y amplitud angular.",
+  "MAT-3-D5-E4: Realiza mediciones con instrumentos y unidades no estandarizadas y las relaciona con unidades estandarizadas."
         ],
         "saberes": [
           "Transformaciones geométricas (Ampliar y reducir).",
@@ -185,12 +189,11 @@
         "componente": "Aleatorio",
         "estandar": "Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro.",
         "dba": [
-          "DBA 11."
-        ],
-        "evidencias": [
-          "Plantea y resuelve preguntas sobre la posibilidad de ocurrencia de situaciones aleatorias cotidianas y cuantifica la posibilidad de ocurrencia de eventos simples en una escala cualitativa (mayor, menor e igual).",
-          "Formula y resuelve preguntas que involucran expresiones que jerarquizan la posibilidad de ocurrencia de un evento, por ejemplo: imposible, menos posible, igualmente posible, más posible, seguro.",
-          "Representa los posibles resultados de una situación aleatoria simple por enumeración o usando diagramas."
+          "DBA-MAT-3-11: Predice, a partir de experiencias y simulaciones, la posibilidad de ocurrencia de eventos sencillos y compara cuál es más o menos probable."
+],
+"evidencias": [
+  "MAT-3-D11-E4: Diferencia situaciones cotidianas cuyo resultado puede ser incierto de aquellas cuyo resultado es conocido o seguro.",
+  "MAT-3-D11-E5: Identifica resultados posibles o imposibles, según corresponda, en una situación cotidiana."
         ],
         "saberes": [
           "Posibilidad de eventos."
@@ -206,18 +209,18 @@
         "componente": "Numérico Variacional",
         "estandar": "Describo situaciones de medición utilizando fracciones comunes. Resuelvo y formulo problemas en situaciones de variación proporcional. Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.",
         "dba": [
-          "DBA 3.",
-          "DBA 8.",
-          "DBA 9."
-        ],
-        "evidencias": [
-          "Realiza mediciones de un mismo objeto con otros de diferente tamaño y utiliza las fracciones para establecer equivalencias entre ellos.",
-          "Utiliza las razones y fracciones como una manera de establecer comparaciones entre dos cantidades.",
-          "Propone ejemplos de cantidades que se relacionan entre sí según correspondan a una fracción dada.",
-          "Utiliza fracciones para expresar la relación de 'el todo' con algunas de sus 'partes', así mismo, diferencia este tipo de relación de otras como las relaciones de equivalencia (igualdad) y de orden (mayor que y menor que).",
-          "Construye secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.",
-          "Toma decisiones sobre cantidades en las que no conoce el valor, en situaciones de suma y multiplicación.",
-          "Trabaja con números desconocidos para dar respuestas a expresiones aritméticas."
+         "DBA-MAT-3-3: Utiliza fracciones comunes para describir y comparar cantidades y mediciones en diferentes contextos.",
+  "DBA-MAT-3-8: Describe cualitativamente situaciones de cambio y variación utilizando lenguaje natural, dibujos y gráficas.",
+  "DBA-MAT-3-9: Opera sobre secuencias numéricas para encontrar números u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares."
+],
+"evidencias": [
+  "MAT-3-D3-E1: Realiza mediciones de un mismo objeto con otros de diferente tamaño y utiliza las fracciones para establecer equivalencias entre ellos.",
+  "MAT-3-D3-E2: Utiliza las razones y fracciones como una manera de establecer comparaciones entre dos cantidades.",
+  "MAT-3-D3-E3: Propone ejemplos de cantidades que se relacionan entre sí según correspondan a una fracción dada.",
+  "MAT-3-D3-E4: Utiliza fracciones para expresar la relación entre el todo y algunas de sus partes y la diferencia de otras relaciones como equivalencia y orden.",
+  "MAT-3-D8-E3: Construye secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.",
+  "MAT-3-D9-E3: Toma decisiones sobre cantidades en las que no conoce el valor, en situaciones de suma y multiplicación.",
+  "MAT-3-D9-E4: Trabaja con números desconocidos para dar respuestas a expresiones aritméticas."
         ],
         "saberes": [
           "Fracciones comunes.",
@@ -233,14 +236,14 @@
         "componente": "Espacial Métrico",
         "estandar": "Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio. Reconozco y valoro simetrías en distintos aspectos del arte y el diseño. Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias.",
         "dba": [
-          "DBA 7.",
-          "DBA 5."
-        ],
-        "evidencias": [
-          "Identifica las propiedades de los objetos que se conservan y las que varían cuando se realizan este tipo de transformaciones.",
-          "Hace estimaciones de volumen, área y longitud en presencia de los objetos y los instrumentos de medida y en ausencia de ellos.",
-          "Empaca objetos en cajas y recipientes variados y calcula la cantidad que podría caber, para ello tiene en cuenta la forma y volumen de los objetos a empacar y la capacidad del recipiente en el que se empaca."
-        ],
+         "DBA-MAT-3-7: Describe y representa transformaciones geométricas (ampliaciones, reducciones, traslaciones, reflexiones) y cambios de posición en el plano o en el espacio.",
+  "DBA-MAT-3-5: Compara, mide y estima longitudes, áreas, capacidades, volúmenes, pesos y tiempos usando unidades convencionales y no convencionales según la situación."
+],
+"evidencias": [
+  "MAT-3-D7-E4: Identifica las propiedades de los objetos que se conservan y las que varían cuando se realizan transformaciones como ampliaciones, reducciones, traslaciones o rotaciones.",
+  "MAT-3-D5-E5: Hace estimaciones de volumen, área y longitud en presencia y ausencia de los objetos y los instrumentos de medida.",
+  "MAT-3-D5-E6: Empaca objetos en cajas y recipientes variados y calcula la cantidad que podría caber, teniendo en cuenta la forma y volumen de los objetos y la capacidad del recipiente."
+],
         "saberes": [
           "Transformaciones geométricas.",
           "Capacidad.",
@@ -255,11 +258,11 @@
         "componente": "Aleatorio",
         "estandar": "Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro.",
         "dba": [
-          "DBA 11."
-        ],
-        "evidencias": [
-          "Asigna la posibilidad de ocurrencia de un evento de acuerdo con la escala definida.",
-          "Predice la posibilidad de ocurrencia de un evento al utilizar los resultados de una situación aleatoria."
+         "DBA-MAT-3-11: Predice, a partir de experiencias y simulaciones, la posibilidad de ocurrencia de eventos sencillos y compara cuál es más o menos probable."
+],
+"evidencias": [
+  "MAT-3-D11-E6: Asigna la posibilidad de ocurrencia de un evento de acuerdo con una escala cualitativa definida.",
+  "MAT-3-D11-E7: Predice la posibilidad de ocurrencia de un evento utilizando los resultados de una situación aleatoria."
         ],
         "saberes": [
           "Posibilidad de eventos."
@@ -272,4 +275,5 @@
     ]
   }
 }
+
 
