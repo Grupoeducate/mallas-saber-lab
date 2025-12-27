@@ -17,8 +17,7 @@
             "MAT-3-D1-E2: Resuelve problemas aditivos (suma o resta) y multiplicativos (multiplicación o división) de composición de medida y de conteo.",
             "MAT-3-D8-E1: Describe de manera cualitativa situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas."
         ],
-       
-        "saberes": [
+         "saberes": [
           "Diagramas para representar situaciones aditivas y multiplicativas.",
           "Descripción cualitativa de comportamiento de secuencias."
         ],
@@ -32,14 +31,14 @@
         "estandar": "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas tridimensionales y dibujos o figuras geométricas bidimensionales. Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición. Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas.",
         "dba": [
          "DBA-MAT-3-6: Clasifica, describe y representa formas bidimensionales y tridimensionales del entorno, comparando sus propiedades geométricas.",
-  "DBA-MAT-3-4: Toma decisiones sobre la magnitud a medir (longitud, área, capacidad, peso, duración) y sobre los instrumentos pertinentes para hacerlo, de acuerdo con la situación."
-],
-"evidencias": [
-  "MAT-3-D6-E1: Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos.",
-  "MAT-3-D6-E2: Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado.",
-  "MAT-3-D6-E3: Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales.",
-  "MAT-3-D4-E1: Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación."
-        ],
+        "DBA-MAT-3-4: Toma decisiones sobre la magnitud a medir (longitud, área, capacidad, peso, duración) y sobre los instrumentos pertinentes para hacerlo, de acuerdo con la situación."
+          ],
+        "evidencias": [
+            "MAT-3-D6-E1: Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos.",
+            "MAT-3-D6-E2: Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado.",
+            "MAT-3-D6-E3: Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales.",
+            "MAT-3-D4-E1: Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación."
+          ],
         "saberes": [
           "Descripción y representación de formas bidimensionales y tridimensionales.",
           "Magnitudes.",
@@ -55,12 +54,12 @@
         "estandar": "Identificó regularidades y tendencias en un conjunto de datos.",
         "dba": [
           "DBA-MAT-3-10: Identifica regularidades y tendencias en un conjunto de datos, y utiliza tablas y gráficos para representarlos e interpretarlos."
-],
-"evidencias": [
-  "MAT-3-D10-E1: Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno.",
-  "MAT-3-D10-E2: Identifica las características de la población en estudio y establece su tamaño.",
-  "MAT-3-D10-E3: Construye tablas y gráficos que representan datos a partir de la información dada."
-        ],
+          ],
+        "evidencias": [
+          "MAT-3-D10-E1: Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno.",
+          "MAT-3-D10-E2: Identifica las características de la población en estudio y establece su tamaño.",
+          "MAT-3-D10-E3: Construye tablas y gráficos que representan datos a partir de la información dada."
+            ],
         "saberes": [
           "Población.",
           "Construcción de tablas y gráficos."
@@ -76,14 +75,14 @@
         "componente": "Numérico Variacional",
         "estandar": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas. Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
         "dba": [
-     "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que involucren cantidades discretas y continuas en diferentes contextos.",
-  "DBA-MAT-3-8: Describe cualitativamente situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas, e identifica regularidades en secuencias numéricas y patrones."
-],
-"evidencias": [
-  "MAT-3-D1-E3: Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos.",
-  "MAT-3-D1-E4: Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible.",
-  "MAT-3-D8-E2: Encuentra y representa generalidades y valida sus hallazgos de acuerdo con el contexto."
-        ],
+            "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que involucren cantidades discretas y continuas en diferentes contextos.",
+            "DBA-MAT-3-8: Describe cualitativamente situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas, e identifica regularidades en secuencias numéricas y patrones."
+         ],
+         "evidencias": [
+            "MAT-3-D1-E3: Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos.",
+            "MAT-3-D1-E4: Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible.",
+            "MAT-3-D8-E2: Encuentra y representa generalidades y valida sus hallazgos de acuerdo con el contexto."
+          ],
         "saberes": [
           "Estrategias para resolver problemas aditivos y multiplicativos.",
           "Secuencias numéricas."
@@ -269,6 +268,7 @@
     ]
   }
 }
+
 
 
 
