@@ -1,0 +1,280 @@
+{
+  "area": "Matemáticas",
+  "grado": "1",
+  "tipo_malla": "4_periodos",
+  "numero_periodos": 4,
+  "periodos": {
+   "1": [
+    {
+      "componente": "Numérico Variacional",
+      "estandar": "Reconozco significados del número en diferentes contextos (medición, conteo, comparación, codificación, localización entre otros). Identifico regularidades y propiedades de los números utilizando diferentes instrumentos de cálculo (calculadoras, ábacos, bloques multibase, etc.). Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
+      "dba": [
+        "DBA-MAT-1-1: Identifica los usos de los números (como código, cardinal, medida, ordinal) y las operaciones (suma y resta) en contextos variados.",
+        "DBA-MAT-1-8: Describe cualitativamente situaciones para identificar cambio y variación usando gestos, dibujos, diagramas, medios gráficos."
+      ],
+      "evidencias": [
+        "MAT-1-D1-E3: Reconoce posibilidades de uso de números y operaciones en actuaciones cotidianas.",
+        "MAT-1-D1-E1: Construye e interpreta diagramas para representar relaciones entre cantidades en situaciones reales.",
+        "MAT-1-D1-E2: Explica usos posibles de las operaciones básicas según contexto.",
+        "MAT-1-D1-E4: Interpreta y resuelve problemas de juntar, quitar y completar que involucren cantidad de elementos o medida de magnitudes.",
+        "MAT-1-D1-E5: Utiliza suma y resta para representar cambio en una cantidad.",
+        "MAT-1-D8-E1: Identifica y nombra diferencias entre objetos o grupos de objetos.",
+        "MAT-1-D8-E2: Comunica las características identificadas y justifica las diferencias que encuentra."
+      ],
+      "saberes": [
+        "Uso de los números y sus operaciones.",
+        "Secuencias sencillas."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Espacial Métrico",
+      "estandar": "Diferencio atributos y propiedades de objetos tridimensionales. Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños. Reconozco en los objetos propiedades o atributos que se puedan medir (longitud, área, volumen, capacidad, peso y masa) y, en los eventos, su duración.",
+      "dba": [
+        "DBA-MAT-1-6: Compara objetos del entorno, estableciendo semejanzas y diferencias empleando características geométricas de formas.",
+        "DBA-MAT-1-4: Reconoce y compara atributos que pueden ser medidos en objetos y eventos (longitud, duración, masa, peso, capacidad, etc)."
+      ],
+      "evidencias": [
+        "MAT-1-D6-E1: Crea, compone y descompone formas bidimensionales y tridimensionales, para ello utiliza plastilina, papel, palitos, cajas, etc.",
+        "MAT-1-D6-E2: Describe de forma verbal las cualidades y propiedades de un objeto relativas a su forma.",
+        "MAT-1-D4-E1: Identifica atributos que se pueden medir en objetos.",
+        "MAT-1-D4-E2: Diferencia atributos medibles (longitud, masa, capacidad, duración, cantidad de elementos de una colección), en términos de los instrumentos y las unidades utilizadas para medirlos."
+      ],
+      "saberes": [
+        "Características geométricas de las formas bidimensionales y tridimensionales.",
+        "Atributos medibles."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Aleatorio",
+      "estandar": "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en tablas.",
+      "dba": [
+        "DBA-MAT-1-10: Clasifica y organiza datos, los representa usando tablas de conteo y pictogramas sin escalas, y comunica resultados."
+      ],
+      "evidencias": [
+        "MAT-1-D10-E1: Identifica en fichas u objetos reales los valores de la variable en estudio."
+      ],
+      "saberes": [
+        "Variables de estudio estadístico."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    }
+  ],
+   Periodo 2 del grado 1 queda así, con DBA y evidencias alineados al maestro:
+​
+​
+
+json
+{
+  "2": [
+    {
+      "componente": "Numérico Variacional",
+      "estandar": "Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación. Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
+      "dba": [
+        "DBA-MAT-1-2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+        "DBA-MAT-1-8: Describe cualitativamente situaciones para identificar cambio y variación usando gestos, dibujos, diagramas, medios gráficos."
+      ],
+      "evidencias": [
+        "MAT-1-D2-E1: Realiza conteos de uno en uno, de dos en dos, o de cinco en cinco, desde cualquier número.",
+        "MAT-1-D2-E2: Determina la cantidad de elementos de una colección agrupándolos de 1 en 1, de 2 en 2, de 5 en 5.",
+        "MAT-1-D2-E3: Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",
+        "MAT-1-D2-E4: Establece conjeturas sobre posibles resultados en una secuencia numérica.",
+        "MAT-1-D2-E5: Utiliza características del sistema decimal para crear estrategias de cálculo y estimación de sumas y restas.",
+        "MAT-1-D8-E3: Establece relaciones de dependencia entre magnitudes."
+      ],
+      "saberes": [
+        "Técnicas de conteo. Operaciones aritméticas suma y resta. Numero par, impar, mayor que, menor que.",
+        "Identificar relaciones de dependencia numéricas."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Espacial Métrico",
+      "estandar": "Diferencio atributos y propiedades de objetos tridimensionales. Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños. Comparo y ordeno objetos respecto a atributos medibles.",
+      "dba": [
+        "DBA-MAT-1-6: Compara objetos del entorno, estableciendo semejanzas y diferencias empleando características geométricas de formas.",
+        "DBA-MAT-1-4: Reconoce y compara atributos que pueden ser medidos en objetos y eventos (longitud, duración, masa, peso, capacidad, etc)."
+      ],
+      "evidencias": [
+        "MAT-1-D6-E3: Agrupa objetos de su entorno de acuerdo con las semejanzas y las diferencias en la forma y en el tamaño y explica el criterio que utiliza. Por ejemplo, si el objeto es redondo, si tiene puntas, entre otras características.",
+        "MAT-1-D6-E4: Identifica objetos a partir de las descripciones verbales que hacen de sus características geométricas.",
+        "MAT-1-D4-E3: Compara y ordena objetos de acuerdo con atributos como altura, peso, intensidades de color, entre otros y recorridos según la distancia de cada trayecto.",
+        "MAT-1-D4-E4: Compara y ordena colecciones según la cantidad de elementos."
+      ],
+      "saberes": [
+        "Comparación de diferentes objetos desde la visión espacial.",
+        "Comparación y medición de objetos."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Aleatorio",
+      "estandar": "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en tablas.",
+      "dba": [
+        "DBA-MAT-1-10: Clasifica y organiza datos, los representa usando tablas de conteo y pictogramas sin escalas, y comunica resultados."
+      ],
+      "evidencias": [
+        "MAT-1-D10-E2: Organiza los datos en tablas de conteo y/o en pictogramas sin escala."
+      ],
+      "saberes": [
+        "Tablas de conteo."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    }
+  ],
+    "3": [
+        {
+      "componente": "Numérico Variacional",
+      "estandar": "Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación. Reconozco y genero equivalencias entre expresiones numéricas y describo cómo cambian los símbolos, aunque el valor siga igual.",
+      "dba": [
+        "DBA-MAT-1-2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+        "DBA-MAT-1-9: Reconoce el signo igual como equivalencia entre expresiones con sumas y restas."
+      ],
+      "evidencias": [
+        "MAT-1-D2-E4: Establece conjeturas sobre posibles resultados en una secuencia numérica.",
+        "MAT-1-D2-E3: Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a + ? = c, o ? + b = c.",
+        "MAT-1-D9-E1: Propone números que satisfacen igualdades con sumas y restas.",
+        "MAT-1-D9-E2: Describe las características de los números que deben ubicarse en una ecuación de tal manera que satisfaga la igualdad."
+      ],
+      "saberes": [
+        "Estrategias para realizar cuentas.",
+        "Igualdades."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Espacial Métrico",
+      "estandar": "Represento el espacio circundante para establecer relaciones espaciales. Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto.",
+      "dba": [
+        "DBA-MAT-1-7: Describe y representa trayectorias y posiciones para orientar a otros o a sí mismo en el espacio circundante.",
+        "DBA-MAT-1-5: Realiza mediciones de longitud, capacidad, peso, masa, etc., usando instrumentos y unidades estandarizadas y no estandarizadas."
+      ],
+      "evidencias": [
+        "MAT-1-D7-E1: Utiliza representaciones como planos para ubicarse en el espacio.",
+        "MAT-1-D7-E2: Toma decisiones a partir de la ubicación espacial.",
+        "MAT-1-D5-E1: Mide longitudes con diferentes instrumentos y expresa el resultado en unidades estandarizadas o no estandarizadas comunes.",
+        "MAT-1-D5-E2: Compara objetos a partir de su longitud, masa, capacidad y duración de eventos."
+      ],
+      "saberes": [
+        "Ubicación espacial.",
+        "Unidades de medición estandarizadas y no estandarizadas."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Aleatorio",
+      "estandar": "Represento datos relativos a mi entorno usando objetos concretos, pictogramas y diagramas de barras.",
+      "dba": [
+        "DBA-MAT-1-10: Clasifica y organiza datos, los representa usando tablas de conteo y pictogramas sin escalas, y comunica resultados."
+      ],
+      "evidencias": [
+        "MAT-1-D10-E2: Organiza los datos en tablas de conteo y/o en pictogramas sin escala.",
+        "MAT-1-D10-E3: Lee información y responde preguntas simples sobre tablas de conteo y pictogramas."
+      ],
+      "saberes": [
+        "Pictogramas sin escalas."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    }
+  ],
+    Periodo 4 del grado 1 queda así, con DBA y evidencias ajustados al maestro:
+​
+​
+
+json
+{
+  "4": [
+    {
+      "componente": "Numérico Variacional",
+      "estandar": "Uso representaciones principalmente concretas y pictóricas para explicar el valor de posición en el sistema de numeración decimal. Reconozco y genero equivalencias entre expresiones numéricas y describo cómo cambian los símbolos, aunque el valor siga igual.",
+      "dba": [
+        "DBA-MAT-1-2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+        "DBA-MAT-1-3: Utiliza las características posicionales del Sistema de Numeración Decimal (SND) para establecer relaciones entre cantidades.",
+        "DBA-MAT-1-9: Reconoce el signo igual como equivalencia entre expresiones con sumas y restas."
+      ],
+      "evidencias": [
+        "MAT-1-D3-E1: Realiza composiciones y descomposiciones de números de dos dígitos en términos de la cantidad de “dieces” y de “unos” que los conforman.",
+        "MAT-1-D3-E2: Encuentra parejas de números que al adicionarse dan como resultado otro número dado.",
+        "MAT-1-D3-E3: Halla los números correspondientes a tener “diez más” o “diez menos” que una cantidad determinada.",
+        "MAT-1-D3-E4: Utiliza “el paso por el diez” para sumar y restar.",
+        "MAT-1-D2-E5: Utiliza características del sistema decimal para crear estrategias de cálculo y estimación de sumas y restas.",
+        "MAT-1-D9-E3: Argumenta el uso de la propiedad transitiva en igualdades."
+      ],
+      "saberes": [
+        "Sistema de numeración decimal.",
+        "Propiedad Transitiva."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Espacial Métrico",
+      "estandar": "Represento el espacio circundante para establecer relaciones espaciales. Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto.",
+      "dba": [
+        "DBA-MAT-1-7: Describe y representa trayectorias y posiciones para orientar a otros o a sí mismo en el espacio circundante.",
+        "DBA-MAT-1-5: Realiza mediciones de longitud, capacidad, peso, masa, etc., usando instrumentos y unidades estandarizadas y no estandarizadas."
+      ],
+      "evidencias": [
+        "MAT-1-D7-E3: Dibuja recorridos, para ello considera los ángulos y la lateralidad.",
+        "MAT-1-D7-E4: Compara distancias a partir de la observación del plano al estimar con pasos, baldosas, etc.",
+        "MAT-1-D5-E3: Toma decisiones a partir de las mediciones realizadas y de acuerdo con los requerimientos del problema."
+      ],
+      "saberes": [
+        "Sistemas de referencia básicos.",
+        "Aplicación de mediciones."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    },
+    {
+      "componente": "Aleatorio",
+      "estandar": "Interpreto cualitativamente datos referidos a situaciones del entorno escolar.",
+      "dba": [
+        "DBA-MAT-1-10: Clasifica y organiza datos, los representa usando tablas de conteo y pictogramas sin escalas, y comunica resultados."
+      ],
+      "evidencias": [
+        "MAT-1-D10-E4: Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos aparece?"
+      ],
+      "saberes": [
+        "Comunicación del resultado de estudios estadísticos."
+      ],
+      "socioemocional": null,
+      "diccionario": null,
+      "tareas_dce": null,
+      "fuente": null
+    }
+  ]
+  }
+}
