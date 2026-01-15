@@ -1,0 +1,329 @@
+{
+  "area": "Lenguaje",
+  "grado": 7,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad temporal...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "Clasifica la información que circula en los medios de comunicación con los que interactúa y la retoma como referente para sus producciones discursivas. (1)",
+          "Produce textos verbales y no verbales conforme a las características de una tipología seleccionada, a partir de un proceso de planificación textual (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Anticipa la estructura con que un interlocutor puede organizar su discurso oral.",
+          "(Saber Hacer) Anticipa la estructura con que un interlocutor puede organizar su discurso oral.",
+          "(Saber Aplicar) Analiza las características formales de los textos literarios con los que se relaciona, y a partir de ellas establece el género al que pertenecen y la época en que fueron escritos."
+        ],
+        "saberes": [
+          "Uso de fuentes para crear textos.",
+          "Temáticas para producir textos.",
+          "La Publicidad como Forma de Comunicación",
+          "El Poder de la Oratoria",
+          "Presentaciones Efectivas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "Interpreta textos informativos, expositivos, narrativos, líricos, argumentativos y descriptivos, y da cuenta de sus características formales y no formales. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica elementos como temáticas, léxico especializado y estilo empleados en los textos.",
+          "(Saber Hacer) Identifica elementos como temáticas, léxico especializado y estilo empleados en los textos.",
+          "(Saber Aplicar) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa."
+        ],
+        "saberes": [
+          "Tipos de textos y sus Características.",
+          "Tipos de textos y sus diferencias y semejanzas",
+          "Características de textos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "Interpreta textos informativos, expositivos, narrativos, líricos, argumentativos y descriptivos, y da cuenta de sus características formales y no formales. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Leo obras literarias de género narrativo, lírico y dramático, de diversa temática, época y región",
+          "(Saber Hacer) Identifica y caracteriza al posible destinatario del texto a partir del tratamiento de la temática",
+          "(Saber Aplicar) Identifica y caracteriza al posible destinatario del texto a partir del tratamiento de la temática"
+        ],
+        "saberes": [
+          "Obras literarias (narrativo, lírico y dramático)",
+          "Análisis de Contenido y Estructura",
+          "Estudio de Autores Representativos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Escucha los discursos orales de su entorno para deducir los propósitos comunicativos de un interlocutor.",
+          "(Saber Hacer) Anticipa la estructura con que un interlocutor puede organizar su discurso oral.",
+          "(Saber Aplicar) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa."
+        ],
+        "saberes": [
+          "Sistemas Verbales",
+          "Sistemas No Verbales",
+          "Interacción entre Sistemas Verbales y No Verbales",
+          "Ética en la Comunicación No Verbal"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (mediante ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda consultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "Reconoce las diferencias y semejanzas entre sistemas verbales y no verbales para utilizarlos en contextos escolares y sociales (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales.",
+          "(Saber Hacer) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales. Interpreta los mensajes difundidos por medio de sistemas verbales y no verbales del contexto.",
+          "(Saber Aplicar) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales."
+        ],
+        "saberes": [
+          "Evolución de los medios de comunicación",
+          "Estrategias de comunicación efectiva"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad temporal...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares. (5)",
+          "Clasifica las producciones literarias a partir del análisis de su contenido y estructura en diferentes géneros literarios. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Define la estructura y el contenido de una producción oral, atendiendo a la necesidad comunicativa de narrar en un contexto particular.",
+          "(Saber Hacer) Sabe cómo emplear diversos tipos de texto atendiendo al propósito comunicativo.",
+          "(Saber Aplicar) Recoge información con el fin de expresar su punto de vista frente a los medios de comunicación con los que interactúa."
+        ],
+        "saberes": [
+          "Plan textual basado en descripciones y opiniones.",
+          "Podcast: La Voz de la Comunidad",
+          "Características del Discurso Oral",
+          "Discursos con Objetivos Específicos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "Establece conexiones entre los elementos presentes en la literatura y los hechos históricos, culturales y sociales en los que se han producido. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica elementos como temáticas, léxico especializado y estilo empleados en los textos.",
+          "(Saber Hacer) Identifica elementos como temáticas, léxico especializado y estilo empleados en los textos.",
+          "(Saber Aplicar) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa."
+        ],
+        "saberes": [
+          "Contenido de diferentes tipos de textos.",
+          "La forma y el contenido de los textos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "Establece conexiones entre los elementos presentes en la literatura y los hechos históricos, culturales y sociales en los que se han producido. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Ubica el texto en una tipología particular de acuerdo con su estructura interna y las características formales empleadas",
+          "(Saber Hacer) Analiza el desarrollo de hechos históricos y conflictos sociales en historias presentes en obras literarias.",
+          "(Saber Aplicar) Ubica el texto en una tipología particular de acuerdo con su estructura interna y las características formales empleadas"
+        ],
+        "saberes": [
+          "Textos de tradición oral.",
+          "Procedimientos narrativos, líricos o dramáticos.",
+          "Hipótesis de comprensión de textos",
+          "Literatura y Sociedad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales.",
+          "(Saber Hacer) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales.",
+          "(Saber Aplicar) Comprende la intención comunicativa de textos que contienen segmentos verbales y no verbales."
+        ],
+        "saberes": [
+          "Diversidad Lingüística y Cultural",
+          "Ética en la Diversidad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (mediante ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda consultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "Reconoce las diferencias y semejanzas entre sistemas verbales y no verbales para utilizarlos en contextos escolares y sociales (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Selecciona la información principal que encuentra en los diferentes medios de comunicación y la utiliza para apoyar sus producciones",
+          "(Saber Hacer) Selecciona la información principal que encuentra en los diferentes medios de comunicación y la utiliza para apoyar sus producciones"
+        ],
+        "saberes": [
+          "Lenguaje inclusivo y su importancia",
+          "Análisis crítico de la información"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad temporal...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica las problemáticas principales de sus narraciones orales, teniendo en cuenta las impresiones de sus interlocutores",
+          "(Saber Hacer) Prepara esquemas previos a la escritura para estructurar jerárquicamente las ideas a desenvolver en su texto.",
+          "(Saber Aplicar) Prepara esquemas previos a la escritura para estructurar jerárquicamente las ideas a desenvolver en su texto."
+        ],
+        "saberes": [
+          "Producción de textos narrativos.",
+          "Hipótesis propia.",
+          "Uso de almacenes de información para producción de textos.",
+          "Preparación de un Discurso Oral",
+          "Técnicas de Presentación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "Clasifica las producciones literarias a partir del análisis de su contenido y estructura en diferentes géneros literarios. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y caracteriza al posible destinatario del texto a partir del tratamiento de la temática",
+          "(Saber Hacer) Reconoce en los géneros literarios las visiones de mundo que imprimen los seres humanos en sus interacciones sociales.",
+          "(Saber Aplicar) Ubica el texto en una tipología particular de acuerdo con su estructura interna y las características formales empleadas."
+        ],
+        "saberes": [
+          "Tipos de textos y sus diferencias y semejanzas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "Clasifica las producciones literarias a partir del análisis de su contenido y estructura en diferentes géneros literarios. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Categoriza las temáticas de los textos literarios con los que interactúa y en función de ello establece el género al que pertenecen.",
+          "(Saber Hacer) Categoriza las temáticas de los textos literarios con los que interactúa y en función de ello establece el género al que pertenecen.",
+          "(Saber Aplicar) Analiza las características formales de los textos literarios con los que se relaciona, y a partir de ellas establece el género al que pertenecen y la época en que fueron escritos."
+        ],
+        "saberes": [
+          "Textos Lírico y Argumentativo",
+          "Textos Informativos y Expositivos",
+          "Literatura y Contexto Histórico",
+          "Literatura y Cultura"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "Comprende discursos orales producidos con un objetivo determinado en diversos contextos sociales y escolares. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa.",
+          "(Saber Hacer) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa.",
+          "(Saber Aplicar) Distingue líneas temáticas en los discursos que escucha, la manera como son planteadas por el autor, y las conexiones entre unas y otras a propósito de su intención comunicativa."
+        ],
+        "saberes": [
+          "Análisis de Discursos en Contextos Escolares",
+          "Discursos en Contextos Sociales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (metiente ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda consultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "Clasifica la información que circula en los medios de comunicación con los que interactúa y la retoma como referente para sus producciones discursivas. (1)"
+        ],
+        "evidencias": [
+          "(Saber Hacer) Reconoce la organización de los sistemas verbales y no verbales en el contexto y cómo estos contribuyen a dar sentido a los mensajes",
+          "(Saber Aplicar) Reconoce la organización de los sistemas verbales y no verbales en el contexto y cómo estos contribuyen a dar sentido a los mensajes"
+        ],
+        "saberes": [
+          "Producción de contenido crítico",
+          "Clasificación y análisis de contenidos mediáticos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

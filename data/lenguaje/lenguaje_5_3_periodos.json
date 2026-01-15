@@ -1,0 +1,341 @@
+{
+  "area": "Lenguaje",
+  "grado": 5,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Produzco la primera versión de un texto informativo, atendiendo a requerimientos (formales y conceptuales) de la producción escrita en lengua castellana, con énfasis en algunos aspectos gramaticales (concordancia, tiempos verbales, nombres, pronombres, entre otros) y ortográficos. Produzco un texto oral, teniendo en cuenta la entonación, la articulación y la organización de ideas que requiere la situación comunicativa.",
+        "dba": [
+          "Produce textos verbales y no verbales a partir de los planes textuales que elabora según la tipología a desarrollar. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Elabora planes textuales que garantizan la progresión de las ideas que articula en un escrito",
+          "(Saber Hacer) Elabora planes textuales que garantizan la progresión de las ideas que articula en un escrito",
+          "(Saber Aplicar) Establece relaciones de coherencia entre los conceptos a tratar, el tipo de texto a utilizar y el propósito comunicativo que media su producción."
+        ],
+        "saberes": [
+          "Propósito, características de interlocución y exigencias contextuales de un texto.",
+          "Plan de exposición",
+          "Introducción a la Tipología Textual",
+          "Elaboración de Planes Textuales",
+          "Textos Descriptivos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Utilizo estrategias de búsqueda, selección y almacenamiento de información para mis procesos de producción y comprensión textual.",
+        "dba": [
+          "Identifica la intención comunicativa de los textos con los que interactúa a partir del análisis de su contenido y estructura (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la función social de los textos que lee y las visiones de mundo que proponen.",
+          "(Saber Hacer) Aplica estrategias de comprensión para dar cuenta de las relaciones entre diversos segmentos del texto.",
+          "(Saber Aplicar) Aplica estrategias de comprensión para dar cuenta de las relaciones entre diversos segmentos del texto."
+        ],
+        "saberes": [
+          "Tipos de textos (descriptivo, informativo, narrativo, explicativo y argumentativo)",
+          "Estrategias de búsqueda, selección y almacenamiento de información para producción de textos",
+          "Los aspectos formales y conceptuales de textos",
+          "¿Qué es la Intención Comunicativa?",
+          "Narraciones y sus Propósitos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Comparo textos narrativos, líricos y dramáticos, teniendo en cuenta algunos de sus elementos constitutivos.",
+        "dba": [
+          "Reconoce en la lectura de los distintos géneros literarios diferentes posibilidades de recrear y ampliar su visión de mundo (3)",
+          "Identifica la intención comunicativa de los textos con los que interactúa a partir del análisis de su contenido y estructura. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las temáticas de los textos literarios que lee para relacionarlas con su contexto cotidiano.",
+          "(Saber Hacer) Organiza de forma jerárquica los contenidos de un texto en relación con la forma en que son presentados.",
+          "(Saber Aplicar) Organiza de forma jerárquica los contenidos de un texto en relación con la forma en que son presentados"
+        ],
+        "saberes": [
+          "Hipótesis predictivas sobre un texto.",
+          "Exploración de la Literatura: ¿Qué es un Género Literario?",
+          "Lírica: Expresión de Emociones",
+          "Dramática: El Arte de Actuar",
+          "Intención Comunicativa en la Narrativa"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles, las intenciones de los interlocutores y el respeto por los principios básicos de la comunicación",
+        "dba": [
+          "Construye textos orales atendiendo a los contextos de uso, a los posibles interlocutores y a las líneas temáticas pertinentes con el propósito comunicativo en el que se enmarca el discurso (7)",
+          "Comprende el sentido global de los mensajes, a partir de la relación entre la información explícita e implícita (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas",
+          "(Saber Hacer) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas",
+          "(Saber Aplicar) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas"
+        ],
+        "saberes": [
+          "Proceso comunicativo y sus partes.",
+          "Contextos de Uso y Propósitos Comunicativos",
+          "Identificación de Interlocutores",
+          "Información Explícita e Implícita"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Produzco textos orales y escritos con base en planes en los que utilizo la información recogida de los medios. Reconozco y uso códigos no verbales en situaciones comunicativas auténticas",
+        "dba": [
+          "Analiza la información presentada por los diferentes medios de comunicación con los cuales interactúa(1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Caracteriza los diferentes medios de comunicación de acuerdo con la validez y pertinencia de la información.",
+          "(Saber Hacer) Evalúa las estrategias empleadas por los diferentes medios de comunicación para presentar la información.",
+          "(Saber Aplicar) Caracteriza los diferentes medios de comunicación de acuerdo con la validez y pertinencia de la información."
+        ],
+        "saberes": [
+          "Análisis de la Información en Medios Impresos",
+          "Exploración de Medios Audiovisuales",
+          "Medios Digitales y Redes Sociales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Produzco la primera versión de un texto informativo, atendiendo a requerimientos (formales y conceptuales) de la producción escrita en lengua castellana, con énfasis en algunos aspectos gramaticales (concordancia, tiempos verbales, nombres, pronombres, entre otros) y ortográficos. Produzco un texto oral, teniendo en cuenta la entonación, la articulación y la organización de ideas que requiere la situación comunicativa.",
+        "dba": [
+          "Produce textos verbales y no verbales a partir de los planes textuales que elabora según la tipología a desarrollar. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Elabora planes textuales que garantizan la progresión de las ideas que articula en un escrito",
+          "(Saber Hacer) Elabora planes textuales que garantizan la progresión de las ideas que articula en un escrito",
+          "(Saber Aplicar) Establece relaciones de coherencia entre los conceptos a tratar, el tipo de texto a utilizar y el propósito comunicativo que media su producción."
+        ],
+        "saberes": [
+          "Profundización en Tipologías Textuales",
+          "Producción de Textos Argumentativos",
+          "Integración de Textos Verbales y No Verbales",
+          "Producción de Informes"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Utilizo estrategias de búsqueda, selección y almacenamiento de información para mis procesos de producción y comprensión textual.",
+        "dba": [
+          "Identifica la intención comunicativa de los textos con los que interactúa a partir del análisis de su contenido y estructura (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la función social de los textos que lee y las visiones de mundo que proponen.",
+          "(Saber Hacer) Aplica estrategias de comprensión para dar cuenta de las relaciones entre diversos segmentos del texto.",
+          "(Saber Aplicar) Aplica estrategias de comprensión para dar cuenta de las relaciones entre diversos segmentos del texto."
+        ],
+        "saberes": [
+          "Textos Informativos: Conocimiento y Aprendizaje",
+          "Instrucciones y Manuales: Comunicar para Actuar",
+          "Anuncios y Publicidad: Persuasión en Acción"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Comparo textos narrativos, líricos y dramáticos, teniendo en cuenta algunos de sus elementos constitutivos.",
+        "dba": [
+          "Reconoce en la lectura de los distintos géneros literarios diferentes posibilidades de recrear y ampliar su visión de mundo (3)",
+          "Identifica la intención comunicativa de los textos con los que interactúa a partir del análisis de su contenido y estructura. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las temáticas de los textos literarios que lee para relacionarlas con su contexto cotidiano.",
+          "(Saber Hacer) Organiza de forma jerárquica los contenidos de un texto en relación con la forma en que son presentados.",
+          "(Saber Aplicar) Organiza de forma jerárquica los contenidos de un texto en relación con la forma en que son presentados"
+        ],
+        "saberes": [
+          "Lírica: El Lenguaje Poético",
+          "Intención en la Poesía",
+          "Presentación de Textos Literarios"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles, las intenciones de los interlocutores y el respeto por los principios básicos de la comunicación",
+        "dba": [
+          "Construye textos orales atendiendo a los contextos de uso, a los posibles interlocutores y a las líneas temáticas pertinentes con el propósito comunicativo en el que se enmarca el discurso (7)",
+          "Comprende el sentido global de los mensajes, a partir de la relación entre la información explícita e implícita (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas",
+          "(Saber Hacer) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas",
+          "(Saber Aplicar) Comprende el uso de elementos que componen los textos literarios como el narrador, los personajes, los actos, los diálogos, los monólogos, los versos, las estrofas, las rimas"
+        ],
+        "saberes": [
+          "Estilo y Tono en la Comunicación Oral",
+          "Construcción de Argumentos en Debates",
+          "Resolución de Conflictos a Través de la Comunicación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Produzco textos orales y escritos con base en planes en los que utilizo la información recogida de los medios. Reconozco y uso códigos no verbales en situaciones comunicativas auténticas",
+        "dba": [
+          "Analiza la información presentada por los diferentes medios de comunicación con los cuales interactúa(1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Caracteriza los diferentes medios de comunicación de acuerdo con la validez y pertinencia de la información.",
+          "(Saber Hacer) Evalúa las estrategias empleadas por los diferentes medios de comunicación para presentar la información.",
+          "(Saber Aplicar) Caracteriza los diferentes medios de comunicación de acuerdo con la validez y pertinencia de la información."
+        ],
+        "saberes": [
+          "Códigos Visuales y Simbólicos",
+          "Impacto de las Noticias en la Opinión Pública"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Produzco la primera versión de un texto informativo, atendiendo a requerimientos (formales y conceptuales) de la producción escrita en lengua castellana, con énfasis en algunos aspectos gramaticales (concordancia, tiempos verbales, nombres, pronombres, entre otros) y ortográficos. Produzco un texto oral, teniendo en cuenta la entonación, la articulación y la organización de ideas que requiere la situación comunicativa.",
+        "dba": [
+          "Construye textos orales atendiendo a los contextos de uso, a los posibles interlocutores y a las líneas temáticas pertinentes con el propósito comunicativo en el que se enmarca el discurso. (7)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Construye saberes en escenarios de intercambio oral en los que comparte sus argumentos y experiencias de formación.",
+          "(Saber Hacer) Construye párrafos atendiendo a diferentes procedimientos de desarrollo: ejemplificar, detallar, describir, justificar, sintetizar. Ordena la información en secuencias lógicas siguiendo la línea temática planteada",
+          "(Saber Aplicar) Construye saberes en escenarios de intercambio oral en los que comparte sus argumentos y experiencias de formación."
+        ],
+        "saberes": [
+          "El Contexto de Uso del Lenguaje",
+          "Estructura de Presentaciones Orales",
+          "Técnicas de Oratoria",
+          "Construcción de Discursos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Utilizo estrategias de búsqueda, selección y almacenamiento de información para mis procesos de producción y comprensión textual.",
+        "dba": [
+          "Identifica la intención comunicativa de los textos con los que interactúa a partir del análisis de su contenido y estructura (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la función social de los textos que lee y las visiones de mundo que proponen.",
+          "(Saber Hacer) Organiza de forma jerárquica los contenidos de un texto en relación con la forma en que son presentados.",
+          "(Saber Aplicar) Reconoce la función social de los textos que lee y las visiones de mundo que proponen."
+        ],
+        "saberes": [
+          "Técnicas de Comprensión",
+          "Construcción de Argumentos",
+          "Cómics y Caricaturas: Humor con Mensaje"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Comparo textos narrativos, líricos y dramáticos, teniendo en cuenta algunos de sus elementos constitutivos.",
+        "dba": [
+          "Reconoce en la lectura de los distintos géneros literarios diferentes posibilidades de recrear y ampliar su visión de mundo (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Manifiesta en producciones (orales y escritas) los conocimientos o experiencias relacionados con los textos literarios que ha leído.",
+          "(Saber Hacer) Reconoce las temáticas de los textos literarios que lee para relacionarlas con su contexto cotidiano.",
+          "(Saber Aplicar) Aplica estrategias de comprensión para dar cuenta de las relaciones entre diversos segmentos del texto."
+        ],
+        "saberes": [
+          "Géneros Literarios y su Impacto Cultural",
+          "Reconociendo la Intención en Diferentes Géneros",
+          "Proyecto Final: Creación Literaria"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles, las intenciones de los interlocutores y el respeto por los principios básicos de la comunicación",
+        "dba": [
+          "Interpreta mensajes directos e indirectos en algunas imágenes, símbolos o gestos (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la diferencia de diversos espacios de expresión oral como la mesa redonda, el panel, el foro y el debate, atendiendo a su respectiva estructura.",
+          "(Saber Hacer) Comprende la diferencia de diversos espacios de expresión oral como la mesa redonda, el panel, el foro y el debate, atendiendo a su respectiva estructura.",
+          "(Saber Aplicar) Comprende la diferencia de diversos espacios de expresión oral como la mesa redonda, el panel, el foro y el debate, atendiendo a su respectiva estructura."
+        ],
+        "saberes": [
+          "Mensajes Directos e Indirectos",
+          "Lenguaje No Verbal y Gestos",
+          "Símbolos en la Comunicación Cultural",
+          "Análisis de Publicidad y Marketing"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Produzco textos orales y escritos con base en planes en los que utilizo la información recogida de los medios. Reconozco y uso códigos no verbales en situaciones comunicativas auténticas",
+        "dba": [
+          "Comprende el sentido global de los mensajes, a partir de la relación entre la información explícita e implícita (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la diferencia de diversos espacios de expresión oral como la mesa redonda, el panel, el foro y el debate, atendiendo a su respectiva estructura",
+          "(Saber Hacer) Interpreta mensajes orales teniendo en cuenta el lenguaje verbal y no verbal",
+          "(Saber Aplicar) Comprende la diferencia de diversos espacios de expresión oral como la mesa redonda, el panel, el foro y el debate, atendiendo a su respectiva estructura"
+        ],
+        "saberes": [
+          "Lectura Crítica de Noticias",
+          "Signos y Símbolos en la Comunicación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

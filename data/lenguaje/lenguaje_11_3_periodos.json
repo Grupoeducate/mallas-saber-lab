@@ -1,0 +1,357 @@
+{
+  "area": "Lenguaje",
+  "grado": 11,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Evidencio en mis producciones textuales el conocimiento de los diferentes niveles de la lengua y el control sobre el uso que hago de ellos en contextos comunicativos",
+        "dba": [
+          "Expresa por medio de producciones orales el dominio de un tema, un texto o la obra de un autor. (7)",
+          "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Construye relaciones de contenido entre temas, categorías y conceptos",
+          "(Saber Hacer) Emplea diferentes tipos de argumento para sustentar sus puntos de vista.",
+          "(Saber Aplicar) Emplea diferentes tipos de argumento para sustentar sus puntos de vista."
+        ],
+        "saberes": [
+          "Autoevaluación de textos.",
+          "Valor del lenguaje en los procesos de construcción del conocimiento.",
+          "La estructura de un ensayo argumentativo",
+          "Narrativa digital"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Comprendo e interpreto textos con actitud crítica y capacidad argumentativa",
+        "dba": [
+          "Determina los textos que desea leer y la manera en que abordará su comprensión, con base en sus experiencias de formación e inclinaciones literarias. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende las temáticas, características, estilos, tonos, sentido local y global de las obras literarias que lee.",
+          "(Saber Hacer) Comprende las temáticas, características, estilos, tonos, sentido local y global de las obras literarias que lee.",
+          "(Saber Aplicar) Comprende las temáticas, características, estilos, tonos, sentido local y global de las obras literarias que lee."
+        ],
+        "saberes": [
+          "Textos en contextos sociales culturales y políticos contemporáneos -Esquema de Interpretación",
+          "Análisis de la ironía en la literatura",
+          "La crítica literaria y su evolución"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Analizo crítica y creativamente diferentes manifestaciones literarias del contexto universal.",
+        "dba": [
+          "Determina los textos que desea leer y la manera en que abordará su comprensión, con base en sus experiencias de formación e inclinaciones literarias. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que en las obras clásicas se abordan temas que vinculan a los seres humanos de diferentes épocas",
+          "(Saber Hacer) Reconoce que en las obras clásicas se abordan temas que vinculan a los seres humanos de diferentes épocas",
+          "(Saber Aplicar) Asume una postura frente a la vigencia de las obras literarias clásicas"
+        ],
+        "saberes": [
+          "Obras de literatura universal y sus aspectos principales",
+          "Textos literarios de diversa índole, género, temática y origen.",
+          "Literatura y feminismo",
+          "Cuentos de autoras latinoamericanas",
+          "El simbolismo en la poesía"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Expreso respeto por la diversidad cultural y social del mundo contemporáneo, en las situaciones comunicativas en las que intervengo",
+        "dba": [
+          "Expresa, con sentido crítico, cómo se articulan los códigos verbales y no verbales en diversas manifestaciones humanas y da cuenta de sus implicaciones culturales, sociales e ideológicas. (2)",
+          "Comprende que los argumentos de sus interlocutores involucran procesos de comprensión, crítica y proposición. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende el sentido literal y figurado de distintos símbolos empleados en los medios de comunicación.",
+          "(Saber Hacer) Reconoce que en las obras clásicas se abordan temas que vinculan a los seres humanos de diferentes épocas.",
+          "(Saber Aplicar) Comprende las posturas de un discurso sobre un tema de interés social y las relaciona con sus posturas previas. Comprende el sentido literal y figurado de distintos símbolos empleados en los medios de comunicación."
+        ],
+        "saberes": [
+          "Desarrollos textuales de diferentes grupos humanos contemporáneos",
+          "Diversidad y representatividad en los medios",
+          "El derecho a la información"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto en forma crítica la información difundida por los medios de comunicación masiva. Retomo críticamente los lenguajes no verbales para desarrollar procesos comunicativos intencionados",
+        "dba": [
+          "Participa en escenarios académicos, políticos y culturales; asumiendo una posición crítica y propositiva frente a los discursos que le presentan los distintos medios de comunicación y otras fuentes de información. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la intencionalidad de los anuncios publicitarios, políticos y deportivos que se producen en el contexto social y cultural.",
+          "(Saber Hacer) Analiza la información difundida en los medios de comunicación institucionales y regionales, para participar en procesos democráticos.",
+          "(Saber Aplicar) Analiza la información difundida en los medios de comunicación institucionales y regionales, para participar en procesos democráticos."
+        ],
+        "saberes": [
+          "Medios de comunicación masiva en el contexto social, cultural, económico y político de las sociedades contemporáneas",
+          "Medios de información masiva y sus mecanismos ideológicos",
+          "Manifestaciones humanas y sus implicaciones culturales, sociales e ideológicas",
+          "El impacto de las redes sociales en la comunicación actual",
+          "Los estereotipos en la publicidad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Evidencio en mis producciones textuales el conocimiento de los diferentes niveles de la lengua y el control sobre el uso que hago de ellos en contextos comunicativos",
+        "dba": [
+          "Expresa por medio de producciones orales el dominio de un tema, un texto o la obra de un autor. (7)",
+          "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Emplea diferentes tipos de argumento para sustentar sus puntos de vista.",
+          "(Saber Hacer) Emplea diferentes tipos de argumento para sustentar sus puntos de vista.",
+          "(Saber Aplicar) Emplea diferentes tipos de argumento para sustentar sus puntos de vista."
+        ],
+        "saberes": [
+          "Temas",
+          "Valor del lenguaje en los procesos de construcción del conocimiento.",
+          "Análisis de la estructura de un artículo de opinión",
+          "Creación de un blog"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Comprendo e interpreto textos con actitud crítica y capacidad argumentativa",
+        "dba": [
+          "Compara diversos tipos de texto, con capacidad crítica y argumentativa para establecer relaciones entre temáticas, características y los múltiples contextos en los que fueron producidos. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona el significado del texto con los contextos sociales, culturales y políticos en los que fue producido y plantea su posición al respecto.",
+          "(Saber Hacer) Relaciona el significado del texto con los contextos sociales, culturales y políticos en los que fue producido y plantea su posición al respecto.",
+          "(Saber Aplicar) Relaciona el significado del texto con los contextos sociales, culturales y políticos en los que fue producido y plantea su posición al respecto."
+        ],
+        "saberes": [
+          "Estrategias descriptivas, explicativas y analógicas.",
+          "El simbolismo en la literatura contemporánea",
+          "Interpretación de obras de teatro",
+          "Los géneros narrativos en la literatura juvenil"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Analizo crítica y creativamente diferentes manifestaciones literarias del contexto universal.",
+        "dba": [
+          "Identifica, en las producciones literarias clásicas, diferentes temas que le permiten establecer comparaciones con las visiones de mundo de otras épocas. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Asume una postura frente a la vigencia de las obras literarias clásicas",
+          "(Saber Hacer) Asume una postura frente a la vigencia de las obras literarias clásicas",
+          "(Saber Aplicar) Asume una postura frente a la vigencia de las obras literarias clásicas"
+        ],
+        "saberes": [
+          "Obras de literatura universal y sus aspectos principales",
+          "La influencia del contexto histórico en la literatura",
+          "Poéticas de la resistencia",
+          "Literatura y naturaleza"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Expreso respeto por la diversidad cultural y social del mundo contemporáneo, en las situaciones comunicativas en las que intervengo",
+        "dba": [
+          "Determina los textos que desea leer y la manera en que abordará su comprensión, con base en sus experiencias de formación e inclinaciones literarias. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende el sentido literal y figurado de distintos símbolos empleados en los medios de comunicación.",
+          "(Saber Hacer) Reconoce que en las obras clásicas se abordan temas que vinculan a los seres humanos de diferentes épocas.",
+          "(Saber Aplicar) Comprende las posturas de un discurso sobre un tema de interés social y las relaciona con sus posturas previas. Comprende el sentido literal y figurado de distintos símbolos empleados en los medios de comunicación."
+        ],
+        "saberes": [
+          "Diferencias ideológicas en grupos humanos.",
+          "Relación intercultural con las comunidades indígenas y afrocolombianas",
+          "La influencia de la propaganda en la opinión pública",
+          "Comunicación y derechos humanos",
+          "La representación de la diversidad en los medios"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto en forma crítica la información difundida por los medios de comunicación masiva. Retomo críticamente los lenguajes no verbales para desarrollar procesos comunicativos intencionados",
+        "dba": [
+          "Expresa, con sentido crítico, cómo se articulan los códigos verbales y no verbales en diversas manifestaciones humanas y da cuenta de sus implicaciones culturales, sociales e ideológicas. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la intencionalidad de los anuncios publicitarios, políticos y deportivos que se producen en el contexto social y cultural.",
+          "(Saber Hacer) Analiza la información difundida en los medios de comunicación institucionales y regionales, para participar en procesos democráticos.",
+          "(Saber Aplicar) Analiza la información difundida en los medios de comunicación institucionales y regionales, para participar en procesos democráticos."
+        ],
+        "saberes": [
+          "Análisis de la propaganda política en redes sociales",
+          "La construcción de la noticia",
+          "La publicidad y su relación con la cultura popular"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Evidencio en mis producciones textuales el conocimiento de los diferentes niveles de la lengua y el control sobre el uso que hago de ellos en contextos comunicativos",
+        "dba": [
+          "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Construye párrafos que tienen funciones específicas dentro del discurso como ampliar, introducir, sintetizar y concluir.",
+          "(Saber Hacer) Evalúa el seguimiento de un plan textual y el uso de la lengua en textos propios y producidos por sus compañeros",
+          "(Saber Aplicar) Evalúa la adecuación del texto en relación con su rol como enunciatario, las estrategias discursivas utilizadas y la visión de mundo que proyecta en su escrito"
+        ],
+        "saberes": [
+          "Correcciones propias en textos",
+          "Estrategias descriptivas, explicativas y analógicas en textos.",
+          "Ensayos argumentativos con ideas propias sobre un genero.",
+          "Ensayo comparativo",
+          "Crítica literaria",
+          "Guion para un podcast"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Comprendo e interpreto textos con actitud crítica y capacidad argumentativa",
+        "dba": [
+          "Participa en escenarios académicos, políticos y culturales; asumiendo una posición crítica y propositiva frente a los discursos que le presentan los distintos medios de comunicación y otras fuentes de información. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona el significado del texto con los contextos sociales, culturales y políticos en los que fue producido y plantea su posición al respecto",
+          "(Saber Hacer) Infiere la relación de los mensajes emitidos por los medios de comunicación masiva dentro de contextos sociales, culturales y políticos",
+          "(Saber Aplicar) Contrasta textos, atendiendo a temáticas, características formales, estructura interna, léxico y estilo empleados, entre otros."
+        ],
+        "saberes": [
+          "Evaluación de textos.",
+          "Textos y contextos sociales",
+          "Actitud crítica frente a textos",
+          "El análisis de personajes en la literatura",
+          "Interpretación de la sátira en la literatura",
+          "La voz narrativa en diferentes géneros",
+          "Análisis de letras de canciones"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Analizo crítica y creativamente diferentes manifestaciones literarias del contexto universal.",
+        "dba": [
+          "Compara diversos tipos de texto, con capacidad crítica y argumentativa para establecer relaciones entre temáticas, características y los múltiples contextos en los que fueron producidos. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende que la entonación revela la intención de resaltar o encubrir información de parte del interlocutor",
+          "(Saber Hacer) Contrasta textos, atendiendo a temáticas, características formales, estructura interna, léxico y estilo empleados, entre otros.",
+          "(Saber Aplicar) Contrasta textos, atendiendo a temáticas, características formales, estructura interna, léxico y estilo empleados, entre otros."
+        ],
+        "saberes": [
+          "Textos y sus dimensiones éticas, estéticas, filosóficas",
+          "Textos y la teoría literaria",
+          "Literatura y utopía",
+          "Literatura postcolonial",
+          "El papel del humor en la literatura",
+          "Narrativas de identidad en la literatura contemporánea"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Expreso respeto por la diversidad cultural y social del mundo contemporáneo, en las situaciones comunicativas en las que intervengo",
+        "dba": [
+          "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Evalúa la adecuación del texto en relación con su rol como enunciatario, las estrategias discursivas utilizadas y la visión de mundo que proyecta en su escrito.",
+          "(Saber Hacer) Comprende las posturas de un discurso sobre un tema de interés social y las relaciona con sus posturas previas. Comprende diferentes tipos de argumentos presentes en un discurso. Evalúa el seguimiento de un plan textual y el uso de la lengua en textos propios y producidos por sus compañeros.",
+          "(Saber Aplicar) Comprende las posturas de un discurso sobre un tema de interés social y las relaciona con sus posturas previas. Comprende diferentes tipos de argumentos presentes en un discurso. Evalúa la adecuación del texto en relación con su rol como enunciatario, las estrategias discursivas utilizadas y la visión de mundo que proyecta en su escrito."
+        ],
+        "saberes": [
+          "Dialogo y argumentación en conversaciones.",
+          "Diversidad de criterios",
+          "Argumentos sobre su punto de vista",
+          "Censura y libertad de expresión",
+          "La ética en la investigación académica"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto en forma crítica la información difundida por los medios de comunicación masiva. Retomo críticamente los lenguajes no verbales para desarrollar procesos comunicativos intencionados",
+        "dba": [
+          "Produce textos académicos a partir de procedimientos sistemáticos de corrección lingüística, atendiendo al tipo de texto y al contexto comunicativo. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Construye párrafos que tienen funciones específicas dentro del discurso como ampliar, introducir, sintetizar y concluir",
+          "(Saber Hacer) Infiere la relación de los mensajes emitidos por los medios de comunicación masiva dentro de contextos sociales, culturales y políticos.",
+          "(Saber Aplicar) Clasifica los elementos simbólicos presentes en diferentes situaciones como una clase, un videoclip o un concierto musical. Emplea diferentes tipos de argumento para sustentar sus puntos de vista."
+        ],
+        "saberes": [
+          "Medios de comunicación masiva y las implicaciones que tienen en el país.",
+          "Códigos verbales y no verbales",
+          "Elementos ideológicos en los medios de comunicación",
+          "Producción de textos con lenguaje verbal y no Verbal",
+          "La evolución del periodismo en la era digital",
+          "Análisis de campañas publicitarias"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

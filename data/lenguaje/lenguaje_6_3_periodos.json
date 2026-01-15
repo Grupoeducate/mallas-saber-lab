@@ -1,0 +1,322 @@
+{
+  "area": "Lenguaje",
+  "grado": 6,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad temporal...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "DBA-LEN-6-8 Produce diversos tipos de texto atendiendo a los destinatarios, al medio en que se escribirá y a los propósitos comunicativos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Busca información específica en los contenidos emitidos por diversos medios de comunicación.",
+          "(Saber Hacer) Elige, entre diversos tipos de texto, aquel que mejor se adecúa al propósito comunicativo del texto que debe escribir",
+          "(Saber Aplicar) Elige, entre diversos tipos de texto, aquel que mejor se adecúa al propósito comunicativo del texto que debe escribir"
+        ],
+        "saberes": [
+          "Temáticas para producción de textos narrativos.",
+          "Uso de almacenes de información para producción de textos.",
+          "Tipos de Textos y sus Características",
+          "Destinatarios y Propósitos Comunicativos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros.",
+          "(Saber Hacer) Infiere la intención comunicativa de los textos (narrar, informar, exponer, argumentar, describir) a partir de las circunstancias en que han sido creados.",
+          "(Saber Aplicar) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros."
+        ],
+        "saberes": [
+          "Tipos de textos.",
+          "Hipótesis de interpretación de textos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general.",
+          "(Saber Hacer) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros.",
+          "(Saber Aplicar) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros."
+        ],
+        "saberes": [
+          "Textos de tradición oral (coplas, leyendas, relatos mitológicos, canciones, proverbios, refranes, parábolas, entre otros.)",
+          "Obras literarias (narrativo, lírico y dramático)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "DBA-LEN-6-3 Reconoce las obras literarias como una posibilidad de circulación del conocimiento y de desarrollo de su imaginación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos",
+          "(Saber Hacer) Interpreta los argumentos y temáticas que se enuncian en las obras literarias para crear nuevos textos.",
+          "(Saber Aplicar) Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos"
+        ],
+        "saberes": [
+          "Variantes lingüísticas en situaciones comunicativas.",
+          "Contextos culturales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (mediante ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda consultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "DBA-LEN-6-1 Utiliza la información ofrecida por los medios de comunicación, teniendo en cuenta el mensaje, los interlocutores, la intencionalidad y el contexto de producción, para participar en los procesos comunicativos de su entorno."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Busca información específica en los contenidos emitidos por diversos medios de comunicación",
+          "(Saber Hacer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general",
+          "(Saber Aplicar) Elige, entre diversos tipos de texto, aquel que mejor se adecúa al propósito comunicativo del texto que debe escribir."
+        ],
+        "saberes": [
+          "Temáticas para producción de textos narrativos.",
+          "Uso de almacenes de información para producción de textos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad temporal...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Elige, entre diversos tipos de texto, aquel que mejor se adecúa al propósito comunicativo del texto que debe escribir.",
+          "(Saber Hacer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general.",
+          "(Saber Aplicar) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general."
+        ],
+        "saberes": [
+          "Producción de textos escritos.",
+          "Corrección de textos gracias a la retroalimentación de terceros.",
+          "Características Formales de los Textos",
+          "Intenciones Comunicativas en los Textos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros.",
+          "(Saber Hacer) Infiere la intención comunicativa de los textos (narrar, informar, exponer, argumentar, describir) a partir de las circunstancias en que han sido creados.",
+          "(Saber Aplicar) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros."
+        ],
+        "saberes": [
+          "Hipótesis de interpretación de textos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "DBA-LEN-6-3 Reconoce las obras literarias como una posibilidad de circulación del conocimiento y de desarrollo de su imaginación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Define elementos literarios tales como personajes, lugar, tiempo, sentimientos acciones al interior de una obra literaria.",
+          "(Saber Hacer) Interpreta los argumentos y temáticas que se enuncian en las obras literarias para crear nuevos textos.",
+          "(Saber Aplicar) Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos"
+        ],
+        "saberes": [
+          "Textos de tradición oral y textos cotidianos.",
+          "Obras literarias y sus elementos constitutivos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "DBA-LEN-6-3 Reconoce las obras literarias como una posibilidad de circulación del conocimiento y de desarrollo de su imaginación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos.",
+          "(Saber Hacer) Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos",
+          "(Saber Aplicar) Comprende que las obras literarias se enmarcan en contextos culturales e históricos que promueven la circulación de ciertos conocimientos."
+        ],
+        "saberes": [
+          "Contextos culturales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (mediante ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda con sultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "DBA-LEN-6-1 Utiliza la información ofrecida por los medios de comunicación, teniendo en cuenta el mensaje, los interlocutores, la intencionalidad y el contexto de producción, para participar en los procesos comunicativos de su entorno."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Busca información específica en los contenidos emitidos por diversos medios de comunicación",
+          "(Saber Hacer) Interpreta los mensajes que circulan en los medios de comunicación de su contexto.",
+          "(Saber Aplicar) Reconoce una visión particular de mundo de las distintas interlocuciones a las que accede en los medios de comunicación."
+        ],
+        "saberes": [
+          "Información en medios de comunicación masiva"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reescribo un texto, teniendo en cuenta aspectos de coherencia (unidad temática, relaciones lógicas, consecutividad tempo ral...) y cohesión (conectores, pronombres, manejo de modos verbales, puntuación...). Utilizo estrategias descriptivas para producir un texto oral con fines argumentativos.",
+        "dba": [
+          "DBA-LEN-6-1 Utiliza la información ofrecida por los medios de comunicación, teniendo en cuenta el mensaje, los interlocutores, la intencionalidad y el contexto de producción, para participar en los procesos comunicativos de su entorno.",
+          "DBA-LEN-6-7 Produce discursos orales y los adecúa a las circunstancias del contexto: el público, la intención comunicativa y el tema a desarrollar"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Analiza el público a quien se dirige y las exigencias propias del contexto para producir textos orales.",
+          "(Saber Hacer) Analiza el público a quien se dirige y las exigencias propias del contexto para producir textos orales. Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros.",
+          "(Saber Aplicar) Selecciona las ideas que emplea en un discurso oral."
+        ],
+        "saberes": [
+          "Uso de almacenes de información para producción de textos.",
+          "Plan textual basado en descripciones y opiniones.",
+          "Plan textual.",
+          "Hipótesis propia.",
+          "Análisis de Medios de Comunicación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diver sos tipos de texto que he leído. -Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general.",
+          "(Saber Hacer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general",
+          "(Saber Aplicar) Propongo hipótesis de Interpretación para cada uno de los tipos de texto que he leído"
+        ],
+        "saberes": [
+          "Tipos de textos y sus diferencias y semejanzas.",
+          "Hipótesis de interpretación.",
+          "Tipos de textos y sus contenidos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Formulo hipótesis de comprensión acerca de las obras literarias que leo teniendo en cuenta género, temática, época y región.",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general.",
+          "(Saber Hacer) Interpreta los argumentos y temáticas que se enuncian en las obras literarias para crear nuevos textos. Infiere la intención comunicativa de los textos (narrar, informar, exponer, argumentar, describir) a partir de las circunstancias en que han sido creados.",
+          "(Saber Aplicar) Interpreta la función de elementos no verbales en el sentido del texto, como uso de negrita, corchetes, comillas, guiones, entre otros"
+        ],
+        "saberes": [
+          "Textos de tradición oral.",
+          "Hipótesis de comprensión de textos.",
+          "Textos de tradición oral y textos cotidianos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco que las variantes lingüísticas y culturales no impiden respetar al otro como interlocutor válido.",
+        "dba": [
+          "DBA-LEN-6-6 Comprende diversos tipos de texto, a partir del análisis de sus contenidos, características formales e intenciones comunicativas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general. Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos",
+          "(Saber Hacer) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general. Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos",
+          "(Saber Aplicar) Reconoce que los textos son el resultado de un grupo de párrafos que desarrollan ideas con diferente jerarquía y que están relacionados entre sí por un contenido general. Reconoce que elementos como el ritmo y la rima se emplean para comunicar sentimientos o emociones cuando se declaman textos poéticos"
+        ],
+        "saberes": [
+          "Variantes lingüísticas en el mundo.",
+          "Variantes lingüísticas y culturales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Organizo (mediante ordenación alfabética, temática, de autores, medio de difusión, entre muchas otras posibilidades) la información recopilada y la almaceno de tal forma que la pueda con sultar cuando lo requiera. Propongo hipótesis de interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras.",
+        "dba": [
+          "DBA-LEN-6-5 Interpreta obras de la tradición popular propias de su entorno."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Busca información específica en los contenidos emitidos por diversos medios de comunicación",
+          "(Saber Hacer) Retoma los formatos empleados por algunos medios de comunicación y los emplea como modelos para sus elaboraciones textuales",
+          "(Saber Aplicar) Interpreta los mensajes que circulan en los medios de comunicación de su contexto"
+        ],
+        "saberes": [
+          "Usos de la información que ofrecen los medios de comunicación masiva.",
+          "Almacenes de información",
+          "Interpretación de espectáculos teatrales, obras pictóricas, escultóricas, arquitectónicas, entre otras."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

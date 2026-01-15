@@ -1,0 +1,349 @@
+{
+  "area": "Lenguaje",
+  "grado": 1,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reviso, socializo y corrijo mis escritos, teniendo en cuenta las propuestas de mis compañeros y profesor, y atendiendo algunos aspectos gramaticales (concordancia, tiempos verbales, pronombres) y ortográficos (acentuación, mayúsculas, signos de puntuación) de la lengua castellana. Tengo en cuenta aspectos semánticos y morfosintácticos, de acuerdo con la situación comunicativa en la que intervengo.",
+        "dba": [
+          "Enuncia textos orales de diferente índole sobre temas de su interés o sugeridos por otros. (7)",
+          "Escribe diversos tipos de texto desarrollando un tema y manteniendo una estructura particular"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Emplea un lenguaje coherente con las situaciones comunicativas en las que participa",
+          "(Saber Hacer) Emplea un lenguaje coherente con las situaciones comunicativas en las que participa. Organiza sus ideas para dar claridad a los textos orales que produce. Redacta diferentes tipos de texto atendiendo a su estructura. Utiliza, de acuerdo con el contexto, un vocabulario adecuado para expresar mis ideas.",
+          "(Saber Aplicar) Emplea un lenguaje coherente con las situaciones comunicativas en las que participa."
+        ],
+        "saberes": [
+          "Abecedario.",
+          "Sílabas -inversas.",
+          "Combinación.",
+          "Consonantes.",
+          "Sílabas.",
+          "Nombre o -Sustantivo.",
+          "Artículo",
+          "Sinónimo y -Antónimo.",
+          "Diminutivo y Aumentativo",
+          "Textos descriptivos (autoretrato)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Elaboro hipótesis acerca del sentido global de los textos, antes y durante el proceso de lectura; para el efecto, me apoyo en mis conocimientos previos, las imágenes y los títulos.",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir del lenguaje verbal y no verbal que estos contienen. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Amplía su vocabulario con palabras nuevas que identifica en las lecturas que realiza. Reconoce que el cambio de un sonido vocálico o consonántico en una palabra modifica su significado.",
+          "(Saber Hacer) Reconoce que el cambio de un sonido vocálico o consonántico en una palabra modifica su significado.",
+          "(Saber Aplicar) Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan."
+        ],
+        "saberes": [
+          "Siluetas y formatos de textos",
+          "Propósito comunicativo e idea global de textos",
+          "El texto y sus partes.",
+          "Textos informativos",
+          "Estrategias para la comprensión de lectura (preguntas, ilustraciones)",
+          "Lectura de cuentos y análisis de su contenido",
+          "Exploración de la Narrativa"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Elaboro y socializo hipótesis predictivas acerca del contenido de los textos.",
+        "dba": [
+          "Interpreta diversos textos literarios a partir del reconocimiento de elementos formales y los relaciona con sus experiencias personales. (MR3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Escucha y lee textos literarios de diversos entornos culturales",
+          "(Saber Hacer) Escucha y lee textos literarios de diversos entornos culturales"
+        ],
+        "saberes": [
+          "Textos literarios (fábulas, cuentos, poemas, relatos mitológicos, leyendas, etc.)"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles de quien produce y de quien interpreta un texto",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir del lenguaje verbal y no verbal que estos contienen. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las intenciones de los gestos y los movimientos corporales de los interlocutores para dar cuenta de lo que quieren comunicar. Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan",
+          "(Saber Hacer) Identifica las intenciones de los gestos y los movimientos corporales de los interlocutores para dar cuenta de lo que quieren comunicar."
+        ],
+        "saberes": [
+          "La importancia de escuchar y expresarse en clase",
+          "Lenguaje corporal"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Utilizo los medios de comunicación masiva para adquirir información e incorporarla de manera significativa a mis esquemas de conocimiento. Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica.",
+        "dba": [
+          "Reconoce los diferentes medios de comunicación a los que tiene acceso.",
+          "Interpreta el significado que pueden tener los códigos no verbales de acuerdo con el contexto"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Establece semejanzas y diferencias entre los principales medios de comunicación de su contexto: radio, periódicos, televisión, revistas, vallas publicitarias, afiches e internet.",
+          "(Saber Hacer) Establece semejanzas y diferencias entre los principales medios de comunicación de su contexto: radio, periódicos, televisión, revistas, vallas publicitarias, afiches e internet",
+          "(Saber Aplicar) Establece semejanzas y diferencias entre los principales medios de comunicación de su contexto: radio, periódicos, televisión, revistas, vallas publicitarias, afiches e internet"
+        ],
+        "saberes": [
+          "Medios de comunicación masiva: La radio, La televisión",
+          "¿Qué información podemos encontrar en los medios de comunicación y cómo puedo usarla?",
+          "Medios de expresión gráfica (caricaturas, tiras cómicas, historietas, anuncios publicitarios)"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reviso, socializo y corrijo mis escritos, teniendo en cuenta las propuestas de mis compañeros y profesor, y atendiendo algunos aspectos gramaticales (concordancia, tiempos verbales, pronombres) y ortográficos (acentuación, mayúsculas, signos de puntuación) de la lengua castellana. Tengo en cuenta aspectos semánticos y morfosintácticos, de acuerdo con la situación comunicativa en la que intervengo",
+        "dba": [
+          "Enuncia textos orales de diferente índole sobre temas de su interés o sugeridos por otros.",
+          "Escribe diversos tipos de texto desarrollando un tema y manteniendo una estructura particular"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Utilizo, de acuerdo con el contexto, un vocabulario adecuado para expresar mis ideas.",
+          "(Saber Hacer) Redacta diferentes tipos de texto atendiendo a su estructura",
+          "(Saber Aplicar) Redacta diferentes tipos de texto atendiendo a su estructura"
+        ],
+        "saberes": [
+          "La Biblioteca.",
+          "El libro y diccionario.",
+          "Fuentes de información (personas, medios de comunicación y libros, entre otros.",
+          "Cancione, Coplas y Poesías."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Elaboro hipótesis acerca del sentido global de los textos, antes y durante el proceso de lectura; para el efecto, me apoyo en mis conocimientos previos, las imágenes y los títulos.",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir del lenguaje verbal y no verbal que estos contienen. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones",
+          "(Saber Hacer) Infiere significados en los textos literarios que lee a partir de sus imágenes. Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones.",
+          "(Saber Aplicar) Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones."
+        ],
+        "saberes": [
+          "Presentación de Temas de Interés",
+          "Escritura de Textos Descriptivos",
+          "Narración de Cuentos",
+          "Revisión y Corrección de Textos",
+          "Elaboración de Textos Instructivos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Elaboro y socializo hipótesis predictivas acerca del contenido de los textos.",
+        "dba": [
+          "Interpreta diversos textos literarios a partir del reconocimiento de elementos formales y los relaciona con sus experiencias personales (MR 4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comparte sus impresiones sobre los textos literarios y las relaciona con situaciones que se dan en los contextos donde vive.",
+          "(Saber Hacer) Comparte sus impresiones sobre los textos literarios y las relaciona con situaciones que se dan en los contextos donde vive.",
+          "(Saber Aplicar) Comparte sus impresiones sobre los textos literarios y las relaciona con situaciones que se dan en los contextos donde vive."
+        ],
+        "saberes": [
+          "Poemas, cuentos y obras de teatro.",
+          "Textos e hipótesis",
+          "Lectura de cuentos y análisis de su contenido",
+          "Palabras para jugar (rimas, trabalenguas, retahílas, adivinanzas",
+          "Periódicos para Niños"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles de quien produce y de quien interpreta un texto",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir del lenguaje verbal y no verbal que estos contienen (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones",
+          "(Saber Hacer) Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones. Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan. Identifica la relación entre las letras y sus sonidos para leer convencionalmente.",
+          "(Saber Aplicar) Reconoce que el cambio de un sonido vocálico o consonántico en una palabra modifica su significado."
+        ],
+        "saberes": [
+          "Procesos comunicativos y sus elementos",
+          "Elementos de la comunicación (emisor, receptor, código, mensaje"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Utilizo los medios de comunicación masiva para adquirir información e incorporarla de manera significativa a mis esquemas de conocimiento. Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica",
+        "dba": [
+          "Reconoce los diferentes medios de comunicación a los que tiene acceso. (MR1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica.",
+          "(Saber Hacer) Entiendo el lenguaje empleado en historietas y otros tipos de textos empleados en imágenes fijas.",
+          "(Saber Aplicar) Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica."
+        ],
+        "saberes": [
+          "Medios de comunicación masiva: la cine, internet, el periódico"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Reviso, socializo y corrijo mis escritos, teniendo en cuenta las propuestas de mis compañeros y profesor, y atendiendo algunos aspectos gramaticales (concordancia, tiempos verbales, pronombres) y ortográficos (acentuación, mayúsculas, signos de puntuación) de la lengua castellana. Tengo en cuenta aspectos semánticos y morfosintácticos, de acuerdo con la situación comunicativa en la que intervengo.",
+        "dba": [
+          "Reconoce las temáticas presentes en los mensajes que escucha, a partir de la diferenciación de los sonidos que componen las palabras. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Expresa sus ideas en torno a un tema a partir del vocabulario que conoce",
+          "(Saber Hacer) Construye textos para relatar, opinar, instruir o informar en los contextos en los que interactúa.",
+          "(Saber Aplicar) Redacta diferentes tipos de texto atendiendo a su estructura"
+        ],
+        "saberes": [
+          "Plan textual para producción de texto descriptivo.",
+          "Secuencia de eventos",
+          "Características de personas, objetos, lugares, etc.",
+          "Texto narrativo",
+          "Texto instructivo"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Elaboro hipótesis acerca del sentido global de los textos, antes y durante el proceso de lectura; para el efecto, me apoyo en mis conocimientos previos, las imágenes y los títulos.",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir de la lectura de palabras sencillas y de las imágenes que contienen (6)",
+          "Reconoce en los textos literarios la posibilidad de desarrollar su capacidad creativa y lúdica. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Amplía su vocabulario con palabras nuevas que identifica en las lecturas que realiza. Escucha y lee textos literarios de diversos entornos culturales",
+          "(Saber Hacer) Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan. Interactúa en dinámicas grupales que incluyen: declamación, canto, música, recitales o juegos de palabras.",
+          "(Saber Aplicar) Interactúa en dinámicas grupales que incluyen: declamación, canto, música, recitales o juegos de palabras. Escucha y lee textos literarios de diversos entornos culturales. Interactúa en dinámicas grupales que incluyen: declamación, canto, música, recitales o juegos de palabras"
+        ],
+        "saberes": [
+          "Formatos, temáticas y funciones de textos",
+          "Hipótesis sobre sentidos globales de textos",
+          "El adjetivo",
+          "La narración y su descripción",
+          "Palabras simples y compuestas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Elaboro y socializo hipótesis predictivas acerca del contenido de los textos.",
+        "dba": [
+          "Reconoce en los textos literarios la posibilidad de desarrollar su capacidad creativa y lúdica. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica que hay diferencias en la forma en que se escriben diversos textos literarios",
+          "(Saber Hacer) Infiere significados en los textos literarios que lee a partir de sus imágenes",
+          "(Saber Aplicar) Infiere significados en los textos literarios que lee a partir de sus imágenes"
+        ],
+        "saberes": [
+          "Organización de textos: linea de tiempo.",
+          "Autobiografia.",
+          "El Valor de la Música en la Literatura",
+          "Dramatización de Cuentos",
+          "El Proceso de Contar Cuentos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Identifico en situaciones comunicativas reales los roles de quien produce y de quien interpreta un texto",
+        "dba": [
+          "Interpreta diversos tipos de textos a partir del lenguaje verbal y no verbal que estos contienen (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Entiende el propósito de los textos que lee, apoyándose en sus títulos, imágenes e ilustraciones.",
+          "(Saber Hacer) Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan.",
+          "(Saber Aplicar) Explica las relaciones entre lo que dice un texto y lo que muestran las imágenes que lo acompañan."
+        ],
+        "saberes": [
+          "Texto discontinuo",
+          "Preguntas de comprobación de lectura (videos, imágenes)",
+          "Intención comunicativa de un texto",
+          "Uso de Recursos Visuales en la Comunicación",
+          "Narración de Experiencias Personales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Utilizo los medios de comunicación masiva para adquirir información e incorporarla de manera significativa a mis esquemas de conocimiento. Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica",
+        "dba": [
+          "Relaciona códigos no verbales, como los movimientos corporales y los gestos de las manos o del rostro, con el significado que pueden tomar de acuerdo con el contexto (2)",
+          "Enuncia textos orales de diferente índole sobre temas de su interés o sugeridos por otros. (7)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las intenciones de los gestos y los movimientos corporales de los interlocutores para dar cuenta de lo que quieren comunicar.",
+          "(Saber Hacer) Emplea un lenguaje coherente con las situaciones comunicativas en las que participa",
+          "(Saber Aplicar) Emplea un lenguaje coherente con las situaciones comunicativas en las que participa"
+        ],
+        "saberes": [
+          "Historietas y viñetas",
+          "Lenguaje usado en historietas e imágenes fijas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

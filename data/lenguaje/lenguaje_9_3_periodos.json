@@ -1,0 +1,336 @@
+{
+  "area": "Lenguaje",
+  "grado": 9,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Identifico estrategias que garantizan coherencia, cohesión y pertinencia del texto. Utilizo el discurso oral para establecer acuerdos a partir del reconocimiento de los argumentos de mis interlocutores y la fuerza de mis propios argumentos.",
+        "dba": [
+          "Produce textos orales, a partir del empleo de diversas estrategias para exponer sus argumentos. (7)",
+          "Produce textos verbales y no verbales, a partir de los planes textuales que elabora, y siguiendo procedimientos sistemáticos de corrección lingüística. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Argumenta las posturas y sugerencias que plantea, en el momento de proponer alternativas para resolver un problema",
+          "(Saber Hacer) Argumenta las posturas y sugerencias que plantea, en el momento de proponer alternativas para resolver un problema.",
+          "(Saber Aplicar) Evalúa el rol que debe cumplir como enunciador de un texto, según el propósito elegido y la situación comunicativa particular"
+        ],
+        "saberes": [
+          "Fuentes para producción de textos.",
+          "Texto explicativo",
+          "Elementos de la producción textual",
+          "Estrategias de cohesión y coherencia"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos.",
+        "dba": [
+          "Analiza el lenguaje literario como una manifestación artística que permite crear ficciones y expresar pensamientos o emociones. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica estrategias narrativas relacionadas con el abordaje de hechos históricos o problemáticas reales, en obras literarias o en producciones cinematográficas.",
+          "(Saber Hacer) Da cuenta del papel que desempeñan el interlocutor y el contexto en relación con la temática tratada y plantea su posición sobre la misma.",
+          "(Saber Aplicar) Relaciona su interpretación de una obra literaria con las visiones de mundo vigentes en una época y/o movimiento literario."
+        ],
+        "saberes": [
+          "Sentido global de textos.",
+          "Introducción a los géneros narrativos",
+          "Tradición oral y su influencia en la narrativa"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Identifico los recursos del lenguaje empleados por autores latinoamericanos de diferentes épocas y los comparo con los empleados por autores de otros contextos temporales y espaciales, cuando sea pertinente.",
+        "dba": [
+          "Compara los formatos de obras literarias y de producciones audiovisuales con el propósito de analizar elementos propios de la narración. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las problemáticas o los hechos narrados en obras literarias y en producciones audiovisuales.",
+          "(Saber Hacer) Reconoce las problemáticas o los hechos narrados en obras literarias y en producciones audiovisuales.",
+          "(Saber Aplicar) Reconoce las problemáticas o los hechos narrados en obras literarias y en producciones audiovisuales."
+        ],
+        "saberes": [
+          "Producciones literarias de tradición oral latinoamericana."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco el lenguaje como capacidad humana que configura múltiples sistemas simbólicos y posibilita los procesos de significar y comunicar",
+        "dba": [
+          "Incorpora símbolos de orden deportivo, cívico, político, religioso, científico o publicitario en los discursos que produce, teniendo claro su uso dentro del contexto. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la función que cumplen diferentes símbolos y signos en los contextos comunicativos en los que participa.",
+          "(Saber Hacer) Identifica la función que cumplen diferentes símbolos y signos en los contextos comunicativos en los que participa."
+        ],
+        "saberes": [
+          "Lenguaje humano",
+          "Ética en la comunicación",
+          "Lenguaje y poder",
+          "Simbolismo en la comunicación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto elementos políticos, culturales e ideológicos que están presentes en la información que difunden los medios masivos y adopto una posición crítica frente a ellos.",
+        "dba": [
+          "Confronta los discursos provenientes de los medios de comunicación con los que interactúa en el medio para afianzar su punto de vista particular. (1)",
+          "Incorpora símbolos de orden deportivo, cívico, político, religioso, científico o publicitario en los discursos que produce, teniendo claro su uso dentro del contexto. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren",
+          "(Saber Hacer) Participa en medios escolares en los que plantea su postura frente a un acontecimiento, situación o problemática que llama su atención o que incide en la cotidianidad institucional",
+          "(Saber Aplicar) Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren."
+        ],
+        "saberes": [
+          "Manifestaciones del lenguaje no verbal (música, pintura, escultura, arquitectura, mapas y tatuajes, entre otras.)",
+          "Elementos ideológicos en la información",
+          "Confrontación de discursos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Identifico estrategias que garantizan coherencia, cohesión y pertinencia del texto. Utilizo el discurso oral para establecer acuerdos a partir del reconocimiento de los argumentos de mis interlocutores y la fuerza de mis propios argumentos.",
+        "dba": [
+          "Comprende y respeta las opiniones en debates sobre temas de actualidad social. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Respeta los diferentes puntos de vista de sus compañeros y los turnos para tomar la palabra, en los debates en los que participa.",
+          "(Saber Hacer) Respeta los diferentes puntos de vista de sus compañeros y los turnos para tomar la palabra, en los debates en los que participa.",
+          "(Saber Aplicar) Respeta los diferentes puntos de vista de sus compañeros y los turnos para tomar la palabra, en los debates en los que participa."
+        ],
+        "saberes": [
+          "Reglas sintácticas, semánticas y pragmáticas.",
+          "El uso de recursos lingüísticos en la argumentación",
+          "La importancia del contexto en la producción textual",
+          "Estrategias para el discurso oral"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos.",
+        "dba": [
+          "Interpreta textos atendiendo al funcionamiento de la lengua en situaciones de comunicación, a partir del uso de estrategias de lectura. (6)",
+          "Compara los formatos de obras literarias y de producciones audiovisuales con el propósito de analizar elementos propios de la narración. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la literatura como una memoria de los pensamientos y sucesos de una región o un país",
+          "(Saber Hacer) Reconoce la literatura como una memoria de los pensamientos y sucesos de una región o un país",
+          "(Saber Aplicar) Reconoce la literatura como una memoria de los pensamientos y sucesos de una región o un país"
+        ],
+        "saberes": [
+          "Intención comunicativa de textos.",
+          "Hipótesis de lectura en textos",
+          "Análisis de poemas de diferentes tradiciones",
+          "Lenguaje figurativo"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Identifico los recursos del lenguaje empleados por autores latinoamericanos de diferentes épocas y los comparo con los empleados por autores de otros contextos temporales y espaciales, cuando sea pertinente.",
+        "dba": [
+          "Interpreta textos atendiendo al funcionamiento de la lengua en situaciones de comunicación, a partir del uso de estrategias de lectura. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Infiere significados implícitos y referentes ideológicos, sociales y culturales en los textos que lee.",
+          "(Saber Hacer) Infiere significados implícitos y referentes ideológicos, sociales y culturales en los textos que lee"
+        ],
+        "saberes": [
+          "Obras literarias de autores latinoamericanos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco el lenguaje como capacidad humana que configura múltiples sistemas simbólicos y posibilita los procesos de significar y comunicar",
+        "dba": [
+          "Incorpora símbolos de orden deportivo, cívico, político, religioso, científico o publicitario en los discursos que produce, teniendo claro su uso dentro del contexto. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la función que cumplen diferentes símbolos y signos en los contextos comunicativos en los que participa.",
+          "(Saber Hacer) Identifica la función que cumplen diferentes símbolos y signos en los contextos comunicativos en los que participa."
+        ],
+        "saberes": [
+          "Lengua",
+          "Símbolos en la cultura y la sociedad",
+          "Análisis crítico de discursos",
+          "Ética en la publicidad y la comunicación política"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto elementos políticos, culturales e ideológicos que están presentes en la información que difunden los medios masivos y adopto una posición crítica frente a ellos.",
+        "dba": [
+          "Confronta los discursos provenientes de los medios de comunicación con los que interactúa en el medio para afianzar su punto de vista particular. (1)",
+          "Incorpora símbolos de orden deportivo, cívico, político, religioso, científico o publicitario en los discursos que produce, teniendo claro su uso dentro del contexto. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren.",
+          "(Saber Hacer) Infiere significados implícitos, referentes ideológicos, sociales y culturales en los medios con los que interactúa.",
+          "(Saber Aplicar) Utiliza símbolos, íconos u otras representaciones gráficas en los discursos que produce y los vincula con los conceptos de las temáticas a las que se refieren."
+        ],
+        "saberes": [
+          "Medios masivos y su información que ofrece.",
+          "Manifestaciones de lenguaje no verbal",
+          "Simbolismo en la política y la publicidad",
+          "El rol del ciudadano en la era digital"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Producción Textual",
+        "estandar": "Identifico estrategias que garantizan coherencia, cohesión y pertinencia del texto. Utilizo el discurso oral para establecer acuerdos a partir del reconocimiento de los argumentos de mis interlocutores y la fuerza de mis propios argumentos.",
+        "dba": [
+          "Comprende y respeta las opiniones en debates sobre temas de actualidad social. (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Da cuenta del orden en el que se produce una conversación y de los mecanismos que median la toma de decisiones y la interacción oral con otros.",
+          "(Saber Hacer) Reconoce las posiciones de sus compañeros en un debate, a partir de la comparación entre lo que escucha y lo que piensa en torno a un tema. Explica el significado de los conceptos que utiliza en sus opiniones y realiza una síntesis de las ideas más relevantes de su intervención",
+          "(Saber Aplicar) Evalúa el seguimiento de un plan textual y el uso adecuado de elementos gramaticales y ortográficos en los textos que escribe"
+        ],
+        "saberes": [
+          "Plan expositivo.",
+          "Plan textual",
+          "Discurso oral.",
+          "Elaboración de un plan de exposición",
+          "Procedimientos de corrección lingüística"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Comprensión e interpretación textual",
+        "estandar": "Establezco relaciones de semejanza y diferencia entre los diversos tipos de texto que he leído. Establezco relaciones entre los textos provenientes de la tradición oral y otros textos en cuanto a temas, personajes, lenguaje, entre otros aspectos.",
+        "dba": [
+          "Analiza el lenguaje literario como una manifestación artística que permite crear ficciones y expresar pensamientos o emociones. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona su interpretación de una obra literaria con las visiones de mundo vigentes en una época y/o movimiento literario",
+          "(Saber Hacer) Relaciona su interpretación de una obra literaria con las visiones de mundo vigentes en una época y/o movimiento literario",
+          "(Saber Aplicar) Relaciona su interpretación de una obra literaria con las visiones de mundo vigentes en una época y/o movimiento literario"
+        ],
+        "saberes": [
+          "Aspectos textuales, conceptuales y formales de textos.",
+          "Hipótesis de lectura de textos.",
+          "Textos y su sentido global y el contexto en el cual se han producido",
+          "Emociones y pensamientos en la poesía"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Literatura",
+        "estandar": "Identifico los recursos del lenguaje empleados por autores latinoamericanos de diferentes épocas y los comparo con los empleados por autores de otros contextos temporales y espaciales, cuando sea pertinente.",
+        "dba": [
+          "Produce textos orales, a partir del empleo de diversas estrategias para exponer sus argumentos. (7)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la forma como se presentan los contenidos en textos literarios (prosa o verso) y en textos audiovisuales (planos, ángulos, movimientos de la cámara).",
+          "(Saber Hacer) Infiere significados implícitos y referentes ideológicos, sociales y culturales en los textos que lee.",
+          "(Saber Aplicar) Da cuenta del papel que desempeñan el interlocutor y el contexto en relación con la temática tratada y plantea su posición sobre la misma."
+        ],
+        "saberes": [
+          "Momentos de la literatura latinoamericana",
+          "Recursos de lenguajes en obras literarias de autores latinoamericanos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ética de la Comunicación",
+        "estandar": "Reconozco el lenguaje como capacidad humana que configura múltiples sistemas simbólicos y posibilita los procesos de significar y comunicar",
+        "dba": [
+          "Interpreta textos atendiendo al funcionamiento de la lengua en situaciones de comunicación, a partir del uso de estrategias de lectura. (6)",
+          "Produce textos verbales y no verbales, a partir de los planes textuales que elabora, y siguiendo procedimientos sistemáticos de corrección lingüística. (8)"
+        ],
+        "evidencias": [
+          "(Saber Hacer) Infiere significados implícitos y referentes ideológicos, sociales y culturales en los textos que lee.",
+          "(Saber Aplicar) Evalúa el seguimiento de un plan textual y el uso adecuado de elementos gramaticales y ortográficos en los textos que escribe"
+        ],
+        "saberes": [
+          "Dinámica en el proceso de comunicación.",
+          "Aportes ortográficos",
+          "Diferencias textuales con terceros"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Medios de Comunicación y otros sistemas simbólicos",
+        "estandar": "Interpreto elementos políticos, culturales e ideológicos que están presentes en la información que difunden los medios masivos y adopto una posición crítica frente a ellos.",
+        "dba": [
+          "Confronta los discursos provenientes de los medios de comunicación con los que interactúa en el medio para afianzar su punto de vista particular. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Participa en medios escolares en los que plantea su postura frente a un acontecimiento, situación o problemática que llama su atención o que incide en la cotidianidad institucional",
+          "(Saber Hacer) Infiere significados implícitos, referentes ideológicos, sociales y culturales en los medios con los que interactúa.",
+          "(Saber Aplicar) Participa en medios escolares en los que plantea su postura frente a un acontecimiento, situación o problemática que llama su atención o que incide en la cotidianidad institucional."
+        ],
+        "saberes": [
+          "Fuentes bibliográficas.",
+          "Medios de difusión masiva y contextos en los que intervengo.",
+          "Discurso oral en medios de comunicación masiva.",
+          "Información políticas, culturales e ideológicas en medios masiva.",
+          "Manifestaciones artísticas no verbales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}
