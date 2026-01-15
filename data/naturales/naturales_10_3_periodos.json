@@ -1,0 +1,273 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "10",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas.",
+        "dba": [
+          "DBA-NAT-10-4 Comprende que la biotecnología conlleva el uso y manipulación de la información genética a través de distintas técnicas (fertilización asistida, clonación reproductiva y terapéutica, modificación genética, terapias génicas), y que tiene implicaciones sociales, bioéticas y ambientales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco las técnicas de biotecnología como la fertilización asistida, la clonación reproductiva y terapéutica, la modificación genética y las terapias génicas, así como su impacto en la genética humana y en la medicina.",
+          "(Saber Hacer) Analizo los posibles beneficios y riesgos asociados con estas tecnologías y de discutir las implicaciones éticas y sociales, como la creación de seres humanos modificados genéticamente o los posibles efectos ambientales de los OGM.",
+          "(Saber Aplicar) Aplico el conocimiento adquirido para evaluar los casos de biotecnología en la actualidad, considerando sus implicaciones desde una perspectiva ética y ambiental."
+        ],
+        "saberes": [
+          "La influencia del ADN y el ambiente en la diversidad de los seres vivos.",
+          "Diversas relaciones entre especies en los ecosistemas.",
+          "Principios termodinámicos en acción: Ejemplos en diversos ecosistemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico.",
+        "dba": [
+          "DBA-NAT-10-3 Comprende que los diferentes mecanismos de reacción química (óxido-reducción, descomposición, neutralización y precipitación) posibilitan la formación de compuestos inorgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco las principales teorías sobre la estructura del átomo, desde los modelos más antiguos hasta los más modernos, como el modelo de Dalton, el modelo de Thomson, el modelo de Rutherford, el modelo de Bohr y el modelo cuántico.",
+          "(Saber Hacer) Describo cómo cada modelo atómico se desarrolló y sus contribuciones a la comprensión de la estructura atómica.",
+          "(Saber Aplicar) Aplico el modelo atómico más adecuado para explicar los comportamientos de los átomos en situaciones específicas, como las interacciones químicas entre átomos en una reacción o la formación de enlaces covalentes e iónicos."
+        ],
+        "saberes": [
+          "De Dalton a la mecánica cuántica: La evolución de las teorías sobre la estructura atómica.",
+          "De la estructura atómica a los enlaces químicos: Cómo la configuración electrónica determina la formación de enlaces.",
+          "Modelos para explicar los cambios químicos.",
+          "Descubriendo las propiedades de los elementos a través de la tabla periódica"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Explico las fuerzas entre objetos como interacciones debidas a la carga eléctrica y a la masa. Utilizo modelos biológicos, físicos y químicos para explicar la transformación y conservación de la energía",
+        "dba": [
+          "DBA-NAT-10-1 Comprende, que el reposo o el movimiento rectilíneo uniforme, se presentan cuando las fuerzas aplicadas sobre el sistema se anulan entre ellas, y que en presencia de fuerzas resultantes no nulas se producen cambios de velocidad.",
+          "DBA-NAT-10-2 Comprende la conservación de la energía mecánica como un principio que permite cuantificar y explicar diferentes fenómenos mecánicos: choques entre cuerpos, movimiento pendular, caída libre, deformación de un sistema masa-resorte."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco que la energía mecánica se conserva cuando no hay fuerzas no conservativas actuando sobre un sistema, y cómo se transforma en energía térmica cuando existen fuerzas de fricción.",
+          "(Saber Hacer) Aplico la ley de gravitación universal para calcular la fuerza gravitacional entre dos cuerpos y relacionarla con el modelo de campo gravitacional.",
+          "(Saber Aplicar) Calculo la transformación de energía mecánica en energía térmica mediante la ecuación de la energía cinética y la ley de conservación de la energía, y entender cómo la fricción juega un papel clave en este proceso."
+        ],
+        "saberes": [
+          "Fuerzas y conservación de la energía mecánica: Principios fundamentales de la física.",
+          "De la energía mecánica a la energía térmica: Procesos de transformación.",
+          "Gravedad en acción: Modelo de campo gravitacional y ley de gravitación universal.",
+          "De lo macro a lo micro: Cómo las fuerzas electrostáticas y su origen a las fuerzas macroscópicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifico los factores culturales, tecnológicos y éticos que afectan la sexualidad y la reproducción humana, incluyendo técnicas como la fertilización asistida, la clonación y las terapias génicas.",
+          "(Saber Hacer) Analizo cómo los avances tecnológicos influyen en las decisiones reproductivas, reflexionando sobre su impacto en diferentes culturas y contextos sociales.",
+          "(Saber Aplicar) Evalúo casos reales o hipotéticos para identificar el papel de factores culturales y tecnológicos en la toma de decisiones sobre la sexualidad y la reproducción."
+        ],
+        "saberes": [
+          "Sexualidad y reproducción humanas: La influencia de los factores culturales y tecnológicos.",
+          "Cambios químicos en la vida cotidiana: De la cocina a la industria y el ambiente.",
+          "Mecánica de fluidos en acción: Aplicaciones tecnológicas en diversos campos.",
+          "El poder del deporte: Mejorando la salud física y mental."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas.",
+        "dba": [
+          "DBA-NAT-10-4 Comprende que la biotecnología conlleva el uso y manipulación de la información genética a través de distintas técnicas (fertilización asistida, clonación reproductiva y terapéutica, modificación genética, terapias génicas), y que tiene implicaciones sociales, bioéticas y ambientales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco las técnicas biotecnológicas más comunes y sus aplicaciones, como la fertilización asistida, la clonación, y las terapias génicas, así como sus implicaciones sociales, éticas y ambientales.",
+          "(Saber Hacer) Analizo ejemplos concretos del uso de técnicas biotecnológicas para identificar sus beneficios y posibles riesgos.",
+          "(Saber Aplicar) Propongo soluciones éticas y sostenibles frente a desafíos derivados del uso de la biotecnología en un contexto social o ambiental específico."
+        ],
+        "saberes": [
+          "Evolución en acción: Mutación, selección natural y herencia.",
+          "Selección natural en acción: Ejemplos en especies actuales.",
+          "Principios termodinámicos en acción: Cómo se manifiestan en los ecosistema"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico.",
+        "dba": [
+          "DBA-NAT-10-3 Comprende que los diferentes mecanismos de reacción química (óxido-reducción, descomposición, neutralización y precipitación) posibilitan la formación de compuestos inorgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco cómo la estructura de los átomos determina los enlaces químicos que forman y cómo estos enlaces, junto con los grupos funcionales presentes, influyen en las propiedades físicas y químicas de las sustancias.",
+          "(Saber Hacer) Analizo la relación entre la estructura atómica, los enlaces químicos, y los grupos funcionales mediante la interpretación de modelos moleculares y diagramas estructurales.",
+          "(Saber Aplicar) Explico cómo las características de los enlaces y los grupos funcionales impactan fenómenos cotidianos, como la solubilidad de sustancias o su capacidad de reacción en diferentes contextos."
+        ],
+        "saberes": [
+          "Energía nuclear: Obtención a partir de la alteración de la estructura atómica.",
+          "Descubriendo las propiedades de los elementos a través de la tabla periódica.",
+          "De átomos a enlaces: Cómo la estructura interna determina la unión química.",
+          "Grupos funcionales inorgánicos y nomenclatura."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Explico las fuerzas entre objetos como interacciones debidas a la carga eléctrica y a la masa. Utilizo modelos biológicos, físicos y químicos para explicar la transformación y conservación de la energía.",
+        "dba": [
+          "DBA-NAT-10-2 Comprende la conservación de la energía mecánica como un principio que permite cuantificar y explicar diferentes fenómenos mecánicos: choques entre cuerpos, movimiento pendular, caída libre, deformación de un sistema masa-resorte."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo la energía mecánica se transforma en energía térmica y establecer las relaciones fundamentales entre los campos gravitacionales, electrostáticos, eléctricos y magnéticos.",
+          "(Saber Hacer) Analizo situaciones que involucren transformaciones de energía y las interacciones entre campos físicos mediante representaciones gráficas, matemáticas y experimentales.",
+          "(Saber Aplicar) Explico fenómenos cotidianos y tecnológicos, como el calentamiento por fricción o la interacción entre imanes y cargas eléctricas, con base en las transformaciones de energía y los principios de los campos."
+        ],
+        "saberes": [
+          "Fuerzas",
+          "Impulso",
+          "Trabajo y energía",
+          "Campos gravitacionales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo funcionan los antibióticos, los riesgos asociados a su uso indebido, los efectos nocivos del consumo excesivo de sustancias como tabaco, alcohol y drogas, y la importancia de las medidas preventivas contra embarazos no deseados y enfermedades de transmisión sexual.",
+          "(Saber Hacer) Identifico ejemplos de antibióticos y su acción sobre microorganismos, analizar las consecuencias del abuso de sustancias y argumentar estrategias de prevención que promuevan la salud individual y colectiva.",
+          "(Saber Aplicar) Promuevo hábitos responsables en el uso de medicamentos, sustancias recreativas y medidas de protección sexual, relacionándolos con la mejora del bienestar físico y social."
+        ],
+        "saberes": [
+          "Antibióticos: Cómo funcionan y la importancia de su uso correcto.",
+          "Exceso en el consumo: Reconociendo los efectos nocivos.",
+          "Prevención del embarazo y las enfermedades de transmisión sexual: Claves para la salud individual y colectiva"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico las relaciones entre materia y energía en las cadenas alimentarias.",
+        "dba": [
+          "DBA-NAT-10 Comprende que en las cadenas y redes tróficas existen flujos de materia y energía, y los relaciona con procesos de nutrición, fotosíntesis y respiración celular."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco la fotosíntesis como un proceso esencial para la conversión de energía solar en materia orgánica, utilizando dióxido de carbono y agua, y comprender su influencia en la composición de la atmósfera terrestre.",
+          "(Saber Hacer) Explico el mecanismo de la fotosíntesis y analizar los posibles efectos de su disminución a nivel global, como el aumento de dióxido de carbono y su impacto en el calentamiento global.",
+          "(Saber Aplicar) Propongo estrategias para mitigar los efectos de la deforestación masiva, promoviendo la conservación de ecosistemas y la reforestación como herramientas para mantener el equilibrio atmosférico."
+        ],
+        "saberes": [
+          "Flujo de materia y energía en las cadenas alimentarias: Clave para comprender los ecosistemas.",
+          "Fotosíntesis: Pilar de la vida para organismos aerobios.",
+          "Ciclos biogeoquímicos y energía en los ecosistemas: Una relación interdependiente."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico",
+        "dba": [
+          "DBA-NAT-10-3 Comprende que los diferentes mecanismos de reacción química (óxido-reducción, descomposición, neutralización y precipitación) posibilitan la formación de compuestos inorgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo la presión, la temperatura y las condiciones de equilibrio influyen en los cambios químicos, además de reconocer su presencia en la vida cotidiana y el medio ambiente.",
+          "(Saber Hacer) Analizo y verifico experimentalmente los efectos de la presión y la temperatura en reacciones químicas, identificar factores que controlan su velocidad y caracterizar cambios químicos bajo condiciones de equilibrio.",
+          "(Saber Aplicar) Propongo estrategias para optimizar procesos químicos en contextos cotidianos e industriales, asegurando sostenibilidad y eficiencia."
+        ],
+        "saberes": [
+          "Cálculos cuantitativos en cambios químicos: Herramientas para comprender y predecir.",
+          "Presión y temperatura: Factores clave que influyen en los cambios químicos",
+          "Cambios químicos en equilibrio: características y aplicaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Explico las fuerzas entre objetos como interacciones debidas a la carga eléctrica y a la masa. Utilizo modelos biológicos, físicos y químicos para explicar la transformación y conservación de la energía.",
+        "dba": [
+          "DBA-NAT-10-2 Comprende la conservación de la energía mecánica como un principio que permite cuantificar y explicar diferentes fenómenos mecánicos: choques entre cuerpos, movimiento pendular, caída libre, deformación de un sistema masa-resorte.",
+          "DBA-NAT-10 Comprende las relaciones entre corriente y voltaje en circuitos resistivos sencillos en serie, en paralelo y mixtos"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco los conceptos de estabilidad, centro de masa, comportamiento de fluidos, y las relaciones fundamentales entre voltaje, corriente y los elementos de un circuito eléctrico.",
+          "(Saber Hacer) Analizo y modelo matemáticamente el movimiento de objetos cotidianos, considerando fuerzas y condiciones de estabilidad; además, interpretar el comportamiento de fluidos en reposo y movimiento, y resolver problemas de circuitos eléctricos complejos.",
+          "(Saber Aplicar) Diseño soluciones prácticas en contextos de ingeniería, arquitectura o tecnología, utilizando los principios de estabilidad, dinámica de fluidos y circuitos eléctricos."
+        ],
+        "saberes": [
+          "Centro de masa y estabilidad: una relación clave en la dinámica de los objetos.",
+          "Fluidos en movimiento y en reposo: Principios y comportamientos clave.",
+          "Modelado matemático del movimiento de objetos cotidianos: Aplicando las leyes de la física.",
+          "Voltaje, corriente y elementos en circuitos eléctricos complejos: Relaciones clave"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifico los recursos naturales disponibles para la obtención de energía y sus aplicaciones; así mismo, comprendo la conexión entre el deporte y sus beneficios para la salud física y mental.",
+          "(Saber Hacer) Evalúo el potencial de los recursos naturales en distintos contextos energéticos y diseñar propuestas que optimicen su uso; desarrollar planes de actividad física que fomenten el bienestar físico y mental.",
+          "(Saber Aplicar) Propongo alternativas sostenibles de obtención de energía según el entorno, y adoptar hábitos deportivos como parte de un estilo de vida saludable."
+        ],
+        "saberes": [
+          "Recursos naturales: Fuentes de energía para un futuro sostenible.",
+          "Deporte y salud: una relación de doble vía."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

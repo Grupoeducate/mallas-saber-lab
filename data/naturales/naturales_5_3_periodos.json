@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "5",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la importancia de la célula como unidad básica de los seres vivos. Identifico los niveles de organización celular de los seres vivos. Identifico en mi entorno objetos que cumplen funciones similares a las de mis órganos y sustento la comparación.",
+        "dba": [
+          "DBA-NAT-5-3 Comprende que los sistemas del cuerpo humano están formados por órganos, tejidos y células y que la estructura de cada tipo de célula está relacionada con la función del tejido que forman."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica de manera detallada la importancia fundamental de la célula como unidad estructural y funcional en los seres vivos, y describe con precisión los niveles de organización celular desde la célula hasta el sistema.",
+          "(Saber Hacer) Realiza análisis microscópico de diferentes tipos de células del cuerpo humano, identificando estructuras celulares clave y relacionándolas con sus funciones específicas en tejidos y órganos.",
+          "(Saber Aplicar) Diseña y ejecuta experimentos para estudiar la estructura celular y las interacciones celulares en contextos específicos, utilizando técnicas avanzadas de laboratorio y evaluando resultados con rigor científico."
+        ],
+        "saberes": [
+          "La estructura celular y su relación con las funciones específicas de los tejidos en el cuerpo humano."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Verifico diferentes métodos de separación de mezclas.",
+        "dba": [
+          "DBA-NAT-5-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con precisión los distintos tipos de mezclas (homogéneas y heterogéneas) y sus métodos de separación según los materiales presentes.",
+          "(Saber Hacer) Aplica correctamente técnicas como filtración, decantación, evaporación y otros métodos para separar mezclas en situaciones experimentales controladas.",
+          "(Saber Aplicar) Diseña y ejecuta procedimientos experimentales para separar mezclas complejas, evaluando la eficacia de los métodos empleados y ajustando variables según sea necesario."
+        ],
+        "saberes": [
+          "Métodos de separación de mezclas según su composición y tipos de materiales presentes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Investigo y describo diversos tipos de neuronas, las comparo entre sí y con circuitos eléctricos. Construyo circuitos eléctricos simples con pilas. Identifico las funciones de los componentes de un circuito eléctrico",
+        "dba": [
+          "DBA-NAT-5-1 Comprende que un circuito eléctrico básico está formado por un generador o fuente (pila), conductores (cables) y uno o más dispositivos (bombillos, motores, timbres), que deben estar conectados apropiadamente (por sus dos polos) para que funcionen y produzcan diferentes efectos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe con precisión los diferentes tipos de neuronas y compara sus estructuras con los componentes básicos de un circuito eléctrico.",
+          "(Saber Hacer) Construye y prueba circuitos eléctricos simples utilizando pilas y cables, demostrando comprensión de cómo se conectan los componentes para lograr funcionalidad.",
+          "(Saber Aplicar) Investigando y describiendo las funciones de los componentes de un circuito eléctrico, haciendo comparaciones con la variedad de tipos de neuronas."
+        ],
+        "saberes": [
+          "Comparación entre tipos de neuronas y circuitos eléctricos básicos: estructura y funciones comparativas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico y establezco las aplicaciones de los circuitos eléctricos en el desarrollo tecnológico. Establezco relaciones entre microorganismos y salud.",
+        "dba": [
+          "DBA-NAT-5-1 Comprende que un circuito eléctrico básico está formado por un generador o fuente (pila), conductores (cables) y uno o más dispositivos (bombillos, motores, timbres), que deben estar conectados apropiadamente (por sus dos polos) para que funcionen y produzcan diferentes efectos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica de manera detallada las aplicaciones de los circuitos eléctricos en el desarrollo tecnológico y sus relaciones con la salud, incluyendo el impacto en el estudio de microorganismos.",
+          "(Saber Hacer) Diseña y construye circuitos eléctricos que demuestren aplicaciones tecnológicas relevantes, como dispositivos médicos o sistemas de monitoreo ambiental, considerando su impacto en la salud pública.",
+          "(Saber Aplicar) Identifica y evalúa críticamente la efectividad de diferentes aplicaciones de circuitos eléctricos en tecnología sanitaria y ambiental, proponiendo mejoras basadas en resultados prácticos y científicos."
+        ],
+        "saberes": [
+          "Impacto de los circuitos eléctricos en el avance tecnológico y su relación con la salud mediante el estudio de microorganismos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico las funciones de los seres vivos a partir de las relaciones entre diferentes sistemas de órganos. Represento los diversos sistemas de órganos del ser humano y explico su función.",
+        "dba": [
+          "DBA-NAT-5-4 Comprende que en los seres humanos (y en muchos otros animales) la nutrición involucra el funcionamiento integrado de un conjunto de sistemas de órganos: digestivo, respiratorio y circulatorio."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe con precisión las funciones específicas de los sistemas de órganos en seres vivos, destacando su interdependencia para la nutrición y el funcionamiento integrado.",
+          "(Saber Hacer) Representa gráficamente los sistemas de órganos del cuerpo humano y explica cómo interactúan para mantener funciones vitales como la digestión, la respiración y la circulación.",
+          "(Saber Aplicar) Realiza simulaciones o modelos que demuestren cómo los sistemas de órganos cooperan para realizar procesos vitales como la absorción de nutrientes y la distribución de oxígeno en el cuerpo."
+        ],
+        "saberes": [
+          "Interdependencia funcional de los sistemas de órganos en seres vivos, con énfasis en la nutrición y la integración de sistemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Verifico diferentes métodos de separación de mezclas.",
+        "dba": [
+          "DBA-NAT-5-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica de manera detallada los diferentes tipos de mezclas (homogéneas y heterogéneas) y las técnicas específicas de separación asociadas a cada tipo según sus propiedades químicas",
+          "(Saber Hacer) Aplica efectivamente métodos de separación como filtración, decantación, evaporación y otros, seleccionando la técnica más adecuada según la composición de la mezcla y sus componentes.",
+          "(Saber Aplicar) Diseña y realiza experimentos para separar mezclas complejas, evaluando la eficiencia y precisión de cada método utilizado y ajustando procedimientos según resultados obtenidos."
+        ],
+        "saberes": [
+          "Métodos de separación de mezclas químicas según la composición y propiedades de los materiales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico la conducción de electricidad o calor en materiales.",
+        "dba": [
+          "DBA-NAT-5-2 Comprende que algunos materiales son buenos conductores de la corriente eléctrica y otros no (denominados aislantes) y que el paso de la corriente siempre genera calor."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con detalle cómo la estructura y composición física de diferentes materiales influyen en sus capacidades de conducción eléctrica y térmica.",
+          "(Saber Hacer) Realiza experimentos para medir la conductividad eléctrica y térmica de varios materiales, identificando y comparando sus propiedades conductoras.",
+          "(Saber Aplicar) Aplica técnicas adecuadas para investigar y verificar la conductividad de materiales, evaluando resultados experimentales y formulando conclusiones basadas en evidencia."
+        ],
+        "saberes": [
+          "Propiedades de conducción eléctrica y térmica en materiales según su estructura y composición física"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Reconozco los efectos nocivos del exceso en el consumo de cafeína, tabaco, drogas y licores.",
+        "dba": [
+          "DBA-NAT-5-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con precisión los efectos nocivos del consumo excesivo de cafeína, tabaco, drogas y licores en la salud y la sociedad.",
+          "(Saber Hacer) Desarrolla estrategias educativas y preventivas para informar a otros sobre los riesgos asociados con el consumo excesivo de estas sustancias.",
+          "(Saber Aplicar) Implementa acciones concretas para promover estilos de vida saludables y reducir el consumo excesivo de sustancias dañinas en su entorno."
+        ],
+        "saberes": [
+          "Impacto social y salud pública del consumo excesivo de sustancias como cafeína, tabaco, drogas y licores."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico las funciones de los seres vivos a partir de las relaciones entre diferentes sistemas de órganos. Represento los diversos sistemas de órganos del ser humano y explico su función.",
+        "dba": [
+          "DBA-NAT-5-4 Comprende que en los seres humanos (y en muchos otros animales) la nutrición involucra el funcionamiento integrado de un conjunto de sistemas de órganos: digestivo, respiratorio y circulatorio."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con precisión las funciones específicas de los sistemas de órganos del cuerpo humano y cómo interactúan para mantener la nutrición y la salud.",
+          "(Saber Hacer) Representa gráficamente los sistemas de órganos del cuerpo humano y explica cómo cada uno contribuye de manera integrada a procesos vitales como la digestión, la respiración y la circulación.",
+          "(Saber Aplicar) Simula o modela situaciones que demuestren la cooperación entre los sistemas de órganos en la nutrición y la salud, evaluando su funcionamiento integrado en escenarios específicos."
+        ],
+        "saberes": [
+          "Interrelación funcional de sistemas de órganos en seres vivos, enfocándose en la integración para la nutrición y la salud."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Verifico diferentes métodos de separación de mezclas",
+        "dba": [
+          "DBA-NAT-5-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con precisión los principios y tipos de mezclas (homogéneas y heterogéneas) y sus métodos de separación basados en propiedades químicas y composición.",
+          "(Saber Hacer) Aplica de manera efectiva técnicas como filtración, decantación, evaporación y otras para separar mezclas según sus componentes y características específicas.",
+          "(Saber Aplicar) Diseña y ejecuta procedimientos experimentales para separar mezclas complejas, evaluando la eficiencia y efectividad de cada método empleado."
+        ],
+        "saberes": [
+          "Optimización y aplicación de métodos de separación de mezclas químicas según sus propiedades y composición."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico la conducción de electricidad o calor en materiales.",
+        "dba": [
+          "DBA-NAT-5-2 Comprende que algunos materiales son buenos conductores de la corriente eléctrica y otros no (denominados aislantes) y que el paso de la corriente siempre genera calor."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe con precisión las propiedades que determinan la capacidad de un material para conducir electricidad o calor, basado en su estructura y composición física.",
+          "(Saber Hacer) Realiza mediciones experimentales para determinar la conductividad eléctrica y térmica de diferentes materiales, utilizando métodos adecuados y comparando los resultados obtenidos.",
+          "(Saber Aplicar) Aplica técnicas apropiadas para evaluar y comparar la conductividad eléctrica y térmica de materiales en situaciones prácticas, identificando las aplicaciones relevantes de cada tipo de material."
+        ],
+        "saberes": [
+          "Propiedades de conducción eléctrica y térmica en materiales según su estructura y composición física."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco relaciones entre deporte y salud física y mental",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con precisión los beneficios específicos del deporte para la salud física y mental, basados en evidencia científica y considerando aspectos tecnológicos y sociales.",
+          "(Saber Hacer) Diseña programas de entrenamiento físico que integren aspectos de salud física y mental, adaptándolos a las necesidades individuales y utilizando tecnologías adecuadas para monitorear el progreso.",
+          "(Saber Aplicar) Implementa estrategias efectivas para promover la práctica regular del deporte como medio para mejorar la salud física y mental, demostrando habilidades en la organización y ejecución de actividades deportivas."
+        ],
+        "saberes": [
+          "Impacto del deporte en la salud física y mental desde una perspectiva científica, tecnológica y social."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

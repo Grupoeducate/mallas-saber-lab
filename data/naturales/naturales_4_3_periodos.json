@@ -1,0 +1,245 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "4",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la dinámica de un ecosistema teniendo en cuenta las necesidades de energía y nutrientes de los seres vivos (cadena alimentaria).",
+        "dba": [
+          "DBA-NAT-4-6 Comprende que los organismos cumplen distintas funciones en cada uno de los niveles tróficos y que las relaciones entre ellos pueden representarse en cadenas y redes alimenticias."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los diferentes niveles tróficos en un ecosistema acuático y describe las interacciones entre productores, consumidores y descomponedores.",
+          "(Saber Hacer) Elabora un diagrama de una cadena alimentaria en un ecosistema acuático, identificando correctamente los organismos en cada nivel trófico y sus relaciones alimenticias.",
+          "(Saber Aplicar) Investiga y presenta un estudio de caso sobre un ecosistema acuático específico, analizando cómo las variaciones en las condiciones ambientales afectan las interacciones tróficas y la estructura de las cadenas alimentarias."
+        ],
+        "saberes": [
+          "Interacciones tróficas y estructura de las cadenas alimentarias en ecosistemas acuáticos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Propongo y verifico diferentes métodos de separación de mezclas. Verifico diferentes métodos de separación de mezclas",
+        "dba": [
+          "DBA-NAT-4-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe los principios y fundamentos teóricos de las técnicas de separación de mezclas, como filtración, tamizado, decantación y evaporación.",
+          "(Saber Hacer) Realiza prácticas de laboratorio utilizando diferentes técnicas de separación de mezclas, documentando los procedimientos y resultados obtenidos con precisión.",
+          "(Saber Aplicar) Diseña y ejecuta un experimento para separar una mezcla compleja utilizando una combinación de técnicas, justificando la elección de cada método en función de las propiedades físicas de los componentes."
+        ],
+        "saberes": [
+          "Aplicación de técnicas de separación de mezclas según sus propiedades físicas en el laboratorio de química."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Relaciono el estado de reposo o movimiento de un objeto con las fuerzas aplicadas sobre éste. Describo fuerzas en máquinas simples",
+        "dba": [
+          "DBA-NAT-4-1 Comprende que la magnitud y la dirección en que se aplica una fuerza puede producir cambios en la forma como se mueve un objeto (dirección y rapidez).",
+          "DBA-NAT-4-2 Comprende los efectos y las ventajas de utilizar máquinas simples en diferentes tareas que requieren la aplicación de una fuerza."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los conceptos fundamentales de fuerza, movimiento y máquinas simples, y describe cómo las fuerzas aplicadas afectan la dirección y velocidad de los objetos.",
+          "(Saber Hacer) Realiza experimentos prácticos para medir y analizar el efecto de diferentes fuerzas sobre el movimiento de objetos y demuestra cómo las máquinas simples pueden modificar estas fuerzas.",
+          "(Saber Aplicar) Diseña y construye un modelo funcional de una máquina simple que muestre claramente cómo se puede reducir el esfuerzo necesario para mover un objeto, y presenta los resultados de su eficiencia en comparación con el movimiento sin la máquina."
+        ],
+        "saberes": [
+          "Análisis de la relación entre fuerzas aplicadas y movimiento de objetos, y el papel de las máquinas simples en la modificación de fuerzas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico máquinas simples en objetos cotidianos y describo su utilidad.",
+        "dba": [
+          "DBA-NAT-4-2 Comprende los efectos y las ventajas de utilizar máquinas simples en diferentes tareas que requieren la aplicación de una fuerza."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica cómo las máquinas simples han influido en el desarrollo tecnológico y la eficiencia en diversas actividades cotidianas y laborales a lo largo de la historia.",
+          "(Saber Hacer) Identifica y analiza el funcionamiento de diferentes máquinas simples en objetos cotidianos, demostrando cómo cada una mejora la eficiencia en tareas específicas.",
+          "(Saber Aplicar) Diseña y ejecuta un proyecto práctico en el que se incorporen varias máquinas simples para resolver un problema cotidiano, evaluando la mejora en la eficiencia y la reducción del esfuerzo requerido."
+        ],
+        "saberes": [
+          "Impacto de las máquinas simples en la eficiencia y desarrollo tecnológico en la vida diaria."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Identifico adaptaciones de los seres vivos teniendo en cuenta las características de los ecosistemas en que viven. Explico la dinámica de un ecosistema teniendo en cuenta las necesidades de energía y nutrientes de los seres vivos (cadena alimentaria).",
+        "dba": [
+          "DBA-NAT-4-7 Comprende que existen distintos tipos de ecosistemas (terrestres y acuáticos) y que sus características físicas (temperatura, humedad, tipos de suelo, altitud) permiten que habiten en ellos diferentes seres vivos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe las principales adaptaciones de los seres vivos a los ecosistemas terrestres y acuáticos, y explica cómo estas adaptaciones contribuyen a su supervivencia y éxito reproductivo.",
+          "(Saber Hacer) Investiga y elabora un informe comparativo sobre las adaptaciones específicas de dos organismos (uno terrestre y uno acuático), destacando las ventajas que estas adaptaciones les otorgan en sus respectivos ambientes.",
+          "(Saber Aplicar) Diseña y lleva a cabo una observación o experimento para identificar adaptaciones en organismos locales y analiza cómo estas adaptaciones influyen en la biodiversidad del ecosistema estudiado."
+        ],
+        "saberes": [
+          "Adaptaciones de los seres vivos a ecosistemas terrestres y acuáticos y su impacto en la biodiversidad."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Propongo y verifico diferentes métodos de separación de mezclas. Verifico diferentes métodos de separación de mezclas",
+        "dba": [
+          "DBA-NAT-4-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los principios teóricos detrás de diversas técnicas de separación de mezclas, como la filtración, destilación, cromatografía y centrifugación, y su aplicación en contextos industriales y de laboratorio.",
+          "(Saber Hacer) Realiza y documenta prácticas de laboratorio utilizando diferentes técnicas de separación de mezclas, evaluando la eficiencia y precisión de cada método según las propiedades físico-químicas de los componentes.",
+          "(Saber Aplicar) Diseña un procedimiento detallado para separar una mezcla compleja en un contexto industrial o de laboratorio, justificando la elección de técnicas específicas basadas en las propiedades físico-químicas de los componentes de la mezcla."
+        ],
+        "saberes": [
+          "Aplicación de técnicas de separación de mezclas según sus propiedades físico-químicas en la industria y el laboratorio."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Registro el movimiento del Sol, la Luna y las estrellas en el cielo, en un periodo de tiempo. Describo los principales elementos del sistema solar y establezco relaciones de tamaño, movimiento y posición. Comparo el peso y la masa de un objeto en diferentes puntos del sistema solar.",
+        "dba": [
+          "DBA-NAT-4-3 Comprende que el fenómeno del día y la noche se debe a que la Tierra rota sobre su eje y en consecuencia el sol sólo ilumina la mitad de su superficie.",
+          "DBA-NAT-4-4 Comprende que las fases de la Luna se deben a la posición relativa del Sol, la Luna y la Tierra a lo largo del mes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los principios de la dinámica celeste y describe las características físicas de los cuerpos del sistema solar, incluyendo sus movimientos y los fenómenos astronómicos resultantes.",
+          "(Saber Hacer) Realiza observaciones sistemáticas del movimiento del Sol, la Luna y las estrellas, registrando datos y analizando patrones para comprender los fenómenos astronómicos como el día y la noche y las fases lunares.",
+          "(Saber Aplicar) Diseña y ejecuta un proyecto de investigación sobre un fenómeno astronómico específico, utilizando simulaciones o modelos para demostrar la relación entre las características físicas de los cuerpos celestes y sus movimientos."
+        ],
+        "saberes": [
+          "Dinámica celeste y características físicas del sistema solar: impacto en el movimiento y fenómenos astronómicos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico y describo aparatos que generan energía luminosa, térmica y mecánica.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los principios de funcionamiento de dispositivos que generan energía luminosa, térmica y mecánica, describiendo los procesos físicos involucrados y sus aplicaciones prácticas.",
+          "(Saber Hacer) Realiza experimentos o demostraciones prácticas con dispositivos que generan energía luminosa, térmica y mecánica, documentando los resultados y evaluando la eficiencia de cada dispositivo.",
+          "(Saber Aplicar) Diseña y construye un prototipo de un dispositivo que genere energía luminosa, térmica o mecánica, aplicando conocimientos de física y evaluando su efectividad en una aplicación específica."
+        ],
+        "saberes": [
+          "Dispositivos generadores de energía luminosa, térmica y mecánica: funcionamiento y aplicaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Analizo el ecosistema que me rodea y lo comparo con otros.",
+        "dba": [
+          "DBA-NAT-4-7 Comprende que existen distintos tipos de ecosistemas (terrestres y acuáticos) y que sus características físicas (temperatura, humedad, tipos de suelo, altitud) permiten que habiten en ellos diferentes seres vivos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe las principales características de los ecosistemas terrestres y acuáticos, destacando la diversidad biológica y las adaptaciones específicas de los organismos que habitan en cada uno.",
+          "(Saber Hacer) Investiga y elabora un informe comparativo sobre dos ecosistemas (uno terrestre y uno acuático), identificando y analizando las adaptaciones de al menos cinco organismos en cada ecosistema.",
+          "(Saber Aplicar) Diseña y lleva a cabo una investigación de campo o laboratorio para observar y documentar adaptaciones específicas de organismos en ecosistemas terrestres y acuáticos, presentando los resultados en un formato científico."
+        ],
+        "saberes": [
+          "Comparación de ecosistemas terrestres y acuáticos: diversidad biológica y adaptaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Propongo y verifico diferentes métodos de separación de mezclas. Verifico diferentes métodos de separación de mezclas",
+        "dba": [
+          "DBA-NAT-4-5 Comprende que existen distintos tipos de mezclas (homogéneas y heterogéneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes técnicas (filtración, tamizado, decantación, evaporación)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica los avances recientes en técnicas de separación de mezclas utilizadas en procesos industriales y ambientales, identificando los principios físico-químicos detrás de estas innovaciones.",
+          "(Saber Hacer) Diseña y ejecuta experimentos de laboratorio para probar nuevas técnicas de separación de mezclas, evaluando su eficiencia y aplicabilidad en la optimización de procesos industriales y ambientales.",
+          "(Saber Aplicar) Propone mejoras o innovaciones en técnicas de separación de mezclas existentes para resolver problemas específicos en procesos industriales o ambientales, demostrando capacidad para aplicar el conocimiento teórico en situaciones prácticas."
+        ],
+        "saberes": [
+          "Innovación en técnicas de separación de mezclas para optimizar procesos industriales y ambientales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Registro el movimiento del Sol, la Luna y las estrellas en el cielo, en un periodo de tiempo. Describo los principales elementos del sistema solar y establezco relaciones de tamaño, movimiento y posición. Comparo el peso y la masa de un objeto en diferentes puntos del sistema solar.",
+        "dba": [
+          "DBA-NAT-4-3 Comprende que el fenómeno del día y la noche se debe a que la Tierra rota sobre su eje y en consecuencia el sol sólo ilumina la mitad de su superficie.",
+          "DBA-NAT-4-4 Comprende que las fases de la Luna se deben a la posición relativa del Sol, la Luna y la Tierra a lo largo del mes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica con detalle los movimientos del Sol, la Luna y los planetas en el sistema solar, así como las características físicas que afectan los fenómenos astronómicos y las condiciones gravitacionales.",
+          "(Saber Hacer) Realiza observaciones astronómicas para registrar y analizar el movimiento aparente del Sol, la Luna y los planetas durante un período de tiempo específico, utilizando herramientas como un telescopio o aplicaciones de astronomía.",
+          "(Saber Aplicar) Diseña y presenta un modelo o simulación computacional que represente los movimientos del sistema solar y explique cómo estas dinámicas afectan los fenómenos astronómicos como las estaciones del año y los eclipses."
+        ],
+        "saberes": [
+          "Movimiento celestial y características físicas del sistema solar: impacto en fenómenos astronómicos y condiciones gravitacionales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco relaciones entre el efecto invernadero, la lluvia ácida y el debilitamiento de la capa de ozono con la contaminación atmosférica.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe de manera detallada cómo la contaminación atmosférica contribuye al cambio climático y afecta la salud global, identificando los principales contaminantes y sus fuentes, así como los mecanismos por los cuales afectan el clima y la salud humana.",
+          "(Saber Hacer) Realiza investigaciones y analiza datos científicos para evaluar los efectos específicos de la contaminación atmosférica en el cambio climático y la salud global, utilizando herramientas como modelos climáticos y estudios epidemiológicos.",
+          "(Saber Aplicar) Propone y evalúa tecnologías y políticas innovadoras para reducir la contaminación atmosférica y mitigar sus impactos en el cambio climático y la salud pública, considerando aspectos sociales, económicos y tecnológicos."
+        ],
+        "saberes": [
+          "Impacto de la contaminación atmosférica en el cambio climático y la salud global: implicaciones sociales y tecnológicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

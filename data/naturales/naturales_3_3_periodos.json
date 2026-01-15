@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "3",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Analizo el ecosistema que me rodea y lo comparo con otros.",
+        "dba": [
+          "DBA-NAT-3-5 Explica la influencia de los factores abióticos (luz, temperatura, suelo y aire) en el desarrollo de los factores bióticos (fauna y flora) de un ecosistema."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe cómo la temperatura afecta la distribución y adaptación de especies vegetales y animales en diferentes ecosistemas.",
+          "(Saber Hacer) Realiza investigaciones de campo para documentar cómo la variación de la temperatura influye en la presencia y abundancia de especies en ecosistemas específicos.",
+          "(Saber Aplicar) Aplica conocimientos sobre la influencia de la temperatura en la distribución de especies para proponer estrategias de conservación y manejo ambiental adaptadas al cambio climático."
+        ],
+        "saberes": [
+          "La influencia de la temperatura en la distribución y adaptación de especies vegetales y animales en diversos ecosistemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-3-4 Comprende la influencia de la variación de la temperatura en los cambios de estado de la materia, considerando como ejemplo el caso del agua."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica los diferentes estados físicos de la materia, incluyendo el agua, y cómo la temperatura afecta estos estados.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo la variación de la temperatura provoca cambios de estado en el agua y otros materiales, como la evaporación, condensación, fusión y solidificación.",
+          "(Saber Aplicar) Aplica conocimientos sobre los cambios de estado de la materia en situaciones cotidianas, como la cocción de alimentos, el funcionamiento de sistemas de refrigeración, o la formación de nubes y precipitaciones."
+        ],
+        "saberes": [
+          "La influencia de la variación de la temperatura en los cambios de estado del agua y otros materiales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Identifico y comparo fuentes de luz, calor y sonido y su efecto sobre diferentes seres vivos. Clasifico luces según color, intensidad y fuente.",
+        "dba": [
+          "DBA-NAT-3-1 Comprende la forma en que se propaga la luz a través de diferentes materiales (opacos, transparentes como el aire, translúcidos como el papel y reflectivos como el espejo)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce y describe las propiedades de la luz y cómo se propaga a través de materiales opacos, transparentes, translúcidos y reflectivos.",
+          "(Saber Hacer) Experimenta y documenta cómo la luz se comporta al pasar por diferentes tipos de materiales y observa los efectos que tiene sobre distintos seres vivos.",
+          "(Saber Aplicar) Demuestra la capacidad de clasificar materiales según su interacción con la luz y aplica estos conocimientos para explicar fenómenos observables en el entorno natural."
+        ],
+        "saberes": [
+          "La propagación de la luz a través de materiales opacos, transparentes, translúcidos y reflectivos, y su efecto sobre diferentes seres vivos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Asocio el clima con la forma de vida de diferentes comunidades. Identifico necesidades de cuidado de mi cuerpo y el de otras personas.",
+        "dba": [
+          "DBA-NAT-3-5 Explica la influencia de los factores abióticos (luz, temperatura, suelo y aire) en el desarrollo de los factores bióticos (fauna y flora) de un ecosistema."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe cómo la luz, temperatura, suelo y aire influyen en el desarrollo de la flora y fauna en diferentes ecosistemas.",
+          "(Saber Hacer) Analiza y compara la relación entre el clima y las formas de vida de distintas comunidades, utilizando datos sobre factores abióticos y su impacto en factores bióticos.",
+          "(Saber Aplicar) Aplica conocimientos sobre la influencia de los factores abióticos en los ecosistemas para proponer acciones de conservación y cuidado del entorno natural en su comunidad."
+        ],
+        "saberes": [
+          "La relación entre el clima y las formas de vida de diferentes comunidades, considerando la influencia de la luz, temperatura, suelo y aire."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Identifico fenómenos de camuflaje en el entorno y los relaciono con las necesidades de los seres vivos. Explico adaptaciones de los seres vivos al ambiente.",
+        "dba": [
+          "DBA-NAT-3-6 Comprende las relaciones de los seres vivos con otros organismos de su entorno (intra e interespecíficas) y las explica como esenciales para su supervivencia en un ambiente determinado."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica las adaptaciones específicas de diferentes especies en ecosistemas colombianos, destacando cómo estas adaptaciones les permiten sobrevivir y prosperar.",
+          "(Saber Hacer) Realiza observaciones de campo para documentar y describir las interacciones intra e interespecíficas entre organismos en ecosistemas colombianos.",
+          "(Saber Aplicar) Aplica conocimientos sobre adaptaciones biológicas en ecosistemas colombianos para diseñar estrategias de conservación y manejo de la biodiversidad."
+        ],
+        "saberes": [
+          "Las adaptaciones de los seres vivos en ecosistemas colombianos y sus relaciones intra e interespecíficas como clave para la supervivencia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-3-4 Comprende la influencia de la variación de la temperatura en los cambios de estado de la materia."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe los diferentes estados físicos de la materia, incluyendo el agua, y explica las causas para los cambios de estado.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo la variación de la temperatura afecta los cambios de estado del agua y otros materiales, utilizando métodos como calentamiento y enfriamiento.",
+          "(Saber Aplicar) Aplica conocimientos sobre los cambios de estado de la materia para resolver problemas prácticos, como la optimización de procesos industriales."
+        ],
+        "saberes": [
+          "La influencia de la temperatura en los cambios de estado del agua y otros materiales como fenómeno químico fundamental."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Clasifico sonidos según tono, volumen y fuente. Identifico y comparo fuentes de luz, calor y sonido.",
+        "dba": [
+          "DBA-NAT-3-3 Comprende la naturaleza (vibración) y las características del sonido (altura, timbre, intensidad) y que este se propaga en distintos medios."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica los principios físicos involucrados en la propagación del sonido a través de diferentes medios y cómo estos afectan la percepción.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo varían las características del sonido (altura, timbre, intensidad) al propagarse en diferentes medios.",
+          "(Saber Aplicar) Aplica conocimientos sobre la propagación del sonido para diseñar estrategias de mitigación del ruido en entornos urbanos o naturales."
+        ],
+        "saberes": [
+          "La propagación del sonido a través de diferentes medios y su impacto en la percepción y respuesta de los seres vivos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aparatos que utilizamos hoy y que no se utilizaban en épocas pasadas.",
+        "dba": [
+          "DBA-NAT-3-3 Comprende la naturaleza (vibración) y las características del sonido."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica cómo la tecnología ha influenciado la comprensión científica sobre la propagación del sonido en diferentes medios.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo la tecnología actual ha mejorado la captura y reproducción del sonido en distintos entornos acústicos.",
+          "(Saber Aplicar) Aplica conocimientos sobre la evolución tecnológica en la industria del sonido para diseñar y mejorar sistemas de audio."
+        ],
+        "saberes": [
+          "El impacto de la tecnología en la evolución de la percepción y propagación del sonido a través de diferentes medios."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Establezco las adaptaciones de algunos seres vivos en ecosistemas de Colombia.",
+        "dba": [
+          "DBA-NAT-3-6 Comprende las relaciones de los seres vivos con otros organismos de su entorno."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las relaciones biológicas intra e interespecíficas en ecosistemas colombianos y explica cómo estas contribuyen a la adaptación.",
+          "(Saber Hacer) Realiza observaciones de campo para documentar y analizar ejemplos específicos de adaptaciones biológicas en diferentes ecosistemas de Colombia.",
+          "(Saber Aplicar) Aplica el conocimiento sobre las adaptaciones biológicas en ecosistemas colombianos para proponer estrategias de conservación y manejo."
+        ],
+        "saberes": [
+          "Relaciones biológicas clave para la adaptación y supervivencia en ecosistemas colombianos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Identifico diferentes estados físicos de la materia y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-3-4 Comprende la influencia de la variación de la temperatura en los cambios de estado de la materia."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica los diferentes estados físicos del agua y cómo la temperatura afecta estos estados, destacando implicaciones químicas.",
+          "(Saber Hacer) Realiza experimentos controlados para investigar y demostrar cómo varía la temperatura e influye en los cambios de estado del agua.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la influencia de la temperatura en los cambios de estado del agua para diseñar soluciones prácticas que optimicen procesos."
+        ],
+        "saberes": [
+          "Influencia de la temperatura en los cambios de estado del agua y sus implicaciones químicas en la materia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Identifico y comparo fuentes de luz, calor y sonido y su efecto sobre diferentes seres vivos.",
+        "dba": [
+          "DBA-NAT-3-3 Comprende la naturaleza (fenómeno de la vibración) y las características del sonido."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe cómo la luz, el calor y el sonido interactúan con distintos medios (sólidos, líquidos, gaseosos) y cómo afectan a los seres vivos.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo la luz, el calor y el sonido se propagan y se comportan en diferentes medios.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la interacción de la luz, el calor y el sonido en medios diversos para proponer soluciones prácticas."
+        ],
+        "saberes": [
+          "Interacción de la luz, el calor y el sonido en distintos medios y su impacto físico en los seres vivos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aparatos que utilizamos hoy y que no se utilizaban en épocas pasadas.",
+        "dba": [
+          "DBA-NAT-3-4 Comprende la influencia de la variación de la temperatura en los cambios de estado de la materia."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce y describe cómo la tecnología actual facilita la monitorización precisa de la temperatura en diferentes estados de la materia.",
+          "(Saber Hacer) Realiza experimentos para demostrar cómo la variación de la temperatura afecta los cambios de estado, utilizando herramientas tecnológicas modernas.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la influencia de la tecnología en la temperatura para proponer mejoras en dispositivos y procesos."
+        ],
+        "saberes": [
+          "Impacto de la tecnología en la gestión y control de la temperatura para cambios de estado de la materia en la vida moderna."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

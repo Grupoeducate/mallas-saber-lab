@@ -1,0 +1,194 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "8",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano",
+        "dba": ["DBA-NAT-8-4 Analiza relaciones entre sistemas de órganos (excretor, inmune, nervioso, endocrino, óseo y muscular) con los procesos de regulación de las funciones en los seres vivos."],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los fenómenos homeostáticos como procesos que mantienen el equilibrio interno de los organismos, incluyendo ejemplos específicos como la regulación de la temperatura corporal, el balance hídrico, y el control de los niveles de glucosa en sangre.",
+          "(Saber Hacer) Interpreta y analiza modelos que representan el equilibrio entre sistemas del cuerpo humano. Por ejemplo, relaciona cómo el sistema nervioso y el endocrino trabajan juntos para regular la respuesta al estrés o cómo el sistema excretor elimina desechos para mantener el balance químico.",
+          "(Saber Aplicar) Utiliza el conocimiento sobre la interacción de órganos y sistemas en actividades prácticas como la interpretación de casos reales (por ejemplo, el efecto de la deshidratación en el organismo o el impacto del ejercicio físico en el equilibrio muscular y óseo)."
+        ],
+        "saberes": ["Sistemas de órganos en los seres vivos"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Explico cómo un número limitado de elementos hace posible la diversidad de la materia conocida",
+        "dba": ["DBA-NAT-8 Comprende cuáles son las propiedades físicas más importantes de los elementos, para así lograr determinar y distinguir los diferentes elementos y compuestos"],
+        "evidencias": [
+          "(Saber Conocer) Comprende las propiedades físicas (como densidad, puntos de fusión y ebullición, estado físico) y químicas (como reactividad, formación de compuestos, electronegatividad) de los elementos químicos.",
+          "(Saber Hacer) Analiza tablas y gráficos que presentan datos sobre las propiedades físicas y químicas de los elementos, clasificándolos en grupos y periodos según sus características comunes.",
+          "(Saber Aplicar) Relaciona las propiedades de los elementos con sus usos en la vida cotidiana e industrial, justificando, por ejemplo, por qué se prefieren ciertos metales para conductores eléctricos o no metales como aislantes."
+        ],
+        "saberes": ["Periodicidad química: Propiedades físicas de los elementos, Propiedades químicas de los elementos, Configuración electrónica"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre las variables de estado en un sistema termodinámico para predecir cambios físicos y químicos y las expreso matemáticamente. Establezco relaciones entre energía interna de un sistema termodinámico, trabajo y transferencia de energía térmica; las expreso matemáticamente",
+        "dba": ["DBA-NAT-8-1 Comprende el funcionamiento de máquinas térmicas (motores de combustión, refrigeración) por medio de las leyes de la termodinámica (ambas leyes: primera y segunda ley)."],
+        "evidencias": [
+          "(Saber Conocer) Comprende las leyes fundamentales de la termodinámica, como la primera ley, que describe la conservación de la energía en sistemas térmicos, y la segunda ley, que establece la dirección natural de los procesos y la importancia de la entropía.",
+          "(Saber Hacer) Analiza los ciclos termodinámicos mediante la interpretación de gráficos de presión-volumen (P-V) y temperatura-entropía (T-S), identificando los cambios energéticos que ocurren en cada etapa.",
+          "(Saber Aplicar) Relaciona los conceptos de termodinámica con aplicaciones prácticas, evaluando cómo los motores de automóviles, refrigeradores y otros dispositivos térmicos se integran en la vida diaria y en procesos industriales."
+        ],
+        "saberes": ["Primera ley de la Termodinámica, Segunda ley de la Termodinámica"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Argumento las ventajas y desventajas de la manipulación genética",
+        "dba": [" "],
+        "evidencias": [
+          "(Saber Conocer) Comprende las principales técnicas de manipulación genética, como la edición génica mediante CRISPR-Cas9, la transgénesis, la clonación y la terapia génica, identificando sus fundamentos, aplicaciones y limitaciones",
+          "(Saber Hacer) Analiza casos prácticos o estudios científicos sobre el uso de técnicas de manipulación genética en áreas como la agricultura, la medicina y la biotecnología.",
+          "(Saber Aplicar) Evalúa las implicaciones éticas, sociales y científicas de estas técnicas en la vida cotidiana, proponiendo soluciones o recomendaciones responsables frente a debates actuales sobre organismos genéticamente modificados, clonación o terapia génica."
+        ],
+        "saberes": ["Manipulación genética"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano. Comparo diferentes sistemas de reproducción. Justifico la importancia de la reproducción sexual en el mantenimiento de la variabilidad.",
+        "dba": ["DBA-NAT-8-4 Analiza relaciones entre sistemas de órganos... (DBA 4)", "DBA-NAT-8-5 Analiza la reproducción (asexual, sexual) de distintos grupos de seres vivos y su importancia para la preservación de la vida en el planeta."],
+        "evidencias": [
+          "(Saber Conocer) Analiza ejemplos concretos del impacto de hábitos no saludables en los sistemas biológicos, destacando su influencia en el equilibrio homeostático. Reconoce las diferencias entre los tipos de reproducción en plantas y animales, identificando su papel en la variabilidad genética y la preservación de las especies.",
+          "(Saber Hacer) Realiza comparaciones entre la reproducción sexual y asexual, analizando sus ventajas y desventajas según las condiciones ambientales. Analiza casos sobre el impacto de hábitos como el tabaquismo, el sedentarismo o la mala alimentación en la salud de los sistemas biológicos.",
+          "(Saber Aplicar) Diseña soluciones para optimizar la reproducción en plantas agrícolas mediante el uso de estrategias adecuadas al entorno, como la propagación vegetativa o el uso de polinizadores. Evalúa la importancia de la reproducción sexual en animales para la conservación de especies amenazadas."
+        ],
+        "saberes": ["Estabilidad en las condiciones internas: homeostasis. Reproducción sexual, Reproducción asexual"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Comparo masa, peso, cantidad de sustancia y densidad de diferentes materiales. Comparo sólidos, líquidos y gases teniendo en cuenta el movimiento de sus moléculas y las fuerzas electrostáticas. Verifico las diferencias entre cambios químicos y mezclas",
+        "dba": ["DBA-NAT-8-2 Comprende que en una reacción química se recombinan los átomos de las moléculas de los reactivos para generar productos nuevos, y que dichos productos se forman a partir de fuerzas intramoleculares (enlaces iónicos y covalentes)."],
+        "evidencias": [
+          "(Saber Conocer) Entiende que las reacciones químicas implican la recombinación de átomos en las moléculas de los reactivos para formar nuevos productos.",
+          "(Saber Hacer) Analiza ejemplos prácticos de reacciones químicas, describiendo cómo los enlaces iónicos o covalentes influyen en las propiedades de las sustancias resultantes.",
+          "(Saber Aplicar) Diseña actividades o experimentos que permitan observar cambios químicos, como la formación de precipitados o cambios de color, relacionándolos con la recombinación de átomos y la formación de nuevos enlaces."
+        ],
+        "saberes": ["Reacciones químicas: Ecuaciones químicas, Tipos de enlaces"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Conozco como interaccionan las cargas eléctricas con los campos magnéticos",
+        "dba": ["DBA-NAT-8 Comprende los movimientos que describen partículas cargadas con los campos a que están sometidos a partir de experiencias en el aula de clases"],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que los campos eléctricos entre cargas opuestas e iguales (dipolo eléctrico) tienen líneas de fuerza que van desde la carga positiva hacia la carga negativa, mostrando una configuración característica.",
+          "(Saber Hacer) Representa mediante diagramas las líneas de campo eléctrico entre cargas opuestas e iguales, identificando la simetría y la dirección de las líneas de fuerza.",
+          "(Saber Aplicar) Aplica el conocimiento de los campos eléctricos para resolver problemas prácticos, como calcular la fuerza eléctrica que experimenta una carga de prueba en un dipolo eléctrico o predecir el comportamiento de partículas en dispositivos que utilizan campos eléctricos (como capacitores)."
+        ],
+        "saberes": ["Electromagnetismo"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco la importancia de mantener la biodiversidad para estimular el desarrollo del país. Indago sobre aplicaciones de la microbiología en la industria.",
+        "dba": [" "],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que la biodiversidad es un recurso fundamental que contribuye al equilibrio ecológico y ofrece beneficios económicos, sociales y culturales al país, como el desarrollo de ecoturismo, la producción sostenible, y la investigación científica. Comprende que la microbiología estudia microorganismos esenciales en procesos industriales como la producción de alimentos, medicamentos, biocombustibles y tratamiento de residuos.",
+          "(Saber Hacer) Investiga casos específicos en los que la biodiversidad ha impulsado proyectos de desarrollo económico sostenible, como el uso de plantas y animales nativos en industrias farmacéuticas o alimentarias. Indaga sobre el papel de los microorganismos en procesos biotecnológicos, como la fermentación para producir yogur o la síntesis de antibióticos, analizando las ventajas y limitaciones de estas aplicaciones.",
+          "(Saber Aplicar) Promueve la conservación de la biodiversidad mediante propuestas de manejo sostenible de los recursos naturales. Diseña proyectos escolares o comunitarios que muestren el uso de microorganismos en soluciones para problemas locales, como la biodegradación de plásticos o la mejora de cultivos agrícolas."
+        ],
+        "saberes": ["Importancia de la biodiversidad en Colombia."],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Comparo diferentes sistemas de reproducción. Justifico la importancia de la reproducción sexual en el mantenimiento de la variabilidad",
+        "dba": ["DBA-NAT-8-5 Analiza la reproducción (asexual, sexual) de distintos grupos de seres vivos y su importancia para la preservación de la vida en el planeta."],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que en la reproducción asexual un solo organismo produce descendencia genéticamente idéntica, mientras que en la sexual intervienen dos organismos y se genera diversidad genética.",
+          "(Saber Hacer) Compara los mecanismos de reproducción en distintos grupos, como bipartición en bacterias, esporulación en hongos, reproducción vegetativa en plantas, y fecundación en animales.",
+          "(Saber Aplicar) Relaciona las formas de reproducción con su utilidad en la vida diaria, como la reproducción asexual en cultivos agrícolas o la reproducción sexual en programas de conservación de especies."
+        ],
+        "saberes": ["Preservación de la vida en el planeta. Sistema reproductor masculino, Sistema reproductor femenino"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Comparo masa, peso, cantidad de sustancia y densidad de diferentes materiales. Comparo sólidos, líquidos y gases teniendo en cuenta el movimiento de sus moléculas y las fuerzas electrostáticas. Verifico las diferencias entre cambios químicos y mezclas",
+        "dba": ["DBA-NAT-8-2 Comprende que en una reacción química se recombinan los átomos de las moléculas de los reactivos para generar productos nuevos..."],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que las fuerzas intramoleculares, como los enlaces iónicos y covalentes, determinan las propiedades químicas y físicas de las sustancias involucradas.",
+          "(Saber Hacer) Identifica los tipos de enlaces presentes en las moléculas de los reactivos y productos mediante la representación de sus estructuras químicas.",
+          "(Saber Aplicar) Diseña experimentos simples para observar cambios químicos, como la formación de precipitados o el desprendimiento de gases, explicando los enlaces involucrados en cada caso."
+        ],
+        "saberes": ["Enlaces químicos: Enlace iónico, Enlace covalente"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Comparo los modelos que explican el comportamiento de gases ideales y reales.",
+        "dba": ["DBA-NAT-8-3 Comprende que el comportamiento de un gas ideal está determinado por las relaciones entre Temperatura (T), Presión (P), Volumen (V) y Cantidad de sustancia (n)."],
+        "evidencias": [
+          "(Saber Conocer) Entiende que el comportamiento de un gas ideal se describe mediante la ecuación de estado PV=nRT, que relaciona la presión (P), el volumen (V), la temperatura (T) y la cantidad de sustancia (n).",
+          "(Saber Hacer) Analiza situaciones donde se aplican las leyes de los gases ideales (Ley de Boyle, Ley de Charles y Ley de Gay-Lussac), resolviendo problemas relacionados con cambios en las variables P, V, T y n. Realiza gráficas y cálculos que representen estas relaciones, como la variación de presión con volumen a temperatura constante.",
+          "(Saber Aplicar) Aplica el modelo de gas ideal para interpretar fenómenos cotidianos, como la presión en un neumático, el funcionamiento de globos aerostáticos o el comportamiento de gases en procesos industriales."
+        ],
+        "saberes": ["Leyes generales de los gases: La ley de Boyle, La ley de Gay-Lussac, La ley de Charles, La ley de los gases ideales"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico productos que pueden tener diferentes niveles de pH y explico algunos de sus usos en actividades cotidianas",
+        "dba": [" "],
+        "evidencias": [
+          "(Saber Conocer) Comprende que el pH es una medida que indica la acidez o alcalinidad de una sustancia en una escala de 0 a 14.",
+          "(Saber Hacer) Identifica y clasifica productos de uso diario, como alimentos (limón, vinagre), productos de limpieza (jabón, cloro), y de cuidado personal (shampoo, crema), según su nivel de pH.",
+          "(Saber Aplicar) Asocia los niveles de pH de los productos con su uso seguro y eficaz en la vida diaria. Por ejemplo, analiza por qué los detergentes básicos eliminan mejor la grasa o cómo los alimentos ácidos ayudan en la conservación."
+        ],
+        "saberes": ["pH en sustancias cotidianas. Escala de pH"],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "9",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Justifico la importancia de la reproducción sexual en el mantenimiento de la variabilidad.",
+        "dba": [
+          "DBA-NAT-9-4 Comprende la forma en que los principios genéticos mendelianos y post-mendelianos explican la herencia y el mejoramiento de las especies existentes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende que los principios genéticos mendelianos explican la herencia como la transmisión de características de padres a hijos mediante factores hereditarios (genes).",
+          "(Saber Hacer) Aplica las leyes de Mendel y los principios post-mendelianos para predecir y analizar patrones de herencia en organismos, utilizando herramientas como cuadros de Punnett.",
+          "(Saber Aplicar) Propone medidas para equilibrar el mejoramiento genético con la conservación de la diversidad genética natural."
+        ],
+        "saberes": [
+          "Gregor Mendel y las leyes de herencia: Los fundamentos de la genética. Herencia y variabilidad. Cuadros de Punnet"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono grupos funcionales con las propiedades físicas y químicas de las sustancias.",
+        "dba": [
+          "Comprende los diferentes mecanismos de reacciones químicas posibilitan la formación de compuestos inorgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende el concepto de número de oxidación y su asignación en los elementos que conforman óxidos básicos y óxidos ácidos, reconociendo patrones y reglas generales.",
+          "(Saber Hacer) Aplica las reglas de asignación de números de oxidación para identificar correctamente los números de oxidación de los elementos en un óxido dado.",
+          "(Saber Aplicar) Relaciona la correcta asignación de números de oxidación con la identificación y nombramiento de compuestos en contextos académicos, experimentales o de la vida cotidiana, como al interpretar etiquetas de productos químicos o procesos industriales."
+        ],
+        "saberes": [
+          "Óxidos. Tipos de nomenclatura. Números de oxidación. Números de valencia"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": " ",
+        "dba": [
+          "DBA-NAT-9-1 Comprende que el movimiento de un cuer- po, en un marco de referencia inercial dado, se puede describir con gráficos y predecir por medio de expresiones matemáticas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende los conceptos básicos relacionados con el movimiento de un cuerpo en un marco de referencia inercial, incluyendo velocidad, aceleración, posición y tiempo.",
+          "(Saber Hacer) Utiliza expresiones matemáticas, como las ecuaciones de movimiento rectilíneo uniforme (MRU) y movimiento uniformemente acelerado (MUA), para predecir y calcular parámetros como desplazamiento, velocidad y tiempo.",
+          "(Saber Aplicar) Emplea gráficos y expresiones matemáticas para interpretar y resolver problemas prácticos relacionados con el movimiento de cuerpos en distintos contextos, como vehículos en una carretera, objetos en caída libre, o trayectorias deportivas."
+        ],
+        "saberes": [
+          "Cinemática: Movimiento rectilíneo uniforme acelerado. Movimiento parabólico. Movimiento circular uniforme"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Describo factores culturales y tecnológicos que inciden en la sexualidad y reproducción humana. Identifico y explico medidas de prevención del embarazo y de las enfermedades de transmisión sexual.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica avances tecnológicos, como métodos anticonceptivos, técnicas de reproducción asistida y educación sexual, y su impacto en la salud y el bienestar.",
+          "(Saber Hacer) Analiza casos y situaciones que reflejan cómo la cultura y los avances tecnológicos han modificado comportamientos relacionados con la sexualidad y la reproducción.",
+          "(Saber Aplicar) Evalúa situaciones prácticas para proponer estrategias que fomenten prácticas responsables y saludables en relación con la sexualidad y la reproducción, considerando la diversidad cultural y las innovaciones tecnológicas disponibles."
+        ],
+        "saberes": [
+          "Sexualidad y reproducción humana. Enfermedades de transmisión sexual (ETS)"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Reconozco la importancia del modelo de la doble hélice para la explicación del almacenamiento y transmisión del material hereditario. Establezco relaciones entre los genes, las proteínas y las funciones celulares.",
+        "dba": [
+          "DBA-NAT-9-5 Explica la forma como se expresa la información genética contenida en el –ADN–, relacionando su expresión con los fenotipos de los organismos y reconoce su capacidad de modificación a lo largo del tiempo (por mutaciones y otros cambios), como un factor determinante en la generación de diversidad del planeta y en la evolución de las especies"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica que el ADN contiene la información genética que determina las características de los organismos.",
+          "(Saber Hacer) Relaciona el proceso de transcripción y traducción con la expresión de los fenotipos en los organismos, identificando cómo las variaciones en las secuencias genéticas pueden afectar las características observables.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la herencia genética y las mutaciones para explicar casos de enfermedades genéticas, variabilidad entre especies, o la evolución de características específicas dentro de una población."
+        ],
+        "saberes": [
+          "El ADN y la síntesis de proteínas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Comparo los modelos que sustentan la definición ácido-base.",
+        "dba": [
+          "DBA-NAT-9-2 Comprende que la acidez y la basicidad son propiedades químicas de algunas sustancias y las relaciona con su importancia biológica y su uso cotidiano e industrial."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende que la acidez y la basicidad son propiedades químicas fundamentales de muchas sustancias, determinadas por la concentración de iones de hidrógeno (H+) en ácidos y de iones hidróxido (OH-) en bases.",
+          "(Saber Hacer) Analiza cómo la acidez y la basicidad afectan las reacciones químicas y los procesos biológicos.",
+          "(Saber Aplicar) Aplica los principios de acidez y basicidad para resolver problemas relacionados con la formulación de productos industriales (como productos de limpieza o cosméticos) y en procesos biológicos, como el mantenimiento del pH en el cuerpo humano o en los ecosistemas acuáticos."
+        ],
+        "saberes": [
+          "Ácidos y bases. Escalas de pH Y pOH."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre las diferentes fuerzas que actúan sobre los cuerpos en reposo o en movimiento rectilíneo uniforme y establezco condiciones para conservar la energía mecánica.",
+        "dba": [
+          "Comprende, que el reposo o el movimiento rectilíneo uniforme, se presentan cuando las fuerzas aplicadas sobre el sistema se anulan entre ellas, y que en presencia de fuerzas resultantes no nulas se producen cambios de velocidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica que un objeto en movimiento acelerado tiene una fuerza neta aplicada. Si no hay fuerzas externas, se mantiene en reposo o en MRU.",
+          "(Saber Hacer) Resuelve problemas donde se analicen las fuerzas y cómo afectan la velocidad de un objeto.",
+          "(Saber Aplicar) Calcula la aceleración y velocidad de un objeto bajo la acción de fuerzas, y usar los conceptos de MRU o MRUA para predecir su comportamiento."
+        ],
+        "saberes": [
+          "Fuerzas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Reconozco los efectos nocivos del exceso en el consumo de cafeína, tabaco, drogas y licores",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco que el consumo excesivo de sustancias como cafeína, tabaco, drogas y alcohol afecta negativamente la salud física, mental y emocional, provocando enfermedades crónicas, adicción y alteraciones en el comportamiento.",
+          "(Saber Hacer) Identifico los signos del consumo excesivo de estas sustancias y sus consecuencias a corto y largo plazo. Además, soy capaz de explicar sus efectos nocivos a otros y brindar información para prevenir el abuso de estas sustancias.",
+          "(Saber Aplicar) Promuevo hábitos saludables en mi entorno, participando activamente en la sensibilización sobre los riesgos de estas sustancias."
+        ],
+        "saberes": [
+          "Efectos de sustancias psicoactivas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Formulo hipótesis acerca del origen y evolución de un grupo de organismos. Comparo diferentes teorías sobre el origen de las especies. Establezco relaciones entre el clima en las diferentes eras geológicas y las adaptaciones de los seres vivos.",
+        "dba": [
+          "DBA-NAT-9-6 Analiza teorías científicas sobre el origen de las especies (selección natural y ancestro común) como modelos científicos que sustentan sus explicaciones desde diferentes evidencias y argumentaciones."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco las principales teorías científicas sobre el origen de las especies, como la teoría de la selección natural de Charles Darwin y la teoría del ancestro común.",
+          "(Saber Hacer) Analizo y comparo las evidencias que respaldan estas teorías, como el registro fósil, la anatomía comparada, la biología molecular y la biogeografía",
+          "(Saber Aplicar) Aplico el conocimiento sobre la evolución y el origen de las especies para comprender la diversidad biológica actual y la adaptación de las especies a sus entornos."
+        ],
+        "saberes": [
+          "Teorías de la evolución y selección natural"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Establezco relaciones cuantitativas entre los componentes de una solución.",
+        "dba": [
+          "DBA-NAT-9-3 Analiza las relaciones cuantitativas entre solutos y solventes, así como los factores que afectan la formación de soluciones."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco los conceptos fundamentales de las soluciones, como soluto, solvente, concentración, solubilidad y sus unidades de medida (molaridad, molalidad, fracción molar).",
+          "(Saber Hacer) Realizo experimentos prácticos para observar cómo la temperatura, la agitación y el tipo de soluto afectan la velocidad y la cantidad de disolución.",
+          "(Saber Aplicar) Aplico los conocimientos adquiridos sobre la formación de soluciones y la concentración de solutos para resolver problemas del mundo real, como la preparación de soluciones en laboratorios o la comprensión de cómo se afectan las soluciones en procesos industriales y ambientales."
+        ],
+        "saberes": [
+          "Preparación de disoluciones. Soluciones químicas: conceptos y ejemplos. Unidades de concentración en las soluciones"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre las diferentes fuerzas que actúan sobre los cuerpos en reposo o en movimiento rectilíneo uniforme y establezco condiciones para conservar la energía mecánica.",
+        "dba": [
+          "Comprende la conservación de la energía mecánica como un principio que permite cuantificar y explicar diferentes fenómenos mecánicos: choques entre cuerpos, movimiento pendular, caída libre, deformación de un sistema masa-resorte."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco los principios fundamentales de la conservación de la energía mecánica, que establece que en un sistema aislado la suma de la energía cinética y la energía potencial se mantiene constante si no hay fuerzas externas realizando trabajo",
+          "(Saber Hacer) Utilizo fórmulas matemáticas apropiadas para calcular la energía en diferentes puntos de un fenómeno.",
+          "(Saber Aplicar) Aplico la ley de conservación de la energía para explicar y predecir el comportamiento de diferentes sistemas mecánicos."
+        ],
+        "saberes": [
+          "Caída libre"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco relaciones entre el deporte y la salud física y mental",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo los beneficios físicos como el fortalecimiento del sistema cardiovascular, aumento de la flexibilidad, y la mejora en la resistencia. A nivel mental, sé cómo el deporte contribuye a la reducción del estrés, mejora el estado de ánimo y aumenta la autoestima y la sensación de bienestar.",
+          "(Saber Hacer) Identifico las conexiones entre el deporte y la salud física y mental en situaciones cotidianas. Puedo recomendar actividades deportivas específicas para promover la salud física (como correr, nadar o practicar yoga) y mejorar el bienestar emocional (como el fútbol, el baloncesto o actividades grupales).",
+          "(Saber Aplicar) Aplico el conocimiento de los efectos del deporte sobre la salud física y mental al crear rutinas de ejercicio que combinen actividad física con aspectos que favorezcan la salud emocional, como practicar deporte en grupo para mejorar la cohesión social o realizar actividades al aire libre para reducir la ansiedad."
+        ],
+        "saberes": [
+          "Importancia del deporte para nuestro cuerpo y mente"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

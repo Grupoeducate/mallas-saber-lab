@@ -1,0 +1,264 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "11",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas.",
+        "dba": [
+          "DBA-NAT-11-5 Analiza cuestiones ambientales actuales, como el calentamiento global, contaminación, tala de bosques y minería, desde una visión sistémica (económico, social, ambiental y cultural)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo la interacción entre el ADN y el ambiente genera diversidad biológica e identifico las diferentes relaciones entre especies en los ecosistemas y asociarlas con principios termodinámicos.",
+          "(Saber Hacer) Analizo casos concretos de biodiversidad vinculados a factores genéticos y ambientales; clasificar relaciones entre especies como depredación, mutualismo, y competencia; y buscar ejemplos de aplicación de los principios termodinámicos en dinámicas ecológicas.",
+          "(Saber Aplicar) Interpreto fenómenos de diversidad biológica y relaciones ecológicas como herramientas para entender y conservar los ecosistemas y uso principios termodinámicos para explicar el flujo de energía en comunidades biológicas."
+        ],
+        "saberes": [
+          "La relación entre el ADN, el ambiente y la diversidad de los seres vivos.",
+          "Las diversas relaciones entre especies en los ecosistemas.",
+          "Aplicación de los principios termodinámicos en ecosistemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico",
+        "dba": [
+          "DBA-NAT-11-4 Comprende que los diferentes mecanismos de reacción química (óxido-reducción, homólisis, heterólisis y pericíclicas) posibilitan la formación de distintos tipos de compuestos orgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo la estructura del carbono, con sus cuatro electrones de valencia, permite la formación de enlaces covalentes estables y variados, dando origen a una amplia diversidad de moléculas orgánicas.",
+          "(Saber Hacer) Analizo estructuras de moléculas orgánicas simples y complejas, identificando cómo los enlaces del carbono se organizan en cadenas lineales, ramificadas o anillos.",
+          "(Saber Aplicar) Relaciono la estructura molecular del carbono con su función en compuestos esenciales como carbohidratos, lípidos, proteínas y ácidos nucleicos, y su impacto en procesos biológicos fundamentales."
+        ],
+        "saberes": [
+          "El papel del carbono en la formación de moléculas orgánicas funciones químicas orgánicas) Hidrocarburos (saturados, insaturados y aromáticos) y sus reacciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Reconoce los principios básicos de la termodinámica como fundamentos para el estudio del intercambio de energía térmica entre cuerpos.",
+        "dba": [
+          "Comprende la importancia del principio físico de la termodinámica y la hidromecánica en la construcción de máquinas y herramientas como elementos que ayudan a la productividad de la industria."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco los principios básicos de la termodinámica y la hidromecánica, como la conservación de la energía, el intercambio de calor, y las leyes de Pascal y Bernoulli, aplicados en el diseño y funcionamiento de máquinas industriales.",
+          "(Saber Hacer) Analizo ejemplos de máquinas como motores térmicos, turbinas hidráulicas, y sistemas de bombeo, identificando cómo se aplican los principios físicos para optimizar su eficiencia.",
+          "(Saber Aplicar) Relaciono el uso de estos principios con el desarrollo de tecnologías que incrementen la productividad en industrias como la automotriz, energética, y manufacturera, valorando su impacto en la economía y la sostenibilidad."
+        ],
+        "saberes": [
+          "Termodinámica: Sistemas, procesos y leyes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifico cómo los factores culturales, como creencias, tradiciones y normas sociales, y los avances tecnológicos, como la fertilización asistida y los métodos anticonceptivos, influyen en la sexualidad y la reproducción humana.",
+          "(Saber Hacer) Analizo casos concretos que ejemplifiquen la influencia cultural y tecnológica en decisiones relacionadas con la sexualidad y la reproducción.",
+          "(Saber Aplicar) Desarrollo habilidades para tomar decisiones informadas respecto a la sexualidad y la salud, promoviendo prácticas responsables y conscientes."
+        ],
+        "saberes": [
+          "Factores culturales y tecnológicos que influyen en la sexualidad y reproducción humanas.",
+          "Los efectos nocivos del consumo excesivo de sustancias como cafeína, tabaco, drogas y alcohol."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas",
+        "dba": [
+          "DBA-NAT-11-2 Comprende que la interacción de las cargas en reposo genera fuerzas eléctricas y que cuando las cargas están en movimiento generan fuerzas magnéticas.",
+          "DBA-NAT-11-5 Analiza cuestiones ambientales actuales, como el calentamiento global, contaminación, tala de bosques y minería, desde una visión sistémica (económico, social, ambiental y cultural)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco cómo los impulsos eléctricos y los neurotransmisores permiten la comunicación entre las neuronas.",
+          "(Saber Hacer) Analizo y describo el proceso de transmisión del impulso nervioso a través de las neuronas, incluyendo los mecanismos eléctricos y químicos.",
+          "(Saber Aplicar) Utilizo modelos químicos y eléctricos para explicar fenómenos biológicos como el funcionamiento de las neuronas en la transmisión de información."
+        ],
+        "saberes": [
+          "Modelos químicos y eléctricos para explicar el funcionamiento de las neuronas.",
+          "Aplicaciones del modelo de mecánica de fluidos en los seres vivos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico.",
+        "dba": [
+          "DBA-NAT-11-4 Comprende que los diferentes mecanis- mos de reacción química (óxido-reduc- ción, homólisis, heterólisis y pericíclicas) posibilitan la formación de distintos tipos de compuestos orgánicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco la importancia del carbono como elemento central en la formación de moléculas orgánicas, incluyendo compuestos oxigenados (como alcoholes, cetonas y ácidos carboxílicos) y nitrogenados (como aminoácidos, aminas y proteínas), destacando sus características químicas como la tetravalencia y capacidad de formar cadenas y estructuras complejas.",
+          "(Saber Hacer) Identifico y clasifico los principales compuestos oxigenados y nitrogenados, analizando su estructura molecular y funcionalidad en procesos biológicos y químicos. Relacionar la composición y propiedades de estas moléculas con sus aplicaciones en la vida cotidiana, como en alimentos, medicamentos y combustibles.",
+          "(Saber Aplicar) Aplico el conocimiento de los compuestos orgánicos en la interpretación de su papel en procesos vitales como el metabolismo y la síntesis de biomoléculas. Diseñar esquemas o mapas conceptuales que muestren cómo el carbono forma la base estructural de moléculas esenciales en organismos vivos."
+        ],
+        "saberes": [
+          "Papel del carbono en la formación de moléculas orgánicas.",
+          "Compuestos oxigenados y nitrogenados",
+          "Reacciones de compuestos oxigenados y nitrogenados."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Relaciono el Movimiento Armónico Simple (MAS) como un movimiento periódico, oscilatorio y vibratorio.",
+        "dba": [
+          "Comprende la conservación de la energía mecánica como un principio que permite cuantificar y explicar diferentes fenómenos mecánicos: choques entre cuerpos, movimiento pendular, caída libre, deformación de un sistema masa-resorte."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Entiendo que este principio se aplica en situaciones como el movimiento de un péndulo o un objeto en caída libre, donde la energía total se mantiene constante, pero se transforma de una forma a otra sin pérdidas.",
+          "(Saber Hacer) Identifico, en sistemas no conservativos como fricción, choques no elásticos, deformación y vibraciones, las transformaciones de energía que se producen. En estos sistemas, la energía mecánica no se conserva completamente, ya que parte de la energía se disipa como calor, sonido o deformaciones.",
+          "(Saber Aplicar) Aplico la conservación de la energía para resolver problemas de movimiento, como calcular la velocidad final de un objeto que cae desde una cierta altura o predecir el comportamiento de un objeto en un sistema de choque no elástico."
+        ],
+        "saberes": [
+          "Choques elásticos e inelásticos",
+          "Movimiento Armónico Simple",
+          "Características y magnitudes del Movimiento armónico simple.",
+          "Movimiento armónico simple en muelles.",
+          "Movimiento armónico simple en Péndulos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explico las aplicaciones tecnológicas del modelo de mecánica de fluidos, abordando su uso en sistemas hidráulicos, como las bombas y los sistemas de riego, y cómo estos conceptos se aplican en diversas industrias",
+          "(Saber Hacer) Identifico tecnologías desarrolladas en Colombia, enfocándome en aquellas que han tenido un impacto significativo en el desarrollo social y económico.",
+          "(Saber Aplicar) Analizo el desarrollo de los componentes de los circuitos eléctricos, entendiendo su funcionamiento y cómo su evolución ha impactado en la creación de dispositivos electrónicos, desde los más sencillos hasta los más complejos."
+        ],
+        "saberes": [
+          "Aplicaciones tecnológicas del modelo de mecánica de fluidos.",
+          "Tecnologías desarrolladas en Colombia.",
+          "Desarrollo de componentes de circuitos eléctricos y su impacto en la vida diaria."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la diversidad biológica como consecuencia de cambios ambientales, genéticos y de relaciones dinámicas dentro de los ecosistemas",
+        "dba": [
+          "DBA-NAT-11-5 Analiza cuestiones ambientales actuales, como el calentamiento global, contaminación, tala de bosques y minería, desde una visión sistémica (económico, social, ambiental y cultural)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo cómo la mutación, la selección natural y la herencia están interrelacionados en la evolución de las especies.",
+          "(Saber Hacer) Comparo y analizo casos de especies actuales donde la selección natural ha influido en su evolución, identificando los mecanismos de adaptación.",
+          "(Saber Aplicar) Relaciono los conceptos de individuo, población, comunidad y ecosistema para entender cómo interactúan los organismos en un entorno y cómo la evolución afecta estos niveles."
+        ],
+        "saberes": [
+          "La mutación, la selección natural y la herencia en la evolución de las especies.",
+          "El papel de la selección natural en la diversidad de especies actuales.",
+          "La selección natural y su contribución a la diversidad de especies actuales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Relaciono la estructura de las moléculas orgánicas e inorgánicas con sus propiedades físicas y químicas y su capacidad de cambio químico. Explico cómo la estructura de los ácidos nucleicos determina el flujo de información genética.",
+        "dba": [
+          "DBA-NAT-11-4 Comprende que los diferentes mecanismos de reacción química (óxido-reducción, homólisis, heterólisis y pericíclicas) posibilitan la formación de distintos tipos de compuestos orgánicos.",
+          "DBA-NAT-11-5 Analiza cuestiones ambientales actuales, como el calentamiento global, contaminación, tala de bosques y minería, desde una visión sistémica (económico, social, ambiental y cultural)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo los mecanismos de reacción química (óxido-reducción, homólisis, heterólisis y pericíclicas) y su importancia en la formación de compuestos orgánicos.",
+          "(Saber Hacer) Identifico y analizo las reacciones químicas involucradas en la formación de compuestos orgánicos, aplicando los diferentes mecanismos de reacción.",
+          "(Saber Aplicar) Relaciono los mecanismos de reacción con los efectos ambientales actuales, como el calentamiento global y la contaminación, proponiendo soluciones sostenibles."
+        ],
+        "saberes": [
+          "Teorías sobre la estructura atómica.",
+          "Factores que controlan la velocidad de las reacciones químicas.",
+          "Equilibrio químico: Caracterización de los cambios químicos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre frecuencia, amplitud, velocidad de propagación y longitud de onda en diversos tipos de ondas mecánicas. Explico el principio de conservación de la energía en ondas que cambian de medio de propagación. Reconozco y diferencio modelos para explicar la naturaleza y el comportamiento de la luz.",
+        "dba": [
+          "DBA-NAT-11 Comprende la naturaleza de la propagación del sonido y de la luz como fenómenos ondulatorios (ondas mecánicas y electromagnéticas, respectivamente)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconozco la diferencia entre las ondas mecánicas y electromagnéticas, clasificando las ondas de luz como electromagnéticas y las ondas de sonido como mecánicas.",
+          "(Saber Hacer) Identifico y describo las cualidades del sonido (tono, intensidad, audibilidad) y de la luz (color, visibilidad) relacionándolas con las características físicas de las ondas, como la longitud de onda, la frecuencia y la amplitud.",
+          "(Saber Aplicar) Utilizo fórmulas matemáticas básicas para calcular la frecuencia y la longitud de onda en diferentes contextos, como en el análisis de ondas sonoras o en la luz visible."
+        ],
+        "saberes": [
+          "Mecánica ondulatoria (clasificación, características, partes de una onda, propagación, fenómenos)",
+          "Acústica",
+          "Óptica (La luz)"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diferentes modelos biológicos, químicos y físicos en procesos industriales y en el desarrollo tecnológico; analizo críticamente las implicaciones de sus usos",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprendo el funcionamiento de los antibióticos, su importancia en el tratamiento de infecciones y la necesidad de su uso adecuado.",
+          "(Saber Hacer) Argumento la importancia de las medidas preventivas contra el embarazo y las enfermedades de transmisión sexual para proteger la salud individual y colectiva",
+          "(Saber Aplicar) Analizo el potencial de los recursos naturales en la generación de energía, evaluando sus aplicaciones y el impacto en el bienestar ambiental y social."
+        ],
+        "saberes": [
+          "El uso apropiado de antibióticos y su importancia en la salud.",
+          "La prevención del embarazo y las enfermedades de transmisión sexual para la salud individual y colectiva.",
+          "El potencial de los recursos naturales para la generación de energía"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

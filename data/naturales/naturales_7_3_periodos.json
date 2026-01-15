@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "7",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la dinámica de un ecosistema teniendo en cuenta las necesidades de energía y nutrientes de los seres vivos (cadena alimentaria). Explico las relaciones entre materia y energía en las cadenas alimentarias. Argumento la importancia de la fotosíntesis como un proceso de conversión de energía necesaria para organismos aerobios",
+        "dba": [
+          "DBA-NAT-7-3 Comprende que en las cadenas y redes tróficas existen flujos de materia y energía, y los relaciona con procesos de nutrición, fotosíntesis y respiración celular."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende los conceptos de nutrición autótrofa y heterótrofa y su rol en las cadenas y redes tróficas, así como los procesos de fotosíntesis y respiración celular, incluyendo sus reactivos, productos y funciones en el mantenimiento del equilibrio energético de los ecosistemas.",
+          "(Saber Hacer) Analiza y compara los procesos de fotosíntesis y respiración celular mediante diagramas o tablas, identificando su relación en el flujo de materia y energía en los ecosistemas. Así mismo, explica cómo los organismos autótrofos y heterótrofos contribuyen a la dinámica trófica, utilizando modelos visuales para representar cadenas y redes alimenticias.",
+          "(Saber Aplicar) Interpreta ejemplos concretos en los que se evidencie la interacción entre autótrofos y heterótrofos dentro de un ecosistema, prediciendo los impactos que generarían cambios en estos procesos sobre el equilibrio ecológico."
+        ],
+        "saberes": [
+          "Cadenas y redes tróficas, Fotosíntesis y respiración celular"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Describo el desarrollo de modelos que explican la estructura de la materia.",
+        "dba": [
+          "DBA-NAT-7-2 Comprendo que en la naturaleza se encuentran compuestos químicos que pertenecen a materia orgánica e inorgánica."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las características distintivas de la materia orgánica e inorgánica, incluyendo su composición química, propiedades principales y su presencia en sistemas biológicos y no biológicos.",
+          "(Saber Hacer) Analiza y compara ejemplos de materia orgánica e inorgánica a través de modelos, tablas o gráficos, identificando sus diferencias en términos de estructura molecular, origen y propiedades físicas y químicas.",
+          "(Saber Aplicar) Interpreta situaciones en las que se evidencia la interacción entre materia orgánica e inorgánica, como en procesos biogeoquímicos (ciclo del carbono, nitrógeno), y evalúa su importancia en los sistemas naturales e industriales."
+        ],
+        "saberes": [
+          "Representaciones de los compuestos químicos: La materia inorgánica, La materia orgánica"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Identifico y comparo fuentes de luz, calor y sonido y su efecto sobre diferentes seres vivos. Verifico relaciones entre distancia recorrida, velocidad y fuerza involucrada en diversos tipos de movimiento.",
+        "dba": [
+          "DBA-NAT-7-1 Comprende las formas y las transformaciones de energía en un sistema mecánico y la manera como, en los casos reales, la energía se disipa en el medio (calor, sonido)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las formas de energía mecánica (cinética y potencial) en sistemas en movimiento, su conservación en sistemas ideales, y los factores que influyen en su transformación durante fenómenos como la caída libre, el movimiento de un péndulo o una montaña rusa.",
+          "(Saber Hacer) Analiza y representa gráficamente la variación de las energías cinética y potencial gravitacional en función del tiempo, identificando puntos clave como la máxima energía cinética, la máxima energía potencial y los puntos de equilibrio en un sistema mecánico.",
+          "(Saber Aplicar) Interpreta la transformación y conservación de las energías mecánicas en situaciones reales o simuladas, evaluando su utilidad en contextos cotidianos o tecnológicos, como en el diseño de juegos mecánicos o sistemas de amortiguación."
+        ],
+        "saberes": [
+          "Energía mecánica"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Analizo el potencial de los recursos naturales de mi entorno para la obtención de energía e indico sus posibles. Identifico factores de contaminación en mi entorno y sus implicaciones para la salud",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los recursos naturales disponibles en su entorno, como el agua, el sol, el viento, y los combustibles fósiles, analizando su potencial para generar energía. Así mismo, describe los factores de contaminación asociados con el uso y explotación de estos recursos, como sus impactos en la salud humana y ambiental.",
+          "(Saber Hacer) Evalúa ejemplos locales de uso de recursos naturales para la generación de energía, identificando tanto los beneficios como las problemáticas ambientales y de salud. Del mismo modo, propone soluciones sostenibles que reduzcan la contaminación derivada de dichas actividades.",
+          "(Saber Aplicar) Diseña estrategias para aprovechar recursos energéticos de manera responsable, sugiriendo alternativas limpias y renovables según las características de su entorno. Así mismo, aplica conocimientos sobre la relación entre contaminación, salud y energía para promover prácticas sostenibles en su comunidad."
+        ],
+        "saberes": [
+          "Recursos naturales. Contaminación ambiental: Amenaza para la salud humana y los ecosistemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Justifico la importancia del agua en el sostenimiento de la vida. Describo y relaciono los ciclos del agua, de algunos elementos y de la energía en los ecosistemas",
+        "dba": [
+          "DBA-NAT-7-4 Comprende la relación entre los ciclos del carbono, el nitrógeno y del agua, explicando su importancia en el mantenimiento de los ecosistemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce cómo la intervención humana, como la erosión, la contaminación y la deforestación, afecta estos ciclos y genera consecuencias ambientales como la degradación del suelo y la pérdida de biodiversidad.",
+          "(Saber Hacer) Diseña y justifica propuestas sostenibles que mitiguen los daños ambientales, priorizando la restauración de procesos naturales como la reforestación y el manejo adecuado del suelo.",
+          "(Saber Aplicar) Desarrolla soluciones prácticas y adaptadas al contexto que incluyan estrategias sostenibles, como el uso de técnicas de conservación del suelo y la reducción de emisiones contaminantes."
+        ],
+        "saberes": [
+          "Ciclo del carbono. Ciclo del nitrógeno."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Explico y utilizo la tabla periódica como herramienta para predecir procesos químicos. Describo el desarrollo de modelos que explican la estructura de la materia. Explico la formación de moléculas y los estados de la materia a partir de fuerzas electrostáticas.",
+        "dba": [
+          "DBA-NAT-7-2 Explica cómo las sustancias se forman a partir de la interacción de los elementos y que estos se encuentran agrupados en un sistema periódico."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la estructura del átomo a partir de modelos como Bohr y Lewis, identificando sus componentes fundamentales (protones, neutrones y electrones) y comprendiendo cómo estas características determinan la posición de los elementos en la Tabla Periódica.",
+          "(Saber Hacer) Interpreta la relación entre la configuración electrónica y su ubicación en la Tabla Periódica, relacionando grupos y periodos con las propiedades químicas y físicas de los elementos.",
+          "(Saber Aplicar) Aplica el conocimiento de los modelos atómicos y la Tabla Periódica para predecir las propiedades de elementos y compuestos en contextos específicos, como la selección de materiales en procesos químicos o el análisis de reacciones químicas."
+        ],
+        "saberes": [
+          "El átomo: Estructura atómica, la Tabla Periódica, Modelos atómicos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre frecuencia, amplitud, velocidad de propagación y longitud de onda en diversos tipos de ondas mecánicas",
+        "dba": [
+          "DBA-NAT-7-1 Comprende la naturaleza de la propagación del sonido y de la luz como fenómenos ondulatorios (ondas mecánicas y electromagnéticas, respectivamente)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende las leyes fundamentales del movimiento ondulatorio, como la ley de reflexión, la ley de refracción y el principio de Huygens, para explicar cómo se comportan las ondas al interactuar con diferentes medios.",
+          "(Saber Hacer) Aplica las leyes de reflexión y refracción para resolver problemas prácticos sobre el comportamiento de ondas en cambios de medio, como el paso de la luz entre el aire y el agua o el sonido en materiales sólidos.",
+          "(Saber Aplicar) Utiliza los principios del movimiento ondulatorio para diseñar experimentos y simulaciones que expliquen fenómenos cotidianos como el eco, la formación de arcoíris o la dispersión de luz."
+        ],
+        "saberes": [
+          "Las ondas y el movimiento ondulatorio"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Analizo las implicaciones y responsabilidades de la sexualidad y la reproducción para el individuo y para su comunidad",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica conceptos como salud sexual y reproductiva, métodos anticonceptivos, derechos sexuales y reproductivos, y planificación familiar.",
+          "(Saber Hacer) Propone acciones informadas y responsables para promover la salud sexual y reproductiva, considerando las necesidades y los derechos de los individuos y las comunidades.",
+          "(Saber Aplicar) Participa activamente en iniciativas comunitarias que buscan educar y concientizar sobre temas como prevención de embarazos no planeados, infecciones de transmisión sexual y equidad de género."
+        ],
+        "saberes": [
+          "Sexualidad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la función del suelo como depósito de nutrientes",
+        "dba": [
+          "DBA-NAT-7-4 Comprende la relación entre los ciclos del carbono, el nitrógeno y del agua, explicando su importancia en el mantenimiento de los ecosistemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las principales funciones de los microorganismos, como su papel en los ciclos biogeoquímicos (nitrógeno, carbono, azufre, entre otros) y su relación con la descomposición, la fijación de nitrógeno y otros procesos esenciales para el equilibrio de los ecosistemas.",
+          "(Saber Hacer) Aplica el conocimiento para resolver problemas prácticos en el uso de microorganismos en procesos industriales, médicos o ambientales, como el tratamiento de residuos o la producción de alimentos y bebidas.",
+          "(Saber Aplicar) Relaciona el conocimiento de los microorganismos con el análisis de situaciones cotidianas donde estos intervienen, como el compostaje, la limpieza de aguas residuales o la fabricación de productos como pan o yogur."
+        ],
+        "saberes": [
+          "Microorganismos en los ciclos biogeoquímicos. Ciclo del agua."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Clasifico y verifico las propiedades de la materia. Comparo masa, peso, cantidad de sustancia y densidad de diferentes materiales",
+        "dba": [
+          "DBA-NAT-7-2 Explica cómo las sustancias se forman a partir de la interacción de los elementos y que estos se encuentran agrupados en un sistema periódico."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende cómo las propiedades físicas, como la densidad, la temperatura de ebullición y la de fusión, varían en diferentes grupos de la tabla periódica, teniendo en cuenta las características de los metales, no metales, metaloides y gases nobles",
+          "(Saber Hacer) Realiza experimentos prácticos para observar estas variaciones en sustancias simples como metales (por ejemplo, hierro o cobre), no metales (como el carbono o el oxígeno), metaloides (silicio) y gases nobles (helio o neón).",
+          "(Saber Aplicar) Utiliza el conocimiento de la variación de estas propiedades para explicar el comportamiento de las sustancias en diversas aplicaciones, como la selección de materiales en la industria, la creación de aleaciones, y la forma en que las propiedades físicas afectan el comportamiento de los elementos bajo condiciones específicas de presión y temperatura."
+        ],
+        "saberes": [
+          "Propiedades de los elementos de la Tabla Periódica. Metales. No metales. Metaloides. Gases nobles."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico la conducción de electricidad o calor en materiales.",
+        "dba": [
+          "DBA-NAT-7-1 Comprende que algunos materiales son buenos conductores de la corriente eléctrica y otros no (denominados aislantes) y que el paso de la corriente siempre genera calor"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende las propiedades de los materiales, como la conductividad eléctrica, y cómo estas propiedades son determinantes para la fabricación de objetos específicos.",
+          "(Saber Hacer) Aplica el concepto de conductividad eléctrica para explicar cómo se eligen materiales adecuados en la fabricación de productos como cables eléctricos.",
+          "(Saber Aplicar) Utiliza el conocimiento sobre la conductividad eléctrica para justificar la selección de materiales en aplicaciones prácticas."
+        ],
+        "saberes": [
+          "La electricidad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco relaciones entre transmisión de enfermedades y medidas de prevención y control.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende los mecanismos de transmisión de enfermedades infecciosas, reconociendo diferentes formas de transmisión (como contacto directo, aire, agua, vectores) y los factores que influyen en la propagación de las mismas.",
+          "(Saber Hacer) Aplica el conocimiento sobre los tipos de transmisión de enfermedades y las medidas de prevención y control en escenarios prácticos.",
+          "(Saber Aplicar) Utiliza el conocimiento sobre la transmisión y prevención de enfermedades para proponer soluciones en situaciones reales."
+        ],
+        "saberes": [
+          "Enfermedades de transmisión sexual (ETS)"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

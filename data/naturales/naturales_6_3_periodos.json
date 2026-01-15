@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "6",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Explico la estructura de la célula y las funciones básicas de sus componentes. Verifico y explico los procesos de ósmosis y difusión. Clasifico membranas de los seres vivos de acuerdo con su permeabilidad frente a diversas sustancias. Comparo mecanismos de obtención de energía en los seres vivos.",
+        "dba": [
+          "DBA-NAT-6-4 Comprende algunas de las funciones básicas de la célula (transporte de membrana, obtención de energía y división celular) a partir del análisis de su estructura."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica cómo la membrana plasmática regula la homeostasis celular mediante ósmosis y difusión, identifica el papel de la mitocondria en la respiración celular, y describe la mitosis como mecanismo clave para la regeneración y el crecimiento de los tejidos.",
+          "(Saber Hacer) Interpreta y elabora modelos que representen el transporte de sustancias, la respiración celular y la mitosis, utilizándolos para predecir las consecuencias de alteraciones en los organelos.",
+          "(Saber Aplicar) Relaciona los procesos celulares con situaciones reales como la hidratación, el ejercicio o el desarrollo de enfermedades, proponiendo estrategias para mantener la funcionalidad celular."
+        ],
+        "saberes": [
+          "La célula: Estructura y función. Transporte de membrana (activo, pasivo). Obtención de energía célula. División celular (Mitosis, Meiosis)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Clasifico y verifico las propiedades de la materia",
+        "dba": [
+          "Comprende que las sustancias pueden encontrarse en distintos estados (sólido, líquido y gaseoso)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica las propiedades básicas de los materiales en estado sólido, líquido y gaseoso, como la forma, fluidez y adaptabilidad al recipiente, para diferenciar entre estos estados.",
+          "(Saber Hacer) Clasifica materiales de su entorno según su estado físico, utilizando la observación directa y registros sistemáticos para justificar sus elecciones con base en sus propiedades.",
+          "(Saber Aplicar) Relaciona las propiedades de los materiales con situaciones cotidianas, como el uso de envases, el almacenamiento de líquidos o el transporte de gases, proponiendo soluciones prácticas."
+        ],
+        "saberes": [
+          "La materia (Concepto, Propiedades, Estados de agregación, Cambios de estado)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico la acción de fuerzas electrostáticas y magnéticas y explico su relación con la carga eléctrica.",
+        "dba": [
+          "DBA-NAT-6-1 Comprende cómo los cuerpos pueden ser cargados eléctricamente asociando esta carga a efectos de atracción y repulsión."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica cómo las fuerzas electrostáticas y magnéticas actúan sobre las cargas eléctricas y describe su relación con los conceptos de atracción, repulsión y campos eléctricos y magnéticos.",
+          "(Saber Hacer) Realiza experimentos o construye modelos que permitan observar la acción de fuerzas electrostáticas y magnéticas, interpretando los resultados para establecer relaciones entre la carga eléctrica y su entorno.",
+          "(Saber Aplicar) Relaciona los principios de las fuerzas electrostáticas y magnéticas con aplicaciones prácticas, como el funcionamiento de dispositivos electrónicos y fenómenos naturales, proponiendo ejemplos que evidencien su impacto en la vida cotidiana."
+        ],
+        "saberes": [
+          "Electroestática"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Indago acerca del uso industrial de microorganismos que habitan en ambientes extremos.",
+        "dba": [
+          "N/A"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica las características de los microorganismos extremófilos y describe sus adaptaciones para sobrevivir en ambientes extremos, así como sus aplicaciones industriales en áreas como la biotecnología, la medicina y la industria alimentaria.",
+          "(Saber Hacer) Investiga el uso de microorganismos extremófilos en procesos industriales, recopilando información de fuentes científicas y presentando ejemplos concretos de su utilidad, como la producción de enzimas, medicamentos o biocombustibles.",
+          "(Saber Aplicar) Relaciona el conocimiento sobre microorganismos extremófilos con el desarrollo de tecnologías sostenibles, identificando oportunidades para resolver problemas industriales o ambientales mediante su uso."
+        ],
+        "saberes": [
+          "Microorganismos en la industria"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Clasifico organismos en grupos taxonómicos de acuerdo con las características de sus células. Reconozco en diversos grupos taxonómicos la presencia de las mismas moléculas orgánicas.",
+        "dba": [
+          "DBA-NAT-6-5 Comprende la clasificación de los organismos en grupos taxonómicos, de acuerdo con el tipo de células que poseen y reconoce la diversidad de especies que constituyen nuestro planeta y las relaciones de parentesco entre ellas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las características básicas que diferencian a los organismos de su entorno (animales y plantas) y comprende los criterios utilizados en las claves taxonómicas simples para su clasificación.",
+          "(Saber Hacer) Clasifica organismos locales utilizando claves taxonómicas simples, representando la información en gráficos, tablas u otras herramientas visuales para organizar y comunicar los resultados de forma efectiva.",
+          "(Saber Aplicar) Aplica el conocimiento taxonómico en contextos ambientales, como la identificación de especies en proyectos escolares, fomentando el análisis de la biodiversidad y su conservación."
+        ],
+        "saberes": [
+          "Claves taxonómicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Explico la estructura de los átomos a partir de diferentes teorías",
+        "dba": [
+          "Comprende cómo las sustancias se forman a partir de la interacción de los elementos y que estos se encuentran agrupados en un sistema periódico."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe cómo las propiedades de las sustancias simples, como densidad, puntos de ebullición y fusión, varían en la tabla periódica según su grupo o periodo, considerando las diferencias entre metales, no metales, metaloides y gases nobles.",
+          "(Saber Hacer) Interpreta datos experimentales y gráficos sobre la densidad y las temperaturas de fusión y ebullición de diversas sustancias simples, estableciendo patrones de variación en la tabla periódica.",
+          "(Saber Aplicar) Relaciona las variaciones de las propiedades en la tabla periódica con aplicaciones prácticas, como la selección de materiales según sus propiedades térmicas o densidad, en contextos tecnológicos e industriales."
+        ],
+        "saberes": [
+          "Organización de la tabla periódica"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico el efecto de presión y temperatura en los cambios químicos. Clasifico y verifico las propiedades de la materia",
+        "dba": [
+          "DBA-NAT-6-2 Comprende que la temperatura (T) y la presión (P) influyen en algunas propiedades fisicoquímicas (solubilidad, viscosidad, densidad, puntos de ebullición y fusión) de las sustancias, y que estas pueden ser aprovechadas en las técnicas de separación de mezclas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explica cómo la temperatura y la presión afectan las propiedades de las sustancias, como densidad, solubilidad, viscosidad y los puntos de ebullición y fusión, utilizando ejemplos concretos y modelos teóricos.",
+          "(Saber Hacer) Interpreta datos experimentales sobre la influencia de la temperatura y la presión en los cambios de estado y propiedades de las sustancias, representándolos mediante gráficos y tablas que resalten tendencias y patrones.",
+          "(Saber Aplicar) Utiliza el conocimiento sobre las relaciones entre temperatura, presión y propiedades físicas para analizar situaciones prácticas, como la selección de materiales según su comportamiento en condiciones específicas de presión y temperatura."
+        ],
+        "saberes": [
+          "Temperatura y presión en las propiedades fisicoquímicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Establezco relaciones entre deporte y salud física y mental",
+        "dba": [
+          "N/A"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la relación entre la práctica deportiva y los beneficios que esta aporta a la salud física (como el fortalecimiento muscular, la mejora cardiovascular y la prevención de enfermedades) y mental (reducción del estrés, mejora del estado de ánimo y aumento de la concentración).",
+          "(Saber Hacer) Analiza y representa datos sobre los efectos positivos de la actividad física en la salud, diseñando esquemas o gráficos que expliquen cómo diferentes deportes contribuyen al bienestar integral.",
+          "(Saber Aplicar) Promueve hábitos saludables al relacionar tipos de actividades deportivas con mejoras específicas en la salud física y mental, adaptándolos a contextos personales y comunitarios."
+        ],
+        "saberes": [
+          "La importancia del deporte para la salud física y la salud mental."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Clasifico organismos en grupos taxonómicos de acuerdo con las características de sus células. Reconozco en diversos grupos taxonómicos la presencia de las mismas moléculas orgánicas.",
+        "dba": [
+          "DBA-NAT-6-5 Comprende la clasificación de los organismos en grupos taxonómicos, de acuerdo con el tipo de células que poseen y reconoce la diversidad de especies que constituyen nuestro planeta y las relaciones de parentesco entre ellas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende las características principales de los tipos de células (procariotas y eucariotas) y las clasificaciones taxonómicas, reconociendo su importancia para organizar y entender la biodiversidad del planeta, así como las relaciones evolutivas entre los organismos.",
+          "(Saber Hacer) Clasifica organismos en diferentes dominios y categorías taxonómicas con base en la observación de sus características celulares y morfológicas, utilizando claves taxonómicas y herramientas de representación como tablas y diagramas.",
+          "(Saber Aplicar) Analiza y argumenta cómo la clasificación taxonómica contribuye al estudio y conservación de la biodiversidad, identificando la relación entre la diversidad de organismos y sus adaptaciones al entorno."
+        ],
+        "saberes": [
+          "Clasificación de los organismos según las características de sus células (procariotas, eucariotas). Taxonomía."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Clasifico materiales en sustancias puras o mezclas. Verifico diferentes métodos de separación de mezclas",
+        "dba": [
+          "DBA-NAT-6-2 Comprende que la temperatura (T) y la presión (P) influyen en algunas propiedades fisicoquímicas (solubilidad, viscosidad, densidad, puntos de ebullición y fusión) de las sustancias, y que estas pueden ser aprovechadas en las técnicas de separación de mezclas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Entiende las diferencias entre mezclas homogéneas y heterogéneas, así como las propiedades fisicoquímicas de sus componentes, para seleccionar técnicas de separación como vaporización, cristalización y destilación.",
+          "(Saber Hacer) Diseña y ejecuta experimentos prácticos para separar mezclas utilizando técnicas específicas, registrando observaciones y resultados en función de las propiedades de las sustancias involucradas, como punto de ebullición y solubilidad.",
+          "(Saber Aplicar) Analiza y justifica la elección de técnicas de separación en contextos cotidianos o industriales, relacionando las propiedades fisicoquímicas con su eficiencia en la obtención de sustancias puras."
+        ],
+        "saberes": [
+          "Técnicas de separación de mezclas. Sustancias vs. Mezclas: Diferencias claves."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Verifico relaciones entre distancia recorrida, velocidad y fuerza involucrada en diversos tipos de movimiento",
+        "dba": [
+          "Comprende que el movimiento de un cuerpo, en un marco de referencia inercial dado, se puede describir con gráficos y predecir por medio de expresiones matemáticas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende las características y diferencias entre los tipos de movimiento rectilíneo uniforme (MRU), rectilíneo uniformemente acelerado (MRUA), circular uniforme, y parabólico, identificando cómo se relacionan el desplazamiento, la velocidad y la aceleración en función del tiempo.",
+          "(Saber Hacer) Representa gráficamente el desplazamiento, la velocidad y la aceleración de un cuerpo en movimientos MRU, MRUA, circular uniforme y parabólico, interpretando las tendencias en las gráficas y relacionándolas con las ecuaciones que describen cada tipo de movimiento.",
+          "(Saber Aplicar) Analiza y predice el comportamiento de objetos en movimiento en contextos cotidianos o físicos mediante la interpretación de gráficas, justificando cómo las condiciones iniciales (velocidad, aceleración, posición) influyen en su trayectoria y naturaleza."
+        ],
+        "saberes": [
+          "El movimiento de los cuerpos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico aplicaciones de diversos métodos de separación de mezclas en procesos industriales",
+        "dba": [
+          "N/A"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los principios fundamentales de los métodos de separación de mezclas (como destilación, filtración, decantación, cromatografía y centrifugación) y su relación con las propiedades fisicoquímicas de los componentes de una mezcla.",
+          "(Saber Hacer) Analiza y explica el uso de diversos métodos de separación en procesos industriales, identificando su aplicación en ejemplos concretos como la purificación de agua, la obtención de combustibles, la producción de medicamentos o alimentos procesados.",
+          "(Saber Aplicar) Propone soluciones para problemas relacionados con la separación de mezclas en contextos industriales, justificando la elección del método en función de la eficiencia y las propiedades de los materiales involucrados."
+        ],
+        "saberes": [
+          "Separación de mezclas en procesos industriales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

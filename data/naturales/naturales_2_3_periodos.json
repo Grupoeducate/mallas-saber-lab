@@ -1,0 +1,242 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "2",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno. Explico adaptaciones de los seres vivos al ambiente. Identifico patrones comunes a los seres vivos.",
+        "dba": [
+          "DBA-NAT-2-3 Comprende la relación entre las características físicas de plantas y animales con los ambientes en donde viven, teniendo en cuenta sus necesidades básicas (luz, agua, aire, suelo, nutrientes, desplazamiento y protección)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las características físicas de plantas y animales locales.",
+          "(Saber Hacer) Observa y registra las adaptaciones de las plantas y animales en su entorno natural.",
+          "(Saber Aplicar) Relaciona las adaptaciones de las plantas y animales con la satisfacción de sus necesidades básicas en su hábitat."
+        ],
+        "saberes": [
+          "Exploremos cómo las características físicas y adaptaciones de las plantas y animales de mi entorno me permiten satisfacer mis necesidades básicas y sobrevivir en sus hábitats específicos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-2-2 Comprende que las sustancias pueden encontrarse en distintos estados (sólido, líquido y gaseoso)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe los procesos de cambio de estado del agua: solidificación, fusión, evaporación y condensación.",
+          "(Saber Hacer) Realiza experimentos para observar y registrar los cambios de estado del agua bajo diferentes condiciones.",
+          "(Saber Aplicar) Explica cómo las condiciones ambientales influyen en los cambios de estado del agua en la vida cotidiana."
+        ],
+        "saberes": [
+          "Investiguemos cómo el agua cambia entre sus estados sólido, líquido y gaseoso, y las causas que provocan estos cambios de estado."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Identifico tipos de movimiento en seres vivos y objetos, y las fuerzas que los producen.",
+        "dba": [
+          "DBA-NAT-2-1 Comprende que una acción mecánica (fuerza) puede producir distintas deformaciones en un objeto, y que este resiste a las fuerzas de diferente modo, de acuerdo con el material del que está hecho."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los diferentes tipos de fuerzas que producen movimientos y deformaciones en objetos y seres vivos.",
+          "(Saber Hacer) Realiza experimentos para observar los efectos de diversas fuerzas en objetos y seres vivos según sus materiales.",
+          "(Saber Aplicar) Analiza cómo los materiales responden a las fuerzas aplicadas en situaciones cotidianas y tecnológicas."
+        ],
+        "saberes": [
+          "Analicemos cómo diferentes fuerzas producen movimientos y deformaciones en objetos y seres vivos, y cómo estos responden según el material del que están hechos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Identifico objetos que emitan luz o sonido. Identifico circuitos eléctricos en mi entorno.",
+        "dba": [
+          "Objetos que emiten luz o sonido. Circuitos eléctricos básicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe cómo los objetos que emiten luz o sonido y los circuitos eléctricos básicos funcionan y se utilizan en la vida cotidiana.",
+          "(Saber Hacer) Construye y prueba circuitos eléctricos básicos que incluyan componentes emisores de luz y sonido.",
+          "(Saber Aplicar) Explica cómo el uso de tecnologías de luz, sonido y circuitos eléctricos mejora la comunicación y la calidad de vida en la sociedad."
+        ],
+        "saberes": [
+          "Examinemos cómo los objetos que emiten luz o sonido y los circuitos eléctricos básicos son utilizados en nuestra vida cotidiana para mejorar la comunicación y la calidad de vida."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Observo y describo cambios en mi desarrollo y en el de otros seres vivos. Describo y verifico ciclos de vida de seres vivos.",
+        "dba": [
+          "DBA-NAT-2-4 Explica los procesos de cambios físicos que ocurren en el ciclo de vida de plantas y animales de su entorno, en un período de tiempo determinado."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las etapas del ciclo de vida de las plantas y animales locales.",
+          "(Saber Hacer) Observa y documenta los cambios físicos en plantas y animales de su entorno a lo largo del tiempo.",
+          "(Saber Aplicar) Analiza cómo los cambios físicos en el ciclo de vida de las plantas y animales influyen en su adaptación y supervivencia."
+        ],
+        "saberes": [
+          "Estudiemos los cambios físicos que ocurren en el ciclo de vida de las plantas y animales de mi entorno a lo largo del tiempo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-2-2 Comprende que las sustancias pueden encontrarse en distintos estados (sólido, líquido y gaseoso)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe los procesos de cambio de estado de las sustancias: fusión, solidificación, evaporación, condensación y sublimación.",
+          "(Saber Hacer) Realiza experimentos para observar y registrar los cambios de estado de diversas sustancias bajo diferentes condiciones.",
+          "(Saber Aplicar) Explica las causas que provocan los cambios de estado en las sustancias y su relevancia en procesos industriales y cotidianos."
+        ],
+        "saberes": [
+          "Investiguemos cómo las sustancias cambian entre sus estados sólido, líquido y gaseoso, y las causas que provocan estos cambios de estado."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado.",
+        "dba": [
+          "DBA-NAT-2-1 Comprende que una acción mecánica (fuerza) puede producir distintas deformaciones en un objeto, y que este resiste a las fuerzas de diferente modo, de acuerdo con el material del que está hecho."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe cómo diferentes fuerzas pueden provocar cambios de estado en la materia.",
+          "(Saber Hacer) Realiza experimentos para observar cómo los materiales cambian de estado bajo la influencia de distintas fuerzas.",
+          "(Saber Aplicar) Analiza cómo las propiedades físicas de los materiales determinan su resistencia a las fuerzas que provocan cambios de estado."
+        ],
+        "saberes": [
+          "Examinemos cómo diferentes fuerzas producen cambios de estado en la materia y cómo los materiales resisten estas fuerzas de acuerdo a sus propiedades físicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Analizo la utilidad de algunos aparatos eléctricos a mi alrededor.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe la función y el uso de diversos aparatos eléctricos en el entorno cotidiano.",
+          "(Saber Hacer) Realiza comparaciones entre diferentes aparatos eléctricos en términos de su eficiencia energética y funcionalidad.",
+          "(Saber Aplicar) Analiza el impacto de los aparatos eléctricos en la vida diaria y propone mejoras para optimizar su eficiencia energética."
+        ],
+        "saberes": [
+          "Evaluemos la utilidad de diversos aparatos eléctricos en nuestro entorno y su impacto en la vida diaria y la eficiencia energética."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Observo y describo cambios en mi desarrollo y en el de otros seres vivos. Describo y verifico ciclos de vida de seres vivos.",
+        "dba": [
+          "DBA-NAT-2-4 Explica los procesos de cambios físicos que ocurren en el ciclo de vida de plantas y animales de su entorno, en un período de tiempo determinado."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las etapas del ciclo de vida de plantas y animales en su entorno.",
+          "(Saber Hacer) Observa y documenta los cambios físicos en plantas y animales durante períodos específicos de tiempo.",
+          "(Saber Aplicar) Compara los ciclos de vida de diferentes plantas y animales, analizando las similitudes y diferencias en sus cambios físicos."
+        ],
+        "saberes": [
+          "Investiguemos y comparo los ciclos de vida de plantas y animales en mi entorno, observando y describiendo los cambios físicos que ocurren durante períodos específicos de tiempo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos. Propongo y verifico diversas formas de medir sólidos y líquidos.",
+        "dba": [
+          "DBA-NAT-2-2 Comprende que las sustancias pueden encontrarse en distintos estados (sólido, líquido y gaseoso)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe métodos para describir y clasificar objetos sólidos y líquidos basados en características perceptibles por los sentidos.",
+          "(Saber Hacer) Aplica técnicas de medición adecuadas para objetos sólidos y líquidos, verificando su precisión y consistencia.",
+          "(Saber Aplicar) Propone y justifica diferentes técnicas de medición para objetos sólidos y líquidos según sus propiedades físicas y químicas."
+        ],
+        "saberes": [
+          "Exploremos métodos para describir y clasificar objetos sólidos y líquidos según características perceptibles por los sentidos, y propongo y verifico diferentes técnicas de medición adecuadas para cada estado físico."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos. Identifico tipos de movimiento en seres vivos y objetos, y las fuerzas que los producen.",
+        "dba": [
+          "DBA-NAT-2-1 Comprende que una acción mecánica (fuerza) puede producir distintas deformaciones en un objeto, y que este resiste a las fuerzas de diferente modo, de acuerdo con el material del que está hecho."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y explica los métodos de clasificación sensorial de objetos y analiza cómo responden los seres vivos y objetos a las fuerzas mecánicas según su composición.",
+          "(Saber Hacer) Realiza experimentos para clasificar objetos mediante técnicas sensoriales y para medir fuerzas mecánicas en seres vivos y objetos, observando cómo varían las respuestas según su composición.",
+          "(Saber Aplicar) Aplica los resultados de la clasificación sensorial y del análisis de fuerzas mecánicas para predecir y explicar comportamientos materiales en diferentes contextos físicos y biológicos."
+        ],
+        "saberes": [
+          "Clasifiquemos sensorialmente objetos y analicemos las fuerzas mecánicas en seres vivos y objetos, incluyendo la variación en las respuestas de los materiales según su composición."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Analizo la utilidad de algunos aparatos eléctricos a mi alrededor.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y representa la función y el impacto de diversos aparatos eléctricos en la sociedad y el medio ambiente.",
+          "(Saber Hacer) Realiza evaluaciones de eficiencia energética de aparatos eléctricos y compara su consumo con estándares de eficiencia.",
+          "(Saber Aplicar) Propone y evidencia prácticas y tecnologías para mejorar la eficiencia energética de los aparatos eléctricos en diferentes entornos."
+        ],
+        "saberes": [
+          "Exploremos y evaluemos la utilidad de aparatos eléctricos en mi entorno, considerando su impacto en la sociedad, el medio ambiente y la eficiencia energética."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}

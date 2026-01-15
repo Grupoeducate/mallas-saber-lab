@@ -1,0 +1,246 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "1",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Propongo y verifico necesidades de los seres vivos. Describo características de seres vivos y objetos inertes, establezco semejanzas y diferencias entre ellos y los clasifico.",
+        "dba": [
+          "DBA-NAT-1-3 Comprende que los seres vivos (plantas y animales) tienen características comunes (se alimentan, respiran, tienen un ciclo de vida, responden al entorno) y la diferencia de los objetos inertes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe las características distintivas de los seres vivos y los seres inertes, incluyendo su estructura, función y comportamiento.",
+          "(Saber Conocer) Identificar y describir las partes de las plantas y animales y sus funciones.",
+          "(Saber Hacer) Clasifica correctamente diferentes ejemplos en categorías de seres vivos y seres inertes basándose en sus características observables.",
+          "(Saber Hacer) Crear modelos y dibujos precisos que representen las partes de las plantas y animales.",
+          "(Saber Aplicar) Aplica su conocimiento sobre las características de los seres vivos y seres inertes para analizar un ecosistema específico, identificando las interacciones entre sus componentes.",
+          "(Saber Aplicar) Comprarán y contrastan las estructuras de plantas y animales, aplicando su conocimiento para explicar las diferencias y similitudes observadas."
+        ],
+        "saberes": [
+          "Características de los seres vivos (plantas y animales) y los seres inertes.",
+          "Las Partes de las Plantas y Animales: Explorando sus Funciones y Características."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Establezco relaciones entre las funciones de los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-1 Comprende que los sentidos le permiten percibir algunas características de los objetos que nos rodean (temperatura, sabor, sonidos, olor, color, texturas y formas)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los cinco sentidos y menciona al menos una característica de los objetos que se percibe con cada uno.",
+          "(Saber Hacer) Realiza observaciones de objetos cotidianos usando al menos tres sentidos diferentes, describiendo las características percibidas.",
+          "(Saber Aplicar) Aplica el conocimiento de los sentidos en la resolución de problemas simples, como identificar alimentos por su sabor o reconocer objetos por su textura al tacto sin verlos."
+        ],
+        "saberes": [
+          "Descubriendo con los Sentidos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Establezco relaciones entre las funciones de los cinco sentidos. Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-1 Comprende que los sentidos le permiten percibir algunas características de los objetos que nos rodean (temperatura, sabor, sonidos, olor, color, texturas y formas)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los cinco sentidos (vista, oído, olfato, gusto, tacto) y explica cómo cada uno permite percibir características específicas de los objetos, como temperatura, sabor, sonidos, olor, color, texturas y formas.",
+          "(Saber Hacer) Realiza observaciones sensoriales y usa sus sentidos para identificar y describir al menos tres características diferentes de objetos cotidianos. Por ejemplo, describe la textura de una superficie, identifica el sabor de un alimento y clasifica colores observados.",
+          "(Saber Aplicar) Aplica el conocimiento sensorial en contextos prácticos, como distinguir entre objetos calientes y fríos al tacto, reconocer diferentes sonidos ambientales, identificar aromas específicos en un entorno familiar y seleccionar alimentos basados en su sabor preferido."
+        ],
+        "saberes": [
+          "Nuestros Sentidos y las Características de los Objetos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Diferencio objetos naturales de objetos creados por el ser humano.",
+        "dba": [
+          " "
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y nombra objetos naturales y objetos creados por el ser humano",
+          "(Saber Hacer) Clasifica una colección de objetos como naturales o creados por el ser humano basándose en características observables.",
+          "(Saber Aplicar) Explica la importancia de conservar los recursos naturales frente al uso sostenible de los recursos creados por el ser humano."
+        ],
+        "saberes": [
+          "Descubriendo la Naturaleza y la Creación Humana: Diferencias entre Objetos Naturales y Objetos Hechos por el Hombre"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 3"
+      }
+    ],
+    "2": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Observo y describo cambios en mi desarrollo y en el de otros seres vivos. Describo mi cuerpo y el de mis compañeros y compañeras.",
+        "dba": [
+          "DBA-NAT-1-4 Comprende que su cuerpo experimenta constantes cambios a lo largo del tiempo y reconoce a partir de su comparación que tiene características similares y diferentes a las de sus padres y compañeros."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga y comprende cómo ocurren los cambios en el cuerpo durante su crecimiento, reconoce las variaciones similares y diferentes con respecto a las de amigos y familiares.",
+          "(Saber Hacer) Identifica y registra los cambios en el cuerpo a medida que crece, comparando estas transformaciones con las de amigos y familiares.",
+          "(Saber Aplicar) Aplica el conocimiento de los cambios en el cuerpo para entender mejor su propio desarrollo y para compararlo de manera constructiva con el de amigos y familiares."
+        ],
+        "saberes": [
+          "Descubro cómo mi cuerpo cambia a medida que crezco, comparando las similitudes y diferencias con mis amigos y familia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga y describe cómo diferentes materiales pueden cambiar en apariencia o estado en función de factores ambientales o de uso.",
+          "(Saber Hacer) Realiza observaciones y registros de cambios en materiales cotidianos, identificando las condiciones que causan estas transformaciones.",
+          "(Saber Aplicar) Aplico el conocimiento sobre cambios en materiales para seleccionar adecuadamente los materiales según sus propiedades cambiantes para diferentes usos."
+        ],
+        "saberes": [
+          "Explorando cómo los materiales pueden experimentar cambios en su apariencia o estado en nuestra vida diaria."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Observa y clasifica materiales según sus características sensoriales (textura, apariencia y comportamiento) en diferentes situaciones.",
+          "(Saber Hacer) Investiga y comprende cómo los materiales se perciben a través de los sentidos, explorando sus propiedades físicas y químicas.",
+          "(Saber Aplicar) Aplica el conocimiento sobre las características sensoriales de los materiales para seleccionar y utilizar adecuadamente los materiales en actividades cotidianas y experimentos científicos."
+        ],
+        "saberes": [
+          "Descubriendo los materiales a través de nuestros sentidos: exploración y clasificación según cómo se sienten, lucen y se comportan en diferentes situaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Clasifico y comparo objetos según sus usos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga y estudia las propiedades físicas y químicas de materiales de uso diario para comprender cómo se clasifican según sus características.",
+          "(Saber Hacer) Cataloga y organiza materiales de uso diario según sus propiedades físicas, químicas o funcionales.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la clasificación de materiales de uso diario para seleccionar adecuadamente los materiales según sus características específicas y propósitos."
+        ],
+        "saberes": [
+          "Clasificación de materiales de uso diario."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 4"
+      }
+    ],
+    "3": [
+      {
+        "componente": "Entorno Vivo",
+        "estandar": "Observo y describo cambios en mi desarrollo y en el de otros seres vivos. Describo mi cuerpo y el de mis compañeros y compañeras.",
+        "dba": [
+          "DBA-NAT-1-4 Comprende que su cuerpo experimenta constantes cambios a lo largo del tiempo y reconoce a partir de su comparación que tiene características similares y diferentes a las de sus padres y compañeros."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga cómo ocurren y por qué suceden los cambios físicos en nuestro cuerpo a medida que crecemos, comparando estos cambios con los de nuestros padres y amigos.",
+          "(Saber Hacer) Observa y registra los cambios físicos en nuestro cuerpo a lo largo del tiempo, utilizando métodos como la medición y la comparación con otros.",
+          "(Saber Aplicar) Aplica el conocimiento sobre los cambios físicos en nuestro cuerpo para entender mejor nuestro desarrollo personal y para relacionarnos empáticamente con las diferencias entre nosotros y nuestros padres y amigos."
+        ],
+        "saberes": [
+          "¿Cómo cambian nuestros cuerpos a medida que crecemos y en qué somos parecidos y diferentes a nuestros padres y amigos?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Químico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explora y analiza las características físicas y químicas de diversos materiales para comprender por qué son apropiados para diferentes usos.",
+          "(Saber Hacer) Identifica y clasifica materiales según sus características específicas para determinar su idoneidad en distintas aplicaciones.",
+          "(Saber Aplicar) Aplica el conocimiento sobre las propiedades de los materiales para seleccionar adecuadamente los materiales más adecuados según sus características específicas y usos previstos."
+        ],
+        "saberes": [
+          "¡Los materiales son increíbles! Tienen diferentes características que los hacen especiales para diferentes usos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Entorno Físico",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga y comprende cómo los diferentes materiales se perciben a través de los sentidos para entender sus propiedades físicas y químicas.",
+          "(Saber Hacer) Observa y experimenta con materiales utilizando los sentidos para identificar y describir sus características y usos potenciales.",
+          "(Saber Aplicar) Emplea el conocimiento sobre las percepciones sensoriales de los materiales para seleccionar y utilizar apropiadamente los materiales según sus propiedades específicas y usos."
+        ],
+        "saberes": [
+          "Podemos usar nuestros sentidos para descubrir cómo son los materiales y para qué sirven."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      },
+      {
+        "componente": "Ciencia, tecnología y sociedad",
+        "estandar": "Clasifico y comparo objetos según sus usos.",
+        "dba": [
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Investiga y estudia las propiedades físicas y químicas de materiales de uso diario para comprender cómo se clasifican según sus características.",
+          "(Saber Hacer) Cataloga y organiza materiales de uso diario según sus propiedades físicas, químicas o funcionales.",
+          "(Saber Aplicar) Aplica el conocimiento sobre la clasificación de materiales de uso diario para seleccionar adecuadamente los materiales según sus características específicas y propósitos."
+        ],
+        "saberes": [
+          "Clasificación de materiales de uso diario."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": "Página 5"
+      }
+    ]
+  }
+}
