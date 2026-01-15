@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "5",
+  "nombre_archivo": "t_ciencias_5_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "La Ciudad Invisible: El Mundo Celular",
+            "un_reto_sugerido": "¿Cómo puede una estructura tan pequeña como la célula organizar todo el funcionamiento de un ser vivo complejo?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una cebolla de huevo y una hoja de planta con una lupa potente, identificando las 'celdillas' o unidades que las componen.",
+              "visual": "Extracción de células de la mucosa bucal (raspado suave con copito) y observación en microscopio casero o comparación de fotos de tejidos musculares vs. epiteliales.",
+              "produccion": "Construir un modelo tridimensional de la célula relacionando sus organelos con las funciones de una ciudad (ej. núcleo-alcaldía, mitocondria-central eléctrica)."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si las células de tus músculos intentaran cumplir la función de las células de tu piel?",
+              "¿Cómo ha ayudado el invento del microscopio a prevenir enfermedades en la sociedad actual?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la forma de la célula con la función del tejido que conforma (ej. neuronas alargadas para transmitir señales).",
+              "Explica los niveles de organización: célula, tejido, órgano y sistema."
+            ],
+            "un_refuerzo": "Investigar qué son las células madre y por qué los científicos están tan interesados en ellas para la medicina."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Chef de Mezclas: Ciencia en la Cocina",
+            "un_reto_sugerido": "¿Cómo podemos diferenciar una mezcla que parece una sola sustancia de una donde vemos sus partes?",
+            "ruta_de_exploracion": {
+              "explorar": "Preparar un vaso de agua con azúcar y otro de agua con aceite, observando las diferencias visuales tras agitar.",
+              "visual": "Laboratorio de separación: Usar un colador para tamizar arena/piedras y un filtro de café para separar tiza molida de agua.",
+              "produccion": "Clasificar 10 ejemplos del hogar en mezclas homogéneas y heterogéneas, justificando el método de separación más eficiente para cada una."
+            },
+            "para_pensar": [
+              "¿Por qué el aire que respiramos es una mezcla homogénea y no una sustancia pura?",
+              "¿Cómo crees que se separa la sal del agua de mar en las grandes salinas?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia con precisión entre mezclas homogéneas y heterogéneas.",
+              "Selecciona y aplica la técnica de separación correcta según el estado y tamaño de los componentes."
+            ],
+            "un_refuerzo": "Experimento de evaporación: Dejar agua con sal al sol y observar cómo se recupera el sólido tras la desaparición del líquido."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Bio-Cables: Circuitos y Neuronas",
+            "un_reto_sugerido": "¿En qué se parece un cable eléctrico a una célula de tu cerebro?",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar encender un bombillo LED con una pila de 9V y un cable, observando qué sucede si el cable se rompe.",
+              "visual": "Construir un circuito simple (pila, cable, LED) y compararlo con un diagrama de una neurona (dendritas-receptores, axón-cable, terminal sináptica-interruptor).",
+              "produccion": "Elaborar un cuadro comparativo donde se explique la función de transporte de información en el sistema nervioso usando conceptos eléctricos."
+            },
+            "para_pensar": [
+              "¿Qué pasaría en tu cuerpo si los impulsos eléctricos de tus neuronas fueran más lentos?",
+              "¿Por qué es peligroso tocar cables eléctricos si nuestro cuerpo funciona con señales eléctricas internas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los componentes básicos de un circuito: fuente, conductor y receptor.",
+              "Compara la estructura del axón neuronal con un conductor eléctrico."
+            ],
+            "un_refuerzo": "Investigar qué sustancias químicas (neurotransmisores) ayudan a que la electricidad pase de una neurona a otra."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Tecno-Salud: Circuitos que Salvan Vidas",
+            "un_reto_sugerido": "¿Cómo la electricidad nos ayuda a ver seres tan diminutos como los microorganismos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de equipos médicos (ecógrafos, microscopios electrónicos) y discutir cómo funcionan.",
+              "visual": "Diseño de un prototipo de 'dispositivo de alerta': Usar un circuito simple para avisar cuando un recipiente de agua está lleno (sensor de nivel casero).",
+              "produccion": "Redactar un ensayo sobre cómo los avances en circuitos eléctricos permitieron la creación de laboratorios modernos para combatir virus."
+            },
+            "para_pensar": [
+              "¿Cómo sería la salud pública si no tuviéramos equipos eléctricos en los hospitales?",
+              "¿Qué impacto ambiental tienen las pilas que usamos en nuestros dispositivos de salud?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones claras entre circuitos eléctricos y avances en medicina.",
+              "Propone una mejora a un sistema de monitoreo ambiental usando principios de circuitos."
+            ],
+            "un_refuerzo": "Realizar una infografía sobre el funcionamiento eléctrico de un marcapasos cardíaco."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "La Gran Autopista de la Nutrición",
+            "un_reto_sugerido": "¿Cómo se pone de acuerdo tu estómago, tus pulmones y tu corazón para darte energía?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar ejercicio intenso por 2 minutos y observar el cambio en el ritmo del corazón y la respiración.",
+              "visual": "Construcción de un modelo de pulmones con una botella plástica y globos, demostrando el intercambio de aire.",
+              "produccion": "Esquematizar la ruta de un nutriente desde que entra a la boca hasta que la sangre lo entrega a una célula de la mano."
+            },
+            "para_pensar": [
+              "¿Por qué nos sentimos cansados después de comer mucho si se supone que la comida da energía?",
+              "¿Qué sucede con el oxígeno que respiramos una vez llega a la sangre?"
+            ],
+            "pistas_del_exito": [
+              "Describe la función integrada de los sistemas digestivo, respiratorio y circulatorio.",
+              "Explica cómo los nutrientes pasan del sistema digestivo al circulatorio."
+            ],
+            "un_refuerzo": "Simular el proceso de absorción intestinal usando una media velada y agua con arena para entender la filtración de nutrientes."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Química Industrial en Casa",
+            "un_reto_sugerido": "¿Cómo podemos separar sustancias que tienen propiedades químicas muy parecidas?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar cómo el alcohol desaparece más rápido que el agua al poner una gota de cada uno sobre una mesa (evaporación diferencial).",
+              "visual": "Experimento de decantación: Mezclar agua con tierra y dejar reposar en una botella cortada para observar cómo la gravedad separa lo más denso.",
+              "produccion": "Diseñar un manual de 'Tratamiento de Agua Casero' combinando filtración, decantación y ebullición."
+            },
+            "para_pensar": [
+              "¿Por qué es importante para la industria farmacéutica que las mezclas sean separadas con total precisión?",
+              "¿Cómo afecta el derrame de aceite en el mar a la posibilidad de separar el agua para consumo?"
+            ],
+            "pistas_del_exito": [
+              "Selecciona el método de separación basándose en propiedades químicas como la densidad y el punto de ebullición.",
+              "Evalúa la eficacia de un experimento de separación midiendo cuánto residuo quedó."
+            ],
+            "un_refuerzo": "Investigar qué es la destilación y cómo se usa para fabricar esencias de perfumes."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros de Energía: Conductores y Aislantes",
+            "un_reto_sugerido": "¿Por qué las ollas tienen mangos de madera y los cables están forrados en plástico?",
+            "ruta_de_exploracion": {
+              "explorar": "Tocar una cuchara de metal y una de madera que han estado en un vaso con agua tibia, comparando cuál se siente más caliente.",
+              "visual": "Probador de conductividad: Usar un circuito simple y colocar diferentes materiales (clip, borrador, moneda, grafito de lápiz) entre los cables para ver si enciende el LED.",
+              "produccion": "Clasificar materiales en conductores y aislantes (eléctricos y térmicos) explicando su utilidad en la construcción de viviendas."
+            },
+            "para_pensar": [
+              "¿Por qué el agua con sal conduce mejor la electricidad que el agua pura?",
+              "¿Cómo ayudan los materiales aislantes a ahorrar energía en nuestras casas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica materiales conductores y aislantes mediante experimentación.",
+              "Explica por qué la corriente eléctrica genera calor al pasar por un conductor."
+            ],
+            "un_refuerzo": "Investigar por qué los electricistas usan botas de caucho especiales para trabajar."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Escudo Protector: Salud vs. Sustancias",
+            "un_reto_sugerido": "¿Cómo afectan las sustancias químicas del tabaco y el alcohol el funcionamiento de tus circuitos internos?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver videos de campañas de prevención de drogas y discutir cómo cambia el comportamiento de una persona bajo su efecto.",
+              "visual": "Simulación de pulmón de fumador: Usar un frasco y algodón, aspirando el humo de un incienso para observar cómo el algodón se mancha.",
+              "produccion": "Crear un programa radial o podcast escolar que informe sobre los efectos de la nicotina y el alcohol en el sistema circulatorio."
+            },
+            "para_pensar": [
+              "¿Por qué algunas sustancias legales como el alcohol pueden ser tan dañinas como las ilegales?",
+              "¿Cómo influye la publicidad en el consumo de tabaco en los jóvenes?"
+            ],
+            "pistas_del_exito": [
+              "Identifica efectos nocivos de sustancias psicoactivas en sistemas de órganos específicos.",
+              "Propone una estrategia de prevención basada en estilos de vida saludables."
+            ],
+            "un_refuerzo": "Investigar qué es la cafeína y cómo afecta el ritmo cardíaco de las personas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Sincronía Vital: El Cuerpo en Armonía",
+            "un_reto_sugerido": "¿Cómo ayuda tu respiración a que tus músculos puedan seguir corriendo en un partido de fútbol?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un caso clínico hipotético: 'Si a una persona le falla un riñón, ¿cómo se afecta su sangre y su digestión?'.",
+              "visual": "Simulación de circulación: Usar mangueras transparentes, agua con colorante y una bomba manual para observar cómo la presión impulsa los nutrientes.",
+              "produccion": "Diseñar una infografía que demuestre la cooperación de los sistemas digestivo y circulatorio en la salud general."
+            },
+            "para_pensar": [
+              "¿Podríamos vivir si solo funcionara uno de nuestros sistemas de órganos?",
+              "¿Qué papel juega la tecnología (como la diálisis) cuando un sistema falla?"
+            ],
+            "pistas_del_exito": [
+              "Explica la interdependencia de los sistemas de órganos en procesos de nutrición.",
+              "Modeliza situaciones de cooperación sistémica con rigor científico."
+            ],
+            "un_refuerzo": "Investigar qué alimentos son 'combustible' de alta calidad para que el sistema circulatorio funcione mejor."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Filtro Perfecto: Optimización Química",
+            "un_reto_sugerido": "¿Cómo podemos mejorar un método de separación para que el resultado sea 100% puro?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una mezcla de agua con tinta y tratar de separarla solo con papel de filtro; notar qué sucede.",
+              "visual": "Reto de optimización: Diseñar un sistema de purificación de agua que use 3 etapas (tamizado, filtrado con carbón y ebullición).",
+              "produccion": "Redactar un informe técnico evaluando la eficiencia de diferentes métodos aplicados a una misma mezcla compleja."
+            },
+            "para_pensar": [
+              "¿Por qué es vital optimizar la separación de mezclas en la creación de agua potable para ciudades?",
+              "¿Cómo la industria química separa los componentes del aire para obtener oxígeno hospitalario?"
+            ],
+            "pistas_del_exito": [
+              "Diseña procedimientos experimentales ajustando variables para mejorar la separación.",
+              "Compara la efectividad de diversos métodos de separación con datos precisos."
+            ],
+            "un_refuerzo": "Investigar qué es la cromatografía avanzada y cómo se usa para detectar sustancias en la sangre."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Aislamiento Térmico",
+            "un_reto_sugerido": "¿Qué material es el mejor para mantener frío un helado en un día caluroso?",
+            "ruta_de_exploracion": {
+              "explorar": "Envolver cubos de hielo en diferentes materiales (papel aluminio, lana, plástico, madera) y ver cuál tarda más en derretirse.",
+              "visual": "Medición de temperatura: Usar un termómetro para registrar el enfriamiento de agua caliente en vasos de diferentes materiales.",
+              "produccion": "Presentar un informe de diseño sugiriendo los materiales ideales para construir un termo eficiente y de bajo costo."
+            },
+            "para_pensar": [
+              "¿Por qué los termos tienen una capa de vacío entre sus paredes?",
+              "¿Cómo se relaciona la estructura de los metales con su gran capacidad para conducir calor?"
+            ],
+            "pistas_del_exito": [
+              "Realiza mediciones precisas de conductividad térmica en materiales variados.",
+              "Formula conclusiones basadas en la evidencia experimental obtenida."
+            ],
+            "un_refuerzo": "Investigar cómo funcionan los materiales 'inteligentes' que cambian su conductividad con el calor."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Atletas de la Ciencia: Deporte y Salud",
+            "un_reto_sugerido": "¿Cómo la tecnología deportiva ayuda a mejorar nuestra salud física y mental?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar cómo funcionan las aplicaciones de celular que cuentan pasos o miden el ritmo cardíaco durante el deporte.",
+              "visual": "Diseño de un plan de entrenamiento escolar: Integrar tomas de pulso antes, durante y después del ejercicio para graficar la recuperación.",
+              "produccion": "Propuesta de una feria deportiva-científica donde se demuestre la relación entre el ejercicio y la liberación de endorfinas (salud mental)."
+            },
+            "para_pensar": [
+              "¿Cómo puede el deporte ayudar a personas que sufren de estrés o ansiedad?",
+              "¿Qué impacto tiene la tecnología en la inclusión de personas con discapacidad en el deporte?"
+            ],
+            "pistas_del_exito": [
+              "Explica los beneficios del deporte para la salud integral basándose en la ciencia.",
+              "Utiliza herramientas tecnológicas para monitorear el progreso de la salud física."
+            ],
+            "un_refuerzo": "Realizar un mapa mental sobre cómo la hidratación afecta el rendimiento de los sistemas circulatorio y muscular."
+          }
+        }
+      ]
+    }
+  ]
+}

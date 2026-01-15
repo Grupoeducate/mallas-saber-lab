@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "4",
+  "nombre_archivo": "t_ciencias_4_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Restaurante Subacuático",
+            "un_reto_sugerido": "¿Qué pasaría en un río si desaparecen las algas del fondo?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video o imagen de un arrecife o río local e identificar quién se come a quién, anotando los 'ingredientes' de esa red.",
+              "visual": "Modelar una pirámide trófica acuática en un frasco con agua, usando recortes de productores (fitoplancton), consumidores y descomponedores, conectándolos con lana.",
+              "produccion": "Explicar mediante un diagrama cómo fluye la energía desde el sol hasta los descomponedores en el agua, justificando el rol de cada nivel trófico."
+            },
+            "para_pensar": [
+              "¿Por qué los descomponedores son los recicladores del ecosistema acuático?",
+              "¿Cómo afecta el vertido de basura a la cadena alimenticia de los peces que consumimos?"
+            ],
+            "pistas_del_exito": [
+              "Elabora un diagrama trófico acuático con al menos 4 niveles identificados.",
+              "Explica el impacto de una variación ambiental en el equilibrio de la red alimenticia."
+            ],
+            "un_refuerzo": "Investigar qué es el plancton y por qué es la base de la vida en los océanos."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Maestros de la Separación",
+            "un_reto_sugerido": "¿Cómo podemos obtener agua limpia de una mezcla de arena, sal y clips metálicos?",
+            "ruta_de_exploracion": {
+              "explorar": "Presentar tres vasos con mezclas diferentes (agua/aceite, arena/piedras, agua/sal) y debatir cuál parece más difícil de separar.",
+              "visual": "Estaciones de laboratorio casero: usar un imán (magnetismo), un colador (tamizado) y un embudo con algodón (filtración) para separar los componentes.",
+              "produccion": "Diseñar un protocolo escrito que justifique el orden de las técnicas usadas basándose en las propiedades de la materia (tamaño, densidad, atracción)."
+            },
+            "para_pensar": [
+              "¿Cómo se separan los residuos en las plantas de tratamiento de agua de nuestra ciudad?",
+              "¿Por qué no podemos usar filtración para separar la sal disuelta en el agua?"
+            ],
+            "pistas_del_exito": [
+              "Describe el fundamento físico de al menos 3 técnicas de separación.",
+              "Ejecuta un experimento de separación logrando aislar los componentes con pureza visual."
+            ],
+            "un_refuerzo": "Investigar cómo funciona la técnica de decantación para separar el petróleo en caso de un derrame en el mar."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Ingenieros de la Ventaja Mecánica",
+            "un_reto_sugerido": "¿Cómo podemos levantar un objeto pesado usando solo un dedo?",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar mover un mueble pesado o abrir una puerta pesada desde diferentes puntos del pomo o la palanca.",
+              "visual": "Construir una palanca de primer grado con una regla y un borrador como punto de apoyo; medir cuánto esfuerzo se requiere al mover el apoyo.",
+              "produccion": "Elaborar un informe técnico que explique cómo la dirección y magnitud de la fuerza cambian el movimiento según el diseño de la máquina simple."
+            },
+            "para_pensar": [
+              "¿Qué máquinas simples usas en tu cocina (tijeras, abrelatas, cascanueces) y cuál es su ventaja?",
+              "¿Cómo crees que las civilizaciones antiguas movieron piedras gigantes sin motores eléctricos?"
+            ],
+            "pistas_del_exito": [
+              "Construye un modelo funcional de una máquina simple (palanca o polea).",
+              "Relaciona la posición del punto de apoyo con la reducción del esfuerzo realizado."
+            ],
+            "un_refuerzo": "Reto: Diseñar una rampa (plano inclinado) para subir un carrito de juguete y comparar el esfuerzo frente a subirlo verticalmente."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "La Evolución del Esfuerzo",
+            "un_reto_sugerido": "¿De qué manera las máquinas simples cambiaron la historia del trabajo humano?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar dibujos de campesinos antiguos usando herramientas manuales frente a máquinas simples modernas (poleas de construcción).",
+              "visual": "Analizar un cortaúñas o una bicicleta: identificar cuántas máquinas simples trabajan juntas para que funcione.",
+              "produccion": "Diseñar un proyecto para resolver un problema del colegio (ej: subir balones al techo o mover macetas) usando máquinas simples."
+            },
+            "para_pensar": [
+              "¿Podría existir la tecnología moderna sin el invento previo de la rueda o la palanca?",
+              "¿Cómo el uso de máquinas ayuda a que personas con menos fuerza física puedan realizar trabajos pesados?"
+            ],
+            "pistas_del_exito": [
+              "Identifica máquinas simples en 5 objetos tecnológicos cotidianos.",
+              "Evalúa la eficiencia de un sistema mecánico diseñado por el grupo."
+            ],
+            "un_refuerzo": "Crear un póster histórico sobre la invención de la rueda y su impacto en el transporte."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Supervivientes: Tierra vs Agua",
+            "un_reto_sugerido": "¿Qué adaptaciones permiten que un cactus y un pez respiren en ambientes tan diferentes?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar una hoja de una planta terrestre con una planta acuática sumergida (elodea); observar texturas y burbujas.",
+              "visual": "Experimento de transpiración: Cubrir una planta terrestre con una bolsa y observar la humedad; comparar con la resistencia de una planta con cera (suculenta).",
+              "produccion": "Redactar un informe comparativo sobre las estructuras (branquias/pulmones, raíces/rizomas) que garantizan el éxito reproductivo en cada medio."
+            },
+            "para_pensar": [
+              "¿Por qué los animales acuáticos suelen tener formas hidrodinámicas (alargadas)?",
+              "¿Cómo afecta el cambio en la temperatura del suelo a los animales que no pueden migrar?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica correctamente adaptaciones morfológicas y fisiológicas en dos organismos.",
+              "Relaciona las características del ecosistema (humedad, altitud) con las formas de vida."
+            ],
+            "un_refuerzo": "Investigar el caso del oso perezoso y sus adaptaciones para vivir en la copa de los árboles."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Química de Colores (Cromatografía)",
+            "un_reto_sugerido": "¿Cuántos colores se esconden realmente en el color negro de un marcador?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una mancha de tinta que se moja accidentalmente y ver cómo se expanden diferentes colores.",
+              "visual": "Realizar una cromatografía en papel: usar tiras de papel filtro, marcadores y alcohol para ver la separación de pigmentos por capilaridad.",
+              "produccion": "Explicar el principio de solubilidad y afinidad que permite que los componentes se muevan a diferentes velocidades."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda esta técnica en los laboratorios de criminalística o de alimentos?",
+              "¿Podríamos usar esta técnica para saber si una planta tiene diferentes pigmentos en sus hojas?"
+            ],
+            "pistas_del_exito": [
+              "Documenta el procedimiento de separación por cromatografía con precisión.",
+              "Justifica la elección de la técnica basada en la solubilidad de los componentes."
+            ],
+            "un_refuerzo": "Intentar separar los pigmentos de una hoja verde machacada usando alcohol y papel filtro."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Bitácora del Cosmos",
+            "un_reto_sugerido": "¿Por qué la luna parece cambiar de forma si ella no emite luz propia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el cielo nocturno durante tres noches seguidas y dibujar la forma de la luna y su posición respecto a una estrella.",
+              "visual": "Modelo Tierra-Luna-Sol: Usar una naranja (Tierra), una pelota de ping-pong (Luna) y una linterna (Sol) para simular rotación y fases.",
+              "produccion": "Explicar gráficamente por qué solo vemos una cara de la luna y cómo la rotación terrestre genera el ciclo día/noche."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si la Tierra dejara de rotar sobre su propio eje?",
+              "¿Cómo influyen las fases de la luna en las mareas y en la agricultura tradicional?"
+            ],
+            "pistas_del_exito": [
+              "Explica el fenómeno de las fases lunares mediante un modelo tridimensional.",
+              "Relaciona el movimiento de rotación con la iluminación parcial de la superficie terrestre."
+            ],
+            "un_refuerzo": "Investigar qué es un eclipse de luna y por qué ocurre con menos frecuencia que las fases."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Generadores de Futuro",
+            "un_reto_sugerido": "¿Cómo transformamos el movimiento o el calor en luz para nuestras casas?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar aparatos que se calientan al encenderse (bombillos antiguos) o que se mueven (ventiladores).",
+              "visual": "Construir un prototipo simple: un molinillo de viento que mueva un eje o usar una lupa para concentrar energía térmica.",
+              "produccion": "Presentar una evaluación sobre la eficiencia energética de dispositivos luminosos (LED vs Incandescente) y su impacto ambiental."
+            },
+            "para_pensar": [
+              "¿Por qué los dispositivos modernos intentan generar menos calor y más luz o movimiento?",
+              "¿Qué fuentes de energía renovable podríamos usar en nuestro colegio (solar, eólica)?"
+            ],
+            "pistas_del_exito": [
+              "Describe el proceso físico de transformación de energía en un dispositivo.",
+              "Construye un prototipo que demuestre la generación de energía mecánica o térmica."
+            ],
+            "un_refuerzo": "Investigar cómo funciona una linterna de dinamo que no usa pilas, sino movimiento."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Expedición a los Ecosistemas de Colombia",
+            "un_reto_sugerido": "¿Por qué Colombia es uno de los países con más biodiversidad del mundo?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver un mapa de Colombia e identificar regiones: selva, desierto, nevado y mar, imaginando sus climas.",
+              "visual": "Crear un mini-ecosistema en una caja (diorama) terrestre y uno acuático, comparando 5 especies y sus adaptaciones al suelo o al agua.",
+              "produccion": "Redactar un informe científico que compare la humedad, temperatura y altitud de dos ecosistemas colombianos y su fauna asociada."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda la diversidad de ecosistemas a que los humanos tengamos diferentes alimentos?",
+              "¿Qué especie de tu región está en peligro y qué característica de su ecosistema está cambiando?"
+            ],
+            "pistas_del_exito": [
+              "Compara 5 organismos terrestres y acuáticos analizando sus adaptaciones.",
+              "Describe la relación entre variables físicas (humedad, temperatura) y biodiversidad."
+            ],
+            "un_refuerzo": "Realizar una campaña de sensibilización sobre la importancia de los páramos para el agua de las ciudades."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Química Ambiental: Agua Limpia",
+            "un_reto_sugerido": "¿Podemos usar la separación de mezclas para salvar un río contaminado por petróleo o basura?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar noticias sobre derrames de petróleo o acumulación de plásticos en océanos y discutir soluciones.",
+              "visual": "Diseñar un sistema de filtración industrial casero: usar arena de distintos grosores, carbón activado y grava para purificar agua sucia.",
+              "produccion": "Proponer una innovación técnica para separar microplásticos del agua, basándose en la densidad y el tamizado fino."
+            },
+            "para_pensar": [
+              "¿Qué tan difícil es limpiar el agua una vez que se mezcla con sustancias químicas industriales?",
+              "¿Cómo la tecnología de separación ayuda a reciclar metales valiosos de celulares viejos?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa la eficiencia de un sistema de filtrado diseñado por el estudiante.",
+              "Propone una mejora innovadora a una técnica de separación existente."
+            ],
+            "un_refuerzo": "Investigar qué es la centrifugación y cómo se usa para limpiar aceites usados."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Mecánica Celeste y Estaciones",
+            "un_reto_sugerido": "¿Por qué en algunos lugares del mundo existen las estaciones y en Colombia no?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un globo terráqueo y notar su inclinación; discutir por qué el sol no llega igual a todos los puntos.",
+              "visual": "Simulación de Traslación: Mover el globo terráqueo alrededor de un foco (Sol) manteniendo la inclinación del eje para observar los solsticios.",
+              "produccion": "Explicar mediante un modelo computacional o físico cómo la inclinación de la Tierra genera las estaciones y afecta la luz solar."
+            },
+            "para_pensar": [
+              "¿Cómo influye la traslación de la Tierra en el ciclo de vida de las plantas en países con estaciones?",
+              "¿Por qué en Colombia hablamos de 'época de lluvias' en lugar de invierno?"
+            ],
+            "pistas_del_exito": [
+              "Explica la relación entre la traslación, la inclinación terrestre y las estaciones.",
+              "Analiza cómo la posición de los planetas afecta los fenómenos astronómicos observables."
+            ],
+            "un_refuerzo": "Construir un reloj de sol y registrar cómo cambia la longitud de la sombra durante un día despejado."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Atmósfera",
+            "un_reto_sugerido": "¿Qué podemos hacer desde el colegio para reducir el efecto invernadero?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver imágenes de glaciares derritiéndose y discutir el concepto de calentamiento global.",
+              "visual": "Experimento de efecto invernadero: usar dos frascos con agua y termómetros; tapar uno con plástico y dejar el otro abierto al sol, midiendo la diferencia.",
+              "produccion": "Elaborar una propuesta de política ambiental escolar para reducir contaminantes atmosféricos (transporte, energía, residuos)."
+            },
+            "para_pensar": [
+              "¿Cómo afecta la lluvia ácida a las estatuas de piedra y a los cultivos de nuestra región?",
+              "¿Por qué es importante proteger la capa de ozono y qué productos de uso diario la dañaban antes?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones claras entre contaminación, efecto invernadero y cambio climático.",
+              "Evalúa tecnologías innovadoras para mitigar el impacto ambiental en la atmósfera."
+            ],
+            "un_refuerzo": "Realizar un mapa mental sobre las fuentes de gases de efecto invernadero en la vida cotidiana."
+          }
+        }
+      ]
+    }
+  ]
+}

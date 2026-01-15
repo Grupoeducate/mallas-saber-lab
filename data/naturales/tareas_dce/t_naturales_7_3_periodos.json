@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "7",
+  "nombre_archivo": "t_ciencias_7_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Cocinando con el Sol: El Banquete Energético",
+            "un_reto_sugerido": "¿Cómo logra una planta transformar aire y luz en alimento para todo un ecosistema?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar plantas que crecen en la sombra vs. al sol directo y comparar el color de sus hojas y su fuerza.",
+              "visual": "Experimento de Elodea: Colocar una planta acuática en un embudo invertido dentro de un vaso con agua bajo luz fuerte para observar y contar las burbujas de oxígeno liberadas.",
+              "produccion": "Elaborar un diagrama de flujo de energía que conecte los reactivos de la fotosíntesis con la glucosa y la respiración celular."
+            },
+            "para_pensar": [
+              "¿Qué ocurriría con la energía del planeta si el sol se apagara por una semana?",
+              "¿Por qué los herbívoros son fundamentales para que la energía de las plantas llegue a nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los reactivos y productos de la fotosíntesis y la respiración.",
+              "Diferencia organismos autótrofos de heterótrofos en una red trófica local."
+            ],
+            "un_refuerzo": "Investigar qué son los cloroplastos y por qué son llamados las 'fábricas de energía' de la célula vegetal."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "La Huella del Carbono: Orgánico vs. Inorgánico",
+            "un_reto_sugerido": "¿Qué diferencia a una rama de madera de una piedra de río a nivel de sus moléculas?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una prueba de combustión controlada (con guía del docente) quemando un trozo de pan y un trozo de sal; observar residuos y olores.",
+              "visual": "Prueba de solubilidad y densidad: Comparar cómo se comportan el azúcar (orgánico) y la arena (inorgánico) al mezclarlos con agua y aceite.",
+              "produccion": "Clasificar 10 sustancias del hogar en una tabla comparativa resaltando su origen, composición y capacidad de cambio químico."
+            },
+            "para_pensar": [
+              "¿Por qué la mayoría de los seres vivos están hechos principalmente de materia orgánica?",
+              "¿Cómo afecta el exceso de materia inorgánica (plásticos) a los ciclos naturales de la tierra?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las características distintivas de la materia orgánica e inorgánica.",
+              "Identifica la presencia de carbono como eje central de las moléculas orgánicas."
+            ],
+            "un_refuerzo": "Investigar qué es un compuesto biodegradable y por qué su estructura molecular permite que se descomponga rápido."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Montañas Rusas de Energía Mecánica",
+            "un_reto_sugerido": "¿Por qué una pelota nunca rebota más alto de la altura desde la cual se soltó?",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar una pelota desde diferentes alturas y marcar en la pared el punto máximo del primer rebote para discutir la pérdida de altura.",
+              "visual": "Construir una rampa con tubos de cartón y dejar caer una canica; identificar en qué puntos la canica tiene más velocidad (cinética) y en cuáles más altura (potencial).",
+              "produccion": "Graficar la variación de las energías cinética y potencial gravitacional en un péndulo simple hecho con una cuerda y una tuerca."
+            },
+            "para_pensar": [
+              "¿A dónde se va la energía de un carro cuando frena y las llantas se calientan?",
+              "¿Cómo aprovechan las hidroeléctricas la altura del agua para generar energía eléctrica?"
+            ],
+            "pistas_del_exito": [
+              "Calcula y explica los puntos de máxima energía cinética y potencial en un sistema mecánico.",
+              "Describe cómo la fricción disipa la energía mecánica en energía térmica."
+            ],
+            "un_refuerzo": "Diseñar un sistema de amortiguación sencillo para proteger un huevo en una caída usando el concepto de disipación de energía."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Auditores de la Energía Regional",
+            "un_reto_sugerido": "¿Qué recursos de nuestra región podrían darnos energía sin dañar nuestra salud ni el aire?",
+            "ruta_de_exploracion": {
+              "explorar": "Mapear las fuentes de energía que se usan en la comunidad (gas, electricidad, leña) y discutir los humos o residuos que generan.",
+              "visual": "Construir un prototipo de horno solar con una caja de pizza y papel aluminio para demostrar el potencial de las energías limpias.",
+              "produccion": "Elaborar un informe sobre un factor de contaminación local y proponer una solución tecnológica basada en recursos renovables."
+            },
+            "para_pensar": [
+              "¿Cuál es el costo real para la salud de vivir cerca de una zona con alta quema de combustibles fósiles?",
+              "¿Por qué es más difícil implementar energía eólica en zonas de montaña que en la costa?"
+            ],
+            "pistas_del_exito": [
+              "Propone soluciones sostenibles basadas en los recursos naturales del entorno (sol, viento, agua).",
+              "Relaciona la contaminación ambiental con impactos específicos en la salud humana."
+            ],
+            "un_refuerzo": "Realizar una campaña de ahorro energético en el colegio midiendo cuántas luces quedan encendidas innecesariamente."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros Invisibles: Los Ciclos del Carbono y Nitrógeno",
+            "un_reto_sugerido": "¿Cómo llega el nitrógeno del aire a formar parte de tus músculos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar raíces de plantas leguminosas (fríjol o lenteja) buscando pequeños nódulos y discutir su función con el nitrógeno.",
+              "visual": "Crear un modelo de ciclo biogeoquímico en un frasco cerrado (terrario), identificando por dónde circula el agua y el carbono de las plantas.",
+              "produccion": "Analizar cómo la deforestación y la quema de basura alteran el ciclo del carbono, provocando el calentamiento global."
+            },
+            "para_pensar": [
+              "¿Por qué el exceso de nitrógeno en los ríos causado por fertilizantes puede matar a los peces?",
+              "¿Cómo ayuda la siembra de árboles a capturar el carbono que sobra en el aire?"
+            ],
+            "pistas_del_exito": [
+              "Describe el recorrido del carbono y el nitrógeno a través de los factores bióticos y abióticos.",
+              "Diseña una propuesta sostenible para mitigar daños ambientales en los suelos locales."
+            ],
+            "un_refuerzo": "Hacer un compost casero y explicar cómo los microorganismos reintegran nutrientes al ciclo de la materia."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos del Átomo y la Tabla",
+            "un_reto_sugerido": "¿Cómo se organizan las piezas más pequeñas de la materia para formar todo lo que vemos?",
+            "ruta_de_exploracion": {
+              "explorar": "Frotar un globo en el cabello para atraer pedacitos de papel y discutir qué partículas se están moviendo.",
+              "visual": "Construir modelos atómicos de Bohr usando materiales reciclados (tapas, alambre, semillas) para representar elementos como el Oxígeno o el Nitrógeno.",
+              "produccion": "Dibujar estructuras de Lewis para elementos conocidos y explicar cómo su configuración electrónica define su lugar en la Tabla Periódica."
+            },
+            "para_pensar": [
+              "¿Por qué los átomos de un mismo elemento se comportan igual aunque estén en diferentes países?",
+              "¿Cómo ayuda la Tabla Periódica a un científico a predecir si un material será un buen metal para la industria?"
+            ],
+            "pistas_del_exito": [
+              "Representa correctamente protones, neutrones y electrones en un modelo de Bohr.",
+              "Relaciona la configuración electrónica con la ubicación en grupos y periodos."
+            ],
+            "un_refuerzo": "Investigar qué son los isótopos y por qué se usan en la medicina para salvar vidas."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "El Mundo de las Ondas: Luz y Sonido",
+            "un_reto_sugerido": "¿En qué se parece el sonido de tu voz a la luz de una linterna?",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar una piedra en una tina con agua quieta y observar cómo viajan los círculos; comparar con el eco en un salón vacío.",
+              "visual": "Laboratorio de Reflexión y Refracción: Usar un puntero láser en un vaso con agua con un poco de leche para observar cómo la luz se dobla.",
+              "produccion": "Diferenciar ondas mecánicas de electromagnéticas y explicar fenómenos como el arcoíris y el eco usando los principios de reflexión y refracción."
+            },
+            "para_pensar": [
+              "¿Por qué vemos el rayo antes de escuchar el trueno durante una tormenta?",
+              "¿Cómo utilizan los delfines y los murciélagos las ondas para 'ver' en la oscuridad?"
+            ],
+            "pistas_del_exito": [
+              "Aplica las leyes de reflexión y refracción para resolver problemas sobre cambios de medio de la luz.",
+              "Identifica amplitud y frecuencia como características clave de una onda sonora."
+            ],
+            "un_refuerzo": "Construir un espectroscopio casero con un CD viejo para observar la descomposición de la luz blanca en colores."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Sexualidad: Decisiones con Ciencia",
+            "un_reto_sugerido": "¿Cómo el conocimiento científico nos ayuda a tomar decisiones responsables sobre nuestra salud sexual?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una lluvia de ideas sobre mitos y realidades de la sexualidad y la reproducción que se escuchan en la comunidad.",
+              "visual": "Diseñar un cuadro comparativo de métodos anticonceptivos, analizando su funcionamiento tecnológico y su eficacia preventiva.",
+              "produccion": "Elaborar una campaña de concientización sobre derechos sexuales y reproductivos dirigida a jóvenes de la comunidad escolar."
+            },
+            "para_pensar": [
+              "¿Por qué la salud sexual es considerada un derecho humano fundamental?",
+              "¿Cómo influyen los medios de comunicación en las decisiones reproductivas de los adolescentes?"
+            ],
+            "pistas_del_exito": [
+              "Identifica métodos anticonceptivos y medidas de planificación familiar.",
+              "Promueve el respeto por la equidad de género y los derechos sexuales."
+            ],
+            "un_refuerzo": "Investigar qué es el consentimiento y por qué es la base de cualquier relación humana responsable."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes del Suelo y Microorganismos",
+            "un_reto_sugerido": "¿Podría el suelo seguir dándonos comida sin la ayuda de los seres que no podemos ver?",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar muestras de suelo de jardín y suelo erosionado; observar diferencias en color, humedad y presencia de insectos o lombrices.",
+              "visual": "Columna de Winogradsky: Crear una columna de suelo y agua en una botella para observar cómo crecen diferentes microorganismos según los nutrientes.",
+              "produccion": "Explicar el papel de las bacterias fijadoras de nitrógeno en la fertilidad del suelo y el equilibrio de los ciclos biogeoquímicos."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el uso excesivo de pesticidas a la salud de los microorganismos del suelo?",
+              "¿Por qué es vital el proceso de descomposición para que el ciclo de la materia no se detenga?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la presencia de microorganismos con la salud del ecosistema y los ciclos biogeoquímicos.",
+              "Propone prácticas de compostaje como solución al manejo de residuos orgánicos escolares."
+            ],
+            "un_refuerzo": "Investigar cómo se fabrican el pan y el yogur gracias a la fermentación de microorganismos."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Mapa de la Materia: Metales y Gases",
+            "un_reto_sugerido": "¿Cómo predice la Tabla Periódica el comportamiento de los materiales que usamos en el celular?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar un trozo de cobre (metal), grafito de lápiz (no metal) y aire en un globo; discutir brillo, dureza y estado físico.",
+              "visual": "Pruebas de densidad: Medir la masa y el volumen de diferentes metales y no metales para graficar cómo varía la densidad en la tabla periódica.",
+              "produccion": "Clasificar elementos según sus propiedades (metales, no metales, metaloides, gases nobles) y justificar su uso en la industria."
+            },
+            "para_pensar": [
+              "¿Por qué los gases nobles se encuentran 'solos' en la naturaleza y no forman compuestos fácilmente?",
+              "¿Cómo influye la temperatura de fusión en la selección de materiales para fabricar naves espaciales o motores?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las variaciones de propiedades físicas (ebullición, fusión, densidad) en la Tabla Periódica.",
+              "Utiliza el conocimiento de la tabla periódica para explicar el comportamiento de sustancias bajo diferentes temperaturas."
+            ],
+            "un_refuerzo": "Crear una 'historieta' donde los elementos de un mismo grupo de la tabla periódica tienen rasgos de personalidad parecidos."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Caminos de Carga: Electricidad",
+            "un_reto_sugerido": "¿Qué hace que un material sea el mejor para llevar la energía a nuestras casas?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar los cables de los electrodomésticos y preguntar por qué tienen plástico por fuera y metal por dentro.",
+              "visual": "Probador de conductividad: Construir un circuito simple (pila, cable, bombillo) y testear qué materiales (clip, borrador, moneda, grafito) encienden la luz.",
+              "produccion": "Clasificar materiales en conductores y aislantes justificando su selección para aplicaciones prácticas y seguras en el hogar."
+            },
+            "para_pensar": [
+              "¿Por qué el paso de la corriente eléctrica siempre genera calor en los aparatos?",
+              "¿Cómo ayudan los materiales aislantes a prevenir accidentes eléctricos graves?"
+            ],
+            "pistas_del_exito": [
+              "Identifica materiales conductores y aislantes mediante experimentación directa.",
+              "Justifica la selección de materiales en aplicaciones eléctricas cotidianas."
+            ],
+            "un_refuerzo": "Investigar qué son los semiconductores y por qué son el cerebro de las computadoras."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Misión: Prevención de Enfermedades",
+            "un_reto_sugerido": "¿Cómo se transmiten las enfermedades invisibles y cómo podemos detenerlas?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar noticias sobre epidemias recientes y discutir cómo se propagaron por el aire, el agua o el contacto.",
+              "visual": "Simulación de contagio: Usar un spray con agua (o escarcha) para ver qué tan lejos llegan las gotas al 'estornudar' y cómo el lavado de manos previene la propagación.",
+              "produccion": "Diseñar un protocolo de prevención para enfermedades de transmisión sexual y enfermedades comunes del entorno escolar."
+            },
+            "para_pensar": [
+              "¿Por qué el acceso a agua limpia es la tecnología de salud más importante de la historia?",
+              "¿Qué responsabilidad tenemos como jóvenes en la prevención de contagios en nuestra comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los mecanismos de transmisión de enfermedades infecciosas y ETS.",
+              "Propone soluciones de prevención y control basadas en el conocimiento científico."
+            ],
+            "un_refuerzo": "Realizar un glosario sobre las ETS más comunes y sus medidas de control sanitario."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "6",
+  "nombre_archivo": "t_ciencias_6_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Mensajero de la Membrana",
+            "un_reto_sugerido": "¿Cómo logra la célula mantenerse hidratada y obtener energía sin explotar ni secarse?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar qué sucede con una uva pasa al dejarla en agua y con una uva fresca al dejarla en agua con mucha sal durante una noche.",
+              "visual": "Experimento de ósmosis: Usar rodajas de papa sumergidas en tres vasos (agua pura, agua con poca sal y agua saturada de sal) para medir cambios en su flexibilidad y tamaño.",
+              "produccion": "Elaborar un modelo explicativo del transporte pasivo (difusión/ósmosis) y relacionar el papel de la mitocondria con la energía necesaria para el transporte activo."
+            },
+            "para_pensar": [
+              "¿Por qué no es recomendable beber agua de mar si estuviéramos náufragos?",
+              "¿Cómo ayuda la mitosis a que tus heridas cierren después de una caída?"
+            ],
+            "pistas_del_exito": [
+              "Explica el proceso de ósmosis relacionándolo con la concentración de solutos.",
+              "Representa gráficamente las fases de la mitosis y su importancia en la regeneración de tejidos."
+            ],
+            "un_refuerzo": "Investigar qué es la turgencia y la plasmólisis en las plantas de un jardín marchito."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Danza de las Partículas",
+            "un_reto_sugerido": "¿Por qué los gases no tienen forma pero los sólidos sí, si ambos están hechos de átomos?",
+            "ruta_de_exploracion": {
+              "explorar": "Inflar una jeringa con aire (tapar el orificio) y otra con agua; intentar comprimir ambas para observar la resistencia.",
+              "visual": "Modelado cinético: Usar canicas o granos en un recipiente transparente. Agitar suavemente (sólido), más fuerte (líquido) y muy fuerte (gas) para observar el espacio entre ellos.",
+              "produccion": "Crear un cuadro comparativo de las propiedades macroscópicas (fluidez, forma) explicadas desde el comportamiento microscópico de las partículas."
+            },
+            "para_pensar": [
+              "¿Por qué el aroma de un perfume se siente en todo el salón después de unos minutos?",
+              "¿Cómo influye el estado de agregación en la forma en que almacenamos el gas propano en la cocina?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica materiales según su adaptabilidad y fluidez.",
+              "Explica los cambios de estado basándose en la energía cinética de las moléculas."
+            ],
+            "un_refuerzo": "Dibujar el diagrama de cambios de estado del agua identificando procesos que absorben o liberan calor."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Chispas en mis Manos: Electroestática",
+            "un_reto_sugerido": "¿Por qué algunos objetos se atraen o repelen sin siquiera tocarse?",
+            "ruta_de_exploracion": {
+              "explorar": "Acercar un globo frotado en el cabello a pequeños trozos de papel o a un chorro delgado de agua.",
+              "visual": "Construcción de un electroscopio casero: Usar un frasco de vidrio, un alambre de cobre y dos láminas de papel aluminio para detectar cargas eléctricas por inducción y contacto.",
+              "produccion": "Explicar el concepto de carga eléctrica (exceso o déficit de electrones) y predecir el comportamiento de atracción o repulsión según la polaridad."
+            },
+            "para_pensar": [
+              "¿Por qué se nos 'eriza' la piel al tocar la pantalla de un televisor antiguo?",
+              "¿Cómo protegen los pararrayos a los edificios durante una tormenta eléctrica?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las formas de cargar un cuerpo (fricción, contacto e inducción).",
+              "Diferencia entre fuerzas eléctricas de atracción y repulsión."
+            ],
+            "un_refuerzo": "Investigar cómo funciona el magnetismo terrestre y su relación con la protección de la atmósfera."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Bacterias de Hierro: Vida al Límite",
+            "un_reto_sugerido": "¿Podrían los microorganismos extremófilos ayudarnos a limpiar la contaminación de la minería?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de las fuentes termales de Yellowstone o del Río Tinto (España) y preguntar: ¿qué ser vivo podría vivir allí?",
+              "visual": "Investigación guiada: Crear una ficha técnica de un microorganismo 'extremófilo' (ej. Thermus aquaticus) y su uso en la medicina actual (PCR).",
+              "produccion": "Diseñar una propuesta biotecnológica donde se use un extremófilo para resolver un problema ambiental, como el derrame de químicos."
+            },
+            "para_pensar": [
+              "¿Por qué el descubrimiento de extremófilos cambió nuestra idea de dónde buscar vida en el espacio?",
+              "¿Es ético modificar genéticamente estas bacterias para usos industriales?"
+            ],
+            "pistas_del_exito": [
+              "Explica la adaptación fisiológica de un microorganismo a condiciones extremas.",
+              "Identifica una aplicación industrial real de la biotecnología extremófila."
+            ],
+            "un_refuerzo": "Investigar qué son los tardígrados y por qué son considerados los animales más resistentes del mundo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de la Biodiversidad",
+            "un_reto_sugerido": "¿Cómo organizamos a millones de seres vivos para que un científico en China y uno en Colombia sepan que hablan del mismo animal?",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar agrupar una colección de hojas o insectos del patio siguiendo criterios propios (color, tamaño) y comparar con los criterios de un compañero.",
+              "visual": "Uso de claves dicotómicas: Identificar 5 plantas del colegio utilizando una clave taxonómica sencilla basada en la forma de la hoja y el borde.",
+              "produccion": "Construir una clave taxonómica para un grupo de objetos cotidianos (ej. zapatos o cubiertos) para entender la jerarquía lógica de la clasificación."
+            },
+            "para_pensar": [
+              "¿Por qué los nombres científicos se escriben en latín y no en español o inglés?",
+              "¿Cómo ayuda la taxonomía a descubrir si una planta nueva tiene propiedades medicinales?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza criterios morfológicos para clasificar organismos locales.",
+              "Representa la información taxonómica en gráficos o diagramas jerárquicos."
+            ],
+            "un_refuerzo": "Investigar quién fue Carl Linneo y cuál fue su gran aporte a la ciencia biológica."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Vecindario de los Elementos",
+            "un_reto_sugerido": "¿Por qué los elementos químicos se agrupan en familias y qué tienen en común los del mismo 'piso'?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar objetos metálicos y no metálicos (cobre, grafito, azufre, hierro) y describir su brillo y maleabilidad.",
+              "visual": "Mapa de propiedades: Ubicar en una tabla periódica muda los elementos conductores de calor vs. los aislantes, coloreando por grupos.",
+              "produccion": "Analizar la variación de la densidad en un grupo de la tabla periódica y explicar por qué los gases nobles no reaccionan fácilmente."
+            },
+            "para_pensar": [
+              "¿Por qué usamos cobre en los cables y no oro, si el oro conduce mejor?",
+              "¿Cómo influye la posición de un elemento en la tabla para saber si es peligroso o vital para la salud?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia entre metales, no metales y gases nobles por sus propiedades físicas.",
+              "Interpreta patrones de variación (densidad, ebullición) en grupos y periodos."
+            ],
+            "un_refuerzo": "Crear una 'carta de identidad' para un elemento químico poco conocido, resaltando su uso industrial."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Materia bajo Presión",
+            "un_reto_sugerido": "¿Por qué el agua hierve más rápido en Bogotá que en la costa, y qué tiene que ver la presión del aire?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video de un malvavisco dentro de una cámara de vacío o una jeringa tapada al succionar el aire.",
+              "visual": "Experimento de solubilidad: Disolver azúcar en agua fría y en agua caliente, midiendo cuántas cucharadas acepta cada una antes de saturarse.",
+              "produccion": "Elaborar gráficas que muestren la relación entre temperatura y solubilidad, explicando cómo la presión afecta el punto de ebullición."
+            },
+            "para_pensar": [
+              "¿Por qué las ollas a presión cocinan los alimentos en la mitad del tiempo?",
+              "¿Cómo afecta la presión atmosférica la respiración de los deportistas que van a jugar a ciudades de gran altura?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la temperatura con los cambios en la viscosidad y densidad de un líquido.",
+              "Interpreta tablas de datos sobre puntos de ebullición a diferentes presiones."
+            ],
+            "un_refuerzo": "Investigar qué es la descompresión y por qué es peligrosa para los buzos profesionales."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Corazón en Movimiento: Ciencia y Deporte",
+            "un_reto_sugerido": "¿Cómo cambia la química de tu cuerpo cuando pasas de estar sentado a correr 100 metros?",
+            "ruta_de_exploracion": {
+              "explorar": "Tomar el pulso y la frecuencia respiratoria en reposo y después de saltar durante 1 minuto.",
+              "visual": "Gráfico de recuperación: Registrar la frecuencia cardíaca cada 30 segundos tras el ejercicio hasta volver al estado de reposo.",
+              "produccion": "Explicar los beneficios del deporte en la reducción de toxinas y la mejora del estado de ánimo (endorfinas)."
+            },
+            "para_pensar": [
+              "¿Por qué el deporte se considera una medicina natural para el estrés y la ansiedad?",
+              "¿Cómo influye la hidratación en la viscosidad de la sangre durante una competencia?"
+            ],
+            "pistas_del_exito": [
+              "Representa datos de frecuencia cardíaca y respiratoria en gráficas de líneas.",
+              "Relaciona la actividad física con la prevención de enfermedades cardiovasculares."
+            ],
+            "un_refuerzo": "Diseñar una rutina de ejercicios diaria para mejorar la concentración mental en el estudio."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Árbol de la Vida Celular",
+            "un_reto_sugerido": "¿Qué tienen en común una bacteria de tu intestino y una célula de tu cerebro si se ven tan diferentes?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar bajo microscopio (o en microfotografías) una gota de agua estancada y una muestra de tejido vegetal.",
+              "visual": "Maqueta comparativa: Construir modelos de células procariotas y eucariotas resaltando la presencia o ausencia de núcleo y organelos membranosos.",
+              "produccion": "Argumentar la clasificación de los seres vivos en los tres dominios (Bacteria, Archaea y Eukarya) basándose en la estructura celular."
+            },
+            "para_pensar": [
+              "¿Por qué las bacterias no necesitan núcleo para realizar sus funciones vitales?",
+              "¿Cómo la evolución permitió que pasáramos de células simples a organismos multicelulares complejos?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia con precisión entre células procariotas y eucariotas.",
+              "Ubica organismos en categorías taxonómicas superiores (Dominios y Reinos)."
+            ],
+            "un_refuerzo": "Investigar la teoría endosimbiótica sobre el origen de las mitocondrias y cloroplastos."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Alquimista Moderno",
+            "un_reto_sugerido": "¿Cómo podemos purificar el agua sucia para que sea potable usando solo calor y filtros?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar una mezcla de arena, sal y clips metálicos; discutir el orden lógico para recuperarlos por separado.",
+              "visual": "Laboratorio de destilación casera: Construir un sistema simple con una botella, manguera y hielo para separar agua de alcohol o agua de sal.",
+              "produccion": "Justificar la elección de una técnica de separación (ej. cristalización o destilación) según el punto de ebullición o solubilidad de los componentes."
+            },
+            "para_pensar": [
+              "¿Cómo se separan los componentes del petróleo para obtener gasolina, diesel y asfalto?",
+              "¿Por qué la destilación es vital en la industria farmacéutica para fabricar medicinas puras?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia mezclas homogéneas de heterogéneas con ejemplos industriales.",
+              "Ejecuta un experimento de separación registrando cambios de temperatura."
+            ],
+            "un_refuerzo": "Investigar qué es la cromatografía y cómo se usa para detectar sustancias prohibidas en el deporte."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Velocidad en el Gráfico",
+            "un_reto_sugerido": "¿Cómo podemos predecir dónde estará un carro si conocemos su velocidad y el tiempo que ha viajado?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una carrera de barquitos de papel o carritos de juguete, midiendo distancia y tiempo con un cronómetro.",
+              "visual": "Gráficas de Movimiento: Registrar datos de posición vs. tiempo para un movimiento constante y graficarlos en papel milimetrado.",
+              "produccion": "Diferenciar entre velocidad (vector) y rapidez (escalar) y explicar un gráfico de aceleración (MRUA) cuando un objeto frena."
+            },
+            "para_pensar": [
+              "¿Por qué es importante mantener una distancia de seguridad entre carros si ambos van a la misma velocidad?",
+              "¿Cómo usan los radares de tráfico las ecuaciones de movimiento para poner multas?"
+            ],
+            "pistas_del_exito": [
+              "Calcula velocidad y aceleración a partir de datos experimentales.",
+              "Interpreta gráficas de posición-tiempo para identificar si un cuerpo está en reposo o movimiento."
+            ],
+            "un_refuerzo": "Reto: Calcular la velocidad promedio de un compañero caminando vs. corriendo en el patio."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Limpiando la Industria: Separación y Ambiente",
+            "un_reto_sugerido": "¿Qué técnicas de separación usa una planta de tratamiento de aguas residuales para devolver el agua limpia al río?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar qué residuos genera una fábrica de alimentos o una refinería de petróleo cercana.",
+              "visual": "Simulación de planta de tratamiento: Usar decantación, filtración con carbón activado y tamizado para limpiar agua con aceites y sólidos.",
+              "produccion": "Propuesta de un sistema de separación de residuos químicos en el laboratorio escolar para evitar la contaminación del drenaje."
+            },
+            "para_pensar": [
+              "¿Por qué no podemos simplemente arrojar aceite de cocina usado por el sifón?",
+              "¿Cómo la centrifugación ayuda a salvar vidas en los bancos de sangre de los hospitales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica aplicaciones industriales de los métodos de separación de mezclas.",
+              "Propone soluciones tecnológicas para mitigar el impacto ambiental de los desechos industriales."
+            ],
+            "un_refuerzo": "Realizar un mapa mental sobre el proceso de refinación del petróleo y sus derivados."
+          }
+        }
+      ]
+    }
+  ]
+}

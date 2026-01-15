@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "10",
+  "nombre_archivo": "t_ciencias_10_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Bio-Ética: El Código de la Vida",
+            "un_reto_sugerido": "¿Cuáles son los límites éticos de la manipulación genética para mejorar o 'curar' la especie humana?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar dilemas actuales sobre bebés 'a la carta' y el uso de la técnica CRISPR para editar genes, debatiendo el impacto en la diversidad natural.",
+              "visual": "Extracción de ADN casero: Utilizar saliva o tejidos vegetales (cebolla/fresa), alcohol frío y detergente para visualizar las fibras genéticas a simple vista.",
+              "produccion": "Elaborar un ensayo argumentativo que evalúe los beneficios y riesgos de la clonación terapéutica frente a la reproductiva, integrando conceptos de termodinámica ecológica."
+            },
+            "para_pensar": [
+              "¿Cómo afecta la modificación genética la variabilidad natural y la evolución de un ecosistema a largo plazo?",
+              "¿Debería la información genética de una persona ser privada o estar disponible para las empresas de salud?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia con rigor las técnicas de biotecnología (fertilización, clonación, terapia génica).",
+              "Analiza las implicaciones bioéticas de los OGM en la medicina y el ambiente."
+            ],
+            "un_refuerzo": "Investigar el caso del Proyecto del Genoma Humano y cómo cambió nuestra visión de las enfermedades hereditarias."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Salto Cuántico: De Dalton a Schrödinger",
+            "un_reto_sugerido": "¿Cómo evolucionó nuestra idea del átomo desde una esfera sólida hasta una nube de probabilidad de electrones?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el espectro de luz de una lámpara de neón o una bombilla a través de un CD viejo para entender la emisión de energía en niveles.",
+              "visual": "Ensayo a la llama: Humedecer palillos en diferentes sales (Sodio, Cobre, Potasio) y acercarlos al fuego para observar los colores característicos de los saltos electrónicos.",
+              "produccion": "Explicar cómo la configuración electrónica y los números cuánticos determinan la posición y el comportamiento de los elementos en la tabla periódica."
+            },
+            "para_pensar": [
+              "¿Por qué el modelo cuántico es más preciso que el de Bohr para explicar átomos con muchos electrones?",
+              "¿Cómo influye la estructura interna del átomo en la formación de un enlace iónico o covalente?"
+            ],
+            "pistas_del_exito": [
+              "Asocia los modelos atómicos históricos con las evidencias experimentales que los sustentan.",
+              "Aplica la mecánica cuántica para predecir la reactividad de un elemento en una reacción química."
+            ],
+            "un_refuerzo": "Utilizar un simulador virtual para visualizar la forma de los orbitales s, p, d y f."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Conservación Mecánica",
+            "un_reto_sugerido": "¿Cómo se transforma la energía de un choque en calor y deformación, y por qué nunca se destruye?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar videos de pruebas de choque (crash tests) para identificar la transformación de la energía cinética en energía térmica y acústica.",
+              "visual": "Laboratorio de Péndulo: Construir un péndulo simple y medir la altura máxima vs. la velocidad en el punto más bajo para verificar la conservación de la energía mecánica.",
+              "produccion": "Calcular la fuerza gravitacional entre dos cuerpos usando la Ley de Gravitación Universal y relacionarla con el modelo de campo gravitacional."
+            },
+            "para_pensar": [
+              "¿Por qué es imposible que una máquina de movimiento perpetuo funcione según las leyes de la energía?",
+              "¿Cómo influye la fricción en la pérdida de eficiencia energética en los sistemas de transporte masivo?"
+            ],
+            "pistas_del_exito": [
+              "Aplica el principio de conservación de energía para resolver problemas de caída libre y resortes.",
+              "Utiliza la Ley de Gravitación Universal para explicar la órbita de los satélites."
+            ],
+            "un_refuerzo": "Investigar cómo los frenos regenerativos de los autos eléctricos recuperan energía cinética para cargar la batería."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Tecnología y Salud: Del Laboratorio al Bienestar",
+            "un_reto_sugerido": "¿De qué manera los avances en física y química han revolucionado el deporte y la salud sexual?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar equipos médicos (tensiómetros, ecógrafos) y discutir qué principios físicos (presión, ultrasonido) utilizan para funcionar.",
+              "visual": "Análisis de materiales deportivos: Comparar la elasticidad y resistencia de diferentes polímeros usados en calzado atlético moderno.",
+              "produccion": "Diseñar una infografía sobre cómo la tecnología anticonceptiva y la educación sexual impactan positivamente en el desarrollo cultural y social."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los factores culturales en la aceptación de las nuevas técnicas de reproducción asistida?",
+              "¿Por qué la mecánica de fluidos es esencial para entender la presión arterial y la salud cardiovascular?"
+            ],
+            "pistas_del_exito": [
+              "Identifica aplicaciones tecnológicas de modelos físicos y químicos en la vida cotidiana.",
+              "Evalúa críticamente el impacto del deporte en la salud física y mental basándose en datos científicos."
+            ],
+            "un_refuerzo": "Investigar qué es el dopaje mecánico y tecnológico y por qué se prohíbe en las competencias internacionales."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Evolución: La Huella de la Selección",
+            "un_reto_sugerido": "¿Cómo explican las mutaciones y la selección natural la increíble biodiversidad de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de especies endémicas colombianas y discutir cómo sus rasgos les permiten sobrevivir a cambios ambientales extremos.",
+              "visual": "Simulación de selección natural: Usar herramientas (pinzas, cucharas) para 'cazar' diferentes tipos de granos; analizar qué rasgo sobrevive tras un cambio de entorno.",
+              "produccion": "Argumentar el papel de la herencia y la mutación en la evolución de especies actuales, integrando principios de termodinámica ecológica."
+            },
+            "para_pensar": [
+              "¿Por qué la resistencia de las bacterias a los antibióticos es un ejemplo de selección natural en tiempo real?",
+              "¿Cómo afecta la fragmentación de ecosistemas la deriva genética de las poblaciones pequeñas?"
+            ],
+            "pistas_del_exito": [
+              "Explica los mecanismos de mutación y selección como motores de la diversidad biológica.",
+              "Propone soluciones sostenibles frente a desafíos derivados de la pérdida de biodiversidad."
+            ],
+            "un_refuerzo": "Investigar qué es la selección sexual y cómo explica rasgos como la cola del pavo real."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de Enlaces y Grupos Funcionales",
+            "un_reto_sugerido": "¿Cómo determina la estructura interna de un átomo la formación de un medicamento o un combustible?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en etiquetas de productos domésticos grupos funcionales inorgánicos (óxidos, ácidos, bases) y su nomenclatura.",
+              "visual": "Laboratorio de Enlaces: Probar la solubilidad y conductividad eléctrica de agua con sal (iónico) frente a agua con azúcar (covalente).",
+              "produccion": "Nombrar compuestos inorgánicos aplicando las reglas de nomenclatura y explicar cómo los grupos funcionales definen sus propiedades físicas."
+            },
+            "para_pensar": [
+              "¿Por qué los compuestos iónicos suelen tener puntos de fusión mucho más altos que los covalentes?",
+              "¿Cómo se libera la energía nuclear mediante la alteración de la estructura atómica?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la configuración electrónica con la formación de enlaces iónicos, covalentes y metálicos.",
+              "Identifica y clasifica grupos funcionales inorgánicos con precisión."
+            ],
+            "un_refuerzo": "Realizar modelos moleculares con plastilina para visualizar la geometría de las moléculas simples."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Impulso y Energía en el Deporte",
+            "un_reto_sugerido": "¿Cómo se utiliza el concepto de impulso y energía para mejorar el rendimiento de un atleta?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar el choque de dos bolas de billar o de un jugador de fútbol golpeando un balón; identificar dónde hay transferencia de movimiento.",
+              "visual": "Laboratorio de Cantidad de Movimiento: Usar carritos y pesas para medir el efecto de un choque elástico vs. inelástico y calcular la energía disipada.",
+              "produccion": "Resolver problemas de trabajo, energía e impulso aplicados a situaciones de caída libre y deformación de resortes."
+            },
+            "para_pensar": [
+              "¿Por qué un airbag reduce el daño en un accidente basándose en el tiempo de contacto e impulso?",
+              "¿Cómo se transforma la energía mecánica en térmica cuando un gimnasta aterriza en una colchoneta?"
+            ],
+            "pistas_del_exito": [
+              "Aplica el teorema del impulso y la cantidad de movimiento en sistemas físicos.",
+              "Distingue entre fuerzas conservativas y no conservativas mediante experimentación."
+            ],
+            "un_refuerzo": "Investigar cómo funciona el sistema de propulsión de un cohete basándose en la tercera ley de Newton y el impulso."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Escudo Vital: Antibióticos y Prevención",
+            "un_reto_sugerido": "¿Por qué el uso indebido de antibióticos se considera una amenaza para la salud global futura?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar la historia del descubrimiento de la penicilina y cómo cambió la esperanza de vida en el siglo XX.",
+              "visual": "Simulación de propagación: Usar un juego de tarjetas para mostrar cómo las bacterias resistentes sobreviven cuando un tratamiento se interrumpe.",
+              "produccion": "Elaborar una guía de salud colectiva que aborde la prevención de ETS, embarazos no deseados y los riesgos del abuso de sustancias (tabaco, alcohol)."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el consumo de drogas el equilibrio químico de los neurotransmisores en el cerebro?",
+              "¿Qué papel juega la tecnología en la detección temprana de enfermedades de transmisión sexual?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los mecanismos de acción de los antibióticos sobre los microorganismos.",
+              "Argumenta estrategias de prevención de adicciones y cuidado de la salud sexual."
+            ],
+            "un_refuerzo": "Realizar un debate sobre el impacto social de la legalización o prohibición de ciertas sustancias psicoactivas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Motores de la Biosfera: Fotosíntesis y Nutrición",
+            "un_reto_sugerido": "¿Cómo influye la tasa de fotosíntesis global en la regulación del cambio climático actual?",
+            "ruta_ de_exploracion": {
+              "explorar": "Observar plantas acuáticas liberando oxígeno bajo luz intensa y discutir el origen de la biomasa terrestre.",
+              "visual": "Experimento de cromatografía de pigmentos: Extraer clorofila de espinacas para entender cómo la planta captura diferentes longitudes de onda.",
+              "produccion": "Modelar el flujo de materia y energía en una red trófica local, integrando los ciclos biogeoquímicos y la respiración celular."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con los ciclos del nitrógeno y fósforo si desaparecieran los descomponedores del suelo?",
+              "¿Podría la tecnología artificial replicar la eficiencia de la fotosíntesis para capturar carbono atmosférico?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los procesos de nutrición celular con el flujo de energía en ecosistemas.",
+              "Explica el impacto de la deforestación en la composición química de la atmósfera."
+            ],
+            "un_refuerzo": "Calcular la 'huella de carbono' de su hogar y proponer metas de reforestación para compensarla."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Equilibrio y Cinética en la Industria",
+            "un_reto_sugerido": "¿Cómo pueden los químicos controlar la velocidad de una reacción para evitar explosiones u optimizar medicinas?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar la efervescencia de una pastilla en agua fría vs. agua caliente; identificar los factores que cambian la velocidad.",
+              "visual": "Laboratorio de Le Chatelier: Experimentar con cambios de concentración y temperatura en una reacción de equilibrio (ej. equilibrio del ión cromato/dicromato).",
+              "produccion": "Realizar cálculos estequiométricos de reactivo límite y rendimiento, relacionándolos con procesos de neutralización y precipitación inorgánica."
+            },
+            "para_pensar": [
+              "¿Por qué es vital el concepto de equilibrio químico para entender el transporte de oxígeno en la sangre?",
+              "¿Cómo afecta la presión atmosférica la solubilidad de los gases en los océanos?"
+            ],
+            "pistas_del_exito": [
+              "Aplica el principio de Le Chatelier para predecir el desplazamiento del equilibrio químico.",
+              "Realiza cálculos cuantitativos en reacciones de óxido-reducción y neutralización."
+            ],
+            "un_refuerzo": "Investigar qué son los catalizadores y cómo se usan en los convertidores catalíticos de los automóviles."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Fluidos y Circuitos: El Camino de la Energía",
+            "un_reto_sugerido": "¿En qué se parece el flujo de agua en una tubería al flujo de electrones en un circuito complejo?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar la velocidad de vaciado de un recipiente con diferentes tamaños de orificios (Ecuación de Continuidad) y observar circuitos domésticos.",
+              "visual": "Laboratorio de Hidrostática y Circuitos: Usar prensas hidráulicas caseras para verificar el Principio de Pascal y construir circuitos mixtos midiendo voltaje y corriente.",
+              "produccion": "Resolver problemas de fluidos en movimiento (Bernoulli) y circuitos eléctricos complejos aplicando las leyes de Kirchhoff y el modelado matemático."
+            },
+            "para_pensar": [
+              "¿Cómo explica la física de fluidos la sustentación de los aviones y el vuelo de las aves?",
+              "¿Por qué los circuitos en paralelo son más eficientes que los de serie en una instalación residencial?"
+            ],
+            "pistas_del_exito": [
+              "Calcula la presión hidrostática y el empuje en objetos sumergidos.",
+              "Analiza las relaciones entre voltaje y corriente en circuitos resistivos serie-paralelo."
+            ],
+            "un_refuerzo": "Diseñar un sistema de riego por goteo que aplique los principios de dinámica de fluidos y estabilidad."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Ecomodernismo: Energía y Sostenibilidad",
+            "un_reto_sugerido": "¿Cómo podemos asegurar el suministro de energía para el futuro sin agotar los recursos naturales de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un mapa de radiación solar y potencial eólico de Colombia para identificar zonas de desarrollo tecnológico energético.",
+              "visual": "Prototipo de energía limpia: Construir un cargador solar o un generador eólico a pequeña escala usando motores de juguete.",
+              "produccion": "Proponer un plan de sostenibilidad energética para su comunidad, evaluando el impacto ambiental y social de las fuentes renovables."
+            },
+            "para_pensar": [
+              "¿Qué desafíos éticos presenta la minería de litio para las baterías de los autos eléctricos?",
+              "¿Cómo influye la práctica regular del deporte en el metabolismo energético celular y la salud mental?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa el potencial de recursos naturales para la obtención de energía sostenible.",
+              "Adopta y promueve hábitos de vida saludable basados en la relación deporte-bienestar."
+            ],
+            "un_refuerzo": "Investigar qué es el hidrógeno verde y por qué se considera el combustible del futuro."
+          }
+        }
+      ]
+    }
+  ]
+}

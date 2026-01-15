@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "11",
+  "nombre_archivo": "t_ciencias_11_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Termodinámica de la Biosfera",
+            "un_reto_sugerido": "¿Cómo se aplica la segunda ley de la termodinámica al flujo de energía en un ecosistema local?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar por qué en una cadena trófica la energía disponible disminuye drásticamente al pasar de productores a depredadores tope (Regla del 10%).",
+              "visual": "Montaje de un micro-ecosistema en un frasco sellado: medir la variación de temperatura interna bajo luz solar para observar la disipación de energía en forma de calor.",
+              "produccion": "Explicar el flujo energético sistémico integrando conceptos de entropía, diversidad genética y equilibrio termodinámico en comunidades biológicas."
+            },
+            "para_pensar": [
+              "¿Por qué la vida se considera un estado de baja entropía mantenido por el sol?",
+              "¿Cómo afecta el calentamiento global la eficiencia de las relaciones simbióticas en los ecosistemas colombianos?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los principios de la termodinámica con el metabolismo y la productividad ecológica.",
+              "Analiza el impacto sistémico de la pérdida de biodiversidad en el flujo de materia."
+            ],
+            "un_refuerzo": "Investigar qué es la exergía y cómo se utiliza para medir la calidad de la energía en sistemas vivos."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Carbono: El Arquitecto de la Vida",
+            "un_reto_sugerido": "¿Por qué la hibridación del carbono permite la formación de cadenas infinitas y moléculas tan variadas como el ADN o el petróleo?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar las propiedades físicas del grafito, el diamante y el carbón mineral, debatiendo sobre sus enlaces covalentes.",
+              "visual": "Construcción de modelos moleculares: usar materiales reciclados para representar la hibridación sp3, sp2 y sp de hidrocarburos lineales y aromáticos.",
+              "produccion": "Diferenciar mecanismos de reacción orgánica (homólisis vs heterólisis) y su importancia en la síntesis de compuestos esenciales."
+            },
+            "para_pensar": [
+              "¿Cómo cambió la historia de la humanidad el descubrimiento de la síntesis de hidrocarburos aromáticos?",
+              "¿Cuál es el impacto ambiental de los derrames de hidrocarburos en términos de polaridad y afinidad química?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la tetravalencia del carbono con la formación de biomoléculas estructurales.",
+              "Identifica correctamente hidrocarburos saturados e insaturados por su estructura molecular."
+            ],
+            "un_refuerzo": "Realizar una prueba de solubilidad comparando alcanos (gasolina o aceite) con solventes polares (agua)."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Ingeniería Térmica e Hidromecánica",
+            "un_reto_sugerido": "¿Cómo optimizar la eficiencia de una máquina industrial usando las leyes de Pascal y Bernoulli?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el funcionamiento de una prensa hidráulica o un sistema de frenos y discutir cómo se multiplica la fuerza.",
+              "visual": "Laboratorio de Hidromecánica: Construir un sistema de vasos comunicantes y una jeringa hidráulica para verificar el intercambio de energía y presión.",
+              "produccion": "Resolver problemas de termodinámica industrial (máquinas térmicas) e hidrodinámica aplicando los principios de conservación de la energía."
+            },
+            "para_pensar": [
+              "¿Por qué la segunda ley de la termodinámica establece límites infranqueables para la productividad industrial?",
+              "¿Cómo ayuda la hidromecánica al desarrollo de tecnologías sostenibles en las zonas rurales de Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Analiza ciclos termodinámicos en motores y turbinas identificando fuentes de pérdida de calor.",
+              "Aplica las leyes de Pascal y Bernoulli en el diseño de herramientas de productividad."
+            ],
+            "un_refuerzo": "Investigar cómo funciona una turbina hidroeléctrica y el papel de la caída de presión en la generación de energía."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Cultura y Salud en la Era Tecnológica",
+            "un_reto_sugerido": "¿Cómo influyen los avances tecnológicos y las normas sociales en nuestras decisiones reproductivas y hábitos de consumo?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar la evolución de los métodos anticonceptivos y la fertilización asistida como hitos que cambiaron la estructura familiar.",
+              "visual": "Mesa redonda: Debatir los efectos biológicos y sociales del consumo excesivo de sustancias psicoactivas (alcohol, tabaco, cafeína).",
+              "produccion": "Desarrollar una propuesta de promoción de la salud sexual y prevención de adicciones basada en evidencia científica y derechos humanos."
+            },
+            "para_pensar": [
+              "¿Cuál es el impacto de la tecnología en la desmitificación de tabúes sobre la sexualidad?",
+              "¿Cómo afecta el consumo de sustancias químicas externas el equilibrio del sistema endocrino humano?"
+            ],
+            "pistas_del_exito": [
+              "Toma decisiones informadas respecto a la salud reproductiva basadas en modelos biológicos.",
+              "Identifica aplicaciones tecnológicas que han mejorado la calidad de vida y salud pública."
+            ],
+            "un_refuerzo": "Realizar un podcast informativo sobre el uso responsable de fármacos y los riesgos de la automedicación."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Bio-Electricidad: El Mensaje Neuronal",
+            "un_reto_sugerido": "¿Cómo puede un impulso eléctrico y químico transmitir información de una neurona a otra en milisegundos?",
+            "ruta_de_exploracion": {
+              "explorar": "Medir el tiempo de reacción ante un estímulo visual y discutir qué tipo de 'circuito' biológico se activó.",
+              "visual": "Simulación de Sinapsis: Usar un circuito eléctrico simple para representar la comunicación neuronal y modelos químicos para los neurotransmisores.",
+              "produccion": "Explicar el funcionamiento de las neuronas mediante la integración de modelos de mecánica de fluidos (bomba sodio-potasio) y electricidad."
+            },
+            "para_pensar": [
+              "¿Cómo afectan las neurotoxinas y las drogas el flujo de información eléctrica en el cerebro?",
+              "¿Podría la inteligencia artificial replicar exactamente la mecánica de fluidos de una neurona biológica?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la polaridad de las cargas en reposo con la generación de impulsos nerviosos.",
+              "Aplica conceptos físicos para explicar fenómenos biológicos complejos."
+            ],
+            "un_refuerzo": "Investigar qué es el potencial de acción y cómo se grafica en un osciloscopio médico."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "La Química de las Biomoléculas",
+            "un_reto_sugerido": "¿Por qué un cambio en un solo átomo de nitrógeno u oxígeno transforma una molécula en una proteína o un combustible?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en etiquetas de alimentos y medicamentos la presencia de alcoholes, aminas y ácidos carboxílicos.",
+              "visual": "Saponificación casera: Realizar la síntesis de jabón a partir de grasas y bases, identificando el papel de los compuestos oxigenados.",
+              "produccion": "Clasificar compuestos nitrogenados y oxigenados, explicando su papel estructural en el metabolismo celular y la síntesis de proteínas."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los grupos funcionales en la solubilidad y reactividad de los medicamentos en el cuerpo?",
+              "¿Cuál es el impacto social de la síntesis de aminas y amidas en la industria farmacéutica?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia funciones químicas orgánicas (alcoholes, cetonas, aminas) por su estructura molecular.",
+              "Relaciona la composición química del carbono con la formación de carbohidratos y lípidos."
+            ],
+            "un_refuerzo": "Investigar cómo se forman los enlaces peptídicos entre aminoácidos mediante reacciones de condensación."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "El Universo en Oscilación: MAS",
+            "un_reto_sugerido": "¿Cómo podemos predecir el movimiento de un péndulo o un resorte sin que se detenga por fricción?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el movimiento de una cuerda de guitarra o un columpio e identificar los puntos de equilibrio y retorno.",
+              "visual": "Laboratorio de MAS: Construir un péndulo simple y un sistema masa-resorte, midiendo el periodo (T) variando longitud y masa.",
+              "produccion": "Resolver ecuaciones de MAS y choque elástico aplicando la ley de conservación de la energía mecánica y la deformación de sistemas."
+            },
+            "para_pensar": [
+              "¿Por qué en los sistemas no conservativos la energía se disipa como sonido o calor?",
+              "¿Cómo se aplica el Movimiento Armónico Simple en el diseño sismorresistente de edificios?"
+            ],
+            "pistas_del_exito": [
+              "Calcula magnitudes de MAS (frecuencia, amplitud, periodo) con precisión matemática.",
+              "Distingue entre choques elásticos e inelásticos basándose en la conservación del momentum."
+            ],
+            "un_refuerzo": "Investigar el fenómeno de resonancia y cómo afectó al puente de Tacoma Narrows."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Tecnología y Fluidez Industrial",
+            "un_reto_sugerido": "¿De qué manera el control de los fluidos y la electricidad ha impulsado la economía de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar el funcionamiento de una planta de bombeo de agua local o un sistema de riego a gran escala.",
+              "visual": "Circuito de evolución: Construir un circuito eléctrico complejo y analizar cómo sus componentes han evolucionado desde la radio al celular.",
+              "produccion": "Evaluar críticamente el impacto de las tecnologías hidráulicas y eléctricas en el desarrollo social y económico del país."
+            },
+            "para_pensar": [
+              "¿Qué tecnologías desarrolladas en Colombia han ayudado a optimizar el uso de recursos naturales?",
+              "¿Cómo afecta la obsolescencia programada de los circuitos eléctricos al medio ambiente?"
+            ],
+            "pistas_del_exito": [
+              "Identifica aplicaciones industriales de la mecánica de fluidos en sistemas de riego y bombas.",
+              "Analiza la evolución de los componentes electrónicos y su impacto en la vida cotidiana."
+            ],
+            "un_refuerzo": "Diseñar un prototipo de sistema hidráulico sencillo para automatizar una tarea doméstica."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "La Huella de la Evolución",
+            "un_reto_sugerido": "¿Es la selección natural la única fuerza que impulsa la diversidad biológica en el siglo XXI?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar casos de resistencia bacteriana a antibióticos como un ejemplo de selección natural acelerada por el hombre.",
+              "visual": "Simulación de poblaciones: Usar modelos de azar para observar cómo las mutaciones y la selección natural cambian las características de una especie en el tiempo.",
+              "produccion": "Argumentar las teorías de Darwin y el ancestro común utilizando evidencias genéticas, paleontológicas y biogeográficas."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el calentamiento global la tasa de mutación y adaptación de las especies endémicas?",
+              "¿Qué papel juega la herencia en la resiliencia de los ecosistemas ante la minería y la deforestación?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la relación entre mutación, selección y biodiversidad planetaria.",
+              "Explica la evolución de especies actuales bajo una visión sistémica ambiental."
+            ],
+            "un_refuerzo": "Investigar qué es la deriva genética y cómo afecta a las poblaciones pequeñas de animales en peligro."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Mecanismos y Equilibrio: Química Sostenible",
+            "un_reto_sugerido": "¿Cómo podemos controlar la velocidad de una reacción química para reducir la contaminación global?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar la efervescencia de una pastilla en agua fría vs. agua caliente e identificar los factores de velocidad cinéticos.",
+              "visual": "Laboratorio de Equilibrio: Realizar reacciones reversibles (ej. equilibrio de cromatos) observando cambios de color ante variaciones de pH y temperatura.",
+              "produccion": "Analizar los mecanismos de reacción (óxido-reducción, homólisis, heterólisis) y proponer soluciones químicas para mitigar el calentamiento global."
+            },
+            "para_pensar": [
+              "¿Por qué es vital el concepto de equilibrio químico para entender la acidificación de los océanos?",
+              "¿Cómo influyen las reacciones pericíclicas en la creación de nuevos materiales biodegradables?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los mecanismos de reacción orgánica con la formación de compuestos industriales.",
+              "Calcula constantes de equilibrio y velocidades de reacción bajo diferentes condiciones ambientales."
+            ],
+            "un_refuerzo": "Investigar qué son los catalizadores enzimáticos y cómo optimizan las reacciones en la industria alimentaria."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Sinfonía Ondulatoria: Luz y Sonido",
+            "un_reto_sugerido": "¿Por qué el sonido viaja más rápido en el agua y cómo la luz puede comportarse como onda y partícula?",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer vibrar cuerdas de diferente grosor y tensión para observar cómo cambian el tono y la intensidad del sonido.",
+              "visual": "Cubeta de ondas y Óptica: Usar espejos y lentes para observar fenómenos de reflexión, refracción, difracción e interferencia de la luz blanca.",
+              "produccion": "Diferenciar ondas mecánicas de electromagnéticas, calculando frecuencia, longitud de onda y audibilidad en diferentes medios."
+            },
+            "para_pensar": [
+              "¿Cómo ha transformado la fibra óptica las telecomunicaciones mundiales basándose en la reflexión total interna?",
+              "¿Cuál es el impacto del ruido acústico industrial en el bienestar de los ecosistemas locales?"
+            ],
+            "pistas_del_exito": [
+              "Calcula parámetros ondulatorios (frecuencia, amplitud, periodo) aplicados a la acústica y óptica.",
+              "Diferencia modelos sobre la naturaleza de la luz y su comportamiento dual."
+            ],
+            "un_refuerzo": "Construir un espectroscopio casero con un CD para observar la descomposición de la luz en el espectro visible."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de los Recursos y la Salud",
+            "un_reto_sugerido": "¿Cuál es el potencial de los recursos naturales colombianos para generar energía limpia sin comprometer la salud?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un mapa de recursos energéticos de Colombia (viento, sol, biomasa) y debatir su viabilidad social.",
+              "visual": "Campaña de Salud Pública: Diseñar estrategias de prevención de ETS y uso responsable de antibióticos basadas en el análisis sistémico de la comunidad.",
+              "produccion": "Elaborar una propuesta de generación de energía alternativa evaluando el impacto ambiental, social y económico del proyecto."
+            },
+            "para_pensar": [
+              "¿Por qué el abuso de antibióticos es un problema de salud individual y colectiva?",
+              "¿Cómo afecta la minería a gran escala los derechos culturales de las comunidades locales?"
+            ],
+            "pistas_del_exito": [
+              "Propone usos sostenibles de los recursos naturales basándose en modelos físicos y químicos.",
+              "Promueve medidas preventivas de salud individual integrando avances biotecnológicos."
+            ],
+            "un_refuerzo": "Investigar qué es el hidrógeno verde y por qué se considera una opción energética estratégica para Colombia."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "8",
+  "nombre_archivo": "t_ciencias_8_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Maestro del Equilibrio Interno",
+            "un_reto_sugerido": "¿Cómo logra tu cuerpo mantener exactamente la misma temperatura aunque afuera haga un frío extremo o un calor intenso?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una rutina de ejercicio de 3 minutos y registrar cambios inmediatos: color de piel, ritmo cardíaco y presencia de sudor.",
+              "visual": "Prueba de Homeostasis Térmica: Sumergir una mano en agua con hielo por 30 segundos; observar el cambio de color y medir cuánto tiempo tarda en recuperar la temperatura normal tras retirarla.",
+              "produccion": "Elaborar un mapa conceptual que integre cómo el sistema nervioso (estímulo) y el endocrino (hormonas) coordinan la respuesta homeostática ante la deshidratación."
+            },
+            "para_pensar": [
+              "¿Por qué un fallo en los riñones afectaría inmediatamente la presión arterial y el equilibrio de glucosa?",
+              "¿Cómo influyen los entornos con altas temperaturas en la salud de los trabajadores agrícolas de nuestra región?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la respuesta glandular con la regulación de niveles de azúcar o agua en sangre.",
+              "Analiza casos clínicos de desequilibrio homeostático (diabetes o deshidratación) con rigor científico."
+            ],
+            "un_refuerzo": "Investigar cómo los animales de climas extremos (como el camello) han modificado su sistema excretor para sobrevivir."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Código de los Elementos",
+            "un_reto_sugerido": "¿Por qué el sodio explota en agua mientras que el neón no reacciona con nada?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar muestras de aluminio (metal), carbón (no metal) y silicio (metaloide) usando una linterna para observar brillo y un martillo para probar maleabilidad.",
+              "visual": "Laboratorio de Reactividad: Comparar la reacción de un clavo de hierro y un trozo de cinta de magnesio al ser sumergidos en vinagre, midiendo el tiempo de ebullición/corrosión.",
+              "produccion": "Justificar la ubicación de los elementos en la tabla periódica a partir de su configuración electrónica y tendencias de electronegatividad."
+            },
+            "para_pensar": [
+              "¿Por qué la mayoría de los cables eléctricos son de cobre y no de azufre?",
+              "¿Cómo afecta la extracción de metales pesados como el mercurio a las fuentes de agua en Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Predice el comportamiento químico de un elemento basándose en su grupo y periodo.",
+              "Clasifica elementos por sus propiedades físicas (densidad, puntos de fusión)."
+            ],
+            "un_refuerzo": "Construir un modelo de la configuración electrónica de los primeros 20 elementos usando el diagrama de Moeller."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Motores del Universo: Calor y Desorden",
+            "un_reto_sugerido": "¿Es posible crear una máquina que aproveche el 100% de la energía sin desperdiciar nada de calor?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar qué sucede con el vapor de una olla a presión y discutir cómo ese movimiento puede mover una turbina.",
+              "visual": "Construir un motor térmico simple (barquito de vapor de hojalata o hélice movida por vapor de vela) para observar la transformación de calor en trabajo.",
+              "produccion": "Explicar la Primera Ley (conservación) y la Segunda Ley (entropía) de la termodinámica a partir de la eficiencia de motores de combustión interna."
+            },
+            "para_pensar": [
+              "¿Por qué el calor siempre fluye del cuerpo más caliente al más frío y nunca al revés de forma natural?",
+              "¿Qué impacto tiene el calor residual de las grandes industrias en el calentamiento de los ríos locales?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta gráficos de Presión-Volumen (P-V) para identificar procesos isotérmicos o isobáricos.",
+              "Calcula la eficiencia teórica de una máquina térmica simple."
+            ],
+            "un_refuerzo": "Investigar qué es la muerte térmica del universo basándose en el concepto de entropía creciente."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Diseñando la Vida: El Dilema CRISPR",
+            "un_reto_sugerido": "¿Deberíamos tener el poder de editar el ADN de los bebés para eliminar enfermedades antes de que nazcan?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar noticias sobre alimentos transgénicos (maíz o soja) y debatir por qué algunos países los prohíben y otros los fomentan.",
+              "visual": "Simulación de edición génica: Usar secuencias de letras (nucleótidos) en papel y 'cortar' errores genéticos con tijeras para representar el sistema CRISPR-Cas9.",
+              "produccion": "Elaborar un ensayo argumentativo sobre las ventajas (medicina) y riesgos (ética/clonación) de la manipulación genética moderna."
+            },
+            "para_pensar": [
+              "¿Cómo afectaría la creación de 'super-cultivos' resistentes a pesticidas a los pequeños agricultores de Colombia?",
+              "¿Es justo que solo las personas con dinero puedan acceder a terapias génicas avanzadas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las principales técnicas de manipulación genética y sus aplicaciones médicas.",
+              "Argumenta con base científica en debates éticos sobre biotecnología."
+            ],
+            "un_refuerzo": "Investigar el caso de la Oveja Dolly y por qué la clonación en humanos sigue siendo un tabú científico."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Preservando la Herencia Biológica",
+            "un_reto_sugerido": "¿Por qué la reproducción sexual es la mejor estrategia contra las enfermedades en un ecosistema cambiante?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una planta de fresa (estolones) y una flor; comparar cómo se originan los nuevos individuos en cada caso.",
+              "visual": "Taller de Propagación Vegetativa: Realizar esquejes de plantas locales (yuca o menta) y comparar su crecimiento con plantas nacidas de semillas.",
+              "produccion": "Cuantificar las ventajas de la variabilidad genética en la reproducción sexual frente a la velocidad de la reproducción asexual."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el sedentarismo y la mala alimentación al sistema endocrino y la fertilidad humana?",
+              "¿Por qué es vital el papel de los polinizadores (abejas) para la preservación de la biodiversidad en Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia los tipos de reproducción asexual (bipartición, gemación) y sexual.",
+              "Relaciona hábitos de vida con el mantenimiento del equilibrio hormonal."
+            ],
+            "un_refuerzo": "Investigar qué es la partenogénesis y en qué animales ocurre de forma natural."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Baile de los Átomos: Enlaces y Reacciones",
+            "un_reto_sugerido": "¿Qué fuerza invisible mantiene unidos a los átomos para formar algo tan vital como el agua o tan fuerte como la sal?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar la reacción de una pastilla efervescente en agua y describir la formación de nuevas sustancias (gas).",
+              "visual": "Laboratorio de Enlaces: Comparar la solubilidad y conductividad eléctrica de agua con sal (iónico) frente a agua con azúcar (covalente) usando un circuito simple.",
+              "produccion": "Representar mediante estructuras de Lewis la formación de enlaces iónicos y covalentes, explicando la regla del octeto."
+            },
+            "para_pensar": [
+              "¿Por qué los compuestos iónicos suelen tener puntos de fusión mucho más altos que los covalentes?",
+              "¿Cómo se utilizan las reacciones químicas de precipitación en el tratamiento de aguas residuales industriales?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia enlaces iónicos de covalentes basándose en la electronegatividad.",
+              "Explica cómo se recombinan los átomos para generar productos nuevos en una ecuación química."
+            ],
+            "un_refuerzo": "Realizar modelos moleculares con plastilina y palillos para representar moléculas de CO2 y H2O."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Caminos de Fuerza: Campos Eléctricos",
+            "un_reto_sugerido": "¿Cómo se comunican dos cargas eléctricas a distancia sin tocarse?",
+            "ruta_de_exploracion": {
+              "explorar": "Frotar un globo y observar cómo desvía un chorro de agua o atrae confeti de papel.",
+              "visual": "Visualización de Campos: Usar un recipiente con aceite y semillas de chía conectadas a una fuente electrostática (globo cargado) para observar la formación de líneas de campo.",
+              "produccion": "Dibujar diagramas de líneas de fuerza para dipolos eléctricos, indicando la dirección del campo de cargas positivas a negativas."
+            },
+            "para_pensar": [
+              "¿Cómo funcionan los capacitores en los circuitos de tu teléfono celular basándose en campos eléctricos?",
+              "¿Por qué los rayos buscan el camino más corto hacia la tierra durante una tormenta eléctrica?"
+            ],
+            "pistas_del_exito": [
+              "Representa gráficamente la interacción de atracción y repulsión entre cargas.",
+              "Calcula la fuerza eléctrica usando la ley de Coulomb en ejercicios prácticos."
+            ],
+            "un_refuerzo": "Investigar el experimento de la jaula de Faraday y por qué es seguro estar dentro de un carro durante un rayo."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Micro-Industria: Bacterias al Servicio Humano",
+            "un_reto_sugerido": "¿Cómo pueden los microorganismos ayudarnos a limpiar los plásticos que nosotros mismos tiramos?",
+            "ruta_de_exploracion": {
+              "explorar": "Visitar un mercado local e identificar productos fermentados (yogur, queso, pan, vinagre); investigar qué microorganismo los produce.",
+              "visual": "Experimento de Fermentación: Mezclar levadura, azúcar y agua tibia en una botella; tapar con un globo y observar la producción de gas (CO2).",
+              "produccion": "Presentar un proyecto biotecnológico que use bacterias para la degradación de residuos orgánicos o la producción de biocombustibles."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con la industria farmacéutica si no pudiéramos cultivar hongos para producir antibióticos?",
+              "¿Cómo puede la microbiología mejorar la producción de cultivos de café en Colombia de forma natural?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el papel de los microorganismos en procesos industriales y ambientales.",
+              "Propone usos de la microbiología para resolver problemas de contaminación local."
+            ],
+            "un_refuerzo": "Realizar una infografía sobre el ciclo de producción de la penicilina."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Origen de la Vida Humana",
+            "un_reto_sugerido": "¿Cómo una sola célula se convierte en un sistema de billones de órganos coordinados en 9 meses?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un ciclo menstrual hipotético para identificar los días de mayor fertilidad y los cambios hormonales asociados.",
+              "visual": "Observación de modelos de desarrollo embrionario y comparación de sistemas reproductores masculinos y femeninos (anatomía y fisiología).",
+              "produccion": "Explicar la importancia de la meiosis en la formación de gametos para garantizar la variabilidad genética en la fecundación."
+            },
+            "para_pensar": [
+              "¿Por qué es fundamental la educación sexual para la prevención de embarazos adolescentes y ETS?",
+              "¿Cómo influye la salud emocional en el correcto funcionamiento del sistema reproductor?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las etapas clave de la fecundación y el desarrollo embrionario.",
+              "Explica las funciones de los órganos de los sistemas reproductores."
+            ],
+            "un_refuerzo": "Investigar qué son los métodos anticonceptivos hormonales y cómo alteran el ciclo natural."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Peso de lo Invisible: Gases Ideales",
+            "un_reto_sugerido": "¿Por qué un globo se infla al sol y se desinfla en el congelador?",
+            "ruta_de_exploracion": {
+              "explorar": "Colocar un globo en la boca de una botella de vidrio vacía; calentar la botella y observar cómo el globo se infla solo.",
+              "visual": "Laboratorio de Boyle: Usar una jeringa tapada con un malvavisco adentro; comprimir el émbolo y observar el cambio de volumen del malvavisco.",
+              "produccion": "Resolver problemas estequiométricos de gases usando la ecuación PV=nRT, relacionando presión, volumen y temperatura."
+            },
+            "para_pensar": [
+              "¿Cómo logran los buzos evitar que sus pulmones colapsen a grandes profundidades debido a la presión?",
+              "¿Por qué los neumáticos de los carros necesitan una presión específica para no estallar en viajes largos por carretera caliente?"
+            ],
+            "pistas_del_exito": [
+              "Aplica las leyes de Boyle, Charles y Gay-Lussac en situaciones cotidianas.",
+              "Realiza conversiones de unidades de presión (atm, mmHg) y temperatura (Kelvin) con precisión."
+            ],
+            "un_refuerzo": "Calcular cuántos moles de aire hay en un salón de clases asumiendo condiciones ideales."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Electromagnetismo en Acción",
+            "un_reto_sugerido": "¿Podemos crear un imán usando solo electricidad y un clavo?",
+            "ruta_de_exploracion": {
+              "explorar": "Acercar una brújula a un cable conectado a una pila y observar la desviación de la aguja (Efecto Oersted).",
+              "visual": "Construcción de un Electroimán: Enrollar cable de cobre alrededor de un clavo de hierro, conectarlo a una pila y medir cuántos clips puede levantar.",
+              "produccion": "Explicar la relación entre corrientes eléctricas y la generación de campos magnéticos, fundamentando el principio de los motores eléctricos."
+            },
+            "para_pensar": [
+              "¿Cómo ha transformado el electromagnetismo las comunicaciones modernas (internet, radio, TV)?",
+              "¿Qué pasaría con la orientación de las aves migratorias si el campo magnético de la Tierra desapareciera?"
+            ],
+            "pistas_del_exito": [
+              "Describe el funcionamiento de un dispositivo que use electromagnetismo.",
+              "Relaciona la intensidad de la corriente con la fuerza del campo magnético generado."
+            ],
+            "un_refuerzo": "Investigar cómo funcionan los trenes de levitación magnética (Maglev)."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "El Semáforo Químico: Ácidos y Bases",
+            "un_reto_sugerido": "¿Qué tienen en común el jugo de limón, el jabón y tu propia sangre?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar las etiquetas de productos de limpieza (cloro, desengrasante) y buscar advertencias sobre su uso en la piel.",
+              "visual": "Indicador de pH Natural: Extraer el jugo de un repollo morado y probarlo con vinagre, limón, bicarbonato y jabón; observar los cambios de color.",
+              "produccion": "Clasificar sustancias cotidianas en una escala de pH de 0 a 14, explicando la importancia de la neutralización en la salud (antiácidos)."
+            },
+            "para_pensar": [
+              "¿Por qué la lluvia ácida es una amenaza para las estatuas y los bosques de nuestra ciudad?",
+              "¿Cómo afecta el pH del suelo a la capacidad de los agricultores para cultivar café o cacao?"
+            ],
+            "pistas_del_exito": [
+              "Identifica sustancias ácidas, básicas y neutras usando indicadores caseros.",
+              "Asocia el nivel de pH con la seguridad en el uso de productos de aseo personal."
+            ],
+            "un_refuerzo": "Investigar qué es el pH de la piel y por qué algunos jabones dicen ser 'pH neutro'."
+          }
+        }
+      ]
+    }
+  ]
+}

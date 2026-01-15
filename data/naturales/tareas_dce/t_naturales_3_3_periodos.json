@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "3",
+  "nombre_archivo": "t_ciencias_3_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Termo-Exploradores de la Biodiversidad",
+            "un_reto_sugerido": "¿Cómo influye el calor del sol en el lugar donde deciden vivir los animales de mi colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un recorrido por el patio escolar midiendo con un termómetro (o sensación térmica) zonas de sombra y zonas de sol, contando cuántos bichitos hay en cada una.",
+              "visual": "Montaje de dos terrarios pequeños: uno cerca de una lámpara o ventana caliente y otro en un lugar fresco, observando el comportamiento de hormigas o caracoles (con retorno a la naturaleza).",
+              "produccion": "Explicar mediante un mapa conceptual cómo la temperatura determina la abundancia de especies en un ecosistema."
+            },
+            "para_pensar": [
+              "¿Por qué los osos de anteojos viven en el páramo y no en la costa?",
+              "¿Cómo afectaría el calentamiento global a los animales que no pueden regular su temperatura corporal?"
+            ],
+            "pistas_del_exito": [
+              "Describe la relación entre la temperatura ambiental y la distribución de especies.",
+              "Propone una estrategia para proteger un ecosistema local frente al aumento de temperatura."
+            ],
+            "un_refuerzo": "Investigar qué es la hibernación y cómo ayuda a algunos animales a sobrevivir a temperaturas extremas."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Maestros del Cambio de Estado",
+            "un_reto_sugerido": "¿Podemos recuperar el agua que se evapora al cocinar?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una olla de agua caliente con supervisión y ver cómo el vapor desaparece en el aire o se convierte en gotas en la tapa.",
+              "visual": "Experimento de solidificación y fusión: Congelar agua con sal y agua sin sal, comparando cuál tarda más en derretirse bajo la luz de una bombilla.",
+              "produccion": "Dibujar el diagrama de cambios de estado (fusión, evaporación, condensación) aplicándolo a una situación de la vida diaria como la lluvia."
+            },
+            "para_pensar": [
+              "¿Por qué el hielo se derrite más rápido si lo frotamos con las manos?",
+              "¿Cómo ayuda el cambio de estado del agua a que existan las nubes y la lluvia?"
+            ],
+            "pistas_del_exito": [
+              "Explica cómo la temperatura provoca cambios de estado en el agua.",
+              "Identifica correctamente procesos de evaporación y condensación en el hogar."
+            ],
+            "un_refuerzo": "Hacer helados de fruta y explicar qué proceso químico ocurrió para que el jugo se volviera sólido."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "El Camino de los Fotones",
+            "un_reto_sugerido": "¿Por qué podemos ver a través del vidrio pero no a través de la madera?",
+            "ruta_de_exploracion": {
+              "explorar": "Jugar con linternas en un salón oscuro proyectando luz sobre papel seda, cartón, un espejo y un vaso con agua.",
+              "visual": "Construcción de un periscopio casero con cajas de leche y espejos para observar cómo la luz rebota (reflexión) y viaja.",
+              "produccion": "Clasificar materiales del entorno en opacos, transparentes y translúcidos según su interacción con la luz."
+            },
+            "para_pensar": [
+              "¿Cómo influye la luz en el crecimiento de las plantas que tenemos en casa?",
+              "¿Por qué es importante usar protector solar si la luz del sol viaja a través del aire transparente?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia materiales opacos, translúcidos y transparentes.",
+              "Explica el fenómeno de la reflexión usando un espejo y una linterna."
+            ],
+            "un_refuerzo": "Investigar qué animales viven en la oscuridad total (cuevas) y cómo se adaptaron a la falta de luz."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos del Clima",
+            "un_reto_sugerido": "¿Cómo influye el clima en la forma en que construimos nuestras casas y vestimos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías de casas en la Guajira y casas en los Andes, analizando techos, ventanas y materiales.",
+              "visual": "Construir dos maquetas de casas: una con ventilación (clima cálido) y otra cerrada (clima frío) y medir la temperatura interna con un termómetro bajo el sol.",
+              "produccion": "Escribir un relato sobre cómo una comunidad se adapta a su clima usando la tecnología de su entorno (ropa, vivienda, cultivos)."
+            },
+            "para_pensar": [
+              "¿Por qué en las ciudades hace más calor que en el campo si tienen el mismo sol?",
+              "¿Qué acciones podemos tomar para que nuestras casas sean más frescas sin usar aire acondicionado?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los factores abióticos con las costumbres y viviendas de una comunidad.",
+              "Propone una acción de conservación del entorno basada en el conocimiento del clima local."
+            ],
+            "un_refuerzo": "Dibujar un invento que ayude a las personas a protegerse de las lluvias extremas de forma ecológica."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Misión: Camuflaje Colombiano",
+            "un_reto_sugerido": "¿Cómo logran los animales esconderse a plena vista en las selvas de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Encuentra al polizón': Esconder lanas de colores en el césped y ver cuáles son más fáciles de encontrar por los 'depredadores' (estudiantes).",
+              "visual": "Diseñar un animal de papel y pintarlo de modo que 'desaparezca' al ponerlo sobre una foto de un ecosistema colombiano (Páramo, Amazonas o Chocó).",
+              "produccion": "Explicar la diferencia entre relaciones interespecíficas (ej: abejas y flores) y cómo ayudan a la supervivencia."
+            },
+            "para_pensar": [
+              "¿Por qué algunos animales brillantes avisan que son peligrosos en lugar de esconderse?",
+              "¿Cómo afecta la deforestación a los animales que usan el camuflaje para sobrevivir?"
+            ],
+            "pistas_del_exito": [
+              "Identifica mecanismos de camuflaje y mimetismo en especies colombianas.",
+              "Describe un ejemplo de relación interespecífica beneficiosa para el ecosistema."
+            ],
+            "un_refuerzo": "Investigar el caso de la mariposa monarca y su relación con las plantas donde pone sus huevos."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Fábrica de Cristales",
+            "un_reto_sugerido": "¿Puede un sólido convertirse en gas sin pasar por líquido?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar qué pasa con una pastilla de alcanfor o ambientador sólido después de unos días en el salón.",
+              "visual": "Experimento de cristalización: Disolver sal en agua caliente hasta que no quepa más y dejarla evaporar lentamente para ver cómo se forman sólidos de nuevo.",
+              "produccion": "Explicar mediante un diagrama de partículas por qué el calor separa las moléculas del agua hasta volverla vapor."
+            },
+            "para_pensar": [
+              "¿Por qué la ropa se seca aunque no haya un sol muy fuerte?",
+              "¿Cómo se usa el frío intenso en la industria para conservar las vacunas (sublimación)?"
+            ],
+            "pistas_del_exito": [
+              "Demuestra mediante experimentos los cambios de estado por variación de temperatura.",
+              "Resuelve un problema práctico (como secar algo rápido) usando conceptos de evaporación."
+            ],
+            "un_refuerzo": "Hacer dibujos que representen cómo se mueven las partículas en un sólido, un líquido y un gas."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Vibraciones",
+            "un_reto_sugerido": "¿Podemos ver el sonido con nuestros propios ojos?",
+            "ruta_de_exploracion": {
+              "explorar": "Tocar suavemente la garganta mientras hablamos o cantamos para sentir la vibración de las cuerdas vocales.",
+              "visual": "Experimento del tambor de sal: Estirar plástico de cocina sobre un bol, poner sal encima y hacer ruidos fuertes con una tapa cerca para ver bailar la sal.",
+              "produccion": "Clasificar sonidos del entorno según su altura (agudo/grave), intensidad (fuerte/débil) y timbre."
+            },
+            "para_pensar": [
+              "¿Por qué los perros escuchan sonidos que nosotros no podemos percibir?",
+              "¿Cómo viaja el sonido más rápido: por el aire, por el agua o por un metal?"
+            ],
+            "pistas_del_exito": [
+              "Explica que el sonido es el resultado de una vibración.",
+              "Diferencia las características del sonido (altura, timbre, intensidad) en instrumentos musicales."
+            ],
+            "un_refuerzo": "Construir un teléfono de vasos y lana para demostrar cómo el sonido viaja a través de medios sólidos."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Del Fonógrafo al Celular",
+            "un_reto_sugerido": "¿Cómo ha cambiado la forma en que escuchamos música a través del tiempo?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar grabaciones de sonidos antiguos y modernos, comparando su claridad y calidad.",
+              "visual": "Entrevistar a los abuelos sobre cómo escuchaban música antes y dibujar los aparatos que usaban (tocadiscos, casetes).",
+              "produccion": "Explicar cómo los micrófonos y parlantes modernos usan la vibración para capturar y reproducir el sonido."
+            },
+            "para_pensar": [
+              "¿Qué impacto tiene el exceso de ruido de los audífonos en nuestra audición?",
+              "¿Cómo ayuda la tecnología del ultrasonido a los médicos para ver bebés dentro del vientre?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la evolución de los aparatos de sonido y su utilidad social.",
+              "Propone una norma para mitigar el ruido en el salón de clase usando tecnología simple."
+            ],
+            "un_refuerzo": "Investigar cómo funcionan los audífonos para personas con discapacidad auditiva."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Socios del Ecosistema",
+            "un_reto_sugerido": "¿Cómo se ayudan los seres vivos colombianos para no desaparecer?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar en el jardín escolar si hay abejas en las flores o líquenes en los árboles y debatir qué gana cada uno.",
+              "visual": "Crear un 'Mapa de Relaciones' usando lana para conectar diferentes especies de un ecosistema colombiano (ej: el frailejón y el agua).",
+              "produccion": "Diseñar un póster de conservación para una especie colombiana explicando su relación clave con otro organismo."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con los humanos si las abejas dejaran de polinizar los cultivos?",
+              "¿Es siempre mala la relación entre un parásito y su huésped para el ecosistema?"
+            ],
+            "pistas_del_exito": [
+              "Identifica relaciones intra e interespecíficas en ejemplos colombianos.",
+              "Propone acciones de manejo de biodiversidad basadas en las relaciones biológicas."
+            ],
+            "un_refuerzo": "Investigar qué es la simbiosis y buscar un ejemplo en el océano colombiano (ej: pez payaso y anémona)."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Ingenieros de la Hidrósfera",
+            "un_reto_sugerido": "¿Cómo afecta la temperatura de los océanos a la vida química del planeta?",
+            "ruta_de_exploracion": {
+              "explorar": "Medir cuánto tarda en disolverse el azúcar en agua con hielo frente a agua tibia.",
+              "visual": "Experimento de 'Lluvia en un frasco': Crear un ciclo del agua cerrado y observar cómo la temperatura exterior cambia la velocidad del ciclo.",
+              "produccion": "Explicar las implicaciones químicas de los cambios de estado en procesos industriales como la destilación o purificación de agua."
+            },
+            "para_pensar": [
+              "¿Por qué los glaciares se están derritiendo y qué cambio de estado es ese?",
+              "¿Cómo podemos usar el calor para limpiar agua que esté sucia o contaminada?"
+            ],
+            "pistas_del_exito": [
+              "Demuestra el efecto de la temperatura en las propiedades químicas del agua.",
+              "Diseña una solución práctica (como un destilador solar simple) basada en cambios de estado."
+            ],
+            "un_refuerzo": "Investigar qué es la sublimación inversa y cómo se forman los copos de nieve."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Sinfonía de los Medios",
+            "un_reto_sugerido": "¿Afecta el material de un objeto la forma en que se calienta o suena?",
+            "ruta_de_exploracion": {
+              "explorar": "Golpear una mesa de madera, una ventana de vidrio y una regla de metal para comparar el sonido y la vibración.",
+              "visual": "Experimento de conducción de calor: Poner una cuchara de metal, una de plástico y una de madera en agua caliente y ver cuál se calienta primero.",
+              "produccion": "Elaborar un informe sobre cómo la luz, el calor y el sonido se propagan de forma distinta en sólidos, líquidos y gases."
+            },
+            "para_pensar": [
+              "¿Por qué las ollas tienen mangos de madera o plástico en lugar de metal?",
+              "¿Cómo cambian los sonidos debajo del agua cuando estamos en una piscina?"
+            ],
+            "pistas_del_exito": [
+              "Describe la interacción de la energía (luz, calor, sonido) con diferentes medios.",
+              "Explica por qué ciertos materiales son mejores conductores de calor o sonido que otros."
+            ],
+            "un_refuerzo": "Reto: Construir una 'caja aislante' de sonido usando diferentes materiales (esponja, cartón, plástico)."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Tecno-Guardianes de la Temperatura",
+            "un_reto_sugerido": "¿Cómo ayuda la tecnología a que los alimentos no se dañen por el calor?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar los termómetros en las neveras de los supermercados y preguntar por qué son importantes.",
+              "visual": "Construir un 'Horno Solar' con una caja de pizza y papel aluminio para observar cómo la tecnología captura el calor.",
+              "produccion": "Proponer una mejora técnica para un termómetro o dispositivo que ayude a monitorear la temperatura en la escuela."
+            },
+            "para_pensar": [
+              "¿Cómo hace un termómetro digital para saber nuestra temperatura sin usar mercurio?",
+              "¿Por qué es vital la tecnología de refrigeración para transportar medicinas a lugares lejanos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el papel de la tecnología en el monitoreo y control de variables físicas.",
+              "Propone mejoras tecnológicas para optimizar procesos cotidianos basados en la temperatura."
+            ],
+            "un_refuerzo": "Investigar qué es un sensor térmico y dónde se usa en los teléfonos celulares."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "9",
+  "nombre_archivo": "t_ciencias_9_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "La Lotería de los Alelos",
+            "un_reto_sugerido": "¿Cómo podemos predecir los rasgos de la siguiente generación usando las leyes de la probabilidad de Mendel?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar variaciones fenotípicas en el salón (lóbulo de la oreja, pico de viuda, color de ojos) y debatir por qué algunos rasgos son más frecuentes que otros.",
+              "visual": "Simulación con monedas: Lanzar dos monedas simultáneamente 50 veces para representar cruces de heterocigotos y registrar las frecuencias genotípicas en cuadros de Punnett.",
+              "produccion": "Formalizar las Leyes de Mendel explicando la segregación y la distribución independiente a partir de los resultados obtenidos en la simulación."
+            },
+            "para_pensar": [
+              "¿Por qué un rasgo recesivo puede 'saltarse' una generación y reaparecer en la siguiente?",
+              "¿Cómo influye el mejoramiento genético en la seguridad alimentaria y cuáles son sus riesgos para la biodiversidad?"
+            ],
+            "pistas_del_exito": [
+              "Predice proporciones fenotípicas y genotípicas usando cuadros de Punnett.",
+              "Explica la transmisión de caracteres hereditarios basándose en principios mendelianos."
+            ],
+            "un_refuerzo": "Investigar qué es la dominancia incompleta y la codominancia usando el ejemplo de las flores 'Boca de Dragón'."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Lenguaje de la Oxidación",
+            "un_reto_sugerido": "¿Cómo se transforman los elementos al reaccionar con el oxígeno y cómo los nombramos científicamente?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una puntilla oxidada y una manzana cortada expuesta al aire; identificar qué tienen en común estos procesos químicos.",
+              "visual": "Prueba de llama y oxidación: Quemar una cinta de magnesio (con protección) para observar la formación de un polvo blanco (óxido) y determinar su naturaleza ácida o básica con papel tornasol.",
+              "produccion": "Asignar números de oxidación en fórmulas de óxidos binarios y aplicar las reglas de nomenclatura (IUPAC, Stock) para nombrarlos correctamente."
+            },
+            "para_pensar": [
+              "¿Por qué es fundamental conocer el estado de oxidación de un elemento para predecir su reactividad?",
+              "¿Qué impacto industrial y ambiental tiene la formación de óxidos de nitrógeno y azufre en la lluvia ácida?"
+            ],
+            "pistas_del_exito": [
+              "Calcula correctamente números de oxidación en compuestos inorgánicos binarios.",
+              "Nombra óxidos básicos y ácidos siguiendo las reglas internacionales de nomenclatura."
+            ],
+            "un_refuerzo": "Crear un juego de cartas con símbolos químicos y números de valencia para practicar la formación de fórmulas de óxidos."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Física de Proyectiles y Carreras",
+            "un_reto_sugerido": "¿Podemos predecir dónde caerá un objeto si conocemos su velocidad de lanzamiento y su ángulo?",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar un chorro de agua con una manguera o una pelota a diferentes ángulos para observar la forma de la trayectoria curva.",
+              "visual": "Laboratorio de Cinemática: Lanzar una canica desde una rampa a una mesa y medir el alcance horizontal; usar cronómetros para calcular la velocidad promedio.",
+              "produccion": "Resolver problemas de MRUA y movimiento parabólico utilizando ecuaciones cinemáticas para hallar tiempo de vuelo y altura máxima."
+            },
+            "para_pensar": [
+              "¿Por qué en el movimiento parabólico la velocidad horizontal se considera constante mientras la vertical cambia?",
+              "¿Cómo utilizan los radares de velocidad las ecuaciones de movimiento para controlar el tráfico en las carreteras?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta gráficas de posición vs. tiempo para movimientos con aceleración constante.",
+              "Calcula parámetros de desplazamiento y velocidad usando expresiones matemáticas de la cinemática."
+            ],
+            "un_refuerzo": "Investigar cómo la resistencia del aire afecta las trayectorias de los satélites en comparación con los proyectiles en la Tierra."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Tecnología y Sexualidad Responsable",
+            "un_reto_sugerido": "¿Cómo han cambiado los avances tecnológicos nuestra forma de prevenir enfermedades y planificar el futuro?",
+            "ruta_de_exploracion": {
+              "explorar": "Debatir sobre mitos y realidades de la sexualidad analizando la información que reciben los adolescentes en redes sociales.",
+              "visual": "Diseño de infografía: Investigar la efectividad y el funcionamiento de métodos anticonceptivos modernos y técnicas de reproducción asistida.",
+              "produccion": "Evaluar situaciones de riesgo para proponer estrategias de prevención de ETS y embarazos no deseados, considerando factores culturales y tecnológicos."
+            },
+            "para_pensar": [
+              "¿Cómo influye la cultura de una comunidad en el acceso y uso de tecnologías reproductivas?",
+              "¿Qué responsabilidad ética tienen los jóvenes frente al uso de la información científica para el cuidado de su salud sexual?"
+            ],
+            "pistas_del_exito": [
+              "Identifica métodos de prevención de ETS basados en evidencia científica.",
+              "Analiza el impacto de la tecnología en el bienestar y la salud reproductiva humana."
+            ],
+            "un_refuerzo": "Realizar un glosario sobre las ETS más comunes, sus síntomas y los mecanismos tecnológicos para su detección temprana."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Código Maestro: De ADN a Proteína",
+            "un_reto_sugerido": "¿Cómo puede una molécula microscópica dictar el funcionamiento de todo tu cuerpo?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar modelos de la doble hélice y debatir cómo se puede empaquetar tanta información genética en el núcleo celular.",
+              "visual": "Extracción de ADN casero: Utilizar alcohol frío, detergente y sal para visualizar las fibras de ADN de una fresa o un banano machacado.",
+              "produccion": "Simular los procesos de transcripción y traducción usando una secuencia de bases nitrogenadas para obtener una cadena de aminoácidos."
+            },
+            "para_pensar": [
+              "¿Qué sucede en un organismo si ocurre una mutación durante la síntesis de una proteína vital?",
+              "¿Cómo ha contribuido el conocimiento del genoma humano a la cura de enfermedades genéticas?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la estructura del ADN con la expresión de fenotipos en los organismos.",
+              "Explica el flujo de información genética: ADN -> ARN -> Proteína."
+            ],
+            "un_refuerzo": "Investigar qué es la epigenética y cómo el ambiente puede 'encender' o 'apagar' genes sin cambiar el ADN."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Arcoíris de la Acidez",
+            "un_reto_sugerido": "¿Por qué un ácido puede quemar la piel pero es necesario para digerir los alimentos en el estómago?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar sensaciones cotidianas (sabor agrio del limón, amargo del jabón) y asociarlas a conceptos de ácidos y bases.",
+              "visual": "Indicador de pH natural: Usar extracto de repollo morado para medir el nivel de acidez de vinagre, bicarbonato, jabón y jugo de frutas.",
+              "produccion": "Clasificar sustancias en las escalas de pH y pOH basándose en la concentración de iones de hidrógeno e hidróxido."
+            },
+            "para_pensar": [
+              "¿Cómo mantiene el cuerpo humano el pH de la sangre en un rango constante para evitar enfermedades?",
+              "¿Cuál es la importancia del control de pH en los procesos de tratamiento de aguas residuales industriales?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia sustancias ácidas de básicas usando indicadores químicos.",
+              "Relaciona el valor de pH con la importancia biológica de una sustancia en el organismo."
+            ],
+            "un_refuerzo": "Realizar una neutralización simple entre vinagre y bicarbonato de sodio, observando la formación de sal y agua."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "El Desafío de Newton: Leyes en Movimiento",
+            "un_reto_sugerido": "¿Por qué es más difícil detener un camión que un automóvil si ambos van a la misma velocidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar qué sucede con los pasajeros de un bus cuando este arranca o frena bruscamente, discutiendo el concepto de inercia.",
+              "visual": "Laboratorio de Dinámica: Usar carritos de juguete y pesas para demostrar la relación entre Fuerza, Masa y Aceleración (Segunda Ley de Newton).",
+              "produccion": "Resolver problemas de dinámica aplicando diagramas de cuerpo libre para calcular la fuerza neta en sistemas en equilibrio o movimiento."
+            },
+            "para_pensar": [
+              "¿Cómo explica la tercera ley de Newton que un cohete pueda subir expulsando gases hacia abajo?",
+              "¿Por qué el cinturón de seguridad es una aplicación directa de la ley de inercia en la seguridad vial?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las fuerzas (peso, normal, fricción) que actúan sobre un cuerpo en un plano inclinado.",
+              "Calcula la aceleración de un objeto a partir de la fuerza resultante aplicada."
+            ],
+            "un_refuerzo": "Investigar el papel de la fuerza de rozamiento en el diseño de neumáticos para carreras de Fórmula 1."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Química Cerebral: El Riesgo de las Adicciones",
+            "un_reto_sugerido": "¿Cómo alteran las sustancias psicoactivas los impulsos eléctricos de tus neuronas?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar testimonios o infografías sobre los efectos del tabaco y el alcohol en el sistema nervioso y circulatorio.",
+              "visual": "Simulación de sinapsis: Representar con modelos cómo las drogas bloquean o sobreestimulan los receptores de neurotransmisores en el cerebro.",
+              "produccion": "Elaborar una campaña de sensibilización escolar sobre las consecuencias físicas, mentales y sociales del consumo de sustancias psicoactivas."
+            },
+            "para_pensar": [
+              "¿Por qué es tan difícil salir de una adicción desde el punto de vista de la neuroquímica cerebral?",
+              "¿Qué impacto tiene el consumo de alcohol y drogas en la convivencia social y la salud pública de tu comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los efectos nocivos de las sustancias psicoactivas en sistemas biológicos específicos.",
+              "Promueve hábitos de vida saludable y estrategias de prevención del abuso de sustancias."
+            ],
+            "un_refuerzo": "Investigar qué es el metabolismo basal y cómo la cafeína altera el ritmo cardíaco de forma temporal."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Evolución",
+            "un_reto_sugerido": "¿Cómo explican los fósiles y el ADN que todos los seres vivos tenemos un ancestro común?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de anatomía comparada (brazo de humano, ala de murciélago) y buscar similitudes estructurales.",
+              "visual": "Simulación de Selección Natural: Usar 'pinzas' de diferentes formas para recolectar semillas; observar quién sobrevive ante un cambio en el tipo de alimento.",
+              "produccion": "Argumentar las teorías de Darwin y el ancestro común utilizando evidencias del registro fósil y la biogeografía."
+            },
+            "para_pensar": [
+              "¿Por qué las bacterias se vuelven resistentes a los antibióticos tan rápido en comparación con la evolución de animales grandes?",
+              "¿Cómo influye el cambio climático en la selección natural de las especies colombianas hoy en día?"
+            ],
+            "pistas_del_exito": [
+              "Distingue entre adaptación, selección natural y especiación.",
+              "Analiza evidencias científicas que sustentan la evolución de los seres vivos."
+            ],
+            "un_refuerzo": "Investigar qué fue la 'Explosión Cámbrica' y su importancia para la diversidad biológica actual."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Arte de Disolver",
+            "un_reto_sugerido": "¿Cómo podemos calcular la cantidad exacta de soluto para que una solución sea efectiva y no tóxica?",
+            "ruta_de_exploracion": {
+              "explorar": "Preparar diferentes concentraciones de un jugo en polvo y observar cambios en color, intensidad y sabor.",
+              "visual": "Laboratorio de Soluciones: Preparar disoluciones porcentuales (%m/m, %m/v) y molares, midiendo con precisión soluto y solvente.",
+              "produccion": "Resolver problemas de molaridad y concentración física relacionándolos con la preparación de soluciones en laboratorios industriales."
+            },
+            "para_pensar": [
+              "¿Por qué la temperatura afecta la solubilidad del azúcar en el café o del gas en una gaseosa?",
+              "¿Cómo se aplican las unidades de concentración en el control de calidad del agua potable?"
+            ],
+            "pistas_del_exito": [
+              "Calcula la concentración de una solución usando unidades físicas y químicas.",
+              "Explica los factores (agitación, temperatura) que afectan la velocidad de disolución."
+            ],
+            "un_refuerzo": "Investigar qué es una solución sobresaturada y cómo se usa para fabricar cristales de sal o azúcar."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Energía en Caída Libre",
+            "un_reto_sugerido": "¿Cómo se transforma la energía de un objeto que cae para que nunca se cree ni se destruya?",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar objetos de diferentes masas desde la misma altura y discutir si caen al mismo tiempo y con qué energía llegan al suelo.",
+              "visual": "Experimento de Energía Mecánica: Soltar una canica desde diferentes alturas en una pista y observar la profundidad de su impacto en una caja de arena.",
+              "produccion": "Aplicar la Ley de Conservación de la Energía (Ec + Ep) para predecir la velocidad final de un cuerpo en caída libre sin fricción."
+            },
+            "para_pensar": [
+              "¿Por qué en la vida real la energía mecánica total disminuye un poco (calor por aire)?",
+              "¿Cómo ayuda la ley de conservación de la energía a diseñar parques de diversiones más seguros?"
+            ],
+            "pistas_del_exito": [
+              "Calcula energía cinética y potencial en diferentes puntos de una trayectoria vertical.",
+              "Explica fenómenos de deformación o choque usando el intercambio de energía."
+            ],
+            "un_refuerzo": "Investigar cómo funcionan los frenos regenerativos de los autos eléctricos para recuperar energía cinética."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Atletas de la Ciencia: Cuerpo y Mente",
+            "un_reto_sugerido": "¿Cómo la ciencia del deporte optimiza el funcionamiento de tus sistemas corporales?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una prueba de resistencia aeróbica y medir la frecuencia cardíaca antes, durante y después del ejercicio.",
+              "visual": "Diseño de plan de salud: Crear una rutina de ejercicios que integre conceptos de gasto calórico y beneficios para la salud mental (endorfinas).",
+              "produccion": "Presentar un informe sobre la relación entre el deporte regular, la salud cardiovascular y la reducción del estrés biológico."
+            },
+            "para_pensar": [
+              "¿Cómo influye la tecnología deportiva (sensores, calzado) en la prevención de lesiones?",
+              "¿Por qué el deporte grupal mejora la cohesión social y el bienestar emocional de la comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la actividad física con la mejora en la resistencia y flexibilidad muscular.",
+              "Propone rutinas que favorezcan el equilibrio entre salud física y salud emocional."
+            ],
+            "un_refuerzo": "Investigar qué es el metabolismo basal y cómo calcularlo según la edad y el nivel de actividad física."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "1",
+  "nombre_archivo": "t_ciencias_1_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de la Vida y sus Partes",
+            "un_reto_sugerido": "¿Cómo podemos saber si un objeto tiene vida y qué partes ayudan a las plantas y animales a sobrevivir?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una caminata por el patio escolar para recolectar 'tesoros' (piedras, hojas, juguetes, hormigas) y observar cuáles necesitan alimento o se mueven por sí mismos.",
+              "visual": "Montaje de un 'Mini-Museo' con una planta real y un juguete de animal; identificar y señalar con etiquetas de colores las partes (raíz, tallo, hojas vs patas, cabeza) y discutir sus funciones.",
+              "produccion": "Crear un álbum de clasificación donde se dibujen seres vivos e inertes, describiendo mediante etiquetas científicas las partes fundamentales de un ser vivo observado."
+            },
+            "para_pensar": [
+              "Si una piedra no respira ni se alimenta, ¿podría crecer como tú lo haces?",
+              "¿Qué pasaría con un animal si le faltara una parte de su cuerpo para desplazarse?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica correctamente 5 elementos entre seres vivos e inertes basándose en la observación.",
+              "Identifica y nombra al menos 3 partes de una planta y un animal relacionándolas con su función."
+            ],
+            "un_refuerzo": "Juego de mímica: Representar funciones de plantas (absorber agua) y animales (buscar refugio) para que los compañeros adivinen."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Laboratorio de mis Super-Sentidos",
+            "un_reto_sugerido": "¿Podrías identificar una fruta o un objeto sin usar tus ojos, solo con tus otros sentidos?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de la 'Caja Misteriosa': Introducir las manos en una caja con objetos de diversas texturas (lija, algodón, piedra) y describir lo que se siente.",
+              "visual": "Estaciones sensoriales: Probar trozos de fruta (gusto), escuchar sonidos de animales (oído) y oler especias de cocina (olfato) para registrar características de objetos cotidianos.",
+              "produccion": "Elaborar el 'Mapa de mis Sentidos', asociando cada órgano con la propiedad que percibe (forma, sabor, sonido, olor, textura)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante el sentido del olfato para saber si un alimento está en buen estado?",
+              "¿Cómo ayudan los sentidos a los animales para protegerse en la naturaleza?"
+            ],
+            "pistas_del_exito": [
+              "Menciona al menos una característica de un objeto percibida por cada uno de los 5 sentidos.",
+              "Utiliza vocabulario sensorial (áspero, agudo, dulce, fragante) para describir el entorno."
+            ],
+            "un_refuerzo": "Caminata de silencio: Escuchar 3 sonidos del ambiente y dibujarlos indicando qué objeto los produjo."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Exploradores de Formas y Temperaturas",
+            "un_reto_sugerido": "¿Cómo nos ayudan la vista y el tacto a clasificar los objetos que nos rodean según su calor o su forma?",
+            "ruta_de_exploracion": {
+              "explorar": "Tocar recipientes con agua a diferentes temperaturas (fría de la nevera y al clima) y observar objetos de diferentes colores y formas en el salón.",
+              "visual": "Clasificación de objetos: Organizar un conjunto de materiales (monedas, esponjas, hielos, lana) en grupos por temperatura (frío/caliente) y forma (redondo/cuadrado).",
+              "produccion": "Representar mediante dibujos tres objetos del entorno y describir tres características físicas percibidas mediante diferentes sentidos."
+            },
+            "para_pensar": [
+              "¿Por qué no debemos tocar objetos muy calientes sin protección?",
+              "¿Cómo cambia nuestra percepción de un objeto si cerramos los ojos?"
+            ],
+            "pistas_del_exito": [
+              "Distingue objetos calientes de fríos y clasifica formas geométricas básicas.",
+              "Describe texturas y colores de objetos cotidianos con precisión."
+            ],
+            "un_refuerzo": "Juego de 'Veo-Veo' enfocado en características físicas (ej: Veo algo de color rojo y textura suave)."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Mundo Natural vs. Mundo Inventado",
+            "un_reto_sugerido": "¿Qué cosas de nuestro salón existían antes de que el hombre las fabricara?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una manzana y un jugo de caja; debatir cuál proviene directamente de la naturaleza y cuál fue transformado por personas.",
+              "visual": "Museo de Objetos: Organizar una mesa con elementos naturales (ramas, piedras, tierra) y otra con artificiales (celulares, tijeras, lápices).",
+              "produccion": "Crear un cartel informativo que explique por qué debemos cuidar el agua y las plantas para poder crear los objetos que necesitamos."
+            },
+            "para_pensar": [
+              "¿Qué materiales de la naturaleza crees que se usaron para fabricar tu cuaderno?",
+              "¿Por qué es importante reciclar los objetos creados por el hombre para no dañar lo natural?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica una colección de 10 objetos en las categorías de 'Natural' o 'Creado por el Hombre'.",
+              "Explica con sus palabras la importancia de conservar los recursos naturales."
+            ],
+            "un_refuerzo": "Hacer un collage usando solo elementos naturales encontrados en el suelo del parque."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Mi Diario de Crecimiento",
+            "un_reto_sugerido": "¿Cómo ha cambiado mi cuerpo desde que era un bebé y en qué me parezco a mis amigos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías de cuando eran bebés y compararlas con su aspecto actual frente a un espejo, notando cambios en altura y dientes.",
+              "visual": "El 'Muro de la Estatura': Medir con una cuerda la altura de los compañeros y comparar quién ha crecido más, registrando también el tamaño de sus manos.",
+              "produccion": "Dibujar una línea de tiempo personal identificando cambios físicos y habilidades nuevas que ahora pueden realizar (correr, escribir)."
+            },
+            "para_pensar": [
+              "¿Por qué crees que algunos niños crecen más rápido que otros?",
+              "¿En qué te pareces físicamente a tus padres?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y registra al menos tres cambios físicos ocurridos en su cuerpo a medida que crece.",
+              "Comunica semejanzas y diferencias físicas entre sus pares con respeto."
+            ],
+            "un_refuerzo": "Traer una prenda de ropa de cuando eran más pequeños para intentar ponérsela y evidenciar el cambio físico."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Magia de los Materiales Cambiantes",
+            "un_reto_sugerido": "¿Qué le sucede a los materiales cuando los mojamos, los calentamos o los dejamos al sol?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un cubo de hielo y una galleta seca; predecir qué pasará si se dejan al sol o se sumergen en agua.",
+              "visual": "Experimento de transformación: Colocar trozos de papel, chocolate y plastilina en platos diferentes al sol; registrar cambios en apariencia y estado.",
+              "produccion": "Elaborar un cuadro de 'Antes y Después' donde se formalice cómo factores como la temperatura alteran el estado de los materiales."
+            },
+            "para_pensar": [
+              "¿Por qué la ropa se seca cuando la colgamos al sol?",
+              "¿Qué materiales de tu casa cambian de forma cuando los metes a la cocina?"
+            ],
+            "pistas_del_exito": [
+              "Describe cambios de estado (líquido, sólido) o apariencia en materiales cotidianos.",
+              "Selecciona el material adecuado para una tarea basándose en su resistencia al cambio."
+            ],
+            "un_refuerzo": "Realizar plastilina casera (mezcla de harina y agua) para ver cómo dos materiales forman uno nuevo."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Texturas y Brillos",
+            "un_reto_sugerido": "¿Podemos clasificar los materiales del salón según cómo se sienten y cómo lucen?",
+            "ruta_de_exploracion": {
+              "explorar": "Tocar diferentes superficies del salón (pared, vidrio, pupitre, cortina) y buscar cuáles brillan con la luz.",
+              "visual": "Taller de clasificación: Usar lupas para observar detalles de materiales como lana, lija, metal y plástico, agrupándolos por su dureza y textura.",
+              "produccion": "Crear un 'Catálogo de Materiales' pegando muestras y escribiendo sus propiedades físicas detectadas por los sentidos."
+            },
+            "para_pensar": [
+              "¿Por qué usamos vidrio para las ventanas y no madera?",
+              "¿Cómo sabemos que un material es duro sin golpearlo?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica materiales por sus propiedades físicas (flexibilidad, dureza, brillo).",
+              "Investiga mediante los sentidos las propiedades químicas básicas como la solubilidad."
+            ],
+            "un_refuerzo": "Juego de 'Parejas de Texturas': Identificar objetos similares solo con el tacto (ojos vendados)."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Ingenieros de la Utilidad",
+            "un_reto_sugerido": "¿Cómo elegimos el mejor material para fabricar un paraguas o una silla?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar los objetos que llevan en la maleta: ¿de qué están hechos y por qué no son de papel?",
+              "visual": "Prueba de resistencia: Intentar romper papel, plástico y tela; sumergirlos en agua para ver cuál resiste mejor la humedad.",
+              "produccion": "Diseñar un invento sencillo dibujando los materiales que usarían y justificando su elección según su dureza o flexibilidad."
+            },
+            "para_pensar": [
+              "¿Por qué los juguetes de los bebés suelen ser de materiales suaves y flexibles?",
+              "¿Cómo ayuda la ciencia a crear materiales que duren más tiempo?"
+            ],
+            "pistas_del_exito": [
+              "Cataloga materiales de uso diario según sus propiedades funcionales.",
+              "Selecciona materiales adecuados para un propósito específico basado en sus características."
+            ],
+            "un_refuerzo": "Crear un 'Monstruo Reciclador' que clasifique envases de plástico, papel y metal en el salón."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Mi Historia en el Espejo",
+            "un_reto_sugerido": "¿Por qué crecemos de forma parecida a nuestros padres pero somos diferentes a nuestros amigos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías de sus padres cuando eran niños y encontrar rasgos similares (color de ojos, forma del cabello).",
+              "visual": "Taller de 'Crecimiento Empático': Comparar las medidas de altura tomadas en el periodo 1 con las actuales y notar las diferencias de velocidad de crecimiento entre compañeros.",
+              "produccion": "Escribir un mensaje o hacer un dibujo sobre la importancia de cuidar nuestro cuerpo para crecer sanos y fuertes."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando notas que ya no te queda una prenda de vestir?",
+              "¿Por qué es importante respetar que todos crezcamos a ritmos diferentes?"
+            ],
+            "pistas_del_exito": [
+              "Compara y registra cambios físicos personales en un periodo de tiempo determinado.",
+              "Relaciona los cambios del cuerpo con el desarrollo personal y la salud."
+            ],
+            "un_refuerzo": "Medir cuánto ha crecido una planta en el salón durante el año escolar y compararla con su propio crecimiento."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Materiales Súper-Poderosos",
+            "un_reto_sugerido": "¿Qué hace que un material sea especial para construir una casa o un juguete?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar diversos objetos (vasos de icopor, cucharas de metal, reglas de plástico) y debatir por qué son especiales.",
+              "visual": "Experimento de idoneidad: Intentar escribir sobre diferentes superficies (vidrio, papel, plástico) con distintos lápices para ver cuál funciona mejor.",
+              "produccion": "Elaborar un póster 'Materiales Increíbles' clasificando objetos por su uso previsto y la propiedad que lo hace posible (ej: metal por su dureza)."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si las casas fueran de papel?",
+              "¿Cómo elegimos la ropa según si hace frío o calor?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y clasifica materiales según su idoneidad para diferentes aplicaciones.",
+              "Analiza las características químicas que hacen a un material apropiado para un uso."
+            ],
+            "un_refuerzo": "Reto: Construir una torre resistente usando solo pitillos y cinta, aplicando lo aprendido sobre dureza."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Propiedades Invisibles",
+            "un_reto_sugerido": "¿Podemos descubrir para qué sirve un material solo con nuestros sentidos?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una caminata sensorial por el colegio para detectar qué materiales son permeables (dejan pasar agua) y cuáles no.",
+              "visual": "Laboratorio de Sentidos: Usar el olfato y el tacto para identificar materiales de cocina (sal, azúcar, harina) sin verlos, describiendo sus granos.",
+              "produccion": "Diseñar un 'Manual de Uso de Materiales' donde se explique qué sentido nos ayuda a identificar cada propiedad física importante."
+            },
+            "para_pensar": [
+              "¿Por qué usamos guantes de caucho para no mojarnos las manos?",
+              "¿Cómo ayuda el sentido del oído a saber si un material es sólido o hueco?"
+            ],
+            "pistas_del_exito": [
+              "Emplea los sentidos para identificar y describir características potenciales de materiales.",
+              "Selecciona materiales apropiados para una situación de la vida diaria justificando su elección."
+            ],
+            "un_refuerzo": "Investigar qué materiales flotan en el agua y cuáles se hunden usando una tina pequeña."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "El Gran Inventario de los Materiales",
+            "un_reto_sugerido": "¿Cómo organizamos los materiales que usamos todos los días para cuidarlos mejor?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar cómo están organizados los estantes de un supermercado o la biblioteca del colegio.",
+              "visual": "Clasificación por propósito: Organizar una caja de objetos variados en grupos (aseo, estudio, alimentación) según sus materiales y funciones.",
+              "produccion": "Presentar una propuesta de organización de los materiales del salón para que duren más tiempo basándose en sus propiedades físicas."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si mezclamos todos los materiales en un solo bote de basura?",
+              "¿Cómo ayuda la tecnología a que los materiales sean más útiles para nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Cataloga y organiza materiales de uso diario según sus propiedades físicas y funcionales.",
+              "Propone usos específicos para materiales recuperados del entorno escolar."
+            ],
+            "un_refuerzo": "Crear etiquetas para los materiales del salón indicando de qué están hechos (Ej: 'Este estante es de MADERA')."
+          }
+        }
+      ]
+    }
+  ]
+}

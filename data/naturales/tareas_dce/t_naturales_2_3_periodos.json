@@ -1,0 +1,274 @@
+{
+  "area": "Ciencias Naturales",
+  "grado": "2",
+  "nombre_archivo": "t_ciencias_2_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Diseñadores de la Naturaleza",
+            "un_reto_sugerido": "¿Por qué un oso polar no podría vivir en el desierto y qué necesita para sobrevivir?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de animales locales y describir sus patas, piel o picos imaginando qué comen y dónde duermen.",
+              "visual": "Experimento de protección: Poner una mano en agua fría y otra en agua fría con un guante lleno de grasa (aceite/mantequilla) para entender cómo la grasa protege del frío.",
+              "produccion": "Relacionar las características físicas (pelo grueso, alas, raíces largas) con la necesidad básica que satisfacen (protección, desplazamiento, agua)."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con una planta si le quitamos la luz del sol por muchos días?",
+              "¿Cómo ayudan las formas de las plantas de nuestra región a que no se queden sin agua?"
+            ],
+            "pistas_del_exito": [
+              "Identifica al menos 3 adaptaciones físicas de animales o plantas de su entorno.",
+              "Explica la relación entre la forma del cuerpo y el lugar donde vive el ser vivo."
+            ],
+            "un_refuerzo": "Dibujar un animal inventado que tenga alas para huir, pelaje para el frío y garras para trepar."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "El Viaje de la Gota de Agua",
+            "un_reto_sugerido": "¿A dónde va el agua cuando desaparece de un plato puesto al sol?",
+            "ruta_de_exploracion": {
+              "explorar": "Poner un espejo frente a nuestra boca y exhalar aire para ver cómo se 'empaña' (aparición de gotitas).",
+              "visual": "Ciclo en bolsa: En una bolsa transparente con un poco de agua, dibujar nubes, sellarla y pegarla a una ventana soleada para observar evaporación y condensación.",
+              "produccion": "Definir con sus palabras los procesos de fusión, evaporación y solidificación basándose en lo observado en la bolsa."
+            },
+            "para_pensar": [
+              "¿Por qué el hielo flota en el agua líquida? ¿Siguen siendo la misma sustancia?",
+              "¿Cómo influye el calor del sol en que los ríos no se sequen o se desborden?"
+            ],
+            "pistas_del_exito": [
+              "Nombra y explica los 4 cambios de estado del agua (fusión, solidificación, evaporación, condensación).",
+              "Registra resultados de experimentos mediante dibujos secuenciales."
+            ],
+            "un_refuerzo": "Hacer helado casero poniendo jugo en una bolsa pequeña dentro de una bolsa grande con hielo y sal para observar la solidificación rápida."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Fuerzas que Transforman",
+            "un_reto_sugerido": "¿Por qué algunos objetos vuelven a su forma original después de apretarlos y otros se quedan arrugados?",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar deformar una esponja, una plastilina y un palito de madera aplicando fuerza con las manos.",
+              "visual": "Laboratorio de Elasticidad: Usar cauchos o resortes de lapicero para colgar objetos de diferentes pesos y medir cuánto se estiran antes de recuperar su forma.",
+              "produccion": "Clasificar objetos en 'elásticos', 'plásticos' (se deforman y quedan así) y 'rígidos' según su respuesta a la fuerza aplicada."
+            },
+            "para_pensar": [
+              "¿Qué fuerza hace que una pelota rebote y un trozo de barro se quede pegado al suelo?",
+              "¿Cómo usan los ingenieros materiales resistentes para construir puentes que no se deformen?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia entre movimiento y deformación producida por una fuerza.",
+              "Analiza la resistencia de un material según su composición (madera, caucho, metal)."
+            ],
+            "un_refuerzo": "Reto: Construir una pequeña catapulta con palitos de helado y cauchos para observar la fuerza elástica."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Circuito de Bienestar",
+            "un_reto_sugerido": "¿Cómo viaja la energía para que una bombilla se encienda en nuestra casa?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar todos los objetos del salón o la casa que emiten luz o sonido y clasificarlos por los que usan pilas o cable.",
+              "visual": "Construcción de un circuito básico: Usar una pila de 9V, un cable y un bombillo LED (o un timbre pequeño) para observar el flujo de energía.",
+              "produccion": "Dibujar los componentes del circuito (fuente, conductor, receptor) y explicar cómo mejora la comunicación humana (ej: el timbre)."
+            },
+            "para_pensar": [
+              "¿Cómo sería la comunicación en nuestra ciudad si no existieran los circuitos eléctricos?",
+              "¿Qué precauciones debemos tener al usar objetos que emiten luz o calor en casa?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los componentes básicos de un circuito eléctrico simple.",
+              "Relaciona el uso de tecnologías eléctricas con la mejora en la calidad de vida."
+            ],
+            "un_refuerzo": "Juego del teléfono roto usando vasos y lana para comparar la transmisión de sonido con la eléctrica."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "El Reloj de la Vida",
+            "un_reto_sugerido": "¿Cómo cambia una oruga para convertirse en mariposa y qué necesita en cada etapa?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar en el jardín diferentes etapas de plantas (semilla, brote, planta con flor) o buscar larvas de insectos.",
+              "visual": "Bitácora de Crecimiento: Sembrar semillas de ciclo rápido (lenteja o rábano) y registrar diariamente con medidas y dibujos los cambios físicos.",
+              "produccion": "Representar mediante un diagrama circular el ciclo de vida de un animal local y una planta, señalando los cambios de forma y tamaño."
+            },
+            "para_pensar": [
+              "¿Por qué algunos animales nacen de huevos y otros del vientre de su madre?",
+              "¿Qué factores del ambiente (agua, aire) pueden detener el ciclo de vida de un ser vivo?"
+            ],
+            "pistas_del_exito": [
+              "Describe secuencialmente las etapas del ciclo de vida de un ser vivo local.",
+              "Documenta cambios físicos cuantitativos (estatura, número de hojas) a lo largo del tiempo."
+            ],
+            "un_refuerzo": "Crear un modelo de plastilina que muestre las 4 etapas de la metamorfosis de una rana."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Sustancias",
+            "un_reto_sugerido": "¿Pueden todos los materiales pasar por todos los estados (sólido, líquido, gas)?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una vela encendida: identificar el sólido (cera), el líquido (cera derretida) y el gas (humo al apagarla).",
+              "visual": "Experimento de Sublimación: Observar (con guía del docente) cómo las pastillas de ambientador sólido disminuyen de tamaño sin pasar por líquido.",
+              "produccion": "Elaborar un cuadro comparativo de los cambios de estado aplicados a sustancias diferentes al agua (chocolate, parafina, alcohol)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante para la industria que los metales se puedan fundir (pasar a líquido)?",
+              "¿Qué sucede con el vapor de agua en el aire cuando choca con una ventana fría en la mañana?"
+            ],
+            "pistas_del_exito": [
+              "Identifica procesos como fusión y condensación en sustancias de uso diario.",
+              "Explica la diferencia entre cambios causados por enfriamiento y calentamiento."
+            ],
+            "un_refuerzo": "Dibujar el ciclo de fabricación de una figura de chocolate desde que es barra sólida hasta que se moldea."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Fuerza y Calor: El Dúo Dinámico",
+            "un_reto_sugerido": "¿Puede el movimiento de nuestras manos cambiar el estado de un material?",
+            "ruta_de_exploracion": {
+              "explorar": "Frotar las manos rápidamente y luego tocarlas. ¿Qué sienten? ¿Qué produjo ese cambio?",
+              "visual": "Acción Mecánica: Martillar suavemente un trozo de hielo o frotar una lija contra madera para sentir el cambio de temperatura y estado físico.",
+              "produccion": "Analizar y escribir cómo la fricción (acción mecánica) genera calor y cómo este calor afecta la resistencia de los materiales."
+            },
+            "para_pensar": [
+              "¿Por qué se calientan las llantas de los carros cuando frenan bruscamente?",
+              "¿Cómo protegen las propiedades de los materiales a los objetos de cambios de estado no deseados?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la aplicación de una fuerza mecánica con la generación de calor.",
+              "Explica cómo la resistencia de un material depende de su temperatura y la fuerza aplicada."
+            ],
+            "un_refuerzo": "Intentar derretir un trozo de hielo solo mediante el roce constante con una cuchara de metal."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Energía",
+            "un_reto_sugerido": "¿Cómo podemos usar la electricidad sin gastar de más y dañar el planeta?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar las etiquetas de colores (A, B, C) en electrodomésticos y preguntar qué significan.",
+              "visual": "Auditoría Energética: Hacer una lista de los aparatos de casa que más se usan y proponer un horario para apagarlos.",
+              "produccion": "Crear una infografía con consejos para optimizar la eficiencia energética (ej. apagar luces, usar bombillas LED)."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con los recursos naturales si todos dejáramos las luces encendidas todo el día?",
+              "¿Cómo ha cambiado la vida de las personas el tener refrigeradores y lavadoras?"
+            ],
+            "pistas_del_exito": [
+              "Compara la eficiencia energética de dos aparatos eléctricos conocidos.",
+              "Propone acciones concretas para reducir el consumo eléctrico en su entorno."
+            ],
+            "un_refuerzo": "Diseñar un 'Sello de Eficiencia' para pegar en los interruptores de luz del colegio."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Entorno Vivo",
+          "guia_didactica": {
+            "la_estrategia": "Vidas Comparadas",
+            "un_reto_sugerido": "¿En qué se parece el ciclo de vida de un pájaro al de una mariposa?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video o láminas de la vida de una rana y una planta de fríjol, buscando momentos de cambio radical.",
+              "visual": "Laboratorio de Observación: Comparar durante una semana el crecimiento de un hongo (en pan húmedo) frente al de una planta.",
+              "produccion": "Escribir un texto corto comparando las similitudes (nacen, crecen) y diferencias (metamorfosis vs crecimiento lineal) de los ciclos observados."
+            },
+            "para_pensar": [
+              "¿Por qué algunos seres vivos cambian totalmente de forma y otros solo crecen de tamaño?",
+              "¿Cómo afecta la contaminación del suelo a los ciclos de vida de las plantas?"
+            ],
+            "pistas_del_exito": [
+              "Compara y contrasta ciclos de vida de diferentes grupos (anfibios, insectos, plantas).",
+              "Documenta con precisión los cambios físicos en períodos de tiempo específicos."
+            ],
+            "un_refuerzo": "Hacer un diagrama de Venn comparando el ciclo de vida de un perro y una mariposa."
+          }
+        },
+        {
+          "componente": "Entorno Químico",
+          "guia_didactica": {
+            "la_estrategia": "Pequeños Metrólogos",
+            "un_reto_sugerido": "¿Cómo podemos medir cuánta materia hay en un jugo o en una piedra?",
+            "ruta_de_exploracion": {
+              "explorar": "Tener dos vasos de formas diferentes y tratar de adivinar cuál tiene más agua.",
+              "visual": "Taller de Medición: Usar tazas medidoras, jeringas (sin aguja) y balanzas caseras para medir volumen de líquidos y peso de sólidos.",
+              "produccion": "Clasificar objetos según su masa y volumen, justificando por qué algunos materiales necesitan técnicas de medición diferentes."
+            },
+            "para_pensar": [
+              "¿Por qué un kilo de algodón ocupa mucho más espacio que un kilo de hierro?",
+              "¿Para qué nos sirve medir con exactitud los ingredientes al preparar un alimento?"
+            ],
+            "pistas_del_exito": [
+              "Aplica técnicas de medición (volumen y masa) con consistencia.",
+              "Propone el instrumento adecuado según si el material es sólido o líquido."
+            ],
+            "un_refuerzo": "Reto: Medir cuántas cucharadas de agua se necesitan para llenar un vaso de 200ml."
+          }
+        },
+        {
+          "componente": "Entorno Físico",
+          "guia_didactica": {
+            "la_estrategia": "Ingeniería de Materiales",
+            "un_reto_sugerido": "¿Cómo responden los seres vivos y los objetos a los golpes o empujones?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar cómo se dobla una planta con el viento fuerte y cómo reacciona una cortina.",
+              "visual": "Test de Resistencia Mecánica: Aplicar pesos iguales a una hoja de papel, una lámina de plástico y un trozo de tela para ver cuál cede primero.",
+              "produccion": "Predecir y explicar mediante un informe gráfico cómo la composición del material determina si se rompe o se dobla ante una fuerza."
+            },
+            "para_pensar": [
+              "¿Cómo están protegidos los huesos de nuestro cuerpo contra las fuerzas externas (golpes)?",
+              "¿Por qué las herramientas de construcción son de materiales muy duros?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica objetos mediante técnicas sensoriales avanzadas.",
+              "Predice el comportamiento de un material ante una fuerza mecánica según su composición."
+            ],
+            "un_refuerzo": "Construir un 'casco' para un huevo usando diferentes materiales y dejarlo caer desde 30cm para probar resistencia."
+          }
+        },
+        {
+          "componente": "Ciencia, tecnología y sociedad",
+          "guia_didactica": {
+            "la_estrategia": "Ecomodernistas en Acción",
+            "un_reto_sugerido": "¿Cómo influyen los aparatos eléctricos en el medio ambiente de nuestra ciudad?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar qué pasa con los electrodomésticos cuando ya no sirven (basura electrónica).",
+              "visual": "Evaluación de consumo: Comparar el recibo de la luz de dos meses y relacionarlo con el uso de aparatos en casa.",
+              "produccion": "Propuesta de 'Hogar Sostenible': Dibujar una casa que use tecnologías limpias y prácticas de ahorro de energía."
+            },
+            "para_pensar": [
+              "¿A dónde van a parar los químicos de las pilas cuando las botamos a la basura común?",
+              "¿Cómo podemos convencer a los adultos de comprar aparatos que gasten menos energía?"
+            ],
+            "pistas_del_exito": [
+              "Representa el impacto de la tecnología eléctrica en la sociedad y el medio ambiente.",
+              "Evidencia prácticas reales de eficiencia energética en su entorno escolar o familiar."
+            ],
+            "un_refuerzo": "Crear una campaña de recolección de pilas usadas en el colegio con envases decorados."
+          }
+        }
+      ]
+    }
+  ]
+}
