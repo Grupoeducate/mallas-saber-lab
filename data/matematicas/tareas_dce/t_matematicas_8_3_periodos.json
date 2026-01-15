@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "8",
+  "nombre_archivo": "t_matematicas_8_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Infinito en una Cuerda",
+            "un_reto_sugerido": "Demostrar por qué la diagonal de un cuadrado de lado 1 no puede expresarse como una fracción exacta, usando una construcción geométrica.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir cuadrados de 10cm x 10cm en cartulina y medir su diagonal con una cuerda, comparando la longitud con la regla para notar que no coincide con una división exacta.",
+              "visual": "Representar en una recta numérica a gran escala la ubicación de la raíz de 2 usando el compás y el teorema de Pitágoras gráfico.",
+              "produccion": "Traducir patrones numéricos observados en expresiones algebraicas y resolver ecuaciones para hallar valores desconocidos en contextos de variación."
+            },
+            "para_pensar": [
+              "¿Qué diferencia a un número decimal que nunca termina de uno que es racional?",
+              "¿Cómo cambia el valor de una expresión algebraica si la variable independiente aumenta al doble?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y representa números irracionales mediante procedimientos geométricos.",
+              "Representa relaciones numéricas mediante expresiones algebraicas equivalentes."
+            ],
+            "un_refuerzo": "Actividad 'Criptografía Algebraica': Traducir enunciados verbales complejos a lenguaje simbólico para abrir 'candados' numéricos."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Maestros del Volumen Óptimo",
+            "un_reto_sugerido": "Diseñar dos prismas diferentes que tengan el mismo volumen pero diferente área superficial, usando cartón industrial.",
+            "ruta_de_exploracion": {
+              "explorar": "Manipular bloques de madera o cajas de cartón para comparar visualmente su capacidad y el espacio que ocupan.",
+              "visual": "Dibujar el desarrollo plano de prismas y cilindros, rotulando las dimensiones con variables (a, b, h).",
+              "produccion": "Generalizar la fórmula del volumen de un prisma en términos algebraicos y resolver problemas de semejanza entre sólidos."
+            },
+            "para_pensar": [
+              "¿Si duplicamos la altura de un prisma, qué sucede exactamente con su volumen?",
+              "¿Bajo qué criterios podemos asegurar que dos triángulos son exactamente iguales (congruentes)?"
+            ],
+            "pistas_del_exito": [
+              "Calcula y compara volúmenes de prismas a partir de las relaciones entre sus aristas.",
+              "Aplica criterios de semejanza y congruencia para resolver problemas de configuración de objetos."
+            ],
+            "un_refuerzo": "Reto 'Sólidos de Plastilina': Realizar cortes transversales y describir la figura plana resultante mediante el lenguaje geométrico."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Pulso de los Intervalos",
+            "un_reto_sugerido": "Analizar la dispersión de los datos de la frecuencia cardíaca del grupo tras hacer ejercicio, organizándolos en intervalos de clase.",
+            "ruta_de_exploracion": {
+              "explorar": "Tomar el pulso a los compañeros y registrar los datos en bruto en una lista colectiva en el tablero.",
+              "visual": "Construir un histograma y un polígono de frecuencias, sombreando el intervalo donde se encuentra la mediana.",
+              "produccion": "Calcular la media, mediana y moda para datos agrupados y explicar cómo varía el rango si eliminamos los datos extremos."
+            },
+            "para_pensar": [
+              "¿Por qué es más útil agrupar datos en intervalos cuando tenemos mucha variedad de números?",
+              "¿Cuál medida de tendencia central representa mejor al grupo si hay deportistas de alto rendimiento entre nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta datos representados en tablas de frecuencia para datos agrupados.",
+              "Encuentra las medidas de tendencia central de un conjunto de datos agrupados usando estrategias numéricas."
+            ],
+            "un_refuerzo": "Comparar dos histogramas de diferentes grados para concluir cuál grupo tiene un comportamiento más homogéneo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Radar de Funciones",
+            "un_reto_sugerido": "Modelar el crecimiento de una planta o el llenado de un recipiente irregular mediante una gráfica de puntos y segmentos.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un experimento de vaciado de agua en recipientes de distintas formas, midiendo el tiempo y la altura.",
+              "visual": "Graficar en papel milimetrado la relación entre las variables, identificando si la covariación es lineal o no.",
+              "produccion": "Escribir la función polinómica que mejor se aproxime al comportamiento observado y predecir valores futuros."
+            },
+            "para_pensar": [
+              "¿Cómo se ve en una gráfica que una variable aumenta mientras la otra disminuye?",
+              "¿Qué representa el punto donde la gráfica corta el eje vertical en un contexto real?"
+            ],
+            "pistas_del_exito": [
+              "Construye representaciones y argumentos sobre las propiedades de los números reales.",
+              "Propone modelos funcionales entre variables analizando sus propiedades de covariación."
+            ],
+            "un_refuerzo": "Actividad 'Cazadores de Pendientes': Identificar en fotos de rampas o escaleras la relación de cambio vertical vs horizontal."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Pitágoras en la Vida Real",
+            "un_reto_sugerido": "Determinar si la esquina de una pared está a 90 grados exactos usando solo una cuerda y el recíproco del Teorema de Pitágoras.",
+            "ruta_de_exploracion": {
+              "explorar": "Utilizar el Tangram o piezas de madera cuadradas para demostrar visualmente que $a^2 + b^2 = c^2$ sobre los lados de un triángulo.",
+              "visual": "Dibujar diagramas de triángulos rectángulos para calcular alturas de postes o árboles usando sombras y el Teorema de Tales.",
+              "produccion": "Resolver problemas de aplicación que requieran hallar diagonales en sólidos y establecer relaciones entre unidades de volumen y capacidad ($dm^3$ a Litros)."
+            },
+            "para_pensar": [
+              "¿Por qué el Teorema de Pitágoras solo funciona en triángulos con un ángulo recto?",
+              "¿Cómo podemos medir el volumen de una piedra irregular usando un recipiente con agua?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta la relación pitagórica mediante la construcción con material concreto.",
+              "Utiliza la relación entre unidades de capacidad y volumen para resolver problemas científicos."
+            ],
+            "un_refuerzo": "Reto 'Escalera de Seguridad': Calcular a qué distancia de la pared debe ir la base de una escalera para que sea estable y segura."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Mapa de las Probabilidades",
+            "un_reto_sugerido": "Diseñar un juego de feria donde el espacio muestral garantice que la casa siempre gane a largo plazo.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar lanzamientos de dos dados simultáneamente y anotar todas las combinaciones posibles en una cuadrícula.",
+              "visual": "Representar mediante diagramas de árbol los eventos compuestos (ej: lanzar moneda y dado) coloreando los resultados favorables.",
+              "produccion": "Enumerar formalmente el espacio muestral y calcular la probabilidad de eventos simples e independientes."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre un evento posible y un evento probable?",
+              "¿Cómo cambia el espacio muestral si lanzamos tres monedas en lugar de dos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y enumera el espacio muestral de experimentos aleatorios compuestos.",
+              "Hace predicciones sobre la ocurrencia de un evento basándose en resultados favorables."
+            ],
+            "un_refuerzo": "Analizar las reglas de un juego de azar común y determinar si los eventos son independientes o dependientes."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Sistema de Balanzas Algebraicas",
+            "un_reto_sugerido": "Resolver sistemas de ecuaciones lineales para hallar el precio de dos productos diferentes a partir de recibos de compra incompletos.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar balanzas virtuales o físicas para representar el equilibrio de dos ecuaciones con dos incógnitas.",
+              "visual": "Graficar dos funciones lineales en el mismo plano cartesiano para hallar visualmente el punto de intersección (solución).",
+              "produccion": "Ejecutar procedimientos de sustitución o eliminación para resolver sistemas de ecuaciones, argumentando la validez del resultado."
+            },
+            "para_pensar": [
+              "¿Qué significa gráficamente que un sistema de ecuaciones no tenga solución?",
+              "¿Por qué el signo igual representa una relación de equivalencia y no solo un resultado?"
+            ],
+            "pistas_del_exito": [
+              "Resuelve sistemas de ecuaciones lineales argumentando la validez de los procedimientos usados.",
+              "Construye representaciones geométricas y decimales de números racionales e irracionales."
+            ],
+            "un_refuerzo": "Desafío 'Cruce de Caminos': Hallar el momento exacto en que dos móviles con diferentes velocidades se encuentran."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Escultores de Geometría",
+            "un_reto_sugerido": "Construir un sólido compuesto (ej: un silo o una torre) y calcular su volumen total considerando posibles errores de medición.",
+            "ruta_de_exploracion": {
+              "explorar": "Agrupar figuras geométricas de diferentes tamaños y comprobar mediante superposición su semejanza.",
+              "visual": "Realizar dibujos técnicos de sólidos irregulares, descomponiéndolos en cilindros, conos y prismas conocidos.",
+              "produccion": "Aplicar el teorema de Pitágoras en contextos tridimensionales (diagonales espaciales) y calcular volúmenes con precisión aproximada."
+            },
+            "para_pensar": [
+              "¿Cómo afecta un pequeño error en la medición del radio al cálculo final del volumen de un cilindro?",
+              "¿En qué se diferencia la semejanza de la congruencia en objetos de la vida real?"
+            ],
+            "pistas_del_exito": [
+              "Explica estrategias para calcular el volumen de cuerpos regulares e irregulares.",
+              "Aplica el teorema de Pitágoras para calcular cualquier lado de un triángulo en contextos diversos."
+            ],
+            "un_refuerzo": "Taller de 'Aproximaciones': Calcular el volumen de una fruta sumergiéndola en agua y comparar con una aproximación geométrica."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Casino de la Lógica Progresiva",
+            "un_reto_sugerido": "Determinar la probabilidad de que al sacar dos cartas, ambas sean del mismo palo, con y sin reposición.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar experimentos de extracción de balotas o cartas, registrando las frecuencias de eventos mutuamente excluyentes.",
+              "visual": "Construir diagramas de Venn para visualizar la unión de eventos y aplicar la regla de la adición.",
+              "produccion": "Asignar probabilidades entre 0 y 1, comparando resultados experimentales con predicciones teóricas basadas en modelos matemáticos."
+            },
+            "para_pensar": [
+              "¿Por qué la suma de las probabilidades de todos los eventos posibles siempre debe ser 1?",
+              "¿Qué significa que dos eventos sean mutuamente excluyentes?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce eventos mutuamente excluyentes y aplica la regla de la adición para calcular probabilidades.",
+              "Compara resultados experimentales con predicciones anticipadas para validar modelos probabilísticos."
+            ],
+            "un_refuerzo": "Simulación de Monty Hall: Analizar mediante probabilidades por qué cambiar de opción aumenta las posibilidades de ganar."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "11",
+  "nombre_archivo": "t_matematicas_11_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Límite del Infinito",
+            "un_reto_sugerido": "Determinar la velocidad instantánea de un objeto en caída libre justo antes de tocar el suelo, usando procesos de aproximación sucesiva.",
+            "ruta_de_exploracion": {
+              "explorar": "Dejar caer una pelota desde diferentes alturas y cronometrar el tiempo, calculando velocidades medias en intervalos cada vez más pequeños.",
+              "visual": "Graficar la posición vs tiempo y trazar rectas secantes que se aproximen a la recta tangente en un punto específico.",
+              "produccion": "Definir formalmente la derivada como el límite de la razón de cambio y aplicarla para hallar la velocidad instantánea algebraicamente."
+            },
+            "para_pensar": [
+              "¿Qué sucede con la distancia entre dos puntos en una curva cuando el intervalo de tiempo tiende a cero?",
+              "¿Cómo se diferencia la densidad de los racionales de la completitud de los reales en una recta física?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta la derivada como la pendiente de la recta tangente en contextos físicos.",
+              "Justifica el uso de diferentes notaciones de números reales según la precisión requerida."
+            ],
+            "un_refuerzo": "Actividad 'Zeno y la Tortuga': Representar sumas infinitas de fracciones para entender la convergencia a un número real."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Sombras Cónicas",
+            "un_reto_sugerido": "Generar las cuatro secciones cónicas (círculo, elipse, parábola, hipérbola) usando una linterna y un cono sólido, identificando sus ecuaciones.",
+            "ruta_de_exploracion": {
+              "explorar": "Proyectar la luz de una linterna sobre una pared en diferentes ángulos respecto a un cono físico para observar las curvas resultantes.",
+              "visual": "Realizar cortes transversales en conos de icopor o plastilina y calcar el borde obtenido en el plano cartesiano.",
+              "produccion": "Relacionar el signo y el valor de la derivada con la inclinación de las curvas cónicas en puntos determinados."
+            },
+            "para_pensar": [
+              "¿Qué tipo de corte en un cono produce una curva que nunca se cierra?",
+              "¿Cómo se relaciona la pendiente de la tangente con la curvatura de una elipse?"
+            ],
+            "pistas_del_exito": [
+              "Identifica visual y algebraicamente las propiedades de las curvas obtenidas por cortes en un cono.",
+              "Plantea modelos funcionales para estudiar la variación de los bordes de figuras tridimensionales."
+            ],
+            "un_refuerzo": "Uso de GeoGebra para animar el rastro de un punto que cumple la definición de lugar geométrico de una parábola."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Radar de Correlaciones",
+            "un_reto_sugerido": "Investigar si existe una correlación lineal entre el tiempo dedicado al estudio y los resultados en simulacros de pruebas de estado.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar datos de 30 compañeros sobre horas de estudio y puntajes obtenidos mediante un formulario digital.",
+              "visual": "Construir un diagrama de dispersión en Excel o papel milimetrado y trazar manualmente la 'línea de mejor ajuste'.",
+              "produccion": "Calcular el coeficiente de correlación de Pearson y la desviación estándar para determinar la fuerza de la relación entre variables."
+            },
+            "para_pensar": [
+              "¿Si dos variables están correlacionadas, significa necesariamente que una causa la otra?",
+              "¿Qué indica un coeficiente de correlación cercano a cero en un estudio social?"
+            ],
+            "pistas_del_exito": [
+              "Analiza relaciones de asociación y correlación entre variables usando gráficos de dispersión.",
+              "Usa el coeficiente de variación para comparar la dispersión entre dos grupos de datos diferentes."
+            ],
+            "un_refuerzo": "Análisis de noticias: Identificar errores comunes en la interpretación de correlaciones publicadas en medios de comunicación."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Inicuaciones del Mundo Real",
+            "un_reto_sugerido": "Resolver problemas de optimización de recursos (ej. presupuesto vs costos) modelados mediante inecuaciones de segundo grado.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar balanzas y pesas para representar desigualdades físicas donde el producto de cantidades debe mantenerse en un rango.",
+              "visual": "Representar el conjunto solución de inecuaciones en la recta numérica y mediante regiones sombreadas en el plano cartesiano.",
+              "produccion": "Aplicar las propiedades de orden de los reales para resolver inecuaciones racionales y utilizarlas en el estudio de dominios de funciones derivadas."
+            },
+            "para_pensar": [
+              "¿Por qué al multiplicar una inecuación por un número negativo cambia el sentido de la desigualdad?",
+              "¿Cómo ayuda la derivada a identificar los puntos donde una inecuación cambia de signo?"
+            ],
+            "pistas_del_exito": [
+              "Resuelve inecuaciones justificando la validez de las propiedades de orden aplicadas.",
+              "Utiliza la derivada para identificar intervalos de crecimiento y decrecimiento en una función."
+            ],
+            "un_refuerzo": "Reto 'Zonas de Ganancia': Hallar el intervalo de producción donde una empresa obtiene utilidades positivas."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Navegación en Coordenadas Polares",
+            "un_reto_sugerido": "Localizar puntos y trazar trayectorias circulares usando el sistema de coordenadas polares (radio y ángulo) para simular un radar.",
+            "ruta_de_exploracion": {
+              "explorar": "Marcar un punto central en el patio; los estudiantes deben ubicarse a una distancia 'r' y un ángulo 'theta' respecto a un eje inicial.",
+              "visual": "Graficar rosas polares y cardioides en papel cuadriculado polar, relacionándolas con su expresión algebraica.",
+              "produccion": "Convertir coordenadas cartesianas a polares y viceversa para modelar el movimiento de un objeto que gira (como una hélice)."
+            },
+            "para_pensar": [
+              "¿Qué ventajas tiene el sistema polar sobre el cartesiano para describir movimientos circulares?",
+              "¿Cómo se define la rapidez como razón de cambio en un sistema que depende de ángulos?"
+            ],
+            "pistas_del_exito": [
+              "Modela objetos y trayectorias en diversos sistemas de coordenadas (polar y cartesiano).",
+              "Justifica la precisión de mediciones indirectas basándose en escalas y rangos de medida."
+            ],
+            "un_refuerzo": "Diseño artístico: Crear una figura compleja en un software gráfico usando solo ecuaciones polares."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "La Probabilidad Condicionada",
+            "un_reto_sugerido": "Determinar la probabilidad de que un estudiante apruebe matemáticas dado que aprobó física, analizando la independencia de los eventos.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un experimento con dos urnas donde la elección de la segunda depende del resultado obtenido en la primera.",
+              "visual": "Construir diagramas de árbol y tablas de contingencia para visualizar el espacio muestral de eventos dependientes.",
+              "produccion": "Aplicar la fórmula de probabilidad condicional $P(A|B)$ para decidir si dos situaciones del contexto escolar son independientes."
+            },
+            "para_pensar": [
+              "¿Si dos eventos son mutuamente excluyentes, pueden ser independientes?",
+              "¿Cómo cambia la probabilidad de un suceso cuando ya conocemos información previa?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia eventos dependientes e independientes usando la probabilidad condicional.",
+              "Plantea y resuelve problemas de probabilidad en variedad de situaciones aleatorias."
+            ],
+            "un_refuerzo": "Análisis de diagnósticos: Calcular la probabilidad de tener una enfermedad si el test da positivo (sensibilidad vs especificidad)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Derivadas en la Economía",
+            "un_reto_sugerido": "Hallar el 'Costo Marginal' de producción de un artículo escolar y determinar el nivel de producción que maximiza la utilidad.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar datos de una microempresa escolar (costos de materia prima vs cantidad producida) para observar el cambio de costo.",
+              "visual": "Graficar la función de costo y su derivada, identificando visualmente dónde la pendiente se hace cero (punto crítico).",
+              "produccion": "Aplicar reglas de derivación (cadena, producto, cociente) para resolver problemas de optimización en contextos financieros y físicos."
+            },
+            "para_pensar": [
+              "¿Qué información nos da la segunda derivada sobre la concavidad de una función de producción?",
+              "¿Por qué los valores máximos y mínimos ocurren cuando la derivada es igual a cero?"
+            ],
+            "pistas_del_exito": [
+              "Calcula derivadas de funciones polinómicas, racionales y trascendentes con precisión.",
+              "Utiliza la derivada para resolver problemas de optimización en contextos reales."
+            ],
+            "un_refuerzo": "Taller de 'Máximos y Mínimos': Diseñar una caja con el mayor volumen posible a partir de una lámina de cartulina fija."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Aproximando Áreas Curvas",
+            "un_reto_sugerido": "Estimar el área bajo una parábola (o cualquier curva de un objeto real) usando la suma de las áreas de rectángulos cada vez más delgados.",
+            "ruta_de_exploracion": {
+              "explorar": "Recortar tiras de papel (rectángulos) de igual ancho y colocarlas bajo una curva dibujada en el suelo para cubrir su superficie.",
+              "visual": "Representar gráficamente las Sumas de Riemann (rectángulos por izquierda y derecha) observando cómo el error disminuye al aumentar el número de rectángulos.",
+              "produccion": "Utilizar procesos de aproximación sucesiva para introducir la noción de integral definida como el límite de una suma.",
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre precisión y exactitud al medir el área de una figura irregular?",
+              "¿Qué sucede con la suma de las áreas de los rectángulos cuando su ancho tiende a cero?"
+            ],
+            "pistas_del_exito": [
+              "Diseña técnicas para hacer mediciones con niveles crecientes de precisión usando aproximaciones.",
+              "Establece conclusiones sobre la precisión de mediciones en contextos industriales y científicos."
+            ],
+            "un_refuerzo": "Actividad 'La Elipse de mi Patio': Medir el área de una zona elíptica usando el método de los rectángulos y comparar con la fórmula teórica."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "La Inferencia de Bayes",
+            "un_reto_sugerido": "Aplicar el Teorema de Bayes para ajustar la probabilidad de un evento tras conocer un nuevo dato experimental o estadístico.",
+            "ruta_de_exploracion": {
+              "explorar": "Simular un juego de 'puertas misteriosas' (Problema de Monty Hall) para observar cómo la información cambia la probabilidad inicial.",
+              "visual": "Construir diagramas de árbol inversos para aplicar el Teorema de Bayes en la resolución de problemas de probabilidad total.",
+              "produccion": "Resolver situaciones del contexto real (como la veracidad de una alarma) usando probabilidad condicional y el teorema de Bayes."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda el Teorema de Bayes a los algoritmos de búsqueda o a los filtros de correo spam?",
+              "¿Por qué es importante actualizar nuestras creencias probabilísticas cuando recibimos evidencia nueva?"
+            ],
+            "pistas_del_exito": [
+              "Aplica el Teorema de Bayes para resolver problemas complejos de probabilidad condicional.",
+              "Interpreta y asigna probabilidades a eventos para decidir sobre su independencia lógica."
+            ],
+            "un_refuerzo": "Reto 'Falsos Positivos': Calcular la probabilidad real de estar enfermo si un test con 95% de efectividad da positivo en una población sana."
+          }
+        }
+      ]
+    }
+  ]
+}

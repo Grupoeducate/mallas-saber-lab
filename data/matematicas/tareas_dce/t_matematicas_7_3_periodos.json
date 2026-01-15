@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "7",
+  "nombre_archivo": "t_matematicas_7_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Banco de los Racionales",
+            "un_reto_sugerido": "Simular una cuenta de ahorros donde se manejen deudas (negativos) y ahorros (positivos) usando fracciones para representar intereses y gastos.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar fichas bicolores (rojo para deuda, azul para abono) y tiras de papel fraccionadas para representar balances reales sobre una mesa.",
+              "visual": "Representar los movimientos bancarios en una recta numérica extendida, usando flechas hacia la izquierda para gastos y a la derecha para ingresos.",
+              "produccion": "Plantear y resolver ecuaciones de la forma x + a = b utilizando números racionales y algoritmos de suma/resta para hallar el saldo final."
+            },
+            "para_pensar": [
+              "¿Por qué el valor absoluto de una deuda grande es un número 'positivo' pero su representación es negativa?",
+              "¿Cómo cambia el saldo si multiplicamos una deuda por un número racional positivo?"
+            ],
+            "pistas_del_exito": [
+              "El estudiante opera con fluidez entre diferentes representaciones de números racionales (fracción y decimal).",
+              "Plantea modelos algebraicos básicos para resolver situaciones de variación financiera."
+            ],
+            "un_refuerzo": "Taller de 'Estimación de Raíces': Ubicar entre qué números enteros se encuentran raíces cuadradas no exactas como √20."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Maestros del Reflejo y la Escala",
+            "un_reto_sugerido": "Construir una maqueta del salón a escala 1:20, aplicando una reflexión simétrica a la ubicación de los muebles respecto al centro.",
+            "ruta_de_exploracion": {
+              "explorar": "Utilizar espejos planos para observar la reflexión de figuras poligonales y linternas para ver cómo varía la sombra según la distancia.",
+              "visual": "Dibujar en papel milimetrado las tres vistas principales (planta, alzado y perfil) de un objeto tridimensional del salón.",
+              "produccion": "Calcular las medidas reales del salón a partir de un plano escala 1:50 y aplicar traslaciones de las figuras en un plano de coordenadas."
+            },
+            "para_pensar": [
+              "¿Qué propiedades de la figura se conservan cuando la rotamos 90 grados?",
+              "¿Cómo cambia el tamaño de una maqueta si decidimos pasar de escala 1:10 a 1:100?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y representa vistas de objetos tridimensionales desde diferentes puntos de vista.",
+              "Selecciona la escala adecuada para representar un formato físico en un plano de papel."
+            ],
+            "un_refuerzo": "Actividad 'Cazadores de Escalas': Identificar la escala en un mapa de la región y calcular la distancia entre dos municipios."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Científicos de Datos Agrupados",
+            "un_reto_sugerido": "Analizar los tiempos de uso del celular de un grupo de 40 estudiantes, agrupando los datos en intervalos para hallar la mediana y el rango.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar datos reales de tiempo (en minutos) usando encuestas físicas y organizar las respuestas en 'bolsas de intervalos' (ej: de 10 a 20 min).",
+              "visual": "Construir un histograma y un polígono de frecuencias en una cartelera usando colores para diferenciar cada intervalo de tiempo.",
+              "produccion": "Calcular las medidas de tendencia central para datos agrupados usando una calculadora y redactar conclusiones sobre la tendencia del grupo."
+            },
+            "para_pensar": [
+              "¿Por qué es necesario agrupar los datos cuando la muestra es muy grande y variada?",
+              "¿Qué nos indica un rango muy amplio en un estudio sobre hábitos de estudio?"
+            ],
+            "pistas_del_exito": [
+              "Construye tablas de frecuencia y polígonos de frecuencia para representar datos agrupados.",
+              "Interpreta la media y la moda en el contexto de un estudio estadístico real."
+            ],
+            "un_refuerzo": "Uso de Excel o calculadoras para verificar el promedio de una serie de datos de temperatura semanal."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Sincronía de Múltiplos",
+            "un_reto_sugerido": "Resolver problemas de coincidencia de eventos (como luces que parpadean a ritmos distintos) usando el Mínimo Común Múltiplo (MCM).",
+            "ruta_de_exploracion": {
+              "explorar": "Usar metros de costura o cintas para marcar saltos de diferentes longitudes (ej: 3cm y 4cm) y encontrar físicamente dónde coinciden.",
+              "visual": "Representar los múltiplos y divisores en diagramas de Venn para identificar visualmente las intersecciones (MCM y MCD).",
+              "produccion": "Aplicar algoritmos convencionales de descomposición simultánea en factores primos para hallar MCD y MCM de números grandes."
+            },
+            "para_pensar": [
+              "¿En qué situaciones de la vida real necesitamos dividir algo en las partes más grandes posibles (MCD)?",
+              "¿Cómo se relaciona el MCM con la suma de fracciones de distinto denominador?"
+            ],
+            "pistas_del_exito": [
+              "Calcula e interpreta el máximo común divisor y el mínimo común múltiplo en la resolución de problemas.",
+              "Describe procedimientos algorítmicos para operar con números enteros y racionales."
+            ],
+            "un_refuerzo": "Juego 'El Reloj de los Múltiplos': Determinar cada cuánto tiempo coinciden tres alarmas con intervalos diferentes."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Dilema del Perímetro Fijo",
+            "un_reto_sugerido": "Diseñar diferentes corrales para animales que tengan exactamente 24 metros de cerca, buscando cuál diseño ofrece la mayor área posible.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar una cuerda de longitud fija (1 metro) para formar diversas figuras en el suelo (cuadrados, rectángulos, círculos) y sentir el espacio interno.",
+              "visual": "Graficar en el plano cartesiano la variación del área en función del ancho del rectángulo, observando la curva que se forma.",
+              "produccion": "Establecer la fórmula algebraica que relaciona el área y el perímetro, justificando por qué el cuadrado es el más eficiente."
+            },
+            "para_pensar": [
+              "¿Si duplicamos el perímetro de una figura, se duplica automáticamente su área?",
+              "¿Qué sucede con el área de un rectángulo si estiramos su base pero encogemos su altura para mantener el perímetro?"
+            ],
+            "pistas_del_exito": [
+              "Explica el comportamiento de la variación del área y perímetro mediante registros tabulares y gráficos.",
+              "Representa e interpreta situaciones de ampliación y reducción usando factores de escala."
+            ],
+            "un_refuerzo": "Dibujar en una cuadrícula una figura y su reducción a la mitad, comparando cuántas veces cabe el área pequeña en la grande."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Árboles de Decisión",
+            "un_reto_sugerido": "Calcular cuántas combinaciones de ropa son posibles si se tienen 3 pantalones, 4 camisas y 2 pares de zapatos, usando el principio multiplicativo.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar prendas de ropa reales o recortes de papel para realizar combinaciones físicas y contarlas una a una.",
+              "visual": "Construir un diagrama de árbol detallado para visualizar todas las trayectorias de elección posibles en el experimento.",
+              "produccion": "Aplicar la fórmula del principio multiplicativo (3 x 4 x 2) y determinar la probabilidad de elegir un conjunto específico al azar."
+            },
+            "para_pensar": [
+              "¿Por qué el diagrama de árbol se vuelve inmanejable cuando aumentamos las opciones?",
+              "¿Cambia el resultado si el orden en que elijo la ropa no importa?"
+            ],
+            "pistas_del_exito": [
+              "Usa el principio multiplicativo para calcular el número de resultados posibles en experimentos aleatorios.",
+              "Representa mediante diagramas de árbol las distintas maneras en que un experimento puede suceder."
+            ],
+            "un_refuerzo": "Actividad 'Mi Menú Escolar': Calcular las opciones de almuerzo combinando proteína, acompañamiento y jugo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Equilibrio Proporcional",
+            "un_reto_sugerido": "Resolver problemas de mezclas (ej: pintura) donde se debe mantener la misma tonalidad aumentando o disminuyendo las cantidades (Proporcionalidad Directa).",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar mezclas de agua con colorante en vasos, midiendo con jeringas para observar cómo cambia el color al variar las proporciones.",
+              "visual": "Crear tablas de proporcionalidad y graficar los puntos en el plano cartesiano para observar la línea recta que pasa por el origen.",
+              "produccion": "Resolver ecuaciones de proporcionalidad inversa (ej: tiempo vs velocidad) y convertir fracciones a decimales para comparar razones.",
+              "para_pensar": [
+                "¿Por qué en la proporcionalidad inversa si una variable aumenta la otra disminuye?",
+                "¿Cómo ayuda la propiedad distributiva a simplificar el cálculo de un descuento del 15%?"
+              ],
+              "pistas_del_exito": [
+                "Justifica el uso de procedimientos en situaciones de proporcionalidad directa e inversa.",
+                "Realiza conversiones precisas entre fracciones y decimales para comparar magnitudes."
+              ],
+              "un_refuerzo": "Reto de 'Escalabilidad': Calcular los ingredientes de una torta para 50 personas si la receta original es para 8."
+            }
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Modeladores de Superficies",
+            "un_reto_sugerido": "Calcular la cantidad de pintura necesaria para cubrir las paredes de un salón, restando el área de ventanas y puertas.",
+            "ruta_de_exploracion": {
+              "explorar": "Medir con flexómetro las dimensiones reales de las paredes y aberturas del salón de clase.",
+              "visual": "Dibujar el plano de las paredes desplegadas (desarrollo lateral) e identificar las figuras geométricas que las componen.",
+              "produccion": "Aplicar algoritmos de cálculo de área para figuras compuestas y estimar el volumen de aire que contiene el salón."
+            },
+            "para_pensar": [
+              "¿Qué tan precisa debe ser la medición si el galón de pintura es costoso?",
+              "¿Cómo cambia el volumen de un sólido si solo aumentamos una de sus dimensiones?"
+            ],
+            "pistas_del_exito": [
+              "Coordina los cambios de variación entre el área y la longitud de los lados en figuras planas.",
+              "Resuelve problemas usando modelos geométricos y técnicas de estimación de medidas."
+            ],
+            "un_refuerzo": "Actividad 'Empaque Óptimo': Determinar cuántas cajas de un tamaño caben en un contenedor más grande."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Probabilidades Compuestas",
+            "un_reto_sugerido": "Determinar la probabilidad de ganar un sorteo donde se debe sacar una balota roja de una urna y luego obtener un '6' en un dado.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar el experimento físico en grupos, registrando en una tabla cuántas veces se cumplen ambas condiciones simultáneamente.",
+              "visual": "Representar el espacio muestral completo mediante una cuadrícula de 2x6 o 3x6 según las balotas, coloreando los casos exitosos.",
+              "produccion": "Calcular la probabilidad compuesta multiplicando las probabilidades simples y expresar el resultado en fracción, decimal y porcentaje."
+            },
+            "para_pensar": [
+              "¿Por qué la probabilidad de que ocurran dos cosas al tiempo es menor que la de una sola?",
+              "¿Cómo influye el hecho de 'no devolver la balota' a la urna en el cálculo de la probabilidad?"
+            ],
+            "pistas_del_exito": [
+              "Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas.",
+              "Predice conclusiones justificadas usando información estadística previa."
+            ],
+            "un_refuerzo": "Analizar las probabilidades de ganar en juegos de mesa conocidos como el Parqués o la Lotería."
+          }
+        }
+      ]
+    }
+  ]
+}

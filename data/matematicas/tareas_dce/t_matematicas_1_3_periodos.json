@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "1",
+  "nombre_archivo": "t_matematicas_1_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Supermercado de las Semillas",
+            "un_reto_sugerido": "Organizar una compra donde el total no supere los 20 'frijoles' y se deba explicar cuántos quedan tras pagar.",
+            "ruta_de_exploracion": {
+              "explorar": "Agrupar y contar físicamente colecciones de piedras o semillas de 2 en 2 y de 5 en 5 sobre la mesa.",
+              "visual": "Representar las colecciones anteriores mediante dibujos de bolsas con puntos (pictogramas) para visualizar el conteo saltado.",
+              "produccion": "Escribir las operaciones de suma y resta resultantes de la compra usando los símbolos + , - e =."
+            },
+            "para_pensar": [
+              "¿Qué sucede con la cantidad total de semillas cuando 'juntamos' las mías con las tuyas?",
+              "¿Si cuento de 5 en 5, llegaré más rápido al 20 que contando de 1 en 1?"
+            ],
+            "pistas_del_exito": [
+              "Realiza conteos precisos en agrupaciones de 2 y 5 elementos.",
+              "Resuelve problemas aditivos de estructura simple vinculados a la vida cotidiana."
+            ],
+            "un_refuerzo": "Actividad 'El número escondido': Descubrir qué número falta en una hilera de tapitas numeradas del 1 al 10."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Sólidos",
+            "un_reto_sugerido": "Encontrar en el salón tres objetos que rueden y tres que se deslicen, explicando por qué ocurre esto según su forma.",
+            "ruta_de_exploracion": {
+              "explorar": "Manipular cajas, pelotas y tubos de cartón para sentir sus caras, bordes y puntas con los ojos vendados.",
+              "visual": "Calcar las caras de los objetos sólidos sobre papel para identificar el cuadrado, círculo y triángulo que los forman.",
+              "produccion": "Clasificar recortes de revistas en un cuadro comparativo entre cuerpos redondos y cuerpos planos."
+            },
+            "para_pensar": [
+              "¿Por qué un dado tiene puntas y una pelota no?",
+              "¿Qué forma de la vida real se parece a una pirámide de Egipto?"
+            ],
+            "pistas_del_exito": [
+              "Identifica atributos geométricos como caras curvas o planas en objetos del entorno.",
+              "Diferencia visualmente un círculo de una esfera."
+            ],
+            "un_refuerzo": "Construir un 'Monstruo Geométrico' utilizando solo cajas pequeñas de cartón y pegamento."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Mi Fruta Favorita",
+            "un_reto_sugerido": "Realizar una votación en el grupo sobre la fruta preferida y decidir cuál es la ganadora usando una tabla de conteo.",
+            "ruta_de_exploracion": {
+              "explorar": "Colocar una ficha de color dentro de una caja rotulada con el nombre de cada fruta participante.",
+              "visual": "Dibujar una marca (palito) por cada ficha en un cartel grande frente a toda la clase.",
+              "produccion": "Escribir el número total de votos al lado de cada fruta y señalar el dato que más se repite."
+            },
+            "para_pensar": [
+              "¿Cómo podemos saber cuál fruta ganó sin volver a preguntar a todos?",
+              "¿Para qué nos sirven las marcas o palitos en la tabla?"
+            ],
+            "pistas_del_exito": [
+              "Registra datos de forma organizada usando marcas de conteo.",
+              "Comunica verbalmente cuál es el dato con mayor frecuencia en una tabla."
+            ],
+            "un_refuerzo": "Hacer un conteo en casa de cuántas sillas, mesas y camas hay, anotándolo en una libreta."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Saltos de Gigante y Enano",
+            "un_reto_sugerido": "Identificar qué números en una recta numérica del 1 al 50 son 'pares' (tienen pareja) y cuáles son 'impares'.",
+            "ruta_de_exploracion": {
+              "explorar": "Agrupar a los compañeros de clase por parejas para ver si sobra alguien o si todos tienen compañero.",
+              "visual": "Pintar en una secuencia numérica con color rojo los números donde todos los puntos tienen pareja.",
+              "produccion": "Utilizar los signos mayor que (>) y menor que (<) para comparar las edades de los miembros de su familia."
+            },
+            "para_pensar": [
+              "Si tengo 7 dulces, ¿todos pueden tener pareja o sobra uno?",
+              "¿Qué número es más grande: el que tiene 2 dieces o el que tiene 5 unos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce números pares e impares en contextos de juego.",
+              "Establece relaciones de orden entre dos números naturales de una cifra."
+            ],
+            "un_refuerzo": "Juego de cartas: Organizar de menor a mayor un mazo de cartas del 1 al 10 lo más rápido posible."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Mapa del Tesoro Escondido",
+            "un_reto_sugerido": "Crear un recorrido de 5 pasos hacia adelante y 2 giros a la izquierda para encontrar un objeto oculto en el patio.",
+            "ruta_de_exploracion": {
+              "explorar": "Moverse físicamente siguiendo instrucciones de lateralidad: 'Mano derecha arriba', 'salto a la izquierda'.",
+              "visual": "Dibujar en una cuadrícula el camino seguido por un juguete desde la puerta hasta la ventana del salón.",
+              "produccion": "Medir el largo de su pupitre usando 'cuartas' (la mano) y comparar el resultado con un compañero."
+            },
+            "para_pensar": [
+              "¿Por qué mi mesa mide 4 manos y la del profesor mide 8?",
+              "¿Hacia dónde quedas mirando si das medio giro a la derecha?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza vocabulario de posición (delante, detrás, izquierda, derecha) con precisión.",
+              "Mide longitudes utilizando unidades no estandarizadas como pasos o manos."
+            ],
+            "un_refuerzo": "Dibujar el plano de su habitación ubicando la cama, la puerta y la ventana."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Reporteros del Tiempo",
+            "un_reto_sugerido": "Representar los días de sol y lluvia de la semana mediante un pictograma y explicar cuál clima fue el más común.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el cielo diariamente y recolectar una ficha blanca (nube) o amarilla (sol) según el clima.",
+              "visual": "Pegar los soles y nubes en una cartelera formando columnas verticales para comparar alturas.",
+              "produccion": "Responder por escrito cuántos días de sol hubo en total basándose únicamente en el dibujo realizado."
+            },
+            "para_pensar": [
+              "¿Podemos saber si llovió el lunes solo mirando nuestro cartel?",
+              "¿Qué columna es más alta y qué nos dice eso sobre la semana?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta información presentada en pictogramas de escala 1 a 1.",
+              "Organiza datos cualitativos en tablas de frecuencia simples."
+            ],
+            "un_refuerzo": "Contar cuántos zapatos de color negro hay en su casa y representarlos con dibujos en una hoja."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Fábrica de Decenas",
+            "un_reto_sugerido": "Construir números de dos cifras usando atados de 10 palitos y explicar por qué el número 25 tiene dos 'dieces'.",
+            "ruta_de_exploracion": {
+              "explorar": "Amarrar grupos de 10 palitos de helado con cauchos para representar físicamente las decenas.",
+              "visual": "Usar papel cuadriculado para pintar barras de 10 cuadritos (decenas) y cuadritos sueltos (unidades).",
+              "produccion": "Realizar sumas descomponiendo números (ej: 12 + 5 es 10 + 2 + 5) y resolver igualdades numéricas."
+            },
+            "para_pensar": [
+              "¿Si tengo 3 atados de 10 y me regalan 4 palitos sueltos, qué número formé?",
+              "¿Por qué es más fácil contar palitos si están amarrados de a 10?"
+            ],
+            "pistas_del_exito": [
+              "Descompone números de dos dígitos en decenas y unidades.",
+              "Utiliza estrategias de cálculo mental como aproximar a la decena más cercana."
+            ],
+            "un_refuerzo": "Juego del ábaco: Representar la edad de mamá y papá identificando unidades y decenas."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Constructor de Trayectorias",
+            "un_reto_sugerido": "Estimar cuántos pasos se necesitan para llegar a la biblioteca y luego medirlo realmente para ver qué tan cerca estuvo la predicción.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminar por el borde de las baldosas simulando ser un robot que solo puede girar en 90 grados.",
+              "visual": "Dibujar el camino del 'robot' en una hoja, usando flechas para indicar giros y líneas para los pasos.",
+              "produccion": "Registrar en una tabla las mediciones de capacidad (cuántos vasos de agua caben en una jarra)."
+            },
+            "para_pensar": [
+              "¿Si doy un giro completo, quedo mirando hacia el mismo lugar donde empecé?",
+              "¿Cómo podemos saber cuál balde tiene más agua sin usar una regla?"
+            ],
+            "pistas_del_exito": [
+              "Realiza giros y cambios de dirección considerando la lateralidad.",
+              "Estima y mide capacidades y pesos utilizando recipientes del entorno escolar."
+            ],
+            "un_refuerzo": "Llenar diferentes botellas con arena para comparar cuál es más pesada solo con el tacto."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Analistas del Recreo",
+            "un_reto_sugerido": "Presentar los resultados de una encuesta sobre los juegos preferidos del descanso y proponer una actividad para todos.",
+            "ruta_de_exploracion": {
+              "explorar": "Preguntar a 10 compañeros a qué prefieren jugar y recibir un objeto representativo de cada juego.",
+              "visual": "Organizar los objetos en filas en el patio para crear una gráfica de barras 'real'.",
+              "produccion": "Escribir una conclusión simple: 'El juego que más nos gusta es... porque tiene... votos'."
+            },
+            "para_pensar": [
+              "¿Cuál es el juego que menos le gusta al grupo según nuestra gráfica?",
+              "¿Qué pasaría con la gráfica si llegan 5 niños nuevos que prefieren jugar fútbol?"
+            ],
+            "pistas_del_exito": [
+              "Comunica resultados de un estudio estadístico sencillo respondiendo preguntas de frecuencia.",
+              "Relaciona la altura de las barras en un pictograma con la cantidad de datos."
+            ],
+            "un_refuerzo": "Clasificar los juguetes propios por tamaño (grande, mediano, pequeño) y contar cuántos hay de cada uno."
+          }
+        }
+      ]
+    }
+  ]
+}

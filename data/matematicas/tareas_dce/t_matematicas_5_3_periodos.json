@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "5",
+  "nombre_archivo": "t_matematicas_5_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Pizzería de las Raciones",
+            "un_reto_sugerido": "Resolver una situación de reparto donde 3 pizzas deben dividirse entre 8 personas, expresando el resultado como fracción y como número decimal.",
+            "ruta_de_exploracion": {
+              "explorar": "Utilizar círculos de cartulina divididos en partes iguales para representar físicamente el reparto de 'pizzas' entre grupos de estudiantes.",
+              "visual": "Dibujar modelos de área (rectángulos y círculos) coloreando las porciones correspondientes para comparar visualmente 3/8 con otras raciones.",
+              "produccion": "Escribir la operación de división 3 ÷ 8 y hallar su cociente decimal (0.375), relacionando el patrón numérico con una tabla de raciones."
+            },
+            "para_pensar": [
+              "¿Por qué la misma cantidad de pizza se puede ver como una fracción o como un número con coma?",
+              "¿Qué operación es necesaria si queremos saber cuánto le toca a cada uno si llegan 2 personas más?"
+            ],
+            "pistas_del_exito": [
+              "El estudiante representa correctamente la relación parte-todo mediante fracciones y decimales.",
+              "Identifica patrones de comportamiento en tablas de variación proporcional simple."
+            ],
+            "un_refuerzo": "Juego de 'Bingo Fraccionario': Emparejar representaciones gráficas con su escritura decimal (ej. 1/2 con 0.5)."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de Planos y Sólidos",
+            "un_reto_sugerido": "Construir una maqueta de un edificio usando redes planas de prismas y pirámides, calculando el área de papel necesaria para cada cara.",
+            "ruta_de_exploracion": {
+              "explorar": "Desarmar cajas de cartón recicladas para identificar sus desarrollos planos y cómo las caras se acoplan al cerrarlas.",
+              "visual": "Dibujar en papel cuadriculado el plano a escala (1cm = 1m) de una habitación, reconociendo las medidas reales a partir del dibujo.",
+              "produccion": "Calcular el área total de la superficie exterior de los sólidos construidos sumando el área de cada una de sus caras planas."
+            },
+            "para_pensar": [
+              "¿Cómo sabemos qué cara debe ir junto a otra en el plano para que el sólido cierre correctamente?",
+              "¿Qué sucede con el área total si duplicamos la altura de nuestro prisma?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona objetos tridimensionales con sus respectivos desarrollos planos con precisión.",
+              "Calcula medidas reales a partir de escalas sencillas en un registro gráfico."
+            ],
+            "un_refuerzo": "Reto 'El Cubo Imposible': Intentar dibujar 3 desarrollos planos diferentes que sirvan para armar un mismo cubo."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Promedios",
+            "un_reto_sugerido": "Comparar el promedio de estatura de los niños frente al de las niñas del salón y determinar qué grupo tiene los datos más dispersos.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar las estaturas de 10 compañeros usando una cinta métrica y anotar los datos en una tabla de frecuencia.",
+              "visual": "Elaborar un gráfico de líneas para observar la variación de estaturas y un gráfico circular para ver la distribución por rangos.",
+              "produccion": "Calcular la media aritmética (promedio) y la mediana del conjunto de datos, redactando un informe sobre cuál medida es más representativa."
+            },
+            "para_pensar": [
+              "¿Si llega un estudiante muy alto al salón, qué medida cambia más: el promedio o la mediana?",
+              "¿Para qué sirve comparar dos grupos de datos de una misma población?"
+            ],
+            "pistas_del_exito": [
+              "Calcula e interpreta correctamente la media y la mediana en contextos escolares.",
+              "Selecciona el tipo de gráfico más adecuado (barras, líneas o circular) según la información."
+            ],
+            "un_refuerzo": "Analizar los resultados de las notas de un examen para hallar el promedio del grupo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Desafío de las Potencias",
+            "un_reto_sugerido": "Utilizar la potenciación para calcular el número de personas que se enteran de un secreto si cada persona se lo cuenta a 3 más cada hora.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar cubos de madera para formar cuadrados (potencia 2) y cubos más grandes (potencia 3), contando cuántas piezas se necesitan.",
+              "visual": "Dibujar diagramas de árbol para representar el crecimiento exponencial de una situación (ej. 3^1, 3^2, 3^3).",
+              "produccion": "Descomponer números en factores primos y aplicar las propiedades de la potenciación para simplificar cálculos de áreas y volúmenes."
+            },
+            "para_pensar": [
+              "¿Por qué 2 elevado a la 3 no es lo mismo que 2 multiplicado por 3?",
+              "¿Cómo nos ayuda la descomposición en factores primos a entender la estructura de un número?"
+            ],
+            "pistas_del_exito": [
+              "Resuelve problemas que involucran potenciación de números naturales.",
+              "Descompone números naturales en sus factores primos de forma acertada."
+            ],
+            "un_refuerzo": "Reto 'La Cascada de Factores': Crear un árbol de factores para números grandes como 120 o 250."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Navegantes del Plano Cartesiano",
+            "un_reto_sugerido": "Ubicar coordenadas en el plano cartesiano para diseñar el mapa de una ciudad y calcular perímetros de las manzanas rectangulares.",
+            "ruta_de_exploracion": {
+              "explorar": "Crear un plano cartesiano gigante en el piso del patio con cinta; los estudiantes deben caminar hacia las coordenadas (x, y) dictadas.",
+              "visual": "Graficar en papel milimetrado polígonos uniendo puntos de coordenadas dadas y colorear el área resultante.",
+              "produccion": "Calcular el área de las figuras graficadas y demostrar que figuras con igual perímetro pueden tener áreas muy diferentes."
+            },
+            "para_pensar": [
+              "¿Qué sucede con la posición de un punto si cambiamos el orden de los números en la pareja (x, y)?",
+              "¿Es posible que un rectángulo de 16cm de perímetro tenga más área que uno de 20cm?"
+            ],
+            "pistas_del_exito": [
+              "Localiza y grafica puntos y trayectorias con precisión en el plano cartesiano.",
+              "Explica la relación entre área y perímetro mediante cálculos y superposición de figuras."
+            ],
+            "un_refuerzo": "Juego de 'Batalla Naval' utilizando coordenadas cartesianas para hundir los barcos enemigos."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Maestros de la Estadística",
+            "un_reto_sugerido": "Elegir la medida de tendencia central más justa para representar el desempeño deportivo de un atleta tras 10 competencias.",
+            "ruta_de_exploracion": {
+              "explorar": "Simular una competencia de lanzamiento de pelotas, registrando los puntajes de cada intento en una lista.",
+              "visual": "Organizar los puntajes de menor a mayor para identificar físicamente el dato central (mediana) y el que más se repite (moda).",
+              "produccion": "Argumentar por escrito cuál de las tres medidas (media, mediana o moda) resume mejor el comportamiento del conjunto de datos."
+            },
+            "para_pensar": [
+              "¿En qué situaciones el promedio puede ser engañoso para representar a un grupo?",
+              "¿Qué medida usarías para saber cuál es el zapato más vendido en una tienda?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta la elección de una medida estadística sobre otra basándose en la distribución de los datos.",
+              "Resuelve problemas de la vida diaria aplicando conceptos de tendencia central."
+            ],
+            "un_refuerzo": "Comparar los promedios de bateo o goles de dos jugadores famosos usando datos reales de internet."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Equilibrio de las Ecuaciones",
+            "un_reto_sugerido": "Resolver ecuaciones con operaciones no convencionales para equilibrar una balanza virtual donde hay valores desconocidos.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar una balanza de brazos física con pesas marcadas y bolsas 'misteriosas' (incógnitas) para hallar el valor de x.",
+              "visual": "Representar las fracciones en la recta numérica dividiendo la unidad en segmentos precisos para comparar 4/5 y 0.8.",
+              "produccion": "Plantear y resolver ecuaciones que involucren sumas y multiplicaciones, justificando cada paso mediante propiedades de la igualdad."
+            },
+            "para_pensar": [
+              "¿Cómo podemos mantener el equilibrio en una igualdad si sumamos algo en un solo lado?",
+              "¿Qué fracción es mayor: 3/4 o 5/6? ¿Cómo lo compruebas en la recta numérica?"
+            ],
+            "pistas_del_exito": [
+              "Representa y ordena fracciones y decimales correctamente en la recta numérica.",
+              "Resuelve ecuaciones numéricas sencillas aplicando la lógica de operaciones inversas."
+            ],
+            "un_refuerzo": "Reto 'La Máquina de Funciones': Adivinar la operación oculta (ej. si entra 2 y sale 5, la regla es x + 3)."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Topógrafos Escolares",
+            "un_reto_sugerido": "Diseñar una ruta de evacuación en el plano cartesiano que minimice la distancia recorrida, midiendo ángulos de giro.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar un transportador gigante para medir los ángulos de las esquinas del salón y de los giros en los pasillos.",
+              "visual": "Representar simbólicamente la trayectoria en el plano cartesiano usando vectores o flechas de colores.",
+              "produccion": "Calcular el área de las zonas de encuentro usando estrategias de recubrimiento o fórmulas de figuras planas conocidas."
+            },
+            "para_pensar": [
+              "¿Cuántos grados debe girar una persona para quedar mirando en la dirección opuesta?",
+              "¿Por qué es importante el uso de ángulos en el diseño de rampas o escaleras?"
+            ],
+            "pistas_del_exito": [
+              "Emplea el plano cartesiano para resolver situaciones complejas de localización y trayectoria.",
+              "Propone estrategias creativas para calcular superficies irregulares mediante la composición de figuras."
+            ],
+            "un_refuerzo": "Construir un goniómetro casero (medidor de ángulos) con cartulina y un pitillo para medir inclinaciones."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Oráculo del Espacio Muestral",
+            "un_reto_sugerido": "Predecir la probabilidad de sacar un número par al lanzar un dado y una moneda al mismo tiempo.",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar dados y monedas en parejas, anotando todos los resultados que salen (ej. Cara-1, Cara-2, Sello-1).",
+              "visual": "Construir una tabla de doble entrada o un diagrama de árbol para enumerar todos los elementos del espacio muestral.",
+              "produccion": "Calcular la probabilidad de eventos simples comparando los resultados favorables sobre el total de resultados posibles."
+            },
+            "para_pensar": [
+              "¿Si lanzo una moneda 10 veces y siempre sale cara, es más probable que la siguiente sea sello?",
+              "¿Qué significa que un evento sea 'imposible' en términos numéricos?"
+            ],
+            "pistas_del_exito": [
+              "Enumera correctamente todos los posibles resultados de un experimento aleatorio simple.",
+              "Anticipa la ocurrencia de eventos basándose en la relación entre el evento y el espacio muestral."
+            ],
+            "un_refuerzo": "Juego de 'Carrera de Dados': Analizar qué suma de dos dados tiene más probabilidades de ganar la carrera."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "6",
+  "nombre_archivo": "t_matematicas_6_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Ascensor de los Enteros",
+            "un_reto_sugerido": "Representar situaciones de deudas y abonos o niveles sobre y bajo el mar usando una recta numérica vertical para resolver problemas de variación.",
+            "ruta_de_exploracion": {
+              "explorar": "Simular un edificio con cinta en el suelo donde el '0' es la calle; los estudiantes se desplazan físicamente hacia arriba (positivos) y hacia abajo (negativos/sótano) según tarjetas de situaciones.",
+              "visual": "Dibujar el plano del edificio en el cuaderno y marcar los desplazamientos realizados como vectores sobre el eje Y del plano cartesiano.",
+              "produccion": "Escribir expresiones matemáticas que involucren sumas y restas de números enteros para calcular la posición final sin apoyo visual."
+            },
+            "para_pensar": [
+              "¿Por qué un número negativo puede representar una cantidad mayor de deuda que otro?",
+              "¿En qué situaciones de la vida real el cero no significa que no hay nada?"
+            ],
+            "pistas_del_exito": [
+              "Ubica correctamente números enteros y racionales en la recta numérica.",
+              "Representa gráficamente relaciones de covariación directa entre dos variables."
+            ],
+            "un_refuerzo": "Actividad 'Cuentas Claras': Resolver un laberinto numérico donde solo se puede avanzar si el resultado de la operación es un número racional positivo."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de Empaques",
+            "un_reto_sugerido": "Diseñar la plantilla de una caja para un producto específico, asegurando que al armarla las caras coincidan perfectamente en sus vértices.",
+            "ruta_de_exploracion": {
+              "explorar": "Desarmar cajas de diferentes formas (prismas, pirámides) para identificar sus plantillas y contar caras, aristas y vértices físicamente.",
+              "visual": "Dibujar en papel cuadriculado la plantilla del sólido elegido usando regla y compás para garantizar la congruencia de las pestañas.",
+              "produccion": "Calcular el área superficial total de la plantilla y estimar el volumen que ocuparía el sólido una vez armado."
+            },
+            "para_pensar": [
+              "¿Cómo sabemos qué caras son paralelas entre sí mirando solo el desarrollo plano?",
+              "¿Qué sucede con el volumen si duplicamos el tamaño de la base pero mantenemos la altura?"
+            ],
+            "pistas_del_exito": [
+              "Construye plantillas precisas de cuerpos geométricos usando instrumentos de medida.",
+              "Clasifica polígonos y sólidos basándose en sus propiedades de congruencia y semejanza."
+            ],
+            "un_refuerzo": "Reto 'Sólidos de Plastilina': Realizar cortes rectos a un cubo de plastilina y dibujar la figura plana que resulta en el corte."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Noticias Estadísticas",
+            "un_reto_sugerido": "Analizar una noticia de un medio de comunicación que incluya gráficas y verificar si los datos presentados coinciden con la realidad del entorno escolar mediante una encuesta.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar datos mediante una encuesta rápida en el salón sobre un tema de interés (ej. uso de redes sociales) usando una urna física.",
+              "visual": "Organizar los datos en una tabla de frecuencia y crear un diagrama de doble barra o circular usando papel de colores.",
+              "produccion": "Escribir un breve informe comparativo contrastando los resultados locales con los de la fuente externa analizada."
+            },
+            "para_pensar": [
+              "¿Por qué una gráfica circular es mejor que una de barras para mostrar porcentajes del total?",
+              "¿Qué preguntas nos ayudan a saber si una información estadística es confiable?"
+            ],
+            "pistas_del_exito": [
+              "Extrae e interpreta información estadística de diversas fuentes de comunicación.",
+              "Organiza y representa datos recolectados mediante gráficas estadísticas adecuadas al contexto."
+            ],
+            "un_refuerzo": "Crear un gráfico de líneas que muestre la variación de la temperatura o asistencia al colegio durante una semana."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Tienda de los Inversos",
+            "un_reto_sugerido": "Resolver una situación de compra-venta donde se deba hallar el precio original de un producto después de varios descuentos y aumentos usando operaciones inversas.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar fichas de colores para representar 'dobles', 'triples' y 'mitades' de cantidades, realizando el proceso hacia adelante y hacia atrás físicamente.",
+              "visual": "Crear un mapa conceptual o diagrama de flujo que muestre el paso a paso de una operación y su camino de regreso (operación inversa).",
+              "produccion": "Plantear y resolver igualdades con números desconocidos (ecuaciones simples) aplicando propiedades de los números racionales."
+            },
+            "para_pensar": [
+              "¿Por qué la división es la operación inversa de la multiplicación?",
+              "¿Qué significa que un número sea primo en términos de su 'construcción'?"
+            ],
+            "pistas_del_exito": [
+              "Aplica propiedades de los números enteros para proponer estrategias de cálculo mental.",
+              "Encuentra valores desconocidos en igualdades numéricas usando operaciones inversas."
+            ],
+            "un_refuerzo": "Juego de 'Criptogramas Numéricos': Descubrir los valores ocultos en una serie de operaciones cruzadas."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Cartógrafos del Plano",
+            "un_reto_sugerido": "Ubicar puntos geográficos en un plano cartesiano para trazar la ruta más corta entre dos lugares, calculando la distancia aproximada.",
+            "ruta_de_exploracion": {
+              "explorar": "Crear un sistema de coordenadas en el patio y ubicar 'objetos tesoro' que los estudiantes deben encontrar siguiendo coordenadas (x, y).",
+              "visual": "Representar en papel milimetrado figuras geométricas complejas y realizarles cortes transversales imaginarios dibujando la sección resultante.",
+              "produccion": "Calcular el área de polígonos irregulares en el plano cartesiano mediante la técnica de descomposición en triángulos y rectángulos."
+            },
+            "para_pensar": [
+              "¿Cómo cambia la posición de un punto si multiplicamos sus coordenadas por un mismo número?",
+              "¿Para qué sirve tener un sistema de referencia gráfico en la vida cotidiana?"
+            ],
+            "pistas_del_exito": [
+              "Localiza y representa posiciones con precisión en el plano cartesiano bidimensional.",
+              "Desarrolla estrategias de estimación y cálculo para áreas y volúmenes de cuerpos compuestos."
+            ],
+            "un_refuerzo": "Dibujar un dibujo simétrico en el plano cartesiano dado solo la mitad de las coordenadas."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Retrato de la Población",
+            "un_reto_sugerido": "Determinar si una pequeña muestra de 10 estudiantes representa fielmente los gustos de todo el colegio mediante el análisis de la media y el rango.",
+            "ruta_de_exploracion": {
+              "explorar": "Seleccionar aleatoriamente un grupo de compañeros (muestra) y preguntar un dato numérico (ej. edad en meses) anotándolo en tarjetas.",
+              "visual": "Construir un diagrama de puntos para visualizar la dispersión de los datos e identificar visualmente la moda y la mediana.",
+              "produccion": "Calcular la media aritmética y el rango de la muestra para describir qué tan variados son los datos respecto a la población total."
+            },
+            "para_pensar": [
+              "¿Qué pasa con el promedio si hay un dato muy alejado de los demás?",
+              "¿Por qué es importante elegir una buena muestra en un estudio estadístico?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente los conceptos de población y muestra en un estudio.",
+              "Compara dos o más grupos de datos usando medidas de tendencia central y el rango."
+            ],
+            "un_refuerzo": "Comparar el promedio de tiempo que pasan frente a pantallas los niños vs. los adultos de su familia."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Balanza de Desigualdades",
+            "un_reto_sugerido": "Resolver desafíos donde se deba mantener el equilibrio (igualdad) o mostrar el desequilibrio (desigualdad) entre expresiones con potencias y raíces.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar una balanza casera con vasos y monedas para representar físicamente el concepto de 'mayor que', 'menor que' e 'igual a'.",
+              "visual": "Representar en la recta numérica intervalos de números que cumplen una condición (ej. x > 5) usando colores.",
+              "produccion": "Resolver ecuaciones lineales paso a paso, justificando la propiedad de la igualdad aplicada en cada renglón."
+            },
+            "para_pensar": [
+              "¿Cómo cambia el sentido de una desigualdad si restamos el mismo número a ambos lados?",
+              "¿Qué relación hay entre una potencia al cuadrado y el área de un cuadrado físico?"
+            ],
+            "pistas_del_exito": [
+              "Resuelve ecuaciones lineales y combinaciones de operaciones respetando el orden jerárquico.",
+              "Establece relaciones de orden y equivalencia entre diferentes dominios numéricos."
+            ],
+            "un_refuerzo": "Reto 'Igualdades Secretas': Encontrar el número que hace que dos expresiones complejas sean iguales."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Maestros del Compás",
+            "un_reto_sugerido": "Crear un diseño de mándala usando únicamente círculos, rotaciones y reducciones, calculando el perímetro de la circunferencia principal.",
+            "ruta_de_exploracion": {
+              "explorar": "Atar un cordel a un lápiz para trazar circunferencias de diferentes radios en el suelo del patio y medir su contorno con la misma cuerda.",
+              "visual": "Dibujar en el plano cartesiano ampliaciones y reducciones de un triángulo, observando cómo cambian las coordenadas de sus vértices.",
+              "produccion": "Calcular el área del círculo y la longitud de la circunferencia aplicando las fórmulas correspondientes y comparando con la medición manual."
+            },
+            "para_pensar": [
+              "¿Cuántas veces cabe el diámetro de un círculo en su propia circunferencia?",
+              "¿Qué propiedades se conservan en una figura cuando solo la rotamos en el plano?"
+            ],
+            "pistas_del_exito": [
+              "Identifica semejanzas en figuras al aplicar transformaciones como rotación y ampliación.",
+              "Calcula perímetros, áreas y volúmenes decidiendo el instrumento y la unidad más conveniente."
+            ],
+            "un_refuerzo": "Actividad 'Círculos en Casa': Medir el diámetro y contorno de tapas de ollas para aproximarse al valor de Pi."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Casino de la Probabilidad",
+            "un_reto_sugerido": "Predecir cuántas veces saldrá 'cara' al lanzar una moneda 50 veces y comparar la predicción con el experimento real.",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar dados o monedas físicamente en parejas, registrando cada resultado en una tabla de frecuencia observada.",
+              "visual": "Crear un gráfico de barras comparativo que muestre la 'frecuencia esperada' (teórica) frente a la 'frecuencia observada' (experimental).",
+              "produccion": "Calcular la probabilidad de un evento como una fracción o porcentaje y explicar por qué los resultados reales pueden variar."
+            },
+            "para_pensar": [
+              "¿Si ha salido 'sello' tres veces seguidas, es más probable que la siguiente sea 'cara'?",
+              "¿Para qué sirve conocer la probabilidad de un evento en los juegos de azar?"
+            ],
+            "pistas_del_exito": [
+              "Enumera el espacio muestral de experimentos aleatorios sencillos con orden.",
+              "Asigna y compara probabilidades teóricas con resultados obtenidos experimentalmente."
+            ],
+            "un_refuerzo": "Analizar las reglas de un juego de mesa y determinar qué jugador tiene más ventaja basándose en la probabilidad."
+          }
+        }
+      ]
+    }
+  ]
+}

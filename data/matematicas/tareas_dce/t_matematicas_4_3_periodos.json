@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "4",
+  "nombre_archivo": "t_matematicas_4_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Cocina de las Fracciones y Decimales",
+            "un_reto_sugerido": "Crear una receta para un batido donde los ingredientes se expresen en fracciones (1/2 litro de leche) y el costo total en números decimales mayores a 10.000 pesos.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar vasos medidores con agua para representar fracciones (parte-todo) y billetes didácticos para manejar cantidades superiores a 10.000.",
+              "visual": "Dibujar rectángulos (modelos de área) para representar las fracciones de la receta y tablas de valor posicional para los precios decimales.",
+              "produccion": "Escribir la equivalencia entre las fracciones usadas y su notación decimal, justificando el costo total mediante descomposiciones aditivas."
+            },
+            "para_pensar": [
+              "¿Por qué 0.5 litros es lo mismo que decir 1/2 litro en nuestra receta?",
+              "¿Si el precio de un ingrediente sube, cómo afecta proporcionalmente el costo total del batido?"
+            ],
+            "pistas_del_exito": [
+              "El estudiante relaciona correctamente una fracción con su representación decimal en contextos de medida.",
+              "Realiza operaciones con números mayores a 10.000 usando estrategias de descomposición."
+            ],
+            "un_refuerzo": "Actividad 'El Cajero': Simular el pago de una cuenta de mercado de 45.750 pesos usando la menor cantidad de billetes posible."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Fábrica de Empaques Geométricos",
+            "un_reto_sugerido": "Diseñar el desarrollo plano de una caja de regalo que deba contener un volumen específico de dulces, identificando sus caras y aristas.",
+            "ruta_de_exploracion": {
+              "explorar": "Desarmar cajas de productos reales (crema dental, medicina) para observar sus desarrollos planos y palpar sus sólidos originales.",
+              "visual": "Dibujar en papel cuadriculado el plano de un cubo o un prisma, identificando qué caras se unen al doblar.",
+              "produccion": "Construir el sólido final y medir su capacidad usando arena o semillas para comparar el volumen con otros recipientes."
+            },
+            "para_pensar": [
+              "¿Cuántas formas diferentes de desarrollo plano puede tener un mismo cubo?",
+              "¿Qué instrumento es más preciso para medir el peso de los dulces: una balanza de cocina o una regla?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce qué desarrollos planos corresponden a cuerpos tridimensionales específicos.",
+              "Diferencia atributos medibles como peso, capacidad y volumen eligiendo el instrumento adecuado."
+            ],
+            "un_refuerzo": "Reto 'Caben o no caben': Estimar cuántas cajas pequeñas caben en una grande antes de realizar la comprobación física."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Analistas del Quiosco Escolar",
+            "un_reto_sugerido": "Realizar una encuesta sobre los productos más vendidos en el descanso y representar la tendencia mediante un gráfico de líneas.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar datos reales durante el recreo usando una tabla de doble entrada para organizar productos por día y cantidad.",
+              "visual": "Elaborar un gráfico de barras agrupadas donde se comparen las ventas de dos días diferentes.",
+              "produccion": "Calcular la moda y el rango de los datos para explicar cuál es el producto 'líder' y qué tan variadas son las ventas."
+            },
+            "para_pensar": [
+              "¿Qué nos dice el 'rango' sobre la diferencia entre el producto más vendido y el menos vendido?",
+              "¿Por qué un gráfico de líneas es mejor que uno de barras para ver cómo cambian las ventas en una semana?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta correctamente información en tablas de doble entrada y gráficos de barras agrupadas.",
+              "Comunica conclusiones basadas en la moda y el comportamiento de la gráfica."
+            ],
+            "un_refuerzo": "Crear un pictograma con escala donde cada dibujo represente 5 unidades del producto más vendido."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El rastro de las Fracciones Equivalentes",
+            "un_reto_sugerido": "Encontrar 'fracciones gemelas' (equivalentes) para completar un camino lógico y sumar decimales con denominador 10 y 100.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar tiras de papel de igual longitud, doblándolas en diferentes partes (2, 4, 8) para comprobar físicamente que 1/2 = 2/4.",
+              "visual": "Colorear cuadrículas de 10x10 para representar centésimas y décimas, relacionándolas con la suma de fracciones decimales.",
+              "produccion": "Resolver algoritmos de suma de decimales (centavos o medidas) justificando el resultado mediante la equivalencia de fracciones."
+            },
+            "para_pensar": [
+              "¿Si tengo 50/100 de un pastel, tengo más o menos que si tengo 5/10?",
+              "¿Cómo podemos predecir el siguiente número en una secuencia que aumenta de 0.25 en 0.25?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y construye fracciones equivalentes usando modelos pictóricos.",
+              "Justifica algoritmos para sumar decimales derivados de fracciones con denominador 10 y 100."
+            ],
+            "un_refuerzo": "Dominó de fracciones y decimales: Emparejar cartas como 0.5 con 1/2 o 5/10."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Coreografía de Figuras en el Plano",
+            "un_reto_sugerido": "Diseñar un patrón textil que use una figura base repetida mediante rotación, traslación y simetría.",
+            "ruta_de_exploracion": {
+              "explorar": "Mover siluetas de cartulina sobre una cuadrícula gigante en el piso, siguiendo órdenes de 'girar 90 grados' o 'deslizar 3 cuadros'.",
+              "visual": "Dibujar en papel calcante el eje de simetría de diversas figuras de la naturaleza (hojas, mariposas).",
+              "produccion": "Realizar conversiones de medidas (ej: de metros a centímetros) para calcular cuánto material se necesita para el diseño textil."
+            },
+            "para_pensar": [
+              "¿Qué cambia en una figura cuando la rotamos: su forma, su tamaño o su posición?",
+              "¿Por qué es más conveniente medir un botón en milímetros y no en metros?"
+            ],
+            "pistas_del_exito": [
+              "Aplica y describe movimientos de rotación, traslación y simetría en el plano.",
+              "Establece equivalencias entre diferentes unidades de medida (longitud, peso, tiempo)."
+            ],
+            "un_refuerzo": "Juego 'Espejito, Espejito': Dibujar la mitad faltante de una figura compleja usando un eje de simetría."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Laboratorio del Destino",
+            "un_reto_sugerido": "Clasificar un listado de eventos diarios en 'Aleatorios' (azar) o 'Determinísticos' (seguros) y justificar la elección.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar experimentos de lanzar una moneda (azar) versus soltar un objeto para que caiga (determinístico).",
+              "visual": "Crear un organizador gráfico (Venn) para separar situaciones donde el resultado depende del azar de aquellas que son predecibles.",
+              "produccion": "Escribir un párrafo usando vocabulario técnico (posibilidad, aleatoriedad) para explicar por qué no se puede predecir el ganador de una rifa."
+            },
+            "para_pensar": [
+              "¿Es el clima una situación totalmente aleatoria o hay algo que la determine?",
+              "¿Qué diferencia hay entre tirar un dado y saber que después del lunes sigue el martes?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia con claridad entre situaciones aleatorias y determinísticas.",
+              "Usa vocabulario adecuado para describir la presencia del azar en contextos cotidianos."
+            ],
+            "un_refuerzo": "Bingo de Probabilidad: Analizar si todos los cartones tienen la misma posibilidad de ganar."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Patrones Infinitos",
+            "un_reto_sugerido": "Predecir qué figura ocupará la posición 100 en una secuencia geométrica creciente sin tener que dibujarlas todas.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir las primeras 4 posiciones de una secuencia usando palillos o tapas, observando cuánto aumenta en cada paso.",
+              "visual": "Registrar el crecimiento en una tabla de datos (Posición vs. Cantidad) para identificar la regla de formación.",
+              "produccion": "Escribir la generalización de la secuencia y comparar expresiones numéricas con decimales y fracciones usando los signos >, < o =."
+            },
+            "para_pensar": [
+              "¿Cómo podemos saber el valor de la posición 20 si solo conocemos la 1 y la 2?",
+              "¿Es 0.75 mayor o menor que 3/4? ¿Cómo lo representarías en una recta numérica?"
+            ],
+            "pistas_del_exito": [
+              "Conjetura y argumenta valores futuros en secuencias aritméticas y geométricas.",
+              "Establece relaciones de orden entre números racionales en formato fracción y decimal."
+            ],
+            "un_refuerzo": "Reto 'La secuencia secreta': El profesor inicia una serie y el alumno debe descubrir la operación oculta (+, -, x)."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Cine de las Proporciones",
+            "un_reto_sugerido": "Crear una versión 'miniatura' y una 'gigante' de un dibujo sobre una cuadrícula, manteniendo la proporcionalidad de sus medidas.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar linternas y sombras para observar cómo una figura se amplía o reduce según la distancia a la pared.",
+              "visual": "Dibujar en papel milimetrado una figura base y luego duplicar el tamaño de todos sus lados (ampliación 2:1).",
+              "produccion": "Calcular la razón de proporcionalidad entre el dibujo original y el modificado, explicando qué sucedió con el área."
+            },
+            "para_pensar": [
+              "¿Si duplicamos los lados de un cuadrado, se duplica también su área? ¿Por qué?",
+              "¿Qué instrumentos necesitamos para ser precisos al medir la capacidad de un frasco de medicina pequeño?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia los efectos de la ampliación y reducción en figuras planas.",
+              "Emplea relaciones de proporcionalidad para resolver problemas de escalas y medidas."
+            ],
+            "un_refuerzo": "Actividad 'Planos a escala': Dibujar el salón de clase donde 1 metro real sea 1 centímetro en el papel."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Oráculo de los Resultados",
+            "un_reto_sugerido": "Anticipar todos los posibles resultados de lanzar dos dados a la vez y determinar cuál suma es la más probable.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar 50 lanzamientos de dos dados en parejas, registrando las sumas obtenidas en un diario de campo.",
+              "visual": "Crear un diagrama de espacio muestral (árbol o tabla) para visualizar todas las combinaciones posibles (6x6).",
+              "produccion": "Escribir un argumento sobre por qué la suma '7' suele salir más veces que la suma '2' o '12'. Enunciar el concepto de aleatoriedad."
+            },
+            "para_pensar": [
+              "¿Si lanzamos una moneda 100 veces, es posible que salgan 100 caras? ¿Es probable?",
+              "¿Para qué nos sirve anticipar resultados en un juego de mesa?"
+            ],
+            "pistas_del_exito": [
+              "Anticipa los posibles resultados de una situación aleatoria mediante el conteo organizado.",
+              "Usa adecuadamente términos como azar, posibilidad y determinístico para explicar fenómenos."
+            ],
+            "un_refuerzo": "Crear una ruleta de cartón con sectores desiguales y predecir qué color tiene mayor posibilidad de ganar."
+          }
+        }
+      ]
+    }
+  ]
+}

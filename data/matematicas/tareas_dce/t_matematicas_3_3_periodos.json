@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "3",
+  "nombre_archivo": "t_matematicas_3_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Chef de las Combinaciones",
+            "un_reto_sugerido": "Determinar cuántos menús diferentes se pueden armar combinando 3 tipos de jugo y 4 tipos de sándwich, usando un diagrama de árbol.",
+            "ruta_de_exploracion": {
+              "explorar": "Utilizar tarjetas de colores físicos para representar los jugos y los sándwiches, realizando los emparejamientos sobre la mesa.",
+              "visual": "Dibujar un diagrama de árbol en el cuaderno donde cada 'rama' represente una opción posible del menú.",
+              "produccion": "Escribir la operación multiplicativa (3 x 4 = 12) que resume el total de combinaciones halladas."
+            },
+            "para_pensar": [
+              "¿Qué pasa con el total de opciones si agregamos un sabor más de jugo?",
+              "¿Es lo mismo sumar 4 veces el 3 que sumar 3 veces el 4?"
+            ],
+            "pistas_del_exito": [
+              "Propone estrategias de conteo organizadas para hallar combinaciones.",
+              "Construye secuencias numéricas reconociendo el patrón de cambio entre los números."
+            ],
+            "un_refuerzo": "Actividad 'La Tienda Escolar': Resolver problemas de suma y resta con precios de productos reales del entorno."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Desafío de la Cuerda Mágica",
+            "un_reto_sugerido": "Usar una cuerda de 20 cm para formar diferentes rectángulos y descubrir cuál de ellos ocupa más espacio (tiene más área).",
+            "ruta_de_exploracion": {
+              "explorar": "Manipular una cuerda o lana con los extremos atados para rodear objetos y formar figuras sobre el pupitre.",
+              "visual": "Dibujar las figuras formadas en papel cuadriculado, contando cuántos cuadritos hay dentro de cada una para comparar el área.",
+              "produccion": "Calcular formalmente el perímetro (suma de lados) y el área (conteo de unidades cuadradas) de los cuadriláteros dibujados."
+            },
+            "para_pensar": [
+              "¿Pueden dos figuras tener el mismo borde (perímetro) pero diferente espacio por dentro (área)?",
+              "¿Por qué usamos cuadritos para medir superficies y no reglas lineales?"
+            ],
+            "pistas_del_exito": [
+              "Explica con sus propias palabras la diferencia entre área y perímetro.",
+              "Clasifica figuras bidimensionales y tridimensionales según sus propiedades geométricas."
+            ],
+            "un_refuerzo": "Taller de 'Recubrimiento': Llenar la superficie de un cuaderno con cuadrados de papel de 1cm x 1cm."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de la Moda",
+            "un_reto_sugerido": "Identificar cuál es el deporte favorito del grado tercero analizando una tabla de frecuencias y un gráfico de barras.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una votación en vivo usando balones o fichas físicas para representar cada voto por deporte.",
+              "visual": "Construir un gráfico de barras usando bloques lógicos o cajas de fósforos apiladas para ver cuál columna es la más alta.",
+              "produccion": "Redactar un informe corto donde identifiquen la 'Moda' (el deporte más votado) y el tamaño total de la población (estudiantes)."
+            },
+            "para_pensar": [
+              "¿Si alguien cambia su voto, podría cambiar la moda del grupo?",
+              "¿Para qué sirve saber cuál es el dato que más se repite en una encuesta?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la moda a partir de la observación de gráficos de barras.",
+              "Interpreta correctamente la información contenida en tablas de frecuencia."
+            ],
+            "un_refuerzo": "Hacer un pictograma en casa sobre los colores de la ropa que más usan sus familiares."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Gimnasia Mental Numérica",
+            "un_reto_sugerido": "Resolver sumas y restas de tres cifras usando la estrategia de 'completar a la decena o centena más cercana' sin usar lápiz.",
+            "ruta_de_exploracion": {
+              "explorar": "Jugar con una recta numérica larga dibujada en el piso, dando saltos hacia adelante (sumar) o atrás (restar).",
+              "visual": "Usar esquemas de flechas en el tablero para mostrar cómo se descompone un número (ej: 45 + 12 es como 45 + 10 + 2).",
+              "produccion": "Justificar por escrito el procedimiento de cálculo mental utilizado para resolver un problema de la vida diaria."
+            },
+            "para_pensar": [
+              "¿Es más fácil sumar 99 + 45 o sumar 100 + 44?",
+              "¿Por qué cambiar el orden de los números en una suma no cambia el resultado?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza la descomposición numérica para facilitar cálculos mentales rápidos.",
+              "Propone soluciones plausibles para problemas con datos desconocidos."
+            ],
+            "un_refuerzo": "Flashcards de cálculo: Tarjetas con operaciones rápidas para responder en menos de 5 segundos."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Baile de las Figuras",
+            "un_reto_sugerido": "Demostrar cómo una figura puede trasladarse, rotarse o reflejarse sin cambiar su tamaño ni su forma original.",
+            "ruta_de_exploracion": {
+              "explorar": "Recortar figuras en cartulina y deslizarlas (traslación) o girarlas sobre un punto (rotación) en el pupitre.",
+              "visual": "Dibujar en una hoja de papel la 'huella' inicial de la figura y la posición final después de aplicar un movimiento.",
+              "produccion": "Describir el patrón de movimiento indicando la dirección (arriba, abajo, derecha, izquierda) y el grado de giro."
+            },
+            "para_pensar": [
+              "¿Si te miras en un espejo, qué tipo de transformación geométrica estás viendo?",
+              "¿Qué objetos del salón funcionan mediante rotación?"
+            ],
+            "pistas_del_exito": [
+              "Identifica reflexiones, traslaciones y rotaciones en figuras bidimensionales.",
+              "Estima el volumen y peso de objetos cotidianos comparándolos con una unidad de referencia."
+            ],
+            "un_refuerzo": "Actividad de origami sencillo para observar cómo cambian las posiciones de los vértices al doblar el papel."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "La Ruleta de las Probabilidades",
+            "un_reto_sugerido": "Clasificar eventos escolares como 'seguros', 'imposibles' o 'igualmente posibles' usando una escala de color.",
+            "ruta_de_exploracion": {
+              "explorar": "Lanzar un dado de 6 caras y predecir si es 'posible' que salga un número 7.",
+              "visual": "Crear un diagrama de barras de puntos para registrar los resultados de 20 lanzamientos de una moneda.",
+              "produccion": "Escribir oraciones usando jerarquía: 'Es más posible que... porque...; es imposible que...'."
+            },
+            "para_pensar": [
+              "¿Es igualmente posible sacar cara o sello al lanzar una moneda?",
+              "¿Por qué un evento se considera 'seguro'?"
+            ],
+            "pistas_del_exito": [
+              "Cuantifica la posibilidad de ocurrencia de eventos simples usando una escala cualitativa.",
+              "Representa los posibles resultados de una situación aleatoria mediante diagramas."
+            ],
+            "un_refuerzo": "Juego de 'Bingo de Probabilidades' donde se analizan las balotas que faltan por salir."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Fraccionando mi Mundo",
+            "un_reto_sugerido": "Dividir una 'pizza' de papel en partes iguales para representar fracciones (medios, cuartos, octavos) y comparar quién tiene más.",
+            "ruta_de_exploracion": {
+              "explorar": "Doblar hojas de papel de colores en 2, 4 y 8 partes iguales para sentir la división de la unidad.",
+              "visual": "Colorear diagramas circulares y rectangulares para representar fracciones dadas (ej: 3/4).",
+              "produccion": "Resolver problemas de reparto donde se deban usar fracciones para expresar la relación entre las partes y el todo."
+            },
+            "para_pensar": [
+              "¿Qué es más grande, la mitad de una pizza o un cuarto de la misma pizza?",
+              "¿Cuántos octavos necesito para completar una unidad entera?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza fracciones para expresar la relación entre el todo y sus partes.",
+              "Establece comparaciones entre expresiones numéricas aditivas y multiplicativas."
+            ],
+            "un_refuerzo": "Uso de regletas de fracciones caseras hechas con cartulina de diferentes tamaños."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Gran Empacador de Tesoros",
+            "un_reto_sugerido": "Calcular cuántas cajas de fósforos (unidades de volumen) caben dentro de una caja de zapatos sin dejar espacios vacíos.",
+            "ruta_de_exploracion": {
+              "explorar": "Llenar recipientes transparentes con arena o semillas para comparar su capacidad y peso.",
+              "visual": "Dibujar cuerpos tridimensionales en perspectiva, marcando con puntos el espacio que ocupan.",
+              "produccion": "Registrar en una tabla las estimaciones de volumen y capacidad de diferentes empaques del hogar."
+            },
+            "para_pensar": [
+              "¿Si dos cajas tienen la misma forma, siempre les cabe la misma cantidad de cosas?",
+              "¿Cómo afecta la forma de un objeto a la cantidad de espacio que ocupa?"
+            ],
+            "pistas_del_exito": [
+              "Realiza estimaciones y mediciones de volumen y capacidad de forma acertada.",
+              "Plantea soluciones a problemas de empaque considerando forma y volumen."
+            ],
+            "un_refuerzo": "Construir un medidor de líquidos casero usando una botella de plástico marcada con medidas no estandarizadas."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Pequeños Vaticinadores",
+            "un_reto_sugerido": "Predecir el resultado de sacar una balota de una bolsa que contiene 10 azules y 2 rojas, justificando la respuesta.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar el experimento físico de la bolsa y las balotas, registrando los resultados en una tabla de conteo.",
+              "visual": "Dibujar un gráfico de torta simple para visualizar que el color con más espacio es el más probable.",
+              "produccion": "Asignar verbalmente y por escrito la probabilidad de un evento según una escala: muy probable, poco probable."
+            },
+            "para_pensar": [
+              "¿Si sacamos una balota roja, es seguro que la siguiente será azul?",
+              "¿Cómo nos ayudan los experimentos previos a adivinar lo que pasará después?"
+            ],
+            "pistas_del_exito": [
+              "Predice la ocurrencia de un evento basado en resultados previos de situaciones aleatorias.",
+              "Plantea preguntas sobre la posibilidad de eventos cotidianos con coherencia."
+            ],
+            "un_refuerzo": "Analizar un juego de mesa (como parqués) y discutir por qué algunos números salen más que otros."
+          }
+        }
+      ]
+    }
+  ]
+}

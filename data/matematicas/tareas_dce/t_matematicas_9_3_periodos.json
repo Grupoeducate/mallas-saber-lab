@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "9",
+  "nombre_archivo": "t_matematicas_9_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Radar de Pendientes Reales",
+            "un_reto_sugerido": "Calcular la pendiente de las rampas de acceso del colegio para determinar si cumplen con las normas de inclusión para sillas de ruedas.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar un nivel de burbuja y una cinta métrica para medir la altura (opuesto) y la base (adyacente) de diferentes superficies inclinadas en el entorno escolar.",
+              "visual": "Representar en papel milimetrado las inclinaciones como rectas en un plano cartesiano, identificando el ángulo de elevación.",
+              "produccion": "Utilizar la fórmula de la pendiente (m = y2-y1 / x2-x1) y expresar los resultados en notación científica si se tratara de medidas astronómicas o microscópicas."
+            },
+            "para_pensar": [
+              "¿Qué sucede con la pendiente de una recta si la rampa es totalmente vertical u horizontal?",
+              "¿Cómo afecta el redondeo de los decimales a la precisión del ángulo de una rampa en una construcción real?"
+            ],
+            "pistas_del_exito": [
+              "Calcula e interpreta la pendiente de una recta en contextos de variación real.",
+              "Resuelve sistemas de ecuaciones lineales para hallar puntos de intersección en modelos de decisión."
+            ],
+            "un_refuerzo": "Actividad 'Criptografía Real': Resolver un sistema de ecuaciones para descifrar un mensaje oculto basado en coordenadas."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Arquímedes en el Patio",
+            "un_reto_sugerido": "Demostrar experimentalmente que el volumen de un cono es exactamente un tercio del volumen de un cilindro con la misma base y altura.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir un cilindro y un cono de cartulina con igual radio y altura. Llenar el cono con arroz o arena y trasvasarlo al cilindro.",
+              "visual": "Dibujar el desarrollo plano de cilindros, conos y esferas, rotulando sus elementos principales (radio, generatriz, altura).",
+              "produccion": "Derivar y utilizar las fórmulas de volumen y capacidad para resolver problemas de empaques industriales y almacenamiento de líquidos."
+            },
+            "para_pensar": [
+              "¿Por qué la esfera es la forma que optimiza el volumen respecto a su área superficial?",
+              "¿Qué relación existe entre el teorema de Tales y la semejanza de los triángulos que forman la sombra de un edificio?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones de volumen y capacidad entre cilindros, conos y esferas.",
+              "Aplica el teorema de Tales para resolver problemas de semejanza y congruencia en estructuras físicas."
+            ],
+            "un_refuerzo": "Reto 'La Esfera Perfecta': Calcular el volumen de una naranja sumergiéndola en agua (desplazamiento) y compararlo con la fórmula geométrica."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Estadística de Cajas y Bigotes",
+            "un_reto_sugerido": "Comparar el rendimiento académico de dos grupos de grado noveno mediante diagramas de caja para identificar cuál tiene mayor variabilidad y valores atípicos.",
+            "ruta_de_exploracion": {
+              "explorar": "Recolectar las notas de un examen de dos grupos y organizar físicamente a los estudiantes en una fila de menor a mayor nota para hallar los cuartiles.",
+              "visual": "Diseñar en una cartelera el diagrama de caja y bigotes, marcando claramente la mediana, los valores máximos, mínimos y los 'outliers'.",
+              "produccion": "Redactar una conclusión estadística que compare la dispersión y la simetría de ambas distribuciones para proponer un plan de mejora pedagógica."
+            },
+            "para_pensar": [
+              "¿Qué significa que la 'caja' sea muy ancha en comparación con los 'bigotes'?",
+              "¿Por qué un valor atípico puede sesgar la interpretación de la media pero no de la mediana?"
+            ],
+            "pistas_del_exito": [
+              "Construye e interpreta diagramas de caja para comparar distribuciones de datos.",
+              "Toma decisiones basadas en medidas de localización (cuartiles) y variación (rango intercuartílico)."
+            ],
+            "un_refuerzo": "Análisis de datos climáticos: Comparar las temperaturas máximas de dos ciudades durante un mes usando diagramas de caja."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Doblado Exponencial",
+            "un_reto_sugerido": "Predecir cuántas capas de papel se forman tras 10 dobleces y encontrar la relación logarítmica necesaria para saber cuántos dobleces se requieren para llegar a 1024 capas.",
+            "ruta_de_exploracion": {
+              "explorar": "Tomar una hoja de papel y realizar dobleces sucesivos, registrando en una tabla la cantidad de rectángulos que se forman en cada paso.",
+              "visual": "Graficar en papel milimetrado los resultados (Dobleces vs Capas) para observar la curva de crecimiento exponencial.",
+              "produccion": "Modelar la situación usando potencias y logaritmos, resolviendo problemas de crecimiento poblacional o interés compuesto."
+            },
+            "para_pensar": [
+              "¿Por qué es imposible doblar una hoja de papel normal más de 7 u 8 veces?",
+              "¿Cómo ayuda la logaritmación a despejar el tiempo en un proceso de crecimiento bacteriano?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza la potenciación, radicación y logaritmación para modelar situaciones de crecimiento y decrecimiento.",
+              "Identifica patrones en secuencias numéricas y los expresa mediante fórmulas generales."
+            ],
+            "un_refuerzo": "Reto 'Interés Compuesto': Calcular cuánto dinero se tendría en 5 años si se ahorran 100 mil pesos con una tasa mensual del 1%."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Topografía con Thales y Pitágoras",
+            "un_reto_sugerido": "Calcular la altura del poste más alto del colegio sin subirse a él, utilizando solo un espejo, una cinta métrica y las leyes de semejanza.",
+            "ruta_de_exploracion": {
+              "explorar": "Colocar un espejo en el suelo y alejarse hasta ver la punta del poste en el centro del espejo; medir las distancias y la altura propia.",
+              "visual": "Dibujar el esquema de los triángulos semejantes formados por el rayo de luz reflejado, identificando los ángulos de incidencia.",
+              "produccion": "Resolver la proporción resultante usando el Teorema de Thales y verificar otras medidas usando el Teorema de Pitágoras en desplazamientos diagonales."
+            },
+            "para_pensar": [
+              "¿Cómo varía la precisión de nuestra medida si el terreno no es perfectamente horizontal?",
+              "¿Por qué los triángulos son la base de la estabilidad en la arquitectura y la ingeniería?"
+            ],
+            "pistas_del_exito": [
+              "Justifica estrategias de medición indirecta utilizando teoremas geométricos fundamentales.",
+              "Explica trayectorias y desplazamientos analizando el espacio de manera analítica."
+            ],
+            "un_refuerzo": "Actividad 'Mapa de Sombras': Calcular la altura de un árbol en diferentes horas del día y comparar resultados."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Juego de la Urna de Cristal",
+            "un_reto_sugerido": "Determinar si es más probable ganar un sorteo con reemplazo o sin reemplazo y justificar la decisión mediante técnicas de conteo.",
+            "ruta_de_exploracion": {
+              "explorar": "Extraer balotas de colores de una bolsa en dos rondas: una devolviendo la balota y otra dejándola afuera, registrando los resultados.",
+              "visual": "Representar ambos experimentos mediante diagramas de árbol, asignando probabilidades a cada rama (fracciones).",
+              "produccion": "Aplicar fórmulas de combinaciones y permutaciones para calcular el espacio muestral y la probabilidad de eventos compuestos."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el hecho de 'no reemplazar' un elemento a la probabilidad del siguiente evento?",
+              "¿En qué casos es mejor usar permutaciones que combinaciones?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia experimentos aleatorios con y sin reemplazo calculando sus probabilidades.",
+              "Usa técnicas de conteo (permutaciones y combinaciones) para hallar el número de resultados posibles."
+            ],
+            "un_refuerzo": "Simulación de Lotería: Calcular la probabilidad de acertar 3 números de 10 posibles sin repetición."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Hacia el Infinito y más Allá",
+            "un_reto_sugerido": "Analizar qué sucede con el valor de la fracción 1/x a medida que x se hace extremadamente grande (procesos infinitos).",
+            "ruta_de_exploracion": {
+              "explorar": "Usar una calculadora para dividir 1 entre 10, 100, 1000, 1.000.000, anotando la cantidad de ceros en el resultado decimal.",
+              "visual": "Graficar la función f(x) = 1/x para observar cómo la curva se acerca al eje x pero nunca lo toca (asíntota).",
+              "produccion": "Determinar la expresión general de sucesiones convergentes y utilizar lenguaje simbólico para describir tendencias de familias de funciones."
+            },
+            "para_pensar": [
+              "¿Puede un proceso que nunca termina tener un resultado finito (como la suma de 0.999...)?",
+              "¿Qué diferencia el comportamiento de una función exponencial del de una función logarítmica?"
+            ],
+            "pistas_del_exito": [
+              "Analiza procesos infinitos en notaciones decimales y sucesiones numéricas.",
+              "Valida conjeturas sobre el comportamiento de familias de funciones polinómicas y racionales."
+            ],
+            "un_refuerzo": "Actividad 'La Paradoja de Zenón': Representar mediante una serie numérica el camino de Aquiles hacia la tortuga."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Vectores en Movimiento",
+            "un_reto_sugerido": "Representar el desplazamiento de un avión que vuela con viento en contra usando vectores para hallar su velocidad y dirección resultante.",
+            "ruta_de_exploracion": {
+              "explorar": "Atar dos cuerdas a un objeto y tirar de ellas con diferentes fuerzas y ángulos para observar hacia dónde se mueve realmente el objeto.",
+              "visual": "Dibujar en el plano cartesiano los vectores de fuerza/desplazamiento usando el método del paralelogramo para hallar la resultante.",
+              "produccion": "Calcular la magnitud del vector resultante usando el Teorema de Pitágoras y proponer alternativas de precisión en la medición."
+            },
+            "para_pensar": [
+              "¿Por qué un desplazamiento no puede describirse solo con un número (escalar) sino que necesita una dirección?",
+              "¿Qué instrumentos garantizan mayor precisión al medir trayectorias curvas en un plano?"
+            ],
+            "pistas_del_exito": [
+              "Representa gráficamente la variación del movimiento de objetos mediante vectores.",
+              "Propone y justifica estrategias de medición de longitudes y magnitudes usando teoremas geométricos."
+            ],
+            "un_refuerzo": "Juego de 'Navegación Aérea': Trazar una ruta en un mapa evitando obstáculos mediante la suma de vectores de posición."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Probabilidad por Frecuencias",
+            "un_reto_sugerido": "Estimar la probabilidad de que un estudiante del colegio prefiera un género musical específico basándose en la frecuencia relativa de una muestra representativa.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un muestreo sistemático en la hora del descanso, encuestando a cada 5 personas que salgan del comedor escolar.",
+              "visual": "Construir una tabla de contingencia y comparar las frecuencias observadas con las esperadas si la elección fuera puramente al azar.",
+              "produccion": "Calcular la probabilidad de eventos compuestos (ej. que le guste el Rock y esté en grado 10) usando la razón entre frecuencias.",
+            },
+            "para_pensar": [
+              "¿Cómo influye el tamaño de la muestra en la validez de nuestra predicción probabilística?",
+              "¿Por qué elegimos un método de muestreo sistemático en lugar de uno por conveniencia?"
+            ],
+            "pistas_del_exito": [
+              "Encuentra la probabilidad de eventos aleatorios compuestos usando razones de frecuencia.",
+              "Justifica la elección de métodos de muestreo adecuados según el tipo de población y estudio."
+            ],
+            "un_refuerzo": "Taller de 'Mentiras Estadísticas': Identificar cómo el cambio de escala en una gráfica puede alterar la percepción de la probabilidad."
+          }
+        }
+      ]
+    }
+  ]
+}

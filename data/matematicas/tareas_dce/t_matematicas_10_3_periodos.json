@@ -1,0 +1,211 @@
+{
+  "area": "Matemáticas",
+  "grado": "10",
+  "nombre_archivo": "t_matematicas_10_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "El Laberinto de la Densidad Real",
+            "un_reto_sugerido": "Demostrar que entre dos números racionales siempre existe un número irracional, usando construcciones geométricas y la propiedad de densidad.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir espirales de Teodoro usando papel, regla y compás para representar físicamente longitudes como √2, √3 y √5.",
+              "visual": "Ubicar las raíces halladas en una recta numérica de gran formato, comparando su posición decimal aproximada con su valor exacto geométrico.",
+              "produccion": "Resolver desigualdades polinomiales para determinar intervalos de solución y justificar procedimientos mediante propiedades de los números reales."
+            },
+            "para_pensar": [
+              "¿Por qué nunca terminaremos de escribir los decimales de un número irracional?",
+              "¿Es posible encontrar un punto en la recta que no corresponda a ningún número real?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta la existencia y ubicación de números irracionales en la recta numérica.",
+              "Utiliza la propiedad de densidad para calcular números reales entre dos valores dados."
+            ],
+            "un_refuerzo": "Actividad 'Caza de Intervalos': Identificar números reales específicos que pertenezcan a la intersección de dos intervalos dados."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Rastreadores de Razones de Cambio",
+            "un_reto_sugerido": "Calcular la velocidad media y la aceleración de un compañero en una carrera de 50 metros, analizando la variación en intervalos de tiempo.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una toma de datos en el patio midiendo distancia vs tiempo de un móvil (bicicleta o corredor) cada 5 metros.",
+              "visual": "Construir gráficas de posición vs tiempo y velocidad vs tiempo, identificando la pendiente como la razón de cambio entre magnitudes.",
+              "produccion": "Modelar la trayectoria usando expresiones algebraicas de secciones cónicas y calcular razones de cambio instantáneas aproximadas."
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre la velocidad que marca el velocímetro y la velocidad promedio de todo el viaje?",
+              "¿Cómo se representa una aceleración constante en una gráfica de posición?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta magnitudes relacionales como velocidad y aceleración en tablas y gráficas.",
+              "Representa lugares geométricos (cónicas) en el plano cartesiano a partir de su expresión algebraica."
+            ],
+            "un_refuerzo": "Laboratorio virtual: Simular el movimiento de un proyectil para observar cómo cambian los componentes de la velocidad."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Auditoría de Medios",
+            "un_reto_sugerido": "Evaluar la validez de una noticia estadística de un medio nacional, analizando si el tamaño de la muestra es representativo de la población.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un muestreo aleatorio simple en el colegio para indagar sobre una variable continua (ej: peso de las mochilas).",
+              "visual": "Construir histogramas y diagramas de caja para comparar la media, mediana y desviación estándar de los datos recolectados.",
+              "produccion": "Redactar un artículo crítico que compare los estadígrafos del estudio local con las inferencias presentadas en los medios de comunicación."
+            },
+            "para_pensar": [
+              "¿Por qué un promedio puede ser engañoso si los datos están muy dispersos?",
+              "¿Cómo influye el método de selección de la muestra en la confianza de una inferencia?"
+            ],
+            "pistas_del_exito": [
+              "Selecciona métodos de muestreo adecuados para inferir comportamientos poblacionales.",
+              "Explica el carácter relativo de las medidas de tendencia central y dispersión."
+            ],
+            "un_refuerzo": "Uso de software estadístico (Excel/GeoGebra) para calcular la varianza y desviación estándar de un conjunto de datos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "La Pendiente Tangente",
+            "un_reto_sugerido": "Aproximar el valor de la pendiente de la recta tangente a una curva en un punto específico, usando secantes sucesivas.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar una cuerda tensa sobre una superficie curva física para visualizar cómo la secante se convierte en tangente al acercar los puntos.",
+              "visual": "Utilizar GeoGebra para graficar funciones polinómicas y observar el comportamiento de la pendiente de la tangente en diferentes puntos.",
+              "produccion": "Escribir expresiones algebraicas que representen la razón de cambio y aplicarlas a problemas de optimización básica."
+            },
+            "para_pensar": [
+              "¿Qué sucede con la pendiente cuando la función llega a su punto máximo o mínimo?",
+              "¿Por qué la derivada se considera un proceso de aproximación sucesiva?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce y verbaliza la pendiente de la recta tangente como una razón de cambio.",
+              "Establece relaciones de orden y equivalencia en subconjuntos de números reales (intervalos)."
+            ],
+            "un_refuerzo": "Reto 'Sube y Baja': Identificar intervalos de crecimiento y decrecimiento en gráficas de funciones reales."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "Trigonometría del Paisaje",
+            "un_reto_sugerido": "Calcular la altura de la montaña más cercana o del edificio más alto de la zona usando un teodolito casero y razones trigonométricas.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir un teodolito con un transportador y un tubo, midiendo ángulos de elevación hacia diferentes puntos del colegio.",
+              "visual": "Representar los triángulos rectángulos formados en el cuaderno, rotulando catetos (opuesto, adyacente) e hipotenusa según el ángulo.",
+              "produccion": "Aplicar las funciones Seno, Coseno y Tangente para hallar distancias inaccesibles y modelar el fenómeno periódicamente.",
+            },
+            "para_pensar": [
+              "¿Por qué las razones trigonométricas solo dependen del ángulo y no del tamaño del triángulo?",
+              "¿En qué situaciones es más útil usar radianes en lugar de grados?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza razones trigonométricas para resolver problemas prácticos de medición indirecta.",
+              "Modela fenómenos periódicos simples a través de funciones trigonométricas."
+            ],
+            "un_refuerzo": "Actividad 'Sombras Proyectadas': Determinar la hora del día basándose en el ángulo de la sombra y la altura de un objeto conocido."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "Laboratorio de Predicciones",
+            "un_reto_sugerido": "Diseñar un experimento aleatorio en el contexto de las ciencias sociales (ej: intención de voto) y predecir el resultado con un margen de error.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar simulacros de encuestas con diferentes tamaños de muestra para observar cómo varía la predicción.",
+              "visual": "Crear diagramas de dispersión para observar la relación entre dos variables aleatorias estudiadas.",
+              "produccion": "Plantear una inferencia estadística basada en la probabilidad frecuencial obtenida en el experimento."
+            },
+            "para_pensar": [
+              "¿Es posible que una muestra pequeña nos dé una idea exacta de lo que piensa todo un país?",
+              "¿Qué significa que un espacio muestral sea indeterminado?"
+            ],
+            "pistas_del_exito": [
+              "Plantea experimentos aleatorios en contextos científicos y sociales.",
+              "Encuentra muestras aleatorias representativas para predecir comportamientos de variables."
+            ],
+            "un_refuerzo": "Simulación de Montecarlo: Usar dados para estimar la probabilidad de eventos complejos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Numérico Variacional",
+          "guia_didactica": {
+            "la_estrategia": "Crecimiento Logarítmico",
+            "un_reto_sugerido": "Modelar la intensidad de un sonido o la escala de un terremoto usando funciones logarítmicas y explicar su comportamiento asintótico.",
+            "ruta_de_exploracion": {
+              "explorar": "Usar aplicaciones de sonómetro en el celular para medir niveles de decibelios en diferentes puntos del colegio.",
+              "visual": "Graficar los datos obtenidos en una escala logarítmica vs una escala lineal para notar la diferencia en la representación del cambio.",
+              "produccion": "Resolver problemas de tendencia numérica y razón de cambio usando las propiedades de las funciones logarítmicas y exponenciales."
+            },
+            "para_pensar": [
+              "¿Por qué usamos logaritmos para medir cosas que crecen muy rápido?",
+              "¿Qué sucede con el valor de un logaritmo cuando el argumento se acerca a cero?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza propiedades de las funciones para estudiar la variación y tendencia numérica.",
+              "Realiza cálculos complejos con números reales aplicando propiedades de equivalencia."
+            ],
+            "un_refuerzo": "Taller 'pH y Logaritmos': Calcular la acidez de sustancias comunes usando la fórmula logarítmica del pH."
+          }
+        },
+        {
+          "componente": "Geométrico métrico",
+          "guia_didactica": {
+            "la_estrategia": "El Círculo Unitario y el Movimiento Armónico",
+            "un_reto_sugerido": "Representar el movimiento de un péndulo o de un pistón mediante las funciones Seno y Coseno en el círculo unitario.",
+            "ruta_de_exploracion": {
+              "explorar": "Construir un péndulo simple con una cuerda y una masa, cronometrando sus oscilaciones y midiendo su amplitud.",
+              "visual": "Dibujar el círculo unitario y marcar los ángulos de referencia para calcular valores exactos de Seno y Coseno para ángulos no agudos.",
+              "produccion": "Escribir la función trigonométrica que describe el movimiento del péndulo (f(t) = A sen(wt)) y predecir posiciones futuras."
+            },
+            "para_pensar": [
+              "¿Por qué las funciones trigonométricas son las mejores para modelar la respiración o los latidos del corazón?",
+              "¿Qué representa el radio del círculo unitario en un fenómeno de oscilación?"
+            ],
+            "pistas_del_exito": [
+              "Calcula razones trigonométricas para ángulos no agudos usando el círculo unitario.",
+              "Reconoce aplicaciones de las funciones periódicas en fenómenos biológicos y mecánicos."
+            ],
+            "un_refuerzo": "Actividad 'La Rueda de la Fortuna': Modelar la altura de una cabina en función del tiempo usando funciones circulares."
+          }
+        },
+        {
+          "componente": "Aleatorio",
+          "guia_didactica": {
+            "la_estrategia": "El Teorema de la Dependencia",
+            "un_reto_sugerido": "Calcular la probabilidad de que un estudiante tenga una alergia dado que consume cierto alimento, usando probabilidad condicional.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un experimento de extracción de balotas de dos bolsas dependientes (el resultado de la primera afecta la segunda).",
+              "visual": "Construir diagramas de árbol detallados indicando las probabilidades condicionales en cada rama.",
+              "produccion": "Validar la independencia de dos eventos mediante el cálculo de la probabilidad frecuencial y aplicar la fórmula de Bayes en casos simples."
+            },
+            "para_pensar": [
+              "¿Cómo cambia nuestra percepción del futuro cuando ya conocemos un dato del pasado?",
+              "¿Es lo mismo P(A|B) que P(B|A)? Demuéstralo con un ejemplo del colegio."
+            ],
+            "pistas_del_exito": [
+              "Interpreta y aplica conceptos de probabilidad condicional e independencia de eventos.",
+              "Infiere y valida la probabilidad de ocurrencia de eventos en experimentos de las ciencias naturales."
+            ],
+            "un_refuerzo": "Análisis de pruebas diagnósticas: Calcular la probabilidad de estar enfermo si la prueba dio positivo (Falsos positivos)."
+          }
+        }
+      ]
+    }
+  ]
+}
