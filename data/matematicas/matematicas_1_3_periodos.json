@@ -1,0 +1,248 @@
+{
+  "area": "Matemáticas",
+  "grado": "1",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Reconozco significados del número en diferentes contextos (medición, conteo, comparación, codificación, localización, entre otros). Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros).",
+          "Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación.",
+          "Identifico regularidades y propiedades de los números utilizando diferentes instrumentos de cálculo (calculadoras, ábacos, bloques multibase, etc.).",
+          "Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas."
+        ],
+        "dba": [
+          "DBA–MAT–1–1 Identifica los usos de los números (como código, cardinal, medida, ordinal) y las operaciones (suma y resta) en contextos de juego, familiares, económicos, entre otros.",
+          "DBA–MAT–1–2 Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+          "DBA–MAT–1–8 Describe cualitativamente situaciones para identificar el cambio y la variación usando gestos, dibujos, diagramas, medios gráficos y simbólicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce en sus actuaciones cotidianas posibilidades de uso de los números y las operaciones.",
+          "(Saber Conocer) Identifica y nombra diferencias entre objetos o grupos de objetos. (1)",
+          "(Saber Hacer) Explica cómo y por qué es posible hacer una operación (suma o resta) en relación con los usos de los números y el contexto en el cual se presentan. (1)",
+          "(Saber Hacer) Realiza conteos (de uno en uno, de dos en dos, etc.) iniciando en cualquier número. (2)",
+          "(Saber Hacer) Determina la cantidad de elementos de una colección agrupándolos de 1 en 1, de 2 en 2, de 5 en 5. (2)",
+          "(Saber Hacer) Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a +? = c, o? + b = c (2)",
+          "(Saber Hacer) Interpreta y resuelve problemas de juntar, quitar y completar, que involucren la cantidad de elementos de una colección o la medida de magnitudes como longitud, peso, capacidad y duración. (1)",
+          "(Saber Hacer) Utiliza las operaciones (suma y resta) para representar el cambio en una cantidad. (1)",
+          "(Saber Aplicar) Construye e interpreta representaciones pictóricas y diagramas para representar relaciones entre cantidades que se presentan en situaciones o fenómenos. (1)",
+          "(Saber Aplicar) Comunica las características identificadas y justifica las diferencias que encuentra. (8)"
+        ],
+        "saberes": [
+          "Uso de los números y sus operaciones.",
+          "Secuencias sencillas.",
+          "Operaciones aritméticas suma y resta"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Diferencio atributos y propiedades de objetos tridimensionales.",
+          "Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños.",
+          "Reconozco en los objetos propiedades o atributos que se puedan medir (longitud, área, volumen, capacidad, peso y masa) y, en los eventos de duración."
+        ],
+        "dba": [
+          "DBA–MAT–1–6 Compara objetos del entorno y establece semejanzas y diferencias empleando características geométricas de las formas bidimensionales y tridimensionales (curvo o recto, abierto o cerrado, plano o sólido, número de lados, número de caras, entre otros).",
+          "DBA–MAT–1–4 Reconoce y compara atributos que pueden ser medidos en objetos y eventos (longitud, duración, rapidez, peso, capacidad, cantidad de elementos de una colección, entre otros)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe de forma verbal las cualidades y propiedades de un objeto relativas a su forma. (6)",
+          "(Saber Conocer) Identifica objetos a partir de las descripciones verbales que hacen de sus características geométricas. (6)",
+          "(Saber Conocer) Identifica atributos que se pueden medir en los objetos. (4)",
+          "(Saber Conocer) Diferencia atributos medibles (longitud, peso, capacidad, duración, cantidad de elementos de una colección), en términos de los instrumentos y las unidades utilizadas para medirlos. (4)",
+          "(Saber Hacer) Agrupa objetos de su entorno de acuerdo con las semejanzas y las diferencias en la forma y en el tamaño y explica el criterio que utiliza. P. ej. Si el objeto es redondo, si tiene puntas, entre otras características. (6)",
+          "(Saber Aplicar) Crea, compone y descompone formas bidimensionales y tridimensionales, para ello utiliza plastilina, papel, palitos, cajas, entre otros (6)"
+        ],
+        "saberes": [
+          "Características geométricas de las formas bidimensionales y tridimensionales.",
+          "Atributos medibles.",
+          "Comparación de diferentes objetos desde la visión espacial"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en tablas"
+        ],
+        "dba": [
+          "DBA–MAT–1–10 Clasifica y organiza datos, los representa utilizando tablas de conteo y pictogramas sin escalas, y comunica los resultados obtenidos para responder preguntas sencillas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica en fichas u objetos reales los valores de la variable en estudio. (10)",
+          "(Saber Hacer) Organiza los datos en tablas de conteo y en pictogramas sin escala. (10)"
+        ],
+        "saberes": [
+          "Variables de estudio estadístico.",
+          "Tablas de conteo"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos.",
+          "Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación.",
+          "Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas."
+        ],
+        "dba": [
+          "DBA–MAT–1–2 Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+          "DBA–MAT–1–8 Describe cualitativamente situaciones para identificar el cambio y la variación usando gestos, dibujos, diagramas, medios gráficos y simbólicos."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Describe y resuelve situaciones variadas con las operaciones de suma y resta en problemas cuya estructura puede ser a + b = ?, a +? = c, o? + b = c. (2)",
+          "(Saber Aplicar) Establece y argumenta conjeturas de los posibles resultados en una secuencia numérica. (2)",
+          "(Saber Hacer) Establece relaciones de dependencia entre magnitudes. (8)"
+        ],
+        "saberes": [
+          "Propiedades y comparación de los números.",
+          "Numero par, impar, mayor que, menor que.",
+          "Estrategias para contar y realizar operaciones básicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Represento el espacio circundante para establecer relaciones espaciales.",
+          "Comparo y ordeno objetos respecto a atributos medibles.",
+          "Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto."
+        ],
+        "dba": [
+          "DBA–MAT–1–7 Describe y representa trayectorias y posiciones de objetos y personas para orientar a otros o a sí mismo en el espacio circundante.",
+          "DBA–MAT–1–4 Reconoce y compara atributos que pueden ser medidos en objetos y eventos (longitud, duración, rapidez, peso, capacidad, cantidad de elementos de una colección, entre otros).",
+          "DBA–MAT–1–5 Realiza medición de longitudes, capacidades, peso, entre otros, para ello utiliza instrumentos y unidades estandarizadas y no estandarizadas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Mide longitudes con diferentes instrumentos y expresa el resultado en unidades estandarizadas o no estandarizadas comunes. (5)",
+          "(Saber Hacer) Utiliza representaciones como planos para ubicarse en el espacio. (7)",
+          "(Saber Hacer) Compara y ordena objetos de acuerdo con atributos como altura, peso, entre otros y recorridos según la distancia de cada trayecto. (4)",
+          "(Saber Hacer) Compara y ordena colecciones según la cantidad de elementos. (4)",
+          "(Saber Hacer) Compara objetos a partir de su longitud, peso, capacidad y duración de eventos. (5)",
+          "(Saber Aplicar) Toma decisiones a partir de la ubicación espacial. (7)"
+        ],
+        "saberes": [
+          "Comparación y medición de objetos.",
+          "Ubicación espacial.",
+          "Unidades de medición estandarizadas y no estandarizadas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en tablas.",
+          "Represento datos relativos a mi entorno usando objetos concretos, pictogramas y diagramas de barras."
+        ],
+        "dba": [
+          "DBA–MAT–1–10 Clasifica y organiza datos, los representa utilizando tablas de conteo y pictogramas sin escalas, y comunica los resultados obtenidos para responder preguntas sencillas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Lee la información presentada en tablas de conteo y pictogramas sin escala (1 a 1) (10)",
+          "(Saber Hacer) Organiza los datos en tablas de conteo y en pictogramas sin escala. (10)"
+        ],
+        "saberes": [
+          "Pictogramas sin escala"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Uso representaciones principalmente concretas y pictóricas para explicar el valor de posición en el sistema de numeración decimal.",
+          "Reconozco y genero equivalencias entre expresiones numéricas y describo cómo cambian los símbolos, aunque el valor siga igual."
+        ],
+        "dba": [
+          "DBA–MAT–1–2 Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos.",
+          "DBA–MAT–1–3 Utiliza las características posicionales del Sistema de Numeración Decimal (SND) para establecer relaciones entre cantidades y comparar.",
+          "DBA–MAT–1–9 Reconoce el signo igual como una equivalencia entre expresiones con sumas y restas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Realiza composiciones y descomposiciones de números de dos dígitos en términos de la cantidad de “dieces” y de “unos” que los conforman. (3)",
+          "(Saber Hacer) Encuentra parejas de números que al adicionarse dan como resultado otro número dado. (3)",
+          "(Saber Hacer) Halla números que cumplen la relación “ser diez más” o “ser diez menos” que un número determinado do. (3)",
+          "(Saber Hacer) Emplea estrategias de cálculo como “aproximar a la decena” para realizar adiciones o sustracciones. (3)",
+          "(Saber Hacer) Utiliza las características del sistema decimal de numeración para crear estrategias de cálculo y estimación de sumas y resta. (2)",
+          "(Saber Aplicar) Argumenta sobre el uso de la propiedad transitiva en un conjunto de igualdades. (9)"
+        ],
+        "saberes": [
+          "Estrategias para realizar operaciones básicas.",
+          "Sistema de numeración decimal.",
+          "Propiedad Transitiva."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Represento el espacio circundante para establecer relaciones espaciales.",
+          "Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo con el contexto."
+        ],
+        "dba": [
+          "DBA–MAT–1–7 Describe y representa trayectorias y posiciones de objetos y personas para orientar a otros o a sí mismo en el espacio circundante.",
+          "DBA–MAT–1–5 Realiza medición de longitudes, capacidades, peso, entre otros, para ello utiliza instrumentos y unidades estandarizadas y no estandarizadas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Dibuja recorridos, para ello considera los giros y la lateralidad. (7)",
+          "(Saber Hacer) Compara distancias a partir de la observación del plano al estimar con pasos, baldosas, entre otros. (7)",
+          "(Saber Aplicar) Toma decisiones a partir de las mediciones realizadas y de acuerdo con los requerimientos del problema. (5)"
+        ],
+        "saberes": [
+          "Giros y lateralidad.",
+          "Estimación de medidas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto cualitativamente datos referidos a situaciones del entorno escolar."
+        ],
+        "dba": [
+          "DBA–MAT–1–10 Clasifica y organiza datos, los representa utilizando tablas de conteo y pictogramas sin escalas, y comunica los resultados obtenidos para responder preguntas sencillas."
+        ],
+        "evidencias": [
+          "(Saber Aplicar) Comunica los resultados respondiendo preguntas tales como: ¿cuántos hay en total?, ¿cuántos hay de cada dato?, ¿cuál es el dato que más se repite?, ¿cuál es el dato que menos aparece? (10)"
+        ],
+        "saberes": [
+          "Comunicación de datos presentes en tablas y pictogramas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "area": "Matemáticas",
+  "grado": "5",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Resuelvo y formulo problemas cuya estrategia de solución requiera de las relaciones y propiedades de los números naturales y sus operaciones.",
+          "Uso diversas estrategias de cálculo y de estimación para resolver problemas en situaciones aditivas y multiplicativas.",
+          "Represento y relaciono patrones numéricos con tablas y reglas verbales.",
+          "Analizo y explico relaciones de dependencia entre cantidades que varían en el tiempo con cierta regularidad en situaciones económicas, sociales y de las ciencias naturales."
+        ],
+        "dba": [
+          "DBA–MAT–5–1 Interpreta y utiliza los números naturales y las fracciones en su representación fraccionaria y decimal para formular y resolver problemas aditivos, multiplicativos y que involucren operaciones de potenciación.",
+          "DBA–MAT–5–8 Describe e interpreta variaciones de dependencia entre cantidades y las representa por medio de gráficas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta la relación parte - todo y la representa por medio de fracciones, razones o cocientes. (1)",
+          "(Saber Conocer) Determina las operaciones suficientes y necesarias para solucionar diferentes tipos de problemas. (1)",
+          "(Saber Conocer) Interpreta y utiliza números naturales y racionales (fraccionarios) asociados con un contexto para solucionar problemas. (1)",
+          "(Saber Hacer) Resuelve problemas que requieran reconocer un patrón de medida asociado a un número natural o a un racional (fraccionario). (1)",
+          "(Saber Hacer) Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta. (8)",
+          "(Saber Hacer) Trabaja sobre números desconocidos para dar respuestas a los problemas. (8)",
+          "(Saber Aplicar) Propone patrones de comportamiento numéricos y patrones de comportamientos gráficos. (8)"
+        ],
+        "saberes": [
+          "Relaciones parte todo.",
+          "Uso de números racionales y fraccionarios.",
+          "Planteamiento de patrones numéricos.",
+          "Empleo asertivo de operaciones para resolver problemas.",
+          "Resolución de problemas mediante el hallazgo de incógnitas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Identificó y justificó relaciones de congruencia y semejanza entre figuras.",
+          "Conjeturo y verificó los resultados de aplicar transformaciones a figuras en el plano para construir diseños.",
+          "Reconozco el uso de algunas magnitudes (longitud, área, volumen, capacidad, peso y masa, duración, rapidez, temperatura) y de algunas de las unidades que se usan para medir cantidades de la magnitud respectiva en situaciones aditivas y multiplicativas.",
+          "Describo y argumento relaciones entre el perímetro y el área de figuras diferentes, cuando se fija una de estas medidas."
+        ],
+        "dba": [
+          "DBA–MAT–5–6 Identifica y describe propiedades que caracterizan un cuerpo geométrico en términos de la bidimensionalidad y la tridimensionalidad y resuelve problemas en relación con la composición y descomposición de las formas.",
+          "DBA–MAT–5–4 Justifica relaciones entre superficie y volumen, respecto a dimensiones de figuras y sólidos, y elige las unidades apropiadas según el tipo de medición (directa e indirecta), los instrumentos y los procedimientos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona objetos tridimensionales y sus propiedades con sus respectivos desarrollos planos. (6)",
+          "(Saber Conocer) Reconoce relaciones intra e Inter figurales. (6)",
+          "(Saber Conocer) Reconoce diferentes distribuciones de plantillas de un cuerpo en una superficie, las formas en que pueden acoplarse o encajar, lee la información que presenta la plantilla del cuerpo o su representación en un plano. (6)",
+          "(Saber Conocer) Determina las medidas reales de una figura a partir de un registro gráfico (un plano). (4)",
+          "(Saber Hacer) Determina las medidas reales de una figura a partir de un registro gráfico (un plano). (6)",
+          "(Saber Hacer) Utiliza transformaciones a figuras en el plano para describirlas y calcular sus medidas. (6)",
+          "(Saber Hacer) Mide superficies y longitudes utilizando diferentes estrategias (composición, recubrimiento, bordeado, cálculo). (4)",
+          "(Saber Aplicar) Construye y descompone figuras planas y sólidos a partir de medidas establecidas. (6)",
+          "(Saber Aplicar) Realiza estimaciones y mediciones con unidades apropiadas según sea longitud, área o volumen. (4)",
+          "(Saber Aplicar) Construye y descompone figuras planas y sólidos a partir de medidas establecidas (4)"
+        ],
+        "saberes": [
+          "Relaciones intra e inter figurales.",
+          "Cálculo de medidas reales mediante el uso de planos.",
+          "Estrategias para medir superficies.",
+          "Emplea transformaciones de figuras para determinar sus medidas reales.",
+          "Manejo de escalas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto información presentada en tablas y gráfica (pictogramas, gráfica de barras, diagramas de líneas, diagramas circulares).",
+          "Uso e interpreto la media (o promedio) y la mediana y comparo lo que indican."
+        ],
+        "dba": [
+          "DBA–MAT–5–10 Formula preguntas que requieren comparar dos grupos de datos, para lo cual recolecta, organiza y usa tablas de frecuencia, gráficos de barras, circulares, de línea, entre otros. Analiza la información presentada y comunica los resultados.",
+          "DBA–MAT–5–11 Utiliza las medidas de tendencia central para resolver problemas en los que se requiere presentar o resumir el comportamiento de un conjunto de datos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta la información obtenida y produce conclusiones que le permiten comparar dos grupos de datos de una misma población. (10)",
+          "(Saber Hacer) Registra, organiza y presenta la información recolectada usando tablas, gráficos de barras, gráficos de línea y gráficos circulares. (10)",
+          "(Saber Hacer) Interpreta y encuentra la media y la mediana en un conjunto de datos usando estrategias gráficas y numéricas. (11)",
+          "(Saber Hacer) Explica la información que brinda cada medida en relación con el conjunto de datos. (11)",
+          "(Saber Aplicar) Formula preguntas y elabora encuestas para obtener los datos requeridos e identifica quiénes deben responder. (10)",
+          "(Saber Aplicar) Selecciona los gráficos teniendo en cuenta el tipo de datos que se va a representar. (10)",
+          "(Saber Aplicar) Escribe informes sencillos en los que compara la distribución de dos grupos de datos. (10)"
+        ],
+        "saberes": [
+          "Diseño, recolección de datos para estudios estadísticos.",
+          "Media y mediana"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Resuelvo y formulo problemas en situaciones de proporcionalidad directa, inversa y producto de medidas.",
+          "Identificó la potenciación y la radicación en contextos matemáticos y no matemáticos.",
+          "Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos."
+        ],
+        "dba": [
+          "DBA–MAT–5–2 Describe y desarrolla estrategias (algoritmos, propiedades de las operaciones básicas y sus relaciones) para hacer estimaciones y cálculos al solucionar problemas de potenciación.",
+          "DBA–MAT–5–9 Utiliza operaciones no convencionales, encuentra propiedades y resuelve ecuaciones en donde están involucradas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y utiliza las propiedades de la potenciación para resolver problemas aritméticos. (2)",
+          "(Saber Conocer) Interpreta y opera con operaciones no convencionales. (9)",
+          "(Saber Hacer) Utiliza las propiedades de las operaciones con números naturales y racionales (fraccionarios) para justificar algunas estrategias de cálculo o estimación relacionados con áreas de cuadrados y volúmenes de cubos. (2)",
+          "(Saber Hacer) Descompone un número en sus factores primos. (2)",
+          "(Saber Hacer) Explora y busca propiedades de tales operaciones. (9)",
+          "(Saber Aplicar) Determina y argumenta acerca de la validez o no de estrategias para calcular potencias. (2)"
+        ],
+        "saberes": [
+          "Propiedades de los números naturales y fraccionarios.",
+          "Operaciones no convencionales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Utilizo sistemas de coordenadas para especificar localizaciones y describir relaciones espaciales.",
+          "Describo y argumento relaciones entre el perímetro y el área de figuras diferentes, cuando se fija una de estas medidas.",
+          "Justifico relaciones de dependencia del área y volumen, respecto a las dimensiones de figuras y sólidos."
+        ],
+        "dba": [
+          "DBA–MAT–5–7 Resuelve y propone situaciones en las que es necesario describir y localizar la posición y la trayectoria de un objeto con referencia al plano cartesiano.",
+          "DBA–MAT–5–5 Explica las relaciones entre el perímetro y el área de diferentes figuras (variaciones en el perímetro no implican variaciones en el área y viceversa) a partir de mediciones, superposición de figuras, cálculo, entre otras."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Localiza puntos en un mapa a partir de coordenadas cartesianas. (7)",
+          "(Saber Conocer) Interpreta los elementos de un sistema de referencia (ejes, cuadrantes, coordenadas). (7)",
+          "(Saber Hacer) Grafica en el plano cartesiano la posición de un objeto considerando los elementos de un sistema de referencia. (7)",
+          "(Saber Hacer) Compara diferentes figuras a partir de las medidas de sus lados. (5)",
+          "(Saber Hacer) Calcula las medidas de los lados de una figura a partir de su área. (5)",
+          "(Saber Aplicar) Dibuja figuras planas cuando se dan las medidas de los lados. (5)"
+        ],
+        "saberes": [
+          "Coordenadas cartesianas",
+          "Diseño de figuras planas.",
+          "Comparación de diferentes figuras geométricas con base a sus lados."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Describo la manera como parecen distribuirse los distintos datos de un conjunto de ellos y la comparo con la manera como se distribuyen en otros conjuntos de datos."
+        ],
+        "dba": [
+          "DBA–MAT–5–11 Utiliza las medidas de tendencia central para resolver problemas en los que se requiere presentar o resumir el comportamiento de un conjunto de datos."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Selecciona una de las medidas como la más representativa del comportamiento del conjunto de datos estudiado. (11)",
+          "(Saber Aplicar) Argumenta la selección realizada empleando semejanzas y diferencias entre lo que cada una de las medidas indica. (11)"
+        ],
+        "saberes": [
+          "Selección adecuada de medidas estadísticas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Identificó y uso medidas relativas en distintos contextos.",
+          "Modelo situaciones de dependencia mediante la proporcionalidad directa e inversa.",
+          "Identificó, en el contexto de una situación, la necesidad de un cálculo exacto o aproximado y lo razonable de los resultados obtenidos.",
+          "Justifico regularidades y propiedades de los números, sus relaciones y operaciones.",
+          "Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos."
+        ],
+        "dba": [
+          "DBA–MAT–5–3 Compara y ordena fracciones (en sus representaciones fraccionaria y decimal) a través de diversas interpretaciones y representaciones.",
+          "DBA–MAT–5–9 Utiliza operaciones no convencionales, encuentra propiedades y resuelve ecuaciones en donde están involucradas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Representa fracciones con la ayuda de la recta numérica. (3)",
+          "(Saber Hacer) Determina criterios para ordenar fracciones y expresiones decimales de mayor a menor o viceversa. (3)",
+          "(Saber Hacer) Compara las propiedades de las operaciones convencionales de suma, resta, producto y división con las propiedades de las operaciones no convencionales. (9)",
+          "(Saber Hacer) Resuelve ecuaciones numéricas cuando se involucran operaciones no convencionales. (9)"
+        ],
+        "saberes": [
+          "Representación de fracciones en la recta numérica.",
+          "Orden de fracciones.",
+          "Proporcionalidad directa e inversa.",
+          "Comparación entre operaciones convencionales y no convencionales.",
+          "Resolución de ecuaciones numéricas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Identificó, represento y utilizo ángulos en giros, aberturas, inclinaciones, figuras, puntas y esquinas en situaciones estáticas y dinámicas.",
+          "Construyo objetos tridimensionales a partir de representaciones bidimensionales y puedo realizar el proceso contrario en contextos de arte, diseño y arquitectura.",
+          "Utilizo y justificó el uso de la estimación para resolver problemas relativos a la vida social, económica y de las ciencias, utilizando rangos de variación.",
+          "Utilizo diferentes procedimientos de cálculo para hallar el área de la superficie exterior y el volumen de algunos cuerpos sólidos."
+        ],
+        "dba": [
+          "DBA–MAT–5–7 Resuelve y propone situaciones en las que es necesario describir y localizar la posición y la trayectoria de un objeto con referencia al plano cartesiano.",
+          "DBA–MAT–5–5 Explica las relaciones entre el perímetro y el área de diferentes figuras (variaciones en el perímetro no implican variaciones en el área y viceversa) a partir de mediciones, superposición de figuras, cálculo, entre otras."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Representa en forma gráfica y simbólica la localización y trayectoria de un objeto. (7)",
+          "(Saber Conocer) Reconoce que figuras con áreas diferentes pueden tener el mismo perímetro. (5)",
+          "(Saber Hacer) Mide superficies y longitudes utilizando diferentes estrategias (composición, recubrimiento, bordeado, cálculo). (5)",
+          "(Saber Aplicar) Emplea el plano cartesiano al plantear y resolver situaciones de localización. (7)",
+          "(Saber Aplicar) Propone estrategias para la solución de problemas relativos a la medida de la superficie de figuras planas. (5)"
+        ],
+        "saberes": [
+          "Resolución de problemas mediante el plano cartesiano.",
+          "Estrategias de resolución de problemas para calcular superficies de figuras planas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Resuelvo y formulo problemas a partir de un conjunto de datos provenientes de observaciones, consultas o experimentos"
+        ],
+        "dba": [
+          "DBA–MAT–5–12 Predice la posibilidad de ocurrencia de un evento simple a partir de la relación entre los elementos del espacio muestral y los elementos del evento definido."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Enumera todos los posibles resultados de un experimento aleatorio simple. (12)",
+          "(Saber Conocer) Identifica y enumera los resultados favorables de ocurrencia de un evento simple. (12)",
+          "(Saber Conocer) Reconoce situaciones aleatorias en contextos cotidianos. (12)",
+          "(Saber Aplicar) Anticipa la ocurrencia de un evento simple. (12)"
+        ],
+        "saberes": [
+          "Experimentos aleatorios."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

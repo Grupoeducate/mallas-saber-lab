@@ -1,0 +1,247 @@
+{
+  "area": "Matemáticas",
+  "grado": "11",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Reconozco la densidad e incompletitud de los números racionales a través de métodos numéricos, geométricos y algebraicos.",
+          "Establezco relaciones y diferencias entre diferentes notaciones de números reales para decidir sobre su uso en una situación dada.",
+          "Utilizo las técnicas de aproximación en procesos infinitos numéricos.",
+          "Interpreto la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrollo métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos."
+        ],
+        "dba": [
+          "DBA–MAT–11–1 Utiliza las propiedades de los números (naturales, enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar los distintos sistemas numéricos.",
+          "DBA–MAT–11–3 Utiliza instrumentos, unidades de medida, sus relaciones y la noción de derivada como razón de cambio, para resolver problemas, estimar cantidades y juzgar la pertinencia de las soluciones de acuerdo con el contexto.",
+          "DBA–MAT–11–8 Encuentra derivadas de funciones, reconoce sus propiedades y las utiliza para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe propiedades de los números y las operaciones que son comunes y diferentes en los distintos sistemas numéricos. (1)",
+          "(Saber Conocer) Reconoce magnitudes definidas como razones entre otras magnitudes. (3)",
+          "(Saber Conocer) Interpreta y expresa magnitudes como velocidad y aceleración, con las unidades respectivas y las relaciones entre ellas (3)",
+          "(Saber Hacer) Utiliza e interpreta la derivada para resolver problemas relacionados con la variación y la razón de cambio de funciones que involucran magnitudes como velocidad, aceleración, longitud, tiempo. (3)",
+          "(Saber Hacer) Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos. (3)",
+          "(Saber Hacer) Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva. (8)",
+          "(Saber Aplicar) Utiliza la propiedad de densidad para justificar la necesidad de otras notaciones para subconjuntos de los números reales. (1)",
+          "(Saber Aplicar) Construye representaciones de los conjuntos numéricos y establece relaciones acordes con sus propiedades (1)"
+        ],
+        "saberes": [
+          "Sistemas numéricos: naturales, enteros, racionales, reales y complejos.",
+          "Correspondencia entre los números reales y los puntos de una recta.",
+          "Modelos funcionales.",
+          "Concepto de derivadas.",
+          "Derivadas y funciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Reconozco y describo curvas y o lugares geométricos.",
+          "Identifico en forma visual, gráfica y algebraica algunas propiedades de las curvas que se observan en los bordes obtenidos por cortes longitudinales, diagonales y transversales en un cilindro y en un cono.",
+          "Justifico resultados obtenidos mediante procesos de aproximación sucesiva, rangos de variación y límites en situaciones de medición."
+        ],
+        "dba": [
+          "DBA–MAT–11–7 Usa propiedades y modelos funcionales para analizar situaciones y para establecer relaciones funcionales entre variables que permiten estudiar la variación en situaciones intraescolares y extraescolares.",
+          "DBA–MAT–11–5 Interpreta la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrolla métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona el signo de la derivada con características numéricas, geométricas y métricas. (7)",
+          "(Saber Conocer) Relaciona la noción derivada con características numéricas, geométricas y métricas. (5)",
+          "(Saber Hacer) Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función. (7)",
+          "(Saber Hacer) Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva. (7)",
+          "(Saber Hacer) Halla la derivada de algunas funciones empleando métodos gráficos y numéricos. (5)",
+          "(Saber Hacer) Utiliza la derivada para estudiar la covariación entre dos magnitudes y relaciona características de la derivada con características de la función. (5)",
+          "(Saber Aplicar) Plantea modelos funcionales en los que identifica variables y rangos de variación de las variables. (7)",
+          "(Saber Aplicar) Utiliza la derivada para estudiar la covariación entre dos magnitudes y relaciona características de la derivada con características de la función. (5)"
+        ],
+        "saberes": [
+          "Limites.",
+          "Métodos para hallar las derivadas de diferentes funciones.",
+          "Cortes longitudinales y transversales de figuras geométricas y su relación con las derivadas.",
+          "Razones de cambio."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Uso comprensivamente algunas medidas de centralización, localización, dispersión y correlación (percentiles, cuartiles, centralidad, distancia, rango, varianza, covarianza y normalidad).",
+          "Diseño experimentos aleatorios (de las ciencias físicas, naturales o sociales) para estudiar un problema o pregunta.",
+          "Justifico o refuto inferencias basadas en razonamientos estadísticos a partir de resultados de estudios publicados en los medios o diseñados en el ámbito escolar."
+        ],
+        "dba": [
+          "DBA–MAT–11–9 Plantea y resuelve situaciones problemáticas del contexto real y/o matemático que implican la exploración de posibles asociaciones o correlaciones entre las variables estudiadas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Elabora gráficos de dispersión usando software adecuado como Excel y analiza las relaciones que se visibilizan en el gráfico. (9)",
+          "(Saber Hacer) Expresa cualitativamente las relaciones entre las variables, para lo cual utiliza su conocimiento de los modelos lineales. (9)",
+          "(Saber Hacer) Usa adecuadamente la desviación estándar, la media el coeficiente de variación y el de correlación para dar respuesta a la pregunta planteada. (9)",
+          "(Saber Aplicar) En situaciones matemáticas plantea preguntas que indagan por la correlación o la asociación entre variables. (9)",
+          "(Saber Aplicar) Define el plan de recolección de la información, en el que se incluye: definición de población y muestra, método para recolectar la información (encuestas, observaciones o experimentos simples), variables a estudiar. (9)"
+        ],
+        "saberes": [
+          "Medidas de centralización, localización, dispersión y correlación."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Establezco relaciones y diferencias entre diferentes notaciones de números reales para decidir sobre su uso en una situación dada.",
+          "Interpreto la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrollo métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos."
+        ],
+        "dba": [
+          "DBA–MAT–11–2 Justifica la validez de las propiedades de orden de los números reales y las utiliza para resolver problemas analíticos que se modelen con inecuaciones.",
+          "DBA–MAT–11–8 Encuentra derivadas de funciones, reconoce sus propiedades y las utiliza para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Utiliza propiedades del producto de números Reales para resolver ecuaciones e inecuaciones. (2)",
+          "(Saber Hacer) Utiliza la derivada para estudiar la variación y relaciona características de la derivada con características de la función. (8)"
+        ],
+        "saberes": [
+          "Inecuaciones y ecuaciones.",
+          "Razones de cambio.",
+          "La derivada y sus aplicaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Identifico características de localización de objetos geométricos en sistemas de representación cartesiana y otros (polares, cilíndricos y esféricos) y en particular de las curvas y figuras cónicas.",
+          "Diseño estrategias para abordar situaciones de medición que requieran grados de precisión específicos."
+        ],
+        "dba": [
+          "DBA–MAT–11–6 Modela objetos geométricos en diversos sistemas de coordenadas (cartesiano, polar, esférico) y realiza comparaciones y toma decisiones con respecto a los modelos.",
+          "DBA–MAT–11–4 Interpreta y diseña técnicas para hacer mediciones con niveles crecientes de precisión (uso de diferentes instrumentos para la misma medición, revisión de escalas y rangos de medida, estimaciones, verificaciones a través de mediciones indirectas)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce y utiliza distintos sistemas de coordenadas para modelar. (6)",
+          "(Saber Conocer) Interpreta la rapidez como una razón de cambio entre dos cantidades. (4)",
+          "(Saber Aplicar) Justifica la precisión de una medición directa o indirecta de acuerdo con información suministrada en gráficas y tablas. (4)"
+        ],
+        "saberes": [
+          "Coordenadas cartesianas y polares.",
+          "Definiciones y teoremas básicos de la geometría.",
+          "Usar propiedades geométricas para plantear y resolver problemas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto conceptos de probabilidad condicional e independencia de eventos.",
+          "Resuelvo y planteo problemas usando conceptos básicos de conteo y probabilidad."
+        ],
+        "dba": [
+          "DBA–MAT–11–10 Plantea y resuelve problemas en los que se reconoce cuando dos eventos son o no independientes y usa la probabilidad condicional para comprobarlo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los diferentes eventos que se proponen en una situación o problema. (10)",
+          "(Saber Aplicar) Propone problemas a estudiar en variedad de situaciones aleatorias. (10)"
+        ],
+        "saberes": [
+          "Probabilidad condicional."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Establezco relaciones y diferencias entre diferentes notaciones de números reales para decidir sobre su uso en una situación dada.",
+          "Interpreto la noción de derivada como razón de cambio y como valor de la pendiente de la tangente a una curva y desarrollo métodos para hallar las derivadas de algunas funciones básicas en contextos matemáticos y no matemáticos."
+        ],
+        "dba": [
+          "DBA–MAT–11–2 Justifica la validez de las propiedades de orden de los números reales y las utiliza para resolver problemas analíticos que se modelen con inecuaciones.",
+          "DBA–MAT–11–8 Encuentra derivadas de funciones, reconoce sus propiedades y las utiliza para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta las operaciones en diversos dominios numéricos para validar propiedades de ecuaciones e inecuaciones. (2)",
+          "(Saber Hacer) Calcula derivadas de funciones. (8)"
+        ],
+        "saberes": [
+          "Inecuaciones.",
+          "Derivadas y su relación con la física y economía."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Uso argumentos geométricos para resolver y formular problemas en contextos matemáticos y en otras ciencias.",
+          "Diseño estrategias para abordar situaciones de medición que requieran grados de precisión específicos."
+        ],
+        "dba": [
+          "DBA–MAT–11–6 Modela objetos geométricos en diversos sistemas de coordenadas (cartesiano, polar, esférico) y realiza comparaciones y toma decisiones con respecto a los modelos.",
+          "DBA–MAT–11–4 Interpreta y diseña técnicas para hacer mediciones con niveles crecientes de precisión (uso de diferentes instrumentos para la misma medición, revisión de escalas y rangos de medida, estimaciones, verificaciones a través de mediciones indirectas)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Determina las unidades e instrumentos adecuados para mejorar la precisión en las mediciones. (4)",
+          "(Saber Conocer) Reconoce la diferencia entre la precisión y la exactitud en procesos de medición. (4)",
+          "(Saber Hacer) Compara objetos geométricos, a partir de puntos de referencia diferentes. (6)",
+          "(Saber Hacer) Explora el entorno y lo representa mediante diversos sistemas de coordenadas. (6)",
+          "(Saber Aplicar) Establece conclusiones pertinentes con respecto a la precisión de mediciones en contextos específicos (científicos, industriales). (4)"
+        ],
+        "saberes": [
+          "Definiciones y teoremas básicos de la geometría.",
+          "Área por debajo de una parábola y longitud de una elipse.",
+          "Aproximaciones sucesivas de segmentos o de rectángulos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto conceptos de probabilidad condicional e independencia de eventos.",
+          "Resuelvo y planteo problemas usando conceptos básicos de conteo y probabilidad."
+        ],
+        "dba": [
+          "DBA–MAT–11–10 Plantea y resuelve problemas en los que se reconoce cuando dos eventos son o no independientes y usa la probabilidad condicional para comprobarlo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta y asigna la probabilidad de cada evento. (10)",
+          "(Saber Hacer) Usa la probabilidad condicional de cada evento para decidir si son o no independientes. (10)"
+        ],
+        "saberes": [
+          "Teorema de bayes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

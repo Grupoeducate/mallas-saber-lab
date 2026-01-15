@@ -1,0 +1,252 @@
+{
+  "area": "Matemáticas",
+  "grado": "9",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Utilizo la notación científica para representar medidas de cantidades de diferentes magnitudes.",
+          "Identificó y utilizo la potenciación, la radicación y la logaritmación para representar situaciones matemáticas y no matemáticas y para resolver problemas.",
+          "Identifico diferentes métodos para solucionar sistemas de ecuaciones lineales.",
+          "Identifico y utilizo diferentes maneras de definir y medir la pendiente de una curva que representa en el plano cartesiano situaciones de variación."
+        ],
+        "dba": [
+          "DBA–MAT–9–1 Utiliza los números reales (sus operaciones, relaciones y propiedades) para resolver problemas con expresiones polinómicas.",
+          "DBA–MAT–9–2 Propone y desarrolla expresiones algebraicas en el conjunto de los números reales y utiliza las propiedades de la igualdad y de orden para determinar el conjunto solución de relaciones entre tales expresiones.",
+          "DBA–MAT–9–8 Utiliza expresiones numéricas, algebraicas o gráficas para hacer descripciones de situaciones concretas y tomar decisiones con base en su interpretación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Considera el error que genera la aproximación de un número real a partir de números racionales. (1)",
+          "(Saber Conocer) Identifica la diferencia entre exactitud y aproximación en las diferentes representaciones de los números reales. (1)",
+          "(Saber Conocer) Identifica y utiliza múltiples representaciones de números reales para realizar transformaciones y comparaciones entre expresiones algebraicas. (2)",
+          "(Saber Conocer) Reconoce que las letras pueden representar números y cantidades, y que se pueden operar con ellas y sobre ellas. (8)",
+          "(Saber Hacer) Determina y describe relaciones al comparar características de gráficas y expresiones algebraicas o funciones. (2)",
+          "(Saber Hacer) Interpreta expresiones numéricas, algebraicas o gráficas y toma decisiones con base en su interpretación. (8)",
+          "(Saber Hacer) Opera con formas simbólicas que representan cantidades. (8)",
+          "(Saber Aplicar) Construye representaciones geométricas y numéricas de los números reales (con decimales, raíces, razones, y otros símbolos. (1)",
+          "(Saber Aplicar) Establece conjeturas al resolver una situación problema, apoyado en propiedades y relaciones entre números reales. (2)"
+        ],
+        "saberes": [
+          "Notación científica.",
+          "Redondeo de números.",
+          "Representaciones de los números reales.",
+          "Métodos de solución de ecuaciones lineales.",
+          "Relaciones entre potenciación, radicación y logarit mación.",
+          "Representación y cálculos de la pendiente de una línea recta"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Aplico y justifico criterios de congruencias y semejanza entre triángulos en la resolución y formulación de problemas.",
+          "Justifico la pertinencia de utilizar unidades de medida estandarizadas en situaciones tomadas de distintas ciencias."
+        ],
+        "dba": [
+          "DBA–MAT–9–6 Conjetura acerca de las regularidades de las formas bidimensionales y tridimensionales y realiza inferencias a partir de los criterios de semejanza, congruencia y teoremas básicos.",
+          "DBA–MAT–9–4 Identifica y utiliza relaciones entre el volumen y la capacidad de algunos cuerpos redondos (cilindro, cono y esfera) con referencia a las situaciones escolares y extraescolares."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce regularidades en formas bidimensionales y tridimensionales. (6)",
+          "(Saber Conocer) Reconoce que para medir la capacidad y el peso se hacen comparaciones con la capacidad de recipientes de diferentes tamaños y con paquetes de diferentes pesos, respectivamente. (4)",
+          "(Saber Conocer) Identifica unidades y los instrumentos para medir peso y capacidad, y establece relaciones entre ellos. (4)",
+          "(Saber Hacer) Explica criterios de semejanza y congruencia a partir del teorema de Thales. (6)",
+          "(Saber Hacer) Compara y representa las relaciones que encuentra de manera experimental entre el volumen y la capacidad de objetos con superficies redondas. (4)",
+          "(Saber Hacer) Explica la pertinencia o no de la solución de un problema de cálculo de área o de volumen, de acuerdo con las condiciones de la situación. (4)",
+          "(Saber Aplicar) Compara figuras geométricas y conjetura sobre posibles regularidades. (6)",
+          "(Saber Aplicar) Redacta y argumenta procesos llevados a cabo para resolver situaciones de semejanza y congruencia de figuras.(6)",
+          "(Saber Aplicar) Estima la capacidad de objetos con superficies redondas. (4)",
+          "(Saber Aplicar) Construye cuerpos redondos usando diferentes estrategias. (4)"
+        ],
+        "saberes": [
+          "Identificar patrones en formas bidimensionales y tridimensionales.",
+          "Uso del teorema de Thales para la explicación de criterios de semejanza y congruencia.",
+          "Estimar la capacidad de cilindros, conos, esferas.",
+          "Construcción de cuerpos redondos",
+          "Comparación de la capacidad de cuerpos redondos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Selecciono y uso algunos métodos estadísticos adecuados al tipo de problema, de información y al nivel de la escala en la que esta se representa (nominal, ordinal, de intervalo o de razón).",
+          "Resuelvo y formulo problemas seleccionando información relevante en conjuntos de datos provenientes de fuentes diversas.",
+          "Reconozco tendencias que se presentan en conjuntos de variables relacionadas."
+        ],
+        "dba": [
+          "DBA–MAT–9–10 Propone un diseño estadístico adecuado para resolver una pregunta que indaga por la comparación sobre las distribuciones de dos grupos de datos, para lo cual usa comprensivamente diagramas de caja, medidas de tendencia central, de variación y de localización."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Define el método para recolectar los datos (encuestas, observación o experimento simple) e identifica la población y el tamaño de la muestra del estudio. (10)",
+          "(Saber Hacer) Compara las distribuciones de los conjuntos de datos a partir de las medidas de tendencia central, las de variación y las de localización. (10)",
+          "(Saber Aplicar) Construye diagramas de caja y a partir de los resultados representados en ellos describe y compara la distribución de un conjunto de datos. (10)",
+          "(Saber Aplicar) Elabora conclusiones para responder el problema planteado. (10)"
+        ],
+        "saberes": [
+          "Técnicas de muestreo.",
+          "Diagramas de cajas y bigotes.",
+          "Distribución normal"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Identificó y utilizo la potenciación, la radicación y la logaritmación para representar situaciones ma temáticas y no matemáticas y para resolver problemas.",
+          "Identifico la relación entre los cambios en los parámetros de la representación algebraica de una familia de funciones y los cambios en las gráficas que las representan."
+        ],
+        "dba": [
+          "DBA–MAT–9–3 Utiliza los números reales, sus operaciones, relaciones y representaciones para analizar procesos infinitos y resolver problemas.",
+          "DBA–MAT–9–9 Utiliza procesos inductivos y lenguaje simbólico o algebraico para formular, proponer y resolver conjeturas en la solución de problemas numéricos, geométricos, métricos, en situaciones cotidianas y no cotidianas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Encuentra las relaciones y propiedades que determinan la formación de secuencias numéricas. (3)",
+          "(Saber Hacer) Efectúa exploraciones, organiza los resultados de las mismas y propone patrones de comportamiento. (9)",
+          "(Saber Aplicar) Propone conjeturas sobre configuraciones geométricas o numéricas y las expresa verbal o simbólicamente. (9)"
+        ],
+        "saberes": [
+          "Secuencias numéricas.",
+          "Resolución de problemas con potenciación y radicación.",
+          "Familias de funciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Uso representaciones geométricas para resolver y formular problemas en las matemáticas y en otras disciplinas.",
+          "Justifico la pertinencia de utilizar unidades de medida estandarizadas en situaciones tomadas de distintas ciencias."
+        ],
+        "dba": [
+          "DBA–MAT–9–7 Interpreta el espacio de manera analítica a partir de relaciones geométricas que se establecen en las trayectorias y desplazamientos de los cuerpos en diferentes situaciones.",
+          "DBA–MAT–9–5 Utiliza teoremas, propiedades y relaciones geométricas (teorema de Thales y el teorema de Pitágoras) para proponer y justificar estrategias de medición y cálculo de longitudes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe verbalmente procesos de trayectorias y de desplazamiento. (7)",
+          "(Saber Conocer) Describe y justifica procesos de medición de longitudes. (5)",
+          "(Saber Hacer) Explica propiedades de figuras geométricas que se involucran en los procesos de medición. (5)",
+          "(Saber Aplicar) Justifica procedimientos de medición a partir del Teorema de Thales, Teorema de Pitágoras y relaciones intra e Inter figurales. (5)"
+        ],
+        "saberes": [
+          "Trayectoria y desplazamiento.",
+          "El uso de teorema de Pitágoras y Thales como es trategias de medición."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Calculo probabilidad de eventos simples usando métodos diversos (listados, diagramas de árbol, técnicas de conteo)."
+        ],
+        "dba": [
+          "DBA–MAT–9–11 Encuentra el número de posibles resultados de experimentos aleatorios, con reemplazo y sin re emplazo, usando técnicas de conteo adecuadas, y argumenta la selección realizada en el contexto de la situación abordada. Encuentra la probabilidad de eventos aleatorios compuestos."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Diferencia experimentos aleatorios realizados con reemplazo, de experimentos aleatorios realizados sin reemplazo. (11)",
+          "(Saber Hacer) Encuentra el número de posibles resultados de un experimento aleatorio, usando métodos adecuados (diagramas de árbol, combinaciones, permutaciones, regla de la multiplicación, etc.). (11)"
+        ],
+        "saberes": [
+          "Cálculo de probabilidades con muestras sin rempla zo y con remplazo.",
+          "Diferentes métodos para determinar el tamaño de una muestra."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Identificó y utilizo la potenciación, la radicación y la logaritmación para representar situaciones ma temáticas y no matemáticas y para resolver problemas.",
+          "Analizo los procesos infinitos que subyacen en las notaciones decimales.",
+          "Analizo en representaciones gráficas cartesianas los comportamientos de cambio de funciones espe cíficas pertenecientes a familias de funciones poli nómicas, racionales, exponenciales y logarítmicas."
+        ],
+        "dba": [
+          "DBA–MAT–9–3 Utiliza los números reales, sus operaciones, relaciones y representaciones para analizar procesos infinitos y resolver problemas.",
+          "DBA–MAT–9–9 Utiliza procesos inductivos y lenguaje simbólico o algebraico para formular, proponer y resolver conjeturas en la solución de problemas numéricos, geométricos, métricos, en situaciones cotidianas y no cotidianas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta expresiones numéricas y toma decisiones con base en su interpretación. (9)",
+          "(Saber Hacer) Determina y utiliza la expresión general de una sucesión para calcular cualquier valor de esta y para compararla con otras sucesiones. (3)",
+          "(Saber Aplicar) Valida las conjeturas y explica sus conclusiones. (9)"
+        ],
+        "saberes": [
+          "Expresiones generales de sucesiones numéricas.",
+          "Modelación de procesos infinitos mediante el em pleo de diferentes sucesiones",
+          "Funciones polinómicas, racionales, exponenciales y logarítmicas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Uso representaciones geométricas para resolver y formular problemas en las matemáticas y en otras disciplinas.",
+          "Justifico la pertinencia de utilizar unidades de me dida estandarizadas en situaciones tomadas de distintas ciencias."
+        ],
+        "dba": [
+          "DBA–MAT–9–7 Interpreta el espacio de manera analítica a partir de relaciones geométricas que se establecen en las trayectorias y desplazamientos de los cuerpos en diferentes situaciones.",
+          "DBA–MAT–9–5 Utiliza teoremas, propiedades y relaciones geomé tricas (teorema de Thales y el teorema de Pitágoras) para proponer y justificar estrategias de medición y cálculo de longitudes."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica y representa gráficamente la variación del movimiento de diferentes objetos. (7)",
+          "(Saber Hacer) Valida la precisión de instrumentos para medir lon gitudes. (5)",
+          "(Saber Aplicar) Propone alternativas para estimar y medir con pre cisión diferentes magnitudes. (5)"
+        ],
+        "saberes": [
+          "Representación gráfica de vectores.",
+          "El uso de teorema de Pitágoras y Thales como es trategias de medición"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Calculo probabilidad de eventos simples usando métodos diversos (listados, diagramas de árbol, técnicas de conteo)."
+        ],
+        "dba": [
+          "DBA–MAT–9–11 Encuentra el número de posibles resultados de experimentos aleatorios, con reemplazo y sin re emplazo, usando técnicas de conteo adecuadas, y argumenta la selección realizada en el contexto de la situación abordada. Encuentra la probabilidad de eventos aleatorios compuestos."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Encuentra la probabilidad de eventos dados usando razón entre frecuencias. (11)",
+          "(Saber Aplicar) Justifica la elección de un método particular de acuerdo al tipo de situación. (11)"
+        ],
+        "saberes": [
+          "Métodos de muestreo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "area": "Matemáticas",
+  "grado": "7",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Formulo y resuelvo problemas en situaciones aditivas y multiplicativas, en diferentes contextos y dominios numéricos.",
+          "Resuelvo y formulo problemas cuya solución requiere de la potenciación o radicación.",
+          "Justifico la pertinencia de un cálculo exacto o aproximado en la solución de un problema y lo razonable o no de las respuestas obtenidas.",
+          "Utilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones."
+        ],
+        "dba": [
+          "DBA–MAT–7–1 Comprende y resuelve problemas, que involucran los números racionales con las operaciones (suma, resta, multiplicación, división, potenciación, radicación) en contextos escolares y extraescolares.",
+          "DBA–MAT–7–2 Describe y utiliza diferentes algoritmos, convencionales y no convencionales, al realizar operaciones entre números racionales en sus diferentes representaciones (fracciones y decimales) y los emplea con sentido en la solución de problemas.",
+          "DBA–MAT–7–7 Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe situaciones en las que los números enteros y racionales con sus operaciones están presentes. (1)",
+          "(Saber Conocer) Representa los números enteros y racionales en una recta numérica. (2)",
+          "(Saber Hacer) Utiliza los signos “positivo” y “negativo” para describir cantidades relativas con números enteros y racionales. (1)",
+          "(Saber Hacer) Resuelve problemas en los que se involucran variaciones porcentuales/ (1).",
+          "(Saber Aplicar) Estima el valor de una raíz cuadrada y de una potencia. (2)",
+          "(Saber Aplicar) Construye representaciones geométricas y pictóricas para ilustrar relaciones entre cantidades. (2)",
+          "(Saber Aplicar) Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados. (7)",
+          "(Saber Aplicar) Plantea modelos algebraicos, gráficos o numéricos en los que identifica variables y rangos de variación de las variables. (7)"
+        ],
+        "saberes": [
+          "Operaciones entre fracciones. División entre dos fracciones.",
+          "Números negativos. Significado, representación y comparación.",
+          "Enteros, racionales, comparación y operaciones.",
+          "Potenciación y radicación.",
+          "Ecuaciones sencillas.",
+          "Método de complementación, ensayo y error para solucionar ecuaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Predigo y comparo los resultados de aplicar transformaciones rígidas (traslaciones, rotaciones, reflexiones) y homotecias (ampliaciones y reducciones) sobre figuras bidimensionales en situaciones matemáticas y en el arte.",
+          "Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas)."
+        ],
+        "dba": [
+          "DBA–MAT–7–5 Observa objetos tridimensionales desde diferentes puntos de vista, los representa según su ubicación y los reconoce cuando se transforman mediante rotaciones, traslaciones y reflexiones.",
+          "DBA–MAT–7–4 Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Establece relaciones entre la posición y las vistas de un objeto. (5)",
+          "(Saber Conocer) Reconoce e interpreta la representación de un objeto. (5)",
+          "(Saber Conocer) Identifica los tipos de escalas y selecciona la adecuada para la elaboración de planos de acuerdo con el formato o espacio disponible para dibujar. (4)",
+          "(Saber Hacer) Expresa la misma medida con diferentes unidades según el contexto. (4)"
+        ],
+        "saberes": [
+          "Translaciones, rotaciones, reflexiones.",
+          "Identificar algunas propiedades geométricas en figuras planas y sólidos.",
+          "Escalas.",
+          "Identificar las escalas en un mapa.",
+          "Expresión de medidas con diferentes unidades"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Resuelvo y formulo problemas a partir de un conjunto de datos presentados en tablas, diagramas de barras, diagramas circulares.",
+          "Uso medidas de tendencia central (media, mediana, moda) para interpretar comportamiento de un conjunto de datos."
+        ],
+        "dba": [
+          "DBA–MAT–7–8 Plantea preguntas para realizar estudios estadísticos en los que representa información mediante histogramas, polígonos de frecuencia, gráficos de línea entre otros; identifica variaciones, relaciones o tendencias para dar respuesta a las preguntas planteadas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Encuentra e interpreta las medidas de tendencia central y el rango en datos agrupados, empleando herramientas tecnológicas cuando sea posible. (8)",
+          "(Saber Conocer) Analiza la información presentada identificando variaciones, relaciones o tendencias y elabora conclusiones que permiten responder la pregunta planteada. (8)",
+          "(Saber Hacer) Plantea preguntas, diseña y realiza un plan para recolectar la información pertinente. (8)",
+          "(Saber Hacer) Construye tablas de frecuencia y gráficos (histogramas, polígonos de frecuencia, gráficos de línea, entre otros), para datos agrupados usando, calculadoras o software adecuado. (8)"
+        ],
+        "saberes": [
+          "Muestreo aleatorio",
+          "Cálculo de la Media, mediana, moda, rango, Mediante herramientas tecnológicas",
+          "Representación gráfica de frecuencias absolutas y relativas, para datos agrupados."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Justifico la elección de métodos e instrumentos de cálculo en la resolución de problemas.",
+          "Utilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones.",
+          "Identifico las características de las diversas gráficas cartesianas (de puntos, continuas, formadas por segmentos, etc.) en relación con la situación que representan."
+        ],
+        "dba": [
+          "DBA–MAT–7–2 Describe y utiliza diferentes algoritmos, convencionales y no convencionales, al realizar operaciones entre números racionales en sus diferentes representaciones (fracciones y decimales) y los emplea con sentido en la solución de problemas.",
+          "DBA–MAT–7–7 Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Calcula e interpreta el máximo común divisor y el mínimo común múltiplo entre números enteros. (2)",
+          "(Saber Hacer) Describe procedimientos para calcular el resultado de una operación (suma, resta, multiplicación y división) entre números enteros y racionales. (2)",
+          "(Saber Hacer) Utiliza métodos informales exploratorios para resolver ecuaciones. (7)"
+        ],
+        "saberes": [
+          "Máximo común divisor y mínimo común múltiplo.",
+          "Resolver problemas que involucran patrones numéricos o geométricos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Resuelvo y formulo problemas que involucren relaciones y propiedades de semejanza y congruencia usando representaciones visuales.",
+          "Resuelvo y formulo problemas usando modelos geométricos.",
+          "Identifico características de localización de objetos en sistemas de representación cartesiana y geográfica.",
+          "Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas).",
+          "Resuelvo y formulo problemas que requieren técnicas de estimación."
+        ],
+        "dba": [
+          "DBA–MAT–7–6 Representa en el plano cartesiano la variación de magnitudes (áreas y perímetro) y con base en la variación explica el comportamiento de situaciones y fenómenos de la vida diaria.",
+          "DBA–MAT–7–4 Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta las modificaciones entre el perímetro y el área con un factor de variación respectivo. (6)",
+          "(Saber Conocer) Establece diferencias entre los gráficos del perímetro y del área. (6)",
+          "(Saber Conocer) Representa e interpreta situaciones de ampliación y reducción en contextos diversos (4)"
+        ],
+        "saberes": [
+          "Factores de variación en el perímetro y área",
+          "Ampliación y reducción mediante uso de escalas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Uso modelos (diagramas de árbol, por ejemplo) para discutir y predecir posibilidad de ocurrencia de un evento."
+        ],
+        "dba": [
+          "DBA–MAT–7–9 Usa el principio multiplicativo en situaciones aleatorias sencillas y lo representa con tablas o diagramas de árbol. Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Usa el principio multiplicativo para calcular el número de resultados posibles. (9)",
+          "(Saber Aplicar) Elabora tablas o diagramas de árbol para representar las distintas maneras en que un experimento aleatorio puede suceder. (9)"
+        ],
+        "saberes": [
+          "Diagramas de tallo y hojas.",
+          "Diagramas de Árbol.",
+          "Principio multiplicativo para determinar la probabilidad de eventos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Justifico el uso de representaciones y procedimientos en situaciones de proporcionalidad directa e inversa",
+          "Establezco conjeturas sobre propiedades y relaciones de los números, utilizando calculadoras o computadores.",
+          "Reconozco argumentos combinatorios como herramienta para interpretación de situaciones diversas de conteo.",
+          "Identifico las características de las diversas gráficas cartesianas (de puntos, continuas, formadas por segmentos, etc.) en relación con la situación que representan."
+        ],
+        "dba": [
+          "DBA–MAT–7–3 Utiliza diferentes relaciones, operaciones y representaciones en los números racionales para argumentar y solucionar problemas en los que aparecen cantidades desconocidas.",
+          "DBA–MAT–7–7 Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Realiza operaciones para calcular el número decimal que representa una fracción y viceversa. (3)",
+          "(Saber Hacer) Usa las propiedades distributivas, asociativa, modulativa, del inverso y conmutativa de la suma y la multiplicación en los racionales para proponer diferentes caminos al realizar un cálculo. (3)",
+          "(Saber Hacer) Determina el valor desconocido de una cantidad a partir de las transformaciones de una expresión algebraica. (3)",
+          "(Saber Hacer) Utiliza métodos informales exploratorios para resolver ecuaciones. (7)"
+        ],
+        "saberes": [
+          "Proporcionalidad directa e inversa para resolver problemas.",
+          "Representar, comparar y ordenar decimales.",
+          "Uso de propiedades de los números.",
+          "Representar patrones y secuencias usando dibujos o números."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Resuelvo y formulo problemas usando modelos geométricos.",
+          "Identifico características de localización de objetos en sistemas de representación cartesiana y geográfica.",
+          "Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas).",
+          "Identifico relaciones entre distintas unidades utilizadas para medir cantidades de esta magnitud."
+        ],
+        "dba": [
+          "DBA–MAT–7–6 Representa en el plano cartesiano la variación de magnitudes (áreas y perímetro) y con base en la variación explica el comportamiento de situaciones y fenómenos de la vida diaria.",
+          "DBA–MAT–7–4 Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Organiza la información (registros tabulares y gráficos) para comprender la relación entre el perímetro y el área. (6)",
+          "(Saber Conocer) Representa e interpreta situaciones de ampliación y reducción en contextos diversos. (4)",
+          "(Saber Aplicar) Coordina los cambios de la variación entre el perímetro y la longitud de los lados o el área de una figura. (6)"
+        ],
+        "saberes": [
+          "Modelos geométricos mediante el análisis del perímetro y el área.",
+          "Estimación de medidas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Uso modelos (diagramas de árbol, por ejemplo) para discutir y predecir posibilidad de ocurrencia de un evento.",
+          "Predigo y justifico razonamientos y conclusiones usando información estadística."
+        ],
+        "dba": [
+          "DBA–MAT–7–9 Usa el principio multiplicativo en situaciones aleatorias sencillas y lo representa con tablas o diagramas de árbol. Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta el número de resultados considerando que cuando se cambia de orden no se altera el resultado. (9)"
+        ],
+        "saberes": [
+          "Probabilidades de eventos compuestos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

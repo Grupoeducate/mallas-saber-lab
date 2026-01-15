@@ -1,0 +1,253 @@
+{
+  "area": "Matemáticas",
+  "grado": "3",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas.",
+          "Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables.",
+          "Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas."
+        ],
+        "dba": [
+          "DBA–MAT–3–1 Interpreta, formula y resuelve problemas en diferentes contextos, tanto aditivos de composición, transformación y comparación; como multiplicativos directos e inversos.",
+          "DBA–MAT–3–8 Describe y representa los aspectos que cambian y permanecen constantes en secuencias y en otras situaciones de variación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Encuentra y representa generalidades y valida sus hallazgos de acuerdo con el contexto. (8)",
+          "(Saber Hacer) Resuelve problemas aditivos (suma o resta) y multiplicativos (multiplicación división) de composición de medida y de conteo. (1)",
+          "(Saber Hacer) Analiza los resultados ofrecidos por el cálculo matemático e identifica las condiciones bajo las cuales ese resultado es o no plausible. (1)",
+          "(Saber Hacer) Describe de manera cualitativa situaciones de cambio y variación utilizando lenguaje natural, gestos, dibujos y gráficas. (8)",
+          "(Saber Aplicar) Construye diagramas para representar relaciones aditivas o multiplicativas observadas entre las cantidades presentes en una situación. (1)",
+          "(Saber Aplicar) Propone estrategias para calcular el número de combinaciones posibles de un conjunto de atributos. (1)",
+          "(Saber Aplicar) Construye secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas. (8)"
+        ],
+        "saberes": [
+          "Diagramas para representar situaciones aditivas y multiplicativas.",
+          "Descripción cualitativa de comportamiento de secuencias.",
+          "Estrategias para resolver problemas aditivos y multiplicativos.",
+          "Secuencias numéricas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas tridimensionales y dibujos o figuras geométricas bidimensionales.",
+          "Reconozco y aplico traslaciones y giros sobre una figura.",
+          "Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición.",
+          "Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas."
+        ],
+        "dba": [
+          "DBA–MAT–3–6 Describe y representa formas bidimensionales y tridimensionales de acuerdo con las propiedades geométricas.",
+          "DBA–MAT–3–7 Formula y resuelve problemas que se relacionan con la posición, la dirección y el movimiento de objetos en el entorno.",
+          "DBA–MAT–3–4 Describe y argumenta posibles relaciones entre los valores del área y el perímetro de figuras planas (especialmente cuadriláteros)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona objetos de su entorno con formas bidimensionales y tridimensionales, nombra y describe sus elementos. (6)",
+          "(Saber Conocer) Clasifica y representa formas bidimensionales y tridimensionales tomando en cuenta sus características geométricas comunes y describe el criterio utilizado. (6)",
+          "(Saber Conocer) Localiza objetos o personas a partir de la descripción o representación de una trayectoria y construye representaciones pictóricas para describir sus relaciones. (7)",
+          "(Saber Hacer) Mide y calcula el área y el perímetro de un rectángulo y expresa el resultado en unidades apropiadas según el caso. (4)",
+          "(Saber Hacer) Explica cómo figuras de igual perímetro pueden tener diferente área. (4)",
+          "(Saber Hacer) Realiza recubrimientos de superficies con diferentes figuras planas. (4)",
+          "(Saber Aplicar) Interpreta, compara y justifica propiedades de formas bidimensionales y tridimensionales. (6)",
+          "(Saber Aplicar) Toma decisiones sobre la magnitud a medir (área o longitud) según la necesidad de una situación. (4)"
+        ],
+        "saberes": [
+          "Descripción y representación de formas bidimensionales y tridimensionales.",
+          "Magnitudes.",
+          "Superposición de figuras geométricas para calcular o estimar el área.",
+          "Reflexiones, traslaciones y rotaciones.",
+          "Área y perímetro de cuadriláteros."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Identificó regularidades y tendencias en un conjunto de datos.",
+          "Resuelvo y formulo preguntas que requieran para su solución coleccionar y analizar datos del entorno próximo"
+        ],
+        "dba": [
+          "DBA–MAT–3–10 Lee e interpreta información contenida en tablas de frecuencia, gráficos de barras y/o pictogramas con escala, para formular y resolver preguntas de situaciones de su entorno."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las características de la población y halla su tamaño a partir de diferentes representaciones estadísticas. (10)",
+          "(Saber Conocer) Identifica la moda a partir de datos que se presentan en gráficos y tablas. (10)",
+          "(Saber Hacer) Analiza e interpreta información que ofrecen las tablas y los gráficos de acuerdo con el contexto. (10)",
+          "(Saber Hacer) Compara la información representada en diferentes tablas y gráficos para formular y responder preguntas. (10)",
+          "(Saber Aplicar) Construye tablas y gráficos que representan los datos a partir de la información dada. (10)"
+        ],
+        "saberes": [
+          "Población.",
+          "Moda.",
+          "Construcción de tablas y gráficos.",
+          "Análisis de la información estadística presentado en diversos formatos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas.",
+          "Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables.",
+          "Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas."
+        ],
+        "dba": [
+          "DBA–MAT–3–2 Propone, desarrolla y justifica estrategias para hacer estimaciones y cálculos con operaciones básicas en la solución de problemas.",
+          "DBA–MAT–3–9 Argumenta sobre situaciones numéricas, geométricas y enunciados verbales en los que aparecen datos desconocidos para definir sus posibles valores según el contexto."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Utiliza las propiedades de las operaciones y del Sistema de Numeración Decimal para justificar en los cálculos acciones como: descomposición de números, completar hasta la decena más cercana, duplicar, cambiar la posición, multiplicar abreviadamente por múltiplos de 10, entre otros. (2)",
+          "(Saber Aplicar) Argumenta cuando algunos atributos de los objetos se pueden ser medidos mediante la comparación directa con una unidad y cuándo pueden ser calculados con algunas operaciones entre números. (2)",
+          "(Saber Aplicar) Propone soluciones con base en los datos a pesar de no conocer el número. (9)"
+        ],
+        "saberes": [
+          "Estrategias para realizar estimaciones en operaciones aritméticas.",
+          "Secuencias numéricas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Reconozco congruencia y semejanza entre figuras (ampliar, reducir).",
+          "Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias"
+        ],
+        "dba": [
+          "DBA–MAT–3–7 Formula y resuelve problemas que se relacionan con la posición, la dirección y el movimiento de objetos en el entorno.",
+          "DBA–MAT–3–5 Realiza estimaciones y mediciones de volumen, capacidad, longitud, área, peso de objetos o la duración de eventos como parte del proceso para resolver diferentes problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y describe patrones de movimiento de figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras. (7)",
+          "(Saber Hacer) Compara objetos según su longitud, área, capacidad, volumen, etc. (5)",
+          "(Saber Hacer) Hace estimaciones de longitud, área, volumen, peso y tiempo según su necesidad en la situación. (5)"
+        ],
+        "saberes": [
+          "Transformaciones geométricas (Ampliar y reducir).",
+          "Comparación de objetos por sus medidas.",
+          "Estimación de medidas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro."
+        ],
+        "dba": [
+          "DBA–MAT–3–11 Plantea y resuelve preguntas sobre la posibilidad de ocurrencia de situaciones aleatorias cotidianas y cuantifica la posibilidad de ocurrencia de eventos simples en una escala cualitativa (mayor, menor e igual)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Representa los posibles resultados de una situación aleatoria simple por enumeración o usando diagramas. (11)",
+          "(Saber Hacer) Formula y resuelve preguntas que involucran expresiones que jerarquizan la posibilidad de ocurrencia de un evento, por ejemplo: imposible, menos posible, igualmente posible, más posible, seguro. (11)"
+        ],
+        "saberes": [
+          "Posibilidad de eventos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Describo situaciones de medición utilizando fracciones comunes.",
+          "Resuelvo y formulo problemas en situaciones de variación proporcional.",
+          "Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas."
+        ],
+        "dba": [
+          "DBA–MAT–3–3 Establece comparaciones entre cantidades y expresiones que involucran operaciones aditivas y multiplicativas y sus representaciones numéricas.",
+          "DBA–MAT–3–9 Argumenta sobre situaciones numéricas, geométricas y enunciados verbales en los que aparecen datos desconocidos para definir sus posibles valores según el contexto."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Realiza mediciones de un mismo objeto con otros de diferente tamaño y utiliza las fracciones para establecer equivalencias entre ellos. (3)",
+          "(Saber Hacer) Utiliza las razones y fracciones como una manera de establecer comparaciones entre dos cantidades. (3)",
+          "(Saber Hacer) Utiliza fracciones para expresar la relación de “el todo” con algunas de sus “partes”, así mismo, diferencia este tipo de relación de otras como las relaciones de equivalencia (igualdad) y de orden (mayor que y menor que). (3)",
+          "(Saber Hacer) Trabaja con números desconocidos para dar respuestas a expresiones aritméticas. (9)",
+          "(Saber Aplicar) Propone ejemplos de cantidades que se relacionan entre sí según correspondan a una fracción dada. (3)",
+          "(Saber Aplicar) Toma decisiones sobre cantidades en las que no conoce el valor, en situaciones de suma y multiplicación. (9)"
+        ],
+        "saberes": [
+          "Fracciones comunes.",
+          "Variación proporcional.",
+          "Expresiones aritméticas derivadas de secuencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio.",
+          "Reconozco y valoro simetrías en distintos aspectos del arte y el diseño.",
+          "Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias"
+        ],
+        "dba": [
+          "DBA–MAT–3–7 Formula y resuelve problemas que se relacionan con la posición, la dirección y el movimiento de objetos en el entorno.",
+          "DBA–MAT–3–5 Realiza estimaciones y mediciones de volumen, capacidad, longitud, área, peso de objetos o la duración de eventos como parte del proceso para resolver diferentes problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las propiedades de los objetos que se conservan y las que varían cuando se realizan este tipo de transformaciones. (7)",
+          "(Saber Hacer) Plantea y resuelve situaciones en las que se requiere analizar las transformaciones de diferentes figuras en el plano. (7)",
+          "(Saber Hacer) Hace estimaciones de volumen, área y longitud en presencia de los objetos y los instrumentos de medida y en ausencia de ellos. (5)",
+          "(Saber Aplicar) Empaca objetos en cajas y recipientes variados y calcula la cantidad que podría caber, para ello tiene en cuenta la forma y volumen de los objetos a empacar y la capacidad del recipiente en el que se empaca. (5)"
+        ],
+        "saberes": [
+          "Transformaciones geométricas.",
+          "Capacidad.",
+          "Unidades de medida."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro."
+        ],
+        "dba": [
+          "DBA–MAT–3–11 Plantea y resuelve preguntas sobre la posibilidad de ocurrencia de situaciones aleatorias cotidianas y cuantifica la posibilidad de ocurrencia de eventos simples en una escala cualitativa (mayor, menor e igual)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Asigna la posibilidad de ocurrencia de un evento de acuerdo con la escala definida. (11)",
+          "(Saber Aplicar) Predice la posibilidad de ocurrencia de un evento al utilizar los resultados de una situación aleatoria. (11)"
+        ],
+        "saberes": [
+          "Posibilidad de eventos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

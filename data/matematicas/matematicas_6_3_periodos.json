@@ -1,0 +1,268 @@
+{
+  "area": "Matemáticas",
+  "grado": "6",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones en las medidas.",
+          "Utilizo números racionales, en sus distintas expresiones (fracciones, razones, decimales o porcentajes) para resolver problemas en contextos de medida.",
+          "Justifico la extensión de la representación polinomial decimal usual de los números naturales a la representación decimal usual de los números racionales, utilizando las propiedades del sistema de numeración decimal.",
+          "Analizo las propiedades de correlación positiva y negativa entre variables, de variación lineal o de proporcionalidad directa y de proporcionalidad inversa en contextos aritméticos y geométricos.",
+          "Describo y represento situaciones de variación relacionando diferentes representaciones (diagramas, expresiones verbales generalizadas y tablas)."
+        ],
+        "dba": [
+          "DBA–MAT–6–1 Interpreta los números enteros y racionales (en sus representaciones de fracción y de decimal) con sus operaciones, en diferentes contextos, al resolver problemas de variación, repartos, particiones, estimaciones, etc. Reconoce y establece diferentes relaciones (de orden y equivalencia y las utiliza para argumentar procedimientos).",
+          "DBA–MAT–6–8 Identifica y analiza propiedades de covariación directa e inversa entre variables, en contextos numéricos, geométricos y cotidianos y las representa mediante gráficas (cartesianas de puntos, continuas, formadas por segmentos, etc.)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Representa en la recta numérica la posición de un número utilizando diferentes estrategias. (1)",
+          "(Saber Hacer) Resuelve problemas en los que intervienen cantidades positivas y negativas en procesos de comparación, transformación y representación. (1)",
+          "(Saber Hacer) Interpreta y justifica cálculos numéricos al solucio nar problemas. (1)",
+          "(Saber Hacer) Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta. (8)",
+          "(Saber Hacer) Trabaja sobre números desconocidos y con esos números para dar respuestas a los problemas. (8)",
+          "(Saber Aplicar) Propone y justifica diferentes estrategias para resolver problemas con números enteros, racionales (en sus representaciones de fracción y de decimal) en contextos escolares y extraescolares. (1)",
+          "(Saber Aplicar) Propone patrones de comportamiento numéricos y expresa verbalmente o por escrito los procedimientos matemáticos. (8)"
+        ],
+        "saberes": [
+          "Cantidades positivas y negativas asociadas a transformación y representación.",
+          "Representación de números en la recta numérica.",
+          "Propiedades del sistema numérico decimal.",
+          "Covariación directa e inversa.",
+          "Representación de dos variables en un plano cartesiano.",
+          "Representar datos en graficas.",
+          "Incógnitas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+          "Clasifico polígonos en relación con sus propiedades.",
+          "Utilizo técnicas y herramientas para la construcción de figuras planas y cuerpos con medidas dadas."
+        ],
+        "dba": [
+          "DBA–MAT–6–6 Representa y construye formas bidimensionales y tridimensionales con el apoyo en instrumentos de medida apropiados.",
+          "DBA–MAT–6–4 Utiliza y explica diferentes estrategias (desarrollo de la forma o plantillas) e instrumentos (regla, compás o software) para la construcción de figuras planas y cuerpos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Diferencia las propiedades geométricas de las figuras y cuerpos geométricos. (6)",
+          "(Saber Conocer) Identifica los elementos que componen las figuras y cuerpos geométricos. (6)",
+          "(Saber Conocer) Describe las congruencias y semejanzas en figuras bidimensionales y tridimensionales. (6)",
+          "(Saber Conocer) Estima áreas y volúmenes de figuras y cuerpos geométricos. (6)",
+          "(Saber Hacer) Selecciona las plantillas que genera cada cuerpo a partir del análisis de su forma, sus caras y sus vértices. (4)",
+          "(Saber Aplicar) Construye cuerpos geométricos con el apoyo de instrumentos de medida adecuados. (6)",
+          "(Saber Aplicar) Construye plantillas para cuerpos geométricos dadas sus medidas. (4)",
+          "(Saber Aplicar) Utiliza la regla no graduada y el compás para dibujar las plantillas de cuerpos geométricos cuando se tienen sus medidas. (4)"
+        ],
+        "saberes": [
+          "Propiedades geométricas de las figuras.",
+          "Elementos de las figuras y cuerpos geométricos.",
+          "Representación de objetos bidimensionales y tridimensionales.",
+          "Clasificación de los polígonos por sus propiedades.",
+          "Congruencia y semejanza.",
+          "Áreas y volúmenes de cuerpos geométricos.",
+          "Uso adecuado de instrumentos de medida para construir cuerpos geométricos.",
+          "Técnicas y herramientas para la construcción de figuras planas.",
+          "Diseño de maquetas con medidas específicas.",
+          "Identificación de plantillas para reconocer la forma, las caras y vértices de cuerpos geométricos.",
+          "Uso del compás y la regla no graduada para diseñar cuerpos geométricos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Comparo e interpreto datos provenientes de diversas fuentes (prensa, revistas, televisión, experimentos, consultas, entrevistas).",
+          "Reconozco la relación entre un conjunto de datos y su representación. Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar diversos tipos de datos. (diagramas de barras, diagramas circulares.)"
+        ],
+        "dba": [
+          "DBA–MAT–6–10 Interpreta información estadística presentada en diversas fuentes de información, la analiza y la usa para plantear y resolver preguntas que sean de su interés."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Lee y extrae la información estadística publicada en diversas fuentes. (10)",
+          "(Saber Conocer) Organiza la información recolectada en tablas y la representa mediante gráficas adecuadas. (10)",
+          "(Saber Conocer) Calcula las medidas requeridas de acuerdo con los datos recolectados y usa, cuando sea posible, calculadoras o software adecuado. (10)",
+          "(Saber Hacer) Plantea una pregunta que le facilite recolectar información que le permita contrastar la información estadística publicada. (10)",
+          "(Saber Aplicar) Escribe un informe en el que analiza la información presentada en el medio de comunicación y la contrasta con la obtenida en su estudio. (10)"
+        ],
+        "saberes": [
+          "Experimento, muestra, encuesta.",
+          "Tablas, diagramas de doble barra, de torta, gráficos de línea.",
+          "Analizar y comparar series de tiempo usando gráficos de línea."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Reconozco y generalizo propiedades de las relaciones entre números racionales (simétrica, transitiva, etc.) y de las operaciones entre ellos (conmutativa, asociativa, etc.) en diferentes contextos.",
+          "Reconozco el conjunto de valores de cada una de las cantidades variables ligadas entre sí en situaciones concretas de cambio (variación)."
+        ],
+        "dba": [
+          "DBA–MAT–6–2 Utiliza las propiedades de los números enteros y racionales y las propiedades de sus operaciones para proponer estrategias y procedimientos de cálculo en la solución de problemas.",
+          "DBA–MAT–6–9 Opera sobre números desconocidos y encuentra las operaciones apropiadas al contexto para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Utiliza las operaciones y sus inversas en problemas de cálculo numérico. (DBA 9)",
+          "(Saber Hacer) Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta. (DBA 9)",
+          "(Saber Aplicar) Propone y utiliza diferentes procedimientos para realizar operaciones con números enteros y racionales. (2)",
+          "(Saber Aplicar) Argumenta de diversas maneras la necesidad de establecer relaciones y características en conjuntos de números (ser par, ser impar, ser primo, ser el doble de, el triple de, la mitad de, etc.). (2)"
+        ],
+        "saberes": [
+          "Propiedades de los números enteros y racionales.",
+          "Relaciones entre números pares, impares, el doble de un número.",
+          "Operaciones matemáticas inversas.",
+          "Organización y clasificación de datos numéricos por patrones. Igualdad."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Identifico y describo figuras y cuerpos generados por cortes rectos y transversales de objetos tridimensionales.",
+          "Calculo áreas y volúmenes a través de composición y descomposición de figuras y cuerpos."
+        ],
+        "dba": [
+          "DBA–MAT–6–7 Reconoce el plano cartesiano como un sistema bidimensional que permite ubicar puntos como sistema de referencia gráfico o geográfico.",
+          "DBA–MAT–6–5 Propone y desarrolla estrategias de estimación, medición y cálculo de diferentes cantidades (ángulos, longitudes, áreas, volúmenes, etc.) para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Localiza, describe y representa la posición y la trayectoria de un objeto en un plano cartesiano. (7)",
+          "(Saber Hacer) Decide acerca de las estrategias para determinar qué tan pertinente es la estimación y analiza las causas de error en procesos de medición y estimación. (5)",
+          "(Saber Aplicar) Estima el resultado de una medición sin realizarla, de acuerdo con un referente previo y aplica el proceso de estimación elegido y valora el resultado de acuerdo con los datos y contexto de un problema. (5)"
+        ],
+        "saberes": [
+          "Identificar cortes rectos y transversales de objetos tridimensionales.",
+          "El plano cartesiano.",
+          "Medición de áreas y volúmenes mediante técnicas de composición y descomposición.",
+          "Técnicas de estimación de medidas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar diversos tipos de datos. (diagramas de barras, diagramas circulares.)"
+        ],
+        "dba": [
+          "DBA–MAT–6–11 Compara características compartidas por dos o más poblaciones o características diferentes dentro de una misma población para lo cual seleccionan muestras, utiliza representaciones gráficas adecuadas y analiza los resultados obtenidos usando conjuntamente las medidas de tendencia central y el rango."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Comprende la diferencia entre la muestra y la población. (11)",
+          "(Saber Conocer) Interpreta la información que presenta en los gráficos usando las medidas de tendencia central y el rango. (11)",
+          "(Saber Conocer) Describe el comportamiento de las características de dos o más poblaciones o de dos o más grupos de una población, a partir de las respectivas medidas de tendencia central y el rango. (11)",
+          "(Saber Hacer) Selecciona y produce representaciones gráficas apropiadas al conjunto de datos, usando, cuando sea posible, calculadoras o software adecuado. (DBA 11)",
+          "(Saber Aplicar) Compara las características de dos o más poblaciones o de dos o más grupos, haciendo uso conjunto de las respectivas medidas de tendencia central y el rango. (DBA 11)"
+        ],
+        "saberes": [
+          "Muestra y población.",
+          "Uso de herramientas informáticas para representación de datos.",
+          "Media, mediana, moda, rango."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Resuelvo y formulo problemas utilizando propiedades básicas de la teoría de números, como las de la igualdad, las de las distintas formas de la desigualdad y las de la adición, sustracción, multiplicación, división y potenciación.",
+          "Reconozco el conjunto de valores de cada una de las cantidades variables ligadas entre sí en situaciones concretas de cambio (variación)."
+        ],
+        "dba": [
+          "DBA–MAT–6–3 Reconoce y establece diferentes relaciones (orden y equivalencia) entre elementos de diversos dominios numéricos y los utiliza para argumentar procedimientos sencillos.",
+          "DBA–MAT–6–9 Opera sobre números desconocidos y encuentra las operaciones apropiadas al contexto para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Representa en la recta numérica la posición de un número utilizando diferentes estrategias. (3)",
+          "(Saber Hacer) Determina criterios para comparación para establecer relaciones de orden entre dos o más números. (3)",
+          "(Saber Hacer) Describe procedimientos para resolver ecuaciones lineales. (3)",
+          "(Saber Hacer) Realiza combinaciones de operaciones, encuentra propiedades y resuelve ecuaciones en donde están involucradas. (9)"
+        ],
+        "saberes": [
+          "Desigualdad.",
+          "Relaciones numéricas de orden.",
+          "Relaciones numéricas de equivalencia.",
+          "Ecuaciones lineales.",
+          "Combinación de operaciones aritméticas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Identifico y describo figuras y cuerpos generados por cortes rectos y transversales de objetos tridimensionales.",
+          "Calculo áreas y volúmenes a través de composición y descomposición de figuras y cuerpos."
+        ],
+        "dba": [
+          "DBA–MAT–6–7 Reconoce el plano cartesiano como un sistema bidimensional que permite ubicar puntos como sistema de referencia gráfico o geográfico.",
+          "DBA–MAT–6–5 Propone y desarrolla estrategias de estimación, medición y cálculo de diferentes cantidades (ángulos, longitudes, áreas, volúmenes, etc.) para resolver problemas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica e interpreta la semejanza de dos figuras al realizar rotaciones, ampliaciones y reducciones de formas bidimensionales en el plano cartesiano. (7)",
+          "(Saber Aplicar) Estima la medida de longitudes, áreas, volúmenes, masas, pesos y ángulos en presencia o no de los objetos y decide sobre la conveniencia de los instrumentos a utilizar, según las necesidades de la situación. (5)"
+        ],
+        "saberes": [
+          "Rotaciones, ampliaciones y reducciones de figuras en el plano cartesiano como técnica para identificar sus semejanzas.",
+          "Circunferencia y círculo.",
+          "Áreas, perímetros y volúmenes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Conjeturo acerca del resultado de un experimento aleatorio usando proporcionalidad y nociones básicas de probabilidad"
+        ],
+        "dba": [
+          "DBA–MAT–6–12 A partir de la información previamente obtenida en repeticiones de experimentos aleatorios sencillos, compara las frecuencias esperadas con las frecuencias observadas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Enumera los posibles resultados de un experimento aleatorio sencillo. (12)",
+          "(Saber Conocer) Interpreta y asigna la probabilidad de ocurrencia de un evento dado, teniendo en cuenta el número de veces que ocurre el evento en relación con el número total de veces que realiza el experimento. (12)",
+          "(Saber Hacer) Realiza repeticiones del experimento aleatorio sencillo y registra los resultados en tablas y gráficos de frecuencia. (12)",
+          "(Saber Aplicar) Compara los resultados obtenidos experimentalmente con las predicciones anticipadas. (12)"
+        ],
+        "saberes": [
+          "Probabilidad.",
+          "Eventos seguros e imposibles."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

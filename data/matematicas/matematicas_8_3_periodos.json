@@ -1,0 +1,256 @@
+{
+  "area": "Matemáticas",
+  "grado": "8",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Utilizo números reales en sus diferentes representaciones y en diversos contextos.",
+          "Identifico relaciones entre propiedades de las gráficas y propiedades de las ecuaciones algebraicas.",
+          "Construyo expresiones algebraicas equivalentes a una expresión algebraica dada.",
+          "Uso procesos inductivos y lenguaje algebraico para formular y poner a prueba conjeturas."
+        ],
+        "dba": [
+          "DBA–MAT–8–1 Reconoce la existencia de los números irracionales como números no racionales y los describe de acuerdo con sus características y propiedades.",
+          "DBA–MAT–8–8 Identifica y analiza relaciones entre propiedades de las gráficas y propiedades de expresiones algebraicas y relaciona la variación y covariación con los comportamientos gráficos, numéricos y características de las expresiones algebraicas en situaciones de modelación.",
+          "DBA–MAT–8–9 Propone, compara y usa procedimientos inductivos y lenguaje algebraico para formular y poner a prueba conjeturas en diversas situaciones o contextos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las diferentes representaciones (decimales y no decimales) para argumentar por qué un número es o no racional. (1)",
+          "(Saber Conocer) Relaciona un cambio en la variable independiente con el cambio correspondiente en la variable dependiente. (8)",
+          "(Saber Conocer) Reconoce y representa relaciones numéricas mediante expresiones algebraicas y encuentra el conjunto de variación de una variable en función del contexto. (8)",
+          "(Saber Conocer) Reconoce patrones numéricos y los describe verbalmente. (9)",
+          "(Saber Conocer) Describe diferentes usos del signo igual (equivalencia, igualdad condicionada) en las expresiones algebraicas. (9)",
+          "(Saber Hacer) Utiliza procedimientos geométricos o aritméticos para representar números irracionales. (1)",
+          "(Saber Hacer) Opera con formas simbólicas y las interpreta. (8)",
+          "(Saber Hacer) Encuentra valores desconocidos en ecuaciones algebraicas. (8)",
+          "(Saber Hacer) Representa relaciones numéricas mediante expresiones algebraicas y opera con y sobre variables. (9)",
+          "(Saber Hacer) Utiliza las propiedades de los conjuntos numéricos para resolver ecuaciones. (9)",
+          "(Saber Aplicar) Propone patrones de comportamiento numérico. (8)"
+        ],
+        "saberes": [
+          "El significado de los números racionales.",
+          "Expresiones algebraicas equivalentes.",
+          "Ecuaciones algebraicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Conjeturo y verifico propiedades de congruencias y semejanzas entre figuras bidimensionales y entre objetos tridimensionales en la solución de problemas.",
+          "Generalizo procedimientos de cálculo válidos para encontrar el área de regiones planas y el volumen de sólidos."
+        ],
+        "dba": [
+          "DBA–MAT–8–6 Identifica relaciones de congruencia y semejanza entre las formas geométricas que configuran un objeto.",
+          "DBA–MAT–8–4 Describe atributos medibles de diferentes sólidos y explica relaciones entre ellos por medio del lenguaje algebraico."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta las expresiones algebraicas que representan el volumen y el área cuando sus dimensiones varían. (4)",
+          "(Saber Hacer) Resuelve problemas que implican aplicación de los criterios de semejanza. (6)",
+          "(Saber Hacer) Utiliza lenguaje algebraico para representar el volumen de un prisma en términos de sus aristas. (4)",
+          "(Saber Hacer) Estima, calcula y compara volúmenes a partir de las relaciones entre las aristas de un prisma o de otros sólidos. (4)",
+          "(Saber Aplicar) Utiliza criterios para argumentar la congruencia de dos triángulos (6)",
+          "(Saber Aplicar) Discrimina casos de semejanza de triángulos en situaciones diversas. (6)",
+          "(Saber Aplicar) Realiza la representación gráfica del desarrollo plano de un prisma. (4)"
+        ],
+        "saberes": [
+          "Triángulos congruentes y triángulos semejantes.",
+          "Criterios de semejanza y congruencia.",
+          "Área y volúmenes en prismas y cilindros.",
+          "El prisma."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Reconozco cómo diferentes maneras de presentación de información pueden originar distintas interpretaciones.",
+          "Interpreto analítica y críticamente información estadística proveniente de diversas fuentes (prensa, revistas, televisión, experimentos, consultas, entrevistas.",
+          "Interpreto y utilizo conceptos de media, mediana y moda y explicito sus diferencias en distribuciones de distinta dispersión y asimetría."
+        ],
+        "dba": [
+          "DBA–MAT–8–11 Interpreta información presentada en tablas de frecuencia y gráficos cuyos datos están agrupados en intervalos y decide cuál es la medida de tendencia central que mejor representa el comportamiento de dicho conjunto."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta los datos representados en diferentes tablas y gráficos. (11).",
+          "(Saber Conocer) Describe el comportamiento de los datos empleando las medidas de tendencia central y el rango. (11)",
+          "(Saber Conocer) Reconoce cómo varían las medidas de tendencia central y el rango cuando varían los datos. (11)",
+          "(Saber Hacer) Usa estrategias gráficas o numéricas para encontrar las medidas de tendencia central de un conjunto de datos agrupados. (11)"
+        ],
+        "saberes": [
+          "Tabla de frecuencias de datos agrupados.",
+          "Media, mediana, moda, rango, mínimo, máximo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Utilizo números reales en sus diferentes representaciones y en diversos contextos.",
+          "Modelo situaciones de variación con funciones polinómicas."
+        ],
+        "dba": [
+          "DBA–MAT–8–2 Construye representaciones, argumentos y ejemplos de propiedades de los números racionales e irracionales.",
+          "DBA–MAT–8–10 Propone relaciones o modelos funcionales entre variables e identifica y analiza propiedades de covariación entre variables, en contextos numéricos, geométricos y cotidianos y las representa mediante gráficas (cartesianas de puntos, continuas, formadas por segmentos, etc.)."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Utiliza procedimientos geométricos o aritméticos para construir algunos números irracionales y los ubica en la recta numérica. (2)",
+          "(Saber Aplicar) Justificar procedimientos con los cuales se representa geométricamente números racionales y números reales. (2)",
+          "(Saber Aplicar) Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados. (10)"
+        ],
+        "saberes": [
+          "El significado de los números racionales.",
+          "Funciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Reconozco y contrasto propiedades y relaciones geométricas utilizadas en demostración de teoremas básicos (Pitágoras y Tales).",
+          "Selecciono y uso técnicas e instrumentos para medir longitudes, áreas de superficies, volúmenes y ángulos con niveles de precisión apropiados"
+        ],
+        "dba": [
+          "DBA–MAT–8–7 Identifica regularidades y argumenta propiedades de figuras geométricas a partir de teoremas y las aplica en situaciones reales.",
+          "DBA–MAT–8–5 Utiliza y explica diferentes estrategias para encontrar el volumen de objetos regulares e irregulares en la solución de problemas en las matemáticas y en otras ciencias."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe teoremas y argumenta su validez a través de diferentes recursos (Software, tangram, papel, entre otros). (7)",
+          "(Saber Conocer) Reconoce relaciones geométricas al utilizar el teorema de Pitágoras y Thales, entre otros. (7)",
+          "(Saber Hacer) Estima medidas de volumen con unidades estandarizadas y no estandarizadas. (5)",
+          "(Saber Hacer) Utiliza la relación de las unidades de capacidad con las unidades de volumen (litros, dm3, etc.) en la solución de un problema. (5)",
+          "(Saber Aplicar) Argumenta la relación pitagórica por medio de construcción al utilizar material concreto. (7)"
+        ],
+        "saberes": [
+          "Teorema de Pitágoras y teorema de Tales.",
+          "Volumen y áreas de prismas y cilindros."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Comparo resultados de experimentos aleatorios con los resultados previstos por un modelo matemático probabilístico.",
+          "Uso conceptos básicos de probabilidad (espacio muestral, evento, independencia, etc.)."
+        ],
+        "dba": [
+          "DBA–MAT–8–12 Hace predicciones sobre la posibilidad de ocurrencia de un evento compuesto a partir del uso de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y enumera el espacio muestral de un experimento aleatorio. (12)",
+          "(Saber Conocer) Identifica y enumera los resultados favorables de ocurrencia de un evento indicado. (12)"
+        ],
+        "saberes": [
+          "Espacio muestral, eventos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Resuelvo problemas y simplifico cálculos usando propiedades y relaciones de los números reales y de las relaciones y operaciones entre ellos.",
+          "Modelo situaciones de variación con funciones polinómicas."
+        ],
+        "dba": [
+          "DBA–MAT–8–2 Construye representaciones, argumentos y ejemplos de propiedades de los números racionales e irracionales.",
+          "DBA–MAT–8–3 Reconoce diferentes usos y significados de las operaciones (convencionales y no convencionales) y del signo igual (relación de equivalencia e igualdad condicionada) y los utiliza para argumentar equivalencias entre expresiones algebraicas y resolver sistemas de ecuaciones.",
+          "DBA–MAT–8–10 Propone relaciones o modelos funcionales entre variables e identifica y analiza propiedades de covariación entre variables, en contextos numéricos, geométricos y cotidianos y las representa mediante gráficas (cartesianas de puntos, continuas, formadas por segmentos, etc.)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce el uso del signo igual como relación de equivalencia de expresiones algebraicas en los números reales. (3)",
+          "(Saber Conocer) Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva. (10)",
+          "(Saber Hacer) Compara las propiedades de las operaciones convencionales de suma, resta, producto y división con las propiedades de las operaciones no convencionales. (9)",
+          "(Saber Hacer) Resuelve ecuaciones numéricas cuando se involucran operaciones no convencionales. (9)",
+          "(Saber Aplicar) Construye varias representaciones (geométrica, decimales o no decimales) de un mismo número racional o irracional. (2)",
+          "(Saber Aplicar) Propone y ejecuta procedimientos para resolver una ecuación lineal y sistemas de ecuaciones lineales y argumenta la validez o no de un procedimiento. (3)",
+          "(Saber Aplicar) Usa el conjunto solución de una relación (de equiva lencia y de orden) para argumentar la validez o no de un procedimiento. (3)"
+        ],
+        "saberes": [
+          "El significado de los números racionales.",
+          "Funciones"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Reconozco y contrasto propiedades y relaciones geométricas utilizadas en demostración de teoremas básicos (Pitágoras y Tales).",
+          "Selecciono y uso técnicas e instrumentos para medir longitudes, áreas de superficies, volúmenes y ángulos con niveles de precisión apropiados"
+        ],
+        "dba": [
+          "DBA–MAT–8–6 Identifica relaciones de congruencia y semejanza entre las formas geométricas que configuran un objeto.",
+          "DBA–MAT–8–7 Identifica regularidades y argumenta propiedades de figuras geométricas a partir de teoremas y las aplica en situaciones reales.",
+          "DBA–MAT–8–5 Utiliza y explica diferentes estrategias para encontrar el volumen de objetos regulares e irregulares en la solución de problemas en las matemáticas y en otras ciencias."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la posibilidad del error en la medición del volumen haciendo aproximaciones pertinentes al respecto. (5)",
+          "(Saber Hacer) Aplica el teorema de Pitágoras para calcular la medida de cualquier lado de un triángulo rectángulo. (7)",
+          "(Saber Hacer) Resuelve problemas utilizando teoremas básicos. (7)",
+          "(Saber Hacer) Explora y crea estrategias para calcular el volumen de cuerpos regulares e irregulares. (5)",
+          "(Saber Aplicar) Compara figuras y argumenta la posibilidad de ser congruente o semejantes entre sí. (6)"
+        ],
+        "saberes": [
+          "Justificar sus afirmaciones usando argumentos geométricos. (congruencia y semejanza).",
+          "Teorema de Pitágoras y tales.",
+          "Errores de medición en volumen."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Comparo resultados de experimentos aleatorios con los resultados previstos por un modelo mate mático probabilístico.",
+          "Uso conceptos básicos de probabilidad (espacio muestral, evento, independencia, etc.)."
+        ],
+        "dba": [
+          "DBA–MAT–8–12 Hace predicciones sobre la posibilidad de ocurrencia de un evento compuesto a partir del uso de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Asigna la probabilidad de la ocurrencia de un evento usando valores entre 0 y 1. (12)",
+          "(Saber Conocer) Reconoce cuando dos eventos son o no mutuamente excluyentes y les asigna la probabilidad usando la regla de la adición. (12)",
+          "(Saber Hacer) Realiza repeticiones del experimento aleatorio sencillo y registra los resultados en tablas y gráficos de frecuencia. (12)",
+          "(Saber Aplicar) Compara los resultados obtenidos experimentalmente con las predicciones anticipadas. (12)"
+        ],
+        "saberes": [
+          "Analizar con qué frecuencia ocurre un evento permite predecir qué tan probable es que ocurra"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

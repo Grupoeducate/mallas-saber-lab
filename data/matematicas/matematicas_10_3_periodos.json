@@ -1,0 +1,245 @@
+{
+  "area": "Matemáticas",
+  "grado": "10",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Analizo representaciones decimales de los números reales para diferenciar entre racionales e irracionales.",
+          "Analizo las relaciones y propiedades entre las expresiones algebraicas y las gráficas de funciones polinómicas y racionales y de sus derivadas."
+        ],
+        "dba": [
+          "DBA–MAT–10–1 Utiliza las propiedades de los números reales para justificar procedimientos y diferentes representaciones de subconjuntos de ellos.",
+          "DBA–MAT–10–7 Resuelve problemas mediante el uso de las propiedades de las funciones y usa representaciones tabulares, gráficas y algebraicas para estudiar la variación, la tendencia numérica y las razones de cambio entre magnitudes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe la propiedad de densidad de los números reales y utiliza estrategias para calcular un número entre otros dos (1).",
+          "(Saber Hacer) Utiliza representaciones geométricas de los números irracionales y los ubica en una recta numérica. (1)",
+          "(Saber Hacer) Utiliza representaciones gráficas o numéricas para tomar decisiones en problemas prácticos. (7)",
+          "(Saber Aplicar) Argumenta la existencia de los números irracionales. (1)"
+        ],
+        "saberes": [
+          "Sistemas numéricos: naturales, enteros, racionales, reales y complejos.",
+          "Funciones. Representación verbal, algebraica, gráfica y numérica.",
+          "Correspondencia entre los números reales y los puntos de una recta.",
+          "Polinomios y funciones polinomiales. Ecuaciones y desigualdades polinomiales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Resuelvo y formulo problemas que involucren magnitudes cuyos valores medios se suelen definir indirectamente como razones entre valores de otras magnitudes, como la velocidad media, la aceleración y la densidad medias.",
+          "Justifico resultados obtenidos mediante procesos de aproximación sucesiva, rangos de variación y límites en situaciones de medición."
+        ],
+        "dba": [
+          "DBA–MAT–10–5 Explora y describe las propiedades de los lugares geométricos y de sus transformaciones a partir de diferentes representaciones.",
+          "DBA–MAT–10–3 Resuelve problemas que involucran el significado de medidas de magnitudes relacionales (velocidad media, aceleración media) a partir de tablas, gráficas y expresiones algebraicas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Localiza objetos geométricos en el plano cartesiano. (5)",
+          "(Saber Conocer) Identifica las propiedades de lugares geométricos a través de su representación en un sistema de referencia (5)",
+          "(Saber Conocer) Representa lugares geométricos en el plano cartesiano, a partir de su expresión algebraica. (5)",
+          "(Saber Conocer) Reconoce la relación funcional entre variables asociadas a problemas. (3)",
+          "(Saber Conocer) Interpreta y expresa magnitudes definidas como razones entre magnitudes velocidad, aceleración, etc.), con las unidades respectivas y las relaciones entre ellas. (3)",
+          "(Saber Hacer) Utiliza las expresiones simbólicas de las cónicas y propone los rangos de variación para obtener una gráfica requerida. (5)",
+          "(Saber Hacer) Utiliza e interpreta la razón de cambio para resolver problemas relacionados con magnitudes como velocidad, aceleración. (3)",
+          "(Saber Hacer) Explica las respuestas y resultados en un problema usando las expresiones algebraicas y la pertinencia de las unidades utilizadas en los cálculos. (3)"
+        ],
+        "saberes": [
+          "Medición mediante aproximaciones sucesivas.",
+          "Medida de ángulos en radianes. Longitud de un arco y área de un sector circular.",
+          "Medidas de magnitud relacionales.",
+          "Definiciones y teoremas básicos de la geometría.",
+          "Razón de cambio promedio y razón de cambio instantáneo"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto y comparo resultados de estudios con información estadística provenientes de medios de comunicación.",
+          "Interpreto nociones básicas relacionadas con el manejo de información como población, muestra, variable aleatoria, distribución de frecuencias, parámetros y estadígrafos).",
+          "Diseño experimentos aleatorios (de las ciencias físicas, naturales o sociales) para estudiar un problema o pregunta.",
+          "Describo tendencias que se observan en conjuntos de variables relacionadas."
+        ],
+        "dba": [
+          "DBA–MAT–10–8 Selecciona muestras aleatorias en poblaciones grandes para inferir el comportamiento de las variables en estudio. Interpreta, valora y analiza críticamente los resultados y las inferencias presentadas en estudios estadísticos.",
+          "DBA–MAT–10–9 Comprende y explica el carácter relativo de las medidas de tendencias central y de dispersión, junto con algunas de sus propiedades, y la necesidad de complementar una medida con otra para obtener mejores lecturas de los datos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Define la población de la cual va a extraer las muestras. (8)",
+          "(Saber Conocer) Define el tamaño y el método de selección de la muestra. (8)",
+          "(Saber Conocer) Encuentra las medidas de tendencia central y de dispersión, usando, cuando sea posible, herramientas tecnológicas. (9)",
+          "(Saber Hacer) Interpreta y compara lo que representan cada una de las medidas de tendencia central en un conjunto de datos. (9)",
+          "(Saber Hacer) Interpreta y compara lo que representan cada una de las medidas de dispersión en un conjunto de datos. (9)",
+          "(Saber Aplicar) Construye gráficas para representar las distribuciones de los datos muestrales y encuentra los estadígrafos adecuados. Usa software cuando sea posible. (8)",
+          "(Saber Aplicar) Hace inferencias sobre los parámetros basadas en los estadígrafos calculados. (8)",
+          "(Saber Aplicar) Hace análisis críticos de las conclusiones de los estudios presentados en medios de comunicación o en artículos científicos. (8)",
+          "(Saber Aplicar) Usa algunas de las propiedades de las medidas de tendencia central y de dispersión para caracterizar un conjunto de datos. (9)",
+          "(Saber Aplicar) Formula conclusiones sobre la distribución de un conjunto de datos, empleando más de una medida. (9)"
+        ],
+        "saberes": [
+          "Representación e interpretación de datos.",
+          "Variables aleatorias, categóricas o continuas.",
+          "Procesos aleatorios soportados por experimentos estadísticos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Comparo y contrasto las propiedades de los números (naturales, enteros, racionales y reales) y las de sus relaciones y operaciones para construir, manejar y Utilizar apropiadamente los distintos sistemas numéricos.",
+          "Modelo situaciones de variación periódica con funciones trigonométricas e interpreto y utilizo sus derivadas."
+        ],
+        "dba": [
+          "DBA–MAT–10–2 Utiliza las propiedades algebraicas de equivalencia y de orden de los números reales para comprender y crear estrategias que permitan compararlos y comparar subconjuntos de ellos (por ejemplo, intervalos).",
+          "DBA–MAT–10–7 Resuelve problemas mediante el uso de las propiedades de las funciones y usa representaciones tabulares, gráficas y algebraicas para estudiar la variación, la tendencia numérica y las razones de cambio entre magnitudes."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Ordena de menor a mayor o viceversa números reales. (2)",
+          "(Saber Conocer) Describe el ‘efecto’ que tendría realizar operaciones con números reales (positivos, negativos, mayores y menores que 1) sobre la cantidad. (2)",
+          "(Saber Hacer) Usa la pendiente de la recta tangente como razón de cambio, la reconoce y verbaliza en representaciones gráficas, numéricas y algebraicas. (7)",
+          "(Saber Hacer) Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva. (7)"
+        ],
+        "saberes": [
+          "Sistemas numéricos: naturales, enteros, racionales, reales y complejos.",
+          "Funciones trigonométricas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Describo y modelos fenómenos periódicos del mundo real usando relaciones y funciones trigonométricas.",
+          "Justifico resultados obtenidos mediante procesos de aproximación sucesiva, rangos de variación y límites en situaciones de medición."
+        ],
+        "dba": [
+          "DBA–MAT–10–6 Comprende y usa el concepto de razón de cambio para estudiar el cambio promedio y el cambio alrededor de un punto y lo reconoce en representaciones gráficas, numéricas y algebraicas.",
+          "DBA–MAT–10–4 Comprende y utiliza funciones para modelar fenómenos periódicos y justifica las soluciones."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Explora, en una situación o fenómeno de variación periódica, valores, condiciones, relaciones o comportamientos, a través de diferentes representaciones. (4)",
+          "(Saber Conocer) Reconoce el significado de las razones trigonométricas en un triángulo rectángulo para ángulos agudos, en particular, seno, coseno y tangente. (4)",
+          "(Saber Hacer) Utiliza representaciones gráficas o numéricas para tomar decisiones en problemas prácticos. (6)",
+          "(Saber Hacer) Modela fenómenos periódicos a través de Funciones trigonométricas. (4)"
+        ],
+        "saberes": [
+          "Modelación de fenómenos periódicos.",
+          "Razón de cambio promedio y razón de cambio instantáneo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Propongo inferencias a partir del estudio de muestras probabilísticas."
+        ],
+        "dba": [
+          "DBA–MAT–10–10 Propone y realiza experimentos aleatorios en contextos de las ciencias naturales o sociales y predice la ocurrencia de eventos, en casos para los cuales el espacio muestral es indeterminado."
+        ],
+        "evidencias": [
+          "(Saber Aplicar) Plantea o identifica una pregunta cuya solución requiera de la realización de un experimento aleatorio. (10)",
+          "(Saber Aplicar) Encuentra muestras aleatorias para hacer predicciones sobre el comportamiento de las variables en estudio. (10)"
+        ],
+        "saberes": [
+          "Inferencias a partir de encuestas, experimentos o estudios."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": [
+          "Utilizo argumentos de la teoría de números para justificar relaciones que involucran números naturales.",
+          "Modelo situaciones de variación periódica con funciones trigonométricas e interpreto y utilizo sus derivadas."
+        ],
+        "dba": [
+          "DBA–MAT–10–2 Utiliza las propiedades algebraicas de equivalencia y de orden de los números reales para comprender y crear estrategias que permitan compararlos y comparar subconjuntos de ellos (por ejemplo, intervalos).",
+          "DBA–MAT–10–7 Resuelve problemas mediante el uso de las propiedades de las funciones y usa representaciones tabulares, gráficas y algebraicas para estudiar la variación, la tendencia numérica y las razones de cambio entre magnitudes."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Utiliza las propiedades de la equivalencia para realizar cálculos con números reales. (2)",
+          "(Saber Hacer) Utiliza la razón entre magnitudes para tomar decisiones sobre el cambio. (7)"
+        ],
+        "saberes": [
+          "Sistemas numéricos: naturales, enteros, racionales, reales y complejos.",
+          "Funciones logarítmicas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Geométrico métrico",
+        "estandar": [
+          "Describo y modelos fenómenos periódicos del mundo real usando relaciones y funciones trigonométricas.",
+          "Justifico resultados obtenidos mediante procesos de aproximación sucesiva, rangos de variación y límites en situaciones de medición."
+        ],
+        "dba": [
+          "DBA–MAT–10–6 Comprende y usa el concepto de razón de cambio para estudiar el cambio promedio y el cambio alrededor de un punto y lo reconoce en representaciones gráficas, numéricas y algebraicas.",
+          "DBA–MAT–10–4 Comprende y utiliza funciones para modelar fenómenos periódicos y justifica las soluciones."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relaciona características algebraicas de las funciones, sus gráficas y procesos de aproximación sucesiva. (6)",
+          "(Saber Hacer) Determina la tendencia numérica en relación con problemas prácticos como predicción del comportamiento futuro. (6)",
+          "(Saber Hacer) Calcula algunos valores de las razones seno y coseno para ángulos no agudos, auxiliándose de ángulos de referencia inscritos en el círculo unitario. (4)",
+          "(Saber Aplicar) Reconoce algunas aplicaciones de las funciones trigonométricas en el estudio de fenómenos diversos de variación periódica, por ejemplo: movimiento circular, movimiento del péndulo, del pistón, ciclo de la respiración, entre otros. (4)"
+        ],
+        "saberes": [
+          "Modelación de fenómenos periódicos.",
+          "Razón de cambio promedio y razón de cambio instantáneo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": [
+          "Interpreto conceptos de probabilidad condicional e independencia de eventos"
+        ],
+        "dba": [
+          "DBA–MAT–10–10 Propone y realiza experimentos aleatorios en contextos de las ciencias naturales o sociales y predice la ocurrencia de eventos, en casos para los cuales el espacio muestral es indeterminado."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Usa la probabilidad frecuencial para interpretar la posibilidad de ocurrencia de un efecto dado. (10)",
+          "(Saber Hacer) Infiere o valida la probabilidad de ocurrencia del evento en estudio. (10)"
+        ],
+        "saberes": [
+          "Probabilidad condicional"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}
