@@ -1,4 +1,4 @@
-// FILE: js/render-engine.js | VERSION: v10.0 Stable
+// FILE: js/render-engine.js | VERSION: v10.6 Stable
 window.RenderEngine = (function() {
   const containerMalla = document.getElementById('contenedor-malla');
 
@@ -47,18 +47,38 @@ window.RenderEngine = (function() {
   }
 
   function plantillaAcademica(item, areaId, grado, periodo) {
-    const tipo = window.APP_CONFIG.TIPO_MALLA;
+    const tipoMalla = window.APP_CONFIG.TIPO_MALLA;
     const config = window.APP_CONFIG.AREAS[areaId];
     const llaveNormal = normalizarTexto(config.nombre);
+    
+    // 1. CRUCE DCE (Estructura B)
     const llaveDCE = `tareas_dce_${llaveNormal}`;
-    const dceData = window.MallasData[llaveDCE]?.[grado]?.[tipo];
+    const dceData = window.MallasData[llaveDCE]?.[grado]?.[tipoMalla];
     const dcePer = dceData?.periodos?.find(p => String(p.periodo_id) === String(periodo));
     const rawDCE = dcePer?.guias_por_componente?.find(c => normalizarTexto(c.componente) === normalizarTexto(item.componente || item.competencia));
     const infoDCE = rawDCE?.guia_didactica;
 
+    // 2. CRUCE ECO TRANSVERSAL (v10.6)
     const llaveEco = normalizarTexto(window.APP_CONFIG.AREAS["proyecto-socioemocional"].nombre);
-    const ecoPer = window.MallasData[llaveEco]?.[grado]?.[tipo]?.periodos?.[periodo];
-    const infoECO = (ecoPer && Array.isArray(ecoPer) && ecoPer.length > 0) ? ecoPer[0] : null;
+    const ecoFullData = window.MallasData[llaveEco]?.[grado]?.[tipoMalla];
+    
+    let infoECOs = [];
+    // Lógica especial: Si es malla de 3P y estamos en el 3°, traer P3 y P4 de Socioemocional
+    if (tipoMalla === "3_periodos" && String(periodo) === "3") {
+        if (ecoFullData?.periodos?.["3"]) infoECOs.push(...ecoFullData.periodos["3"]);
+        if (ecoFullData?.periodos?.["4"]) infoECOs.push(...ecoFullData.periodos["4"]);
+    } else {
+        if (ecoFullData?.periodos?.[periodo]) infoECOs.push(...ecoFullData.periodos[periodo]);
+    }
+
+    // Preparar visualización de múltiples bloques ECO si existen
+    const contenidoECO = infoECOs.length > 0 ? infoECOs.map(eco => `
+      <div class="ficha-body" style="border-bottom: 1px dashed #ccc; margin-bottom:10px;">
+        <div class="campo"><strong>Eje Central:</strong><div>${validarDato(eco.eje_central)}</div></div>
+        <div class="campo"><strong>Habilidades:</strong><div>${validarDato(eco.Habilidades)}</div></div>
+        <div class="campo"><strong>Evidencias de Desempeño:</strong><div>${validarDato(eco.evidencias_de_desempeno)}</div></div>
+      </div>
+    `).join('') : `<div class="ficha-body">${validarDato(null)}</div>`;
 
     return `
       <div class="item-malla">
@@ -70,6 +90,7 @@ window.RenderEngine = (function() {
           <div class="campo"><strong>Saberes / Contenidos:</strong><div>${validarDato(item.saberes)}</div></div>
 
           <div class="contenedor-fichas-cierre">
+            <!-- FICHA 1: DCE -->
             <div class="ficha-cierre ficha-dce">
               <div class="ficha-header ficha-header-dce"><span>💡</span> GUÍA DIDÁCTICA: ${infoDCE ? infoDCE.la_estrategia : 'En proceso'}</div>
               <div class="ficha-body">
@@ -86,13 +107,10 @@ window.RenderEngine = (function() {
                 <div class="campo"><strong>Un Refuerzo:</strong><div>${validarDato(infoDCE?.un_refuerzo)}</div></div>
               </div>
             </div>
+            <!-- FICHA 2: ECO (Híbrida) -->
             <div class="ficha-cierre ficha-eco">
               <div class="ficha-header ficha-header-eco"><span>🧠</span> RESPONSABILIDAD SOCIOEMOCIONAL ECO</div>
-              <div class="ficha-body">
-                <div class="campo"><strong>Eje Central:</strong><div>${validarDato(infoECO?.eje_central)}</div></div>
-                <div class="campo"><strong>Habilidades:</strong><div>${validarDato(infoECO?.Habilidades)}</div></div>
-                <div class="campo"><strong>Evidencias de Desempeño:</strong><div>${validarDato(infoECO?.evidencias_de_desempeno)}</div></div>
-              </div>
+              ${contenidoECO}
             </div>
           </div>
           <div style="text-align:center; margin-top:2rem;">
