@@ -1,4 +1,4 @@
-/* FILE: styles.css | VERSION: v10.4 Stable */
+/* FILE: styles.css | VERSION: v10.6 Stable */
 :root {
   --eco-purple: #9B7BB6;
   --eco-purple-pastel: #f9f6fc;
@@ -9,17 +9,7 @@
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
-
-/* SEGURIDAD NACIONAL: Bloqueo de sombreado y selección */
-body { 
-  font-family: 'Barlow Condensed', sans-serif; 
-  background: #f0f4f7; 
-  font-size: 1.2rem;
-  user-select: none !important;
-  -webkit-user-select: none !important;
-  -moz-user-select: none !important;
-  -ms-user-select: none !important;
-}
+body { font-family: 'Barlow Condensed', sans-serif; background: #f0f4f7; font-size: 1.2rem; user-select: none !important; -webkit-user-select: none !important; }
 
 .loading-overlay, .modal-notificacion, .overlay-progresion, .resultados, .print-only-header, .watermark-print { display: none !important; }
 
@@ -74,25 +64,34 @@ main { max-width: 1300px; margin: 0 auto; padding: 1.5rem; }
 .ficha-header-eco { background-color: var(--eco-purple); }
 
 .btn-eco-dic { display: inline-block !important; background-color: var(--eco-teal) !important; color: white !important; padding: 12px 28px !important; text-decoration: none !important; border-radius: 10px !important; font-weight: 700 !important; margin-top: 1rem !important; box-shadow: 0 4px 12px rgba(0, 161, 155, 0.2) !important; }
-
 .btn-top { display: none; position: fixed; bottom: 30px; right: 30px; width: 50px; height: 50px; background: var(--eco-green); color: white; border: none; border-radius: 50%; font-size: 1.5rem; cursor: pointer; z-index: 5000; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
 
-/* PROGRESIÓN */
-.overlay-progresion { display: none !important; position: fixed !important; top: 0; left: 0; width: 100%; height: 100%; background: rgba(13, 61, 102, 0.95); backdrop-filter: blur(8px); z-index: 9000 !important; justify-content: center; align-items: center; padding: 20px; }
-.overlay-progresion.mostrar-flex { display: flex !important; }
-.progresion-container { background: white; width: 95%; height: 90vh; border-radius: 25px; display: flex; flex-direction: column; overflow: hidden; }
-.progresion-header { background: var(--eco-dark); color: white; padding: 1.2rem 2rem; display: flex; justify-content: space-between; align-items: center; }
-.btn-cerrar-overlay { background: #ff4d4d; color: white; border: none; padding: 8px 18px; border-radius: 8px; font-weight: 700; text-transform: uppercase; cursor: pointer; }
-.progresion-navegacion { background: #f8f9fa; padding: 15px; display: flex; justify-content: center; align-items: center; gap: 30px; border-bottom: 1px solid #ddd; }
-.btn-nav { background: var(--eco-dark); color: white; border: none; width: 45px; height: 45px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; }
-.progresion-columnas { display: grid; grid-template-columns: 1fr 1fr 1fr; flex: 1; overflow-y: hidden; padding: 20px; gap: 20px; background: #e9ecef; }
-.col-prog { background: white; border-radius: 15px; border: 1px solid #eee; display: flex; flex-direction: column; height: 100%; }
-.col-header { padding: 15px; text-align: center; font-weight: 700; background: #fdfdfd; border-bottom: 3px solid #eee; font-size: 1.4rem; color: var(--eco-dark); }
-.col-content { padding: 15px; overflow-y: auto; flex: 1; }
-
+/* --- AJUSTES DE IMPRESIÓN NACIONAL v10.6 --- */
 @media print {
+  @page { margin: 1.5cm; }
   .no-print, header, .filtros, .btn-top, .contenedor-herramientas-reporte, .modal-notificacion, .overlay-progresion, .loading-overlay { display: none !important; }
+  
+  html, body { background: white !important; height: auto !important; }
   main { position: static !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
-  .item-malla { break-inside: avoid; border: 1px solid #000 !important; }
-  .watermark-print { display: block !important; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg); font-size: 6rem; color: rgba(200, 200, 200, 0.2); font-weight: 700; z-index: -1000; white-space: nowrap; }
+
+  .print-only-header { display: block !important; text-align: center; margin-bottom: 40px; border-bottom: 2px solid #000; padding-bottom: 10px; }
+  .item-malla { break-inside: avoid; border: 1px solid #000 !important; margin-bottom: 20px !important; box-shadow: none !important; }
+  .franja-titulo-principal { background-color: #f8f9fa !important; color: #000 !important; border-bottom: 1px solid #000; -webkit-print-color-adjust: exact; }
+  
+  /* MARCA DE AGUA SOBRE EL TEXTO (v10.6) */
+  .watermark-print {
+    display: block !important;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 5rem;
+    color: rgba(180, 180, 180, 0.12) !important; /* Muy sutil pero sobre el texto */
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 99999 !important; /* POR ENCIMA DE TODO */
+    pointer-events: none;
+    line-height: 1.2;
+  }
 }
