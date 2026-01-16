@@ -1,4 +1,4 @@
-<!-- FILE: index.html | VERSION: v7.9.7 Stable -->
+<!-- FILE: index.html | VERSION: v10.6 Stable -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -16,13 +16,14 @@
   </header>
 
   <main id="main-eco">
-    <!-- MARCA DE AGUA EXCLUSIVA PARA IMPRESIÓN -->
+    <!-- MARCA DE AGUA SOBRE EL TEXTO (v10.6) -->
     <div class="watermark-print">GRUPO EDÚCATE COLOMBIA <br> COPIA PARA ESTUDIO</div>
 
     <div id="print-header" class="print-only-header">
-      <h1>REPORTE CURRICULAR NACIONAL</h1>
-      <p>Generado por: Plataforma ECO - Grupo Edúcate Colombia</p>
-      <p id="print-fecha-txt"></p>
+      <h1 style="font-size: 2.2rem; margin-bottom: 5px;">GRUPO EDÚCATE COLOMBIA</h1>
+      <h2 style="font-size: 1.6rem; margin-bottom: 5px; text-transform: uppercase;">Mallas Curriculares Nacionales</h2>
+      <h3 style="font-size: 1.2rem; font-weight: 400; margin-bottom: 15px;">Dirección de Pedagogía</h3>
+      <p id="print-fecha-txt" style="border-top: 1px solid #000; padding-top: 10px;"></p>
     </div>
 
     <section id="filtros" class="filtros no-print">
@@ -82,6 +83,7 @@
     </section>
   </main>
 
+  <!-- MODAL PROGRESIÓN -->
   <div id="overlay-progresion" class="overlay-progresion no-print">
     <div class="progresion-container">
       <div class="progresion-header">
