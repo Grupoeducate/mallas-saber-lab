@@ -1,0 +1,278 @@
+
+  "area": "Ciencias Sociales",
+  "grado": "11",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Identifico algunos factores que han dado origen a las nuevas formas de organización de la economía mundial. Analizo consecuencias de estas nuevas formas de organización sobre las relaciones económicas, políticas y sociales entre los Estados. Reconozco el impacto de la globalización sobre las distintas economías y reconozco diferentes reacciones ante este fenómeno.",
+        "dba": [
+          "DBA-SOC-11-1 Analiza la globalización como un proceso que redefine el concepto de territorio, las dinámicas de los mercados, las gobernanzas nacionales y las identidades locales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las características de la globalización económica y política en el mundo contemporáneo y las tensiones que ha generado en las comunidades nacionales.",
+          "(Saber Hacer) Describe las ventajas y desventajas económicas, políticas y sociales que tiene el proceso de globalización en las sociedades actuales.",
+          "(Saber Aplicar) Explica y sitúa los bloques económicos y los tratados de integración que se han configurado en los últimos años, así como las consecuencias que estos han traído para Colombia y América Latina."
+        ],
+        "saberes": [
+          "Nuevas formas de economía mundial",
+          "TLC",
+          "La globalización como fenómeno social económico y cultural",
+          "Ventajas y desventajas del proceso de globalización en el mundo.",
+          "Neoliberalismo, liberalismo económico, apertura económica.",
+          "Los monopolios, los oligopolios y la competencia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX.",
+        "dba": [
+          "DBA-SOC-11-2 Analiza las consecuencias políticas, económicas y sociales de algunos conflictos geopolíticos desde finales del siglo XX hasta la actualidad a nivel mundial. (3)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que en las relaciones internacionales existen dinámicas geopolíticas que tienen implicaciones en las poblaciones fronterizas mediante el análisis de casos recientes.",
+          "(Saber Hacer) Caracteriza algunos conflictos geopolíticos contemporáneos ocurridos en distintos continentes por la disputa de recursos naturales, intereses económicos, ideológicos y religiosos. Describe los intereses políticos, económicos e ideológicos de las grandes potencias que afectan las relaciones internacionales en la actualidad.",
+          "(Saber Aplicar) Argumenta las consecuencias sociales que generan los conflictos internacionales como el desplazamiento forzado, los refugiados y el genocidio de naciones."
+        ],
+        "saberes": [
+          "Las relaciones internacionales",
+          "Conflicto en el medio oriente",
+          "El Apartheid.",
+          "La Primavera Árabe",
+          "Conflictos geopolíticos actuales.",
+          "Migraciones a nivel mundial",
+          "La historia del desplazamiento forzado a nivel mundial.",
+          "Los refugiados",
+          "El genocidio de naciones",
+          "Las diásporas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico las organizaciones internacionales que surgieron a lo largo del siglo XX (ONU, OEA…) y evalúo el impacto de su gestión en el ámbito nacional e internacional.",
+        "dba": [
+          "DBA-SOC-11-3 Analiza cómo el bienestar y la supervivencia de la humanidad dependen de la protección que hagan del ambiente los diferentes actores. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce acciones y propuestas que ha creado la Organización de Naciones Unidas -ONU- (Protocolos ambientales y Cumbres de la Tierra), para evitar los efectos del calentamiento global en el mundo.",
+          "(Saber Hacer) Describe las razones económicas y políticas que sustentan aquellos países que más influyen en el problema del calentamiento global para no cambiar sus prácticas.". Explica las acciones que se sugieren desde las instituciones y organizaciones ambientales en Colombia para disminuir los efectos del calentamiento global."
+        ],
+        "saberes": [
+          "Medio ambiente",
+          "Causas y efectos del calentamiento global.",
+          "Efecto invernadero",
+          "Agenda 2030",
+          "Demografía"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Expreso empatía ante grupos o personas cuyos derechos han sido vulnerados (por ejemplo, en situaciones de desplazamiento) y propongo acciones solidarias para con ellos. Participo en manifestaciones pacíficas de rechazo o solidaridad ante situaciones de desventaja social, económica o de salud que vive la gente de mi región o mi país. Participo en iniciativas políticas democráticas en mi medio escolar o localidad. Comprendo qué es un bien público y participo en acciones que velan por su buen uso, tanto en la comunidad escolar, como en mi municipio. Comprendo que cuando se actúa en forma corrupta y se usan los bienes públicos para beneficio personal, se afectan todos los miembros de la sociedad.",
+        "dba": [
+          "La empatía, el derecho a la manifestación pacífica y la iniciativa política en el medio escolar para la protección de los bienes públicos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los principios de la empatía y la solidaridad como base de la convivencia ciudadana.",
+          "(Saber Hacer) Propone acciones solidarias y manifestaciones pacíficas para apoyar a poblaciones vulnerables en su región.",
+          "(Saber Aplicar) Diseña estrategias de vigilancia y buen uso de los bienes públicos en la institución educativa para prevenir actos de corrupción."
+        ],
+        "saberes": [
+          "La empatía",
+          "Derecho a la manifestación pacífica.",
+          "La iniciativa política en el medio escolar.",
+          "Los bienes públicos",
+          "Corrupción en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente.",
+        "dba": [
+          "DBA-SOC-11-4 Analiza cómo el bienestar y la supervivencia de la humanidad dependen de la protección que hagan del ambiente los diferentes actores. (1)"
+        ],
+        "evidencias": [
+          "(Saber Aplicar) Propone acciones a seguir para disminuir las causas y los efectos actuales del calentamiento global y el futuro en la vida del planeta."
+        ],
+        "saberes": [
+          "Uso de la tierra: desertización, productos transgénicos.",
+          "Desarrollo sostenible"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifico y analizo las diferentes formas del orden mundial en el siglo XX (Guerra Fría, globalización, enfrentamiento Oriente-Occidente...). Analizo y describo algunas dictaduras en América Latina a lo largo del siglo XX.",
+        "dba": [
+          "DBA-SOC-11-5 Comprende las implicaciones sociales, económicas y políticas que tuvo la Guerra Fría en el mundo y las relaciona con las vividas en América Latina. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las características fundamentales de los dos bloques hegemónicos (Capitalista- Comunista), como sistemas políticos y económicos que se consolidaron en el marco de la Guerra Fría.",
+          "(Saber Hacer) Explica las implicaciones que trajo a la vida cotidiana de los pueblos el que sus países hicieran parte de uno u otro bloque.",
+        ],
+        "saberes": [
+          "El orden mundial del siglo XX.",
+          "Capitalismo y comunismo como bloques hegemónicos",
+          "Revolución cubana",
+          "Amenaza de guerra nuclear"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Analizo las tensiones que los hechos históricos mundiales del siglo XX han generado en las relaciones internacionales. Comparo diferentes dictaduras y revoluciones en América Latina y su impacto en la construcción de la democracia.",
+        "dba": [
+          "DBA-SOC-11-6 Comprende las implicaciones sociales, económicas y políticas que tuvo la Guerra Fría en el mundo y las relaciona con las vividas en América Latina. (4)"
+        ],
+        "evidencias": [
+          "(Saber Hacer) Interpreta las repercusiones sociales, políticas y económicas que la Guerra Fría tuvo para Latinoamérica en casos como la revolución cubana, el surgimiento de las dictaduras, las guerrillas y el intervencionismo.",
+          "(Saber Aplicar) Plantea argumentos acerca de las amenazas constantes con armas de destrucción masiva por parte de las potencias vencedoras en la segunda Guerra Mundial y establece relaciones con las tensiones mundiales en la actualidad."
+        ],
+        "saberes": [
+          "Tenciones generadas por la guerra fría",
+          "Dictaduras y revoluciones en América Latina",
+          "Intervencionismo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Comprendo que, para garantizar la convivencia, el Estado debe contar con el monopolio de la administración de justicia y del uso de la fuerza, y que la sociedad civil debe hacerle seguimiento crítico, para evitar abusos. Conozco las instancias y sé usar los mecanismos jurídicos ordinarios y alternativos para la resolución pacífica de conflictos: justicia ordinaria, jueces de paz, centros de conciliación, comisarías de familia; negociación, mediación, arbitramento. Identifico dilemas de la vida en las que entran en conflicto el bien general y el bien particular; analizo opciones de solución, considerando sus aspectos positivos y negativos.",
+        "dba": [
+          "Administración de la justicia, mecanismos de resolución de conflictos y análisis de dilemas entre el bien general y particular."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las funciones de las comisarías de familia, jueces de paz y centros de conciliación en el marco legal colombiano.",
+          "(Saber Hacer) Analiza dilemas éticos actuales donde el interés particular colisiona con el bien común, proponiendo soluciones razonadas.",
+          "(Saber Aplicar) Utiliza técnicas de mediación y negociación para resolver conflictos en el entorno escolar de manera pacífica."
+        ],
+        "saberes": [
+          "Administración de la justicia y convivencia",
+          "Mecanismos jurídicos ordinarios y alternativos para la resolución pacífica de conflictos.",
+          "Dilemas de la vida en las que entran en conflicto el bien general y el bien particular."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Identifico y analizo las consecuencias sociales, económicas, políticas y culturales de los procesos de concentración de la población en los centros urbanos y abandono del campo.",
+        "dba": [
+          "DBA-SOC-11-7 Comprende el impacto social del crecimiento económico desigual que se da en las diferentes regiones del país."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Compara las características que tienen las zonas con mejores índices de crecimiento económico respecto a aquellas con menor desarrollo.",
+          "(Saber Aplicar) Explica posibles acciones a considerar en el mejoramiento del crecimiento de las regiones con menor índice de desarrollo humano."
+        ],
+        "saberes": [
+          "Demografía, pobreza, cinturones de miseria.",
+          "Desplazamiento en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Reconozco el cambio en la posición de la mujer en el mundo y en Colombia a lo largo del siglo XX y su incidencia en el desarrollo político, económico, social, cultural, familiar y personal. Identifico y explico las luchas de los grupos étnicos en Colombia y América en busca de su reconocimiento social e igualdad de derechos desde comienzos del siglo XX hasta la actualidad.",
+        "dba": [
+          "DBA-SOC-11-8 Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifico prejuicios, estereotipos y emociones que me dificultan sentir empatía por algunas personas o grupos y exploro caminos para superarlos.",
+          "(Saber Hacer) Identifico y analizo dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto y exploro distintas opciones de solución, considerando sus aspectos positivos y negativos.",
+          "(Saber Aplicar) Argumento y debato dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto; reconozco los mejores argumentos, así no coincidan con los míos."
+        ],
+        "saberes": [
+          "La empatía",
+          "La discriminación y la exclusión social",
+          "Importancia de la inclusión social",
+          "La interculturalidad y la multiculturalidad",
+          "Dilemas de la vida y la sociedad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico las funciones que cumplen las oficinas de vigilancia y control del Estado. Identifico mecanismos e instituciones constitucionales que protegen los derechos fundamentales de los ciudadanos.",
+        "dba": [
+          "DBA-SOC-11-9 Evalúa la importancia de la solución negociada de los conflictos armados para la búsqueda de la paz. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia. Conoce la organización del Estado: Conoce las funciones y alcances de las ramas del poder y de los organismos de control. Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos.",
+          "(Saber Hacer) Explica la importancia que tiene para una sociedad la resolución pacífica de sus conflictos y el respeto por las diferencias políticas, ideológicas, de género, religiosas, étnicas o intereses económicos. Describe las implicaciones que tiene para las sociedades democráticas considerar la justicia, la verdad, el perdón y la reparación de las víctimas en los procesos de paz.",
+          "(Saber Aplicar) Argumenta razones para defender la búsqueda de la paz como un deber ético, moral y constitucional en el que se requiere el compromiso de todos los ciudadanos."
+        ],
+        "saberes": [
+          "Estructura del Estado colombiano (G.O)",
+          "Órganos de control de la función pública. (G.O)",
+          "Mecanismos de protección de los derechos humanos (G.O)",
+          "Conflictos sociales y políticos vividos en Colombia en las últimas décadas",
+          "Colombia estado social de derecho",
+          "Proceso de paz en Colombia (diálogos en la Habana).",
+          "La JEP"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Identifico prejuicios, estereotipos y emociones que me dificultan sentir empatía por algunas personas o grupos y exploro caminos para superarlos. Argumento y debato dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto; reconozco los mejores argumentos, así no coincidan con los míos.",
+        "dba": [
+          "Superación de prejuicios y estereotipos culturales para el fortalecimiento de la empatía y la resolución de dilemas sociales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los prejuicios y estereotipos históricos que han afectado a grupos étnicos y sociales en Colombia.",
+          "(Saber Hacer) Analiza críticamente situaciones de conflicto intercultural desde la perspectiva de la empatía y el respeto.",
+          "(Saber Aplicar) Participa en debates sobre valores culturales en conflicto, reconociendo y valorando los mejores argumentos aunque difieran de los propios."
+        ],
+        "saberes": [
+          "Prejuicios, estereotipos y emociones que me dificultan sentir empatía.",
+          "Dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

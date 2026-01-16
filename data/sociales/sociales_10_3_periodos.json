@@ -1,0 +1,278 @@
+  "area": "Ciencias Sociales",
+  "grado": "10",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Explico y evalúo el impacto del desarrollo industrial y tecnológico sobre el medio ambiente y el ser humano.",
+        "dba": [
+          "DBA-SOC-10-1 Analiza conflictos que se presentan en el territorio colombiano originados por la degradación ambiental, el escaso desarrollo económico y la inestabilidad política."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica la disponibilidad y el uso del recurso hídrico en las diferentes regiones colombianas y los conflictos que se presentan en torno a este.",
+          "(Saber Aplicar) Diferencia los diversos tipos de contaminación que se presentan en el mundo y sugiere acciones orientadas hacia la sostenibilidad ambiental y la conciencia ecológica en la ciudadanía."
+        ],
+        "saberes": [
+          "Recursos naturales",
+          "Desarrollo sostenible",
+          "Conciencia ecológica",
+          "Escases económica",
+          "Políticas públicas sobre medio ambiente."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Explico el origen del régimen bipartidista en Colombia. Analizo el periodo conocido como “la Violencia” y establezco relaciones con las formas actuales de violencia. Identifico las causas, características y consecuencias del Frente Nacional.",
+        "dba": [
+          "DBA-SOC-10-2 Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Establece semejanzas y diferencia entre los conflictos asociados a la convivencia social, a escala regional y nacional. Compara los diferentes tipos de violencia (directa, estructural y cultural) que generan los actores armados y sus repercusiones en la vida nacional.",
+        ],
+        "saberes": [
+          "Bipartidismo en Colombia.",
+          "La violencia en Colombia.",
+          "Bogotazo",
+          "Dictadura de Rojas Pinilla.",
+          "Frente nacional",
+          "Tipología de la violencia"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Reconozco y explico los cambios y continuidades en los movimientos guerrilleros en Colombia desde su surgimiento hasta la actualidad. Explico el surgimiento de la guerrilla, el paramilitarismo y el narcotráfico en Colombia.",
+        "dba": [
+          "DBA-SOC-10-3 Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica las características de la violencia ejercida en el contexto del conflicto armado en Colombia y cómo afecta la vida social y cultura.",
+          "(Saber Aplicar) Propone estrategias para utilizar el diálogo como recurso mediador en la solución de conflictos."
+        ],
+        "saberes": [
+          "Origen histórico de las guerrillas y el paramilitarismo.",
+          "La unión patriótica.",
+          "Procesos de mediación en la resolución de conflictos.",
+          "Procesos de paz (Belisario Betancourt y Los diálogos del Caguán)",
+          "Grupos disidentes y las bacrim en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "DBA-SOC-10-4 Comprendo que en un Estado de Derecho las personas podemos participar en la creación o transformación de las leyes y que éstas se aplican a todos y todas por igual. Conozco los principios básicos del Derecho Internacional Humanitario. Analizo críticamente el sentido de las leyes y comprendo la importancia de cumplirlas. Analizo críticamente y debato con argumentos y evidencias sobre hechos ocurridos a nivel local, nacional y mundial."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los principios fundamentales del Estado de Derecho y el marco básico del DIH.",
+          "(Saber Hacer) Analiza críticamente el sentido de las leyes colombianas y su impacto en la justicia social.",
+          "(Saber Aplicar) Debata con argumentos sólidos sobre las consecuencias de hechos históricos nacionales en su proyecto de vida."
+        ],
+        "saberes": [
+          "Colombia Estado de Derecho",
+          "El derecho internacional humanitario.",
+          "El sentido de las leyes en sociedad.",
+          "Análisis de hechos locales, nacionales e internacionales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente.",
+        "dba": [
+          "DBA-SOC-10-5 Analiza conflictos que se presentan en el territorio colombiano originados por la degradación ambiental, el escaso desarrollo económico y la inestabilidad política"
+        ],
+        "evidencias": [
+          "(Saber Hacer) Describe el impacto ambiental, económico, social y político que ha tenido la minería legal e ilegal, a partir del estudio de casos provenientes de distintas fuentes de información.",
+          "(Saber Aplicar) Argumenta la pérdida de biodiversidad en el país a partir de la revisión de los informes del Ministerio del Medio Ambiente, las corporaciones autónomas regionales y/o las ONG dedicadas al tema."
+        ],
+        "saberes": [
+          "Impacto ambiental, económico, social y político de la minería en Colombia.",
+          "Desertización, deforestación",
+          "Biodiversidad",
+          "Papel de las entidades del estado relacionado con el cuidado del medio ambiente.",
+          "Productos transgénicos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...).",
+        "dba": [
+          "DBA-SOC-10-6 Analiza los conflictos bélicos presentes en las sociedades contemporáneas, sus causas y consecuencias, así como su incidencia en la vida cotidiana de los pueblos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los avances militares, tecnológicos y científicos que las potencias utilizaron durante las dos Guerras Mundiales y otros conflictos acaecidos en el siglo XX y asume una posición crítica frente a estos.",
+          "(Saber Hacer) Describe el desarrollo histórico de las guerras mundiales y las consecuencias sociales que estos enfrentamientos provocaron para la humanidad."
+        ],
+        "saberes": [
+          "Avances militares, tecnológicos y científicos durante la primera guerra mundial.",
+          "Causas directas e indirectas que determinaron la primera guerra mundial.",
+          "Cronología de la primera guerra mundial y las consecuencias sociales para la humanidad.",
+          "Transformaciones Geopolíticas después de la primera guerra mundial."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico las organizaciones internacionales que surgieron a lo largo del siglo XX (ONU, OEA…) y evalúo el impacto de su gestión en el ámbito nacional e internacional.",
+        "dba": [
+          "DBA-SOC-10-7 Interpreta el papel que cumplen los organismos internacionales como formas de alianza y organización entre los Estados y que responden a los intereses entre los países"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce el papel de los organismos multilaterales en la formulación de políticas económicas, jurídicas, ambientales y educativas para los países que hacen parte de estas organizaciones.",
+          "(Saber Hacer) Describe las características demográficas, económicas, sociales, políticas y culturales de las sociedades actuales, en el marco de una sociedad de la información y bajo el paradigma de la globalización. Argumenta el papel desempeñado por los organismos e instituciones nacionales e internacionales, en el mantenimiento del bienestar, la paz de los Estados y los Derechos Humanos.",
+          "(Saber Aplicar) Explica cómo los organismos multilaterales de los que hace parte Colombia inciden en sus políticas internas, desde el reconocimiento de las ventajas y desventajas que tiene el pertenecer a estos."
+        ],
+        "saberes": [
+          "La sociedad de la información y la globalización.",
+          "La globalización como paradigma actual.",
+          "Los organismos multilaterales su papel en la sociedad contemporánea",
+          "Ventajas y desventajas de la incorporación de Colombia a los diferentes tratados de cooperación internacional.",
+          "Papel de los organismos e instituciones nacionales e internacionales en el mantenimiento del bienestar."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y paz",
+        "dba": [
+          "DBA-SOC-10-8 Contribuyo a que los conflictos entre personas y entre grupos se manejen de manera pacífica y constructiva mediante la aplicación de estrategias basadas en el diálogo y la negociación. Utilizo distintas formas de expresión para promover y defender los derechos humanos. Analizo críticamente la situación de los derechos humanos en Colombia y en el mundo. Manifiesto indignación de manera pacífica ante el sufrimiento de grupos o naciones. Valoro positivamente las normas constitucionales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica mecanismos constitucionales y estrategias de negociación para la resolución de conflictos.",
+          "(Saber Hacer) Utiliza medios de expresión para denunciar vulneraciones a los derechos humanos de forma pacífica.",
+          "(Saber Aplicar) Propone alternativas de defensa de los DDHH basadas en el análisis crítico de la situación nacional y mundial."
+        ],
+        "saberes": [
+          "Manejo de los conflictos.",
+          "Promoción y defensa de los derechos humanos.",
+          "Los derechos humanos en Colombia y el mundo.",
+          "Grupos al margen de la ley.",
+          "Las normas constitucionales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Identifico los principales postulados del liberalismo clásico, el socialismo, el marxismo-leninismo… y analizo la vigencia actual de algunos de ellos. Establezco algunas relaciones entre los diferentes modelos de desarrollo económico utilizados en Colombia y América Latina y las ideologías que los sustentan.",
+        "dba": [
+          "DBA-SOC-10-9 Comprende modelos conceptuales, sus características y contextos de aplicación. (Guia de orientación 2021-2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica y usa conceptos sociales básicos (económicos, políticos, culturales y geográficos). Identifica diferentes modelos de desarrollo económico utilizados en Colombia y algunos países del mundo.",
+          "(Saber Hacer) Diferencia conceptos como capitalismo, socialismo, neoliberalismo, liberalismo económico, marxismo, leninismo. Comprende el impacto de los modelos de desarrollo económico en la actualidad.",
+        ],
+        "saberes": [
+          "Economía, microeconomía y macroeconomía.",
+          "Liberalismo clásico",
+          "Socialismo y capitalismo.",
+          "Globalización e integración económica.",
+          "Modelos de desarrollo económico.",
+          "Apertura económica en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...).",
+        "dba": [
+          "DBA-SOC-10-10 Analiza los conflictos bélicos presentes en las sociedades contemporáneas, sus causas y consecuencias, así como su incidencia en la vida cotidiana de los pueblos."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica y representa las transformaciones geopolíticas que se dieron en el mundo después de las guerras mundiales desde la interpretación de mapas temáticos. Argumenta acerca de las causas directas e indirectas que determinaron el inicio de los conflictos bélicos mundiales.",
+        ],
+        "saberes": [
+          "Periodo entre guerras (Avances militares, tecnológicos y científicos) durante la II guerra mundial.",
+          "Causas directas e indirectas que determinaron la II guerra mundial.",
+          "Cronología de la II guerra mundial y las consecuencias sociales para la humanidad.",
+          "Transformaciones Geopolíticas después de la II guerra mundial."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Analizo el paso de un sistema democrático representativo a un sistema democrático participativo en Colombia. Identifico causas y consecuencias de los procesos de desplazamiento forzado de poblaciones y reconozco los derechos que protegen a estas personas.",
+        "dba": [
+          "DBA-SOC-10-11 Comprende que existen multitud de culturas y una sola humanidad en el mundo y que entre ellas se presenta la discriminación y exclusión de algunos grupos, lo cual dificulta el bienestar de todos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica formas de discriminación social, su origen y las consecuencias que generan en las sociedades actuales.",
+          "(Saber Hacer) Explica la diversidad cultural y étnica como una característica de las sociedades actuales lo cual se constituye en una riqueza para la vida en comunidad. Compara los mecanismos de protección de DDHH (conciliación, acción de tutela, acciones populares, acción de cumplimiento).",
+          "(Saber Aplicar) Argumenta por qué es necesario rechazar las formas de discriminación, exclusión social o violencia que se observan en el mundo hoy."
+        ],
+        "saberes": [
+          "Formas de discriminación social, causas y consecuencias en la sociedad actual.",
+          "Exclusión social",
+          "¿Qué se entiende por cultura?",
+          "Multiculturalismo e interculturalidad.",
+          "Diversidad cultural y étnica.",
+          "Mecanismos de protección de los derechos humanos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "DBA-SOC-10-12 Construyo una posición crítica frente a las situaciones de discriminación y exclusión social que resultan de las relaciones desiguales entre personas, culturas y naciones. Reconozco las situaciones de discriminación y exclusión más agudas que se presentan ahora, o se presentaron en el pasado. Comprendo que el respeto por la diferencia no significa aceptar que otras personas o grupos vulneren derechos humanos o normas constitucionales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las raíces históricas y sociales de las situaciones de exclusión más agudas en el contexto nacional.",
+          "(Saber Hacer) Analiza críticamente cómo las relaciones desiguales entre naciones fomentan la discriminación global.",
+          "(Saber Aplicar) Construye una postura ética que defienda el respeto por la diferencia sin comprometer la vigencia de los derechos humanos."
+        ],
+        "saberes": [
+          "Situaciones de discriminación y exclusión social. (posición crítica).",
+          "Historia de la discriminación y la exclusión. Pasado, presente.",
+          "Respeto por la diferencia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

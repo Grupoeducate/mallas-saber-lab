@@ -1,0 +1,259 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "3",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Me ubico en el entorno físico y de representación (en mapas y planos) utilizando referentes espaciales como arriba, abajo, dentro, fuera, derecha, izquierda.",
+        "dba": [
+          "DBA-SOC-3-1 Se ubica en el espacio que habita teniendo como referencia su propio cuerpo y los puntos cardinales. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe verbalmente el recorrido que realiza entre su casa y la institución educativa donde estudia, señalando aquellos lugares que considera representativos o muy conocidos en su comunidad y el porqué de su importancia.",
+          "(Saber Hacer) Dibuja las instituciones sociales de carácter deportivo, educativo, religioso y político, existentes en su barrio, vereda o lugar donde vive. Localiza en representaciones gráficas o dibujos de su barrio, vereda o lugar donde vive, algunos referentes (tienda, iglesia, parque, escuela) teniendo en cuenta los puntos cardinales y conoce los acontecimientos que se dan en estos lugares.",
+          "(Saber Aplicar) Relaciona su izquierda-derecha, adelante– atrás con los puntos cardinales, al ubicar, en representaciones gráficas de la escuela, aquellos lugares como rectoría, cafetería, patio de recreo, coordinación y sala de profesores, entre otros."
+        ],
+        "saberes": [
+          "Uso de representaciones gráficas como mapas y planos para establecer los puntos cardinales.",
+          "Recorrido y relación de los espacios físicos de mi entorno, tales como escuela, casa, barrio."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno.",
+        "dba": [
+          "DBA-SOC-3-3 Describe el tiempo personal y se sitúa en secuencias de eventos propios y sociales."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Nombra ordenadamente los días de la semana y los meses del año.",
+          "(Saber Hacer) Diferencia el ayer, el hoy y el mañana desde las actividades cotidianas que realiza y la duración de estas en horas y minutos mediante la lectura del reloj.",
+          "(Saber Aplicar) "
+        ],
+        "saberes": [
+          "El tiempo: horas, días, meses, años.",
+          "Diferencia entre ayer y hoy y las actividades cotidianas que realiza."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno.",
+        "dba": [
+          "DBA-SOC-3-4 Reconoce la noción de cambio a partir de las transformaciones que ha vivido en los últimos años a nivel personal, de su familia y del entorno barrial, veredal o del lugar donde vive. (4)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Relata los principales acontecimientos sociales ocurridos en el aula de clase, por ejemplo, el inicio de la vida escolar, la celebración del día de los niños, las izadas de bandera o la celebración de cumpleaños, entre otros, diferenciando el antes y el ahora.",
+          "(Saber Hacer) Señala las transformaciones recientes observadas en el entorno físico de su comunidad y el para qué se realizaron.",
+          "(Saber Aplicar) "
+        ],
+        "saberes": [
+          "Diferencias y sucesos en mi vida, familia, comunidad y entorno.",
+          "La familia, el colegio, el barrio, la vereda, el corregimiento, el resguardo, los territorios afrocolombianos, municipios)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "DBA-SOC-3-0 Identifico las diferencias y semejanzas de género, aspectos físicos, grupo étnico, origen social, costumbres, gustos, ideas y tantas otras que hay entre las demás personas y yo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las características físicas y culturales propias que lo definen como un ser único.",
+          "(Saber Hacer) Compara sus gustos y tradiciones con los de sus compañeros para identificar puntos en común.",
+          "(Saber Aplicar) Manifiesta respeto ante las diversas opiniones y rasgos de las personas en su entorno escolar."
+        ],
+        "saberes": [
+          "Diversidad y respeto por las diferencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Reconozco y describo las características físicas de las principales formas del paisaje. (4)",
+        "dba": [
+          "DBA-SOC-3-2 Describe las características del paisaje geográfico del barrio vereda o lugar donde viven sus componentes y formas. (2)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las diferentes formas de relieve en su entorno geográfico o lugar donde vive, por ejemplo: costas, islas, montañas, valles, llanuras y/o mesetas. Identifica aquellas obras de infraestructura que se han realizado en su comunidad y expresa las ventajas que estas traen.",
+          "(Saber Hacer) Representa de diferentes maneras, aquellos problemas ambientales que afectan el entorno de la comunidad en el contexto del barrio, vereda o lugar donde vive.",
+          "(Saber Aplicar) Diferencia los estados del tiempo atmosférico de acuerdo con las sensaciones de calor y frío manifiestas en su cuerpo y con base en los momentos de lluvia y sequía que se dan en el lugar donde vive."
+        ],
+        "saberes": [
+          "El relieve y el paisaje.",
+          "Estado del tiempo atmosférico.",
+          "Problemas ambientales.",
+          "Infraestructura de mi comunidad."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifica algunas características, físicas, sociales, culturales y emocionales que hacen de mí un ser único. (1)",
+        "dba": [
+          "DBA-SOC-3-5 Reconoce su individualidad y su pertenencia a los diferentes grupos sociales (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce de sí mismo, de sus compañeros y de sus familiares aquellas cualidades que le ayudan a estar mejor entre los demás.",
+          "(Saber Hacer) Expresa algunas características físicas y emocionales que lo hacen un ser único.",
+          "(Saber Aplicar) Compara similitudes y diferencias entre sus gustos, costumbres y formas de comunicarse, con los demás integrantes del salón de clase."
+        ],
+        "saberes": [
+          "Soy un ser único e irrepetible que posea ciertas cualidades.",
+          "Soy un individuo que pertenece a un grupo social."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Reconozco algunas normas que han sido construidas entre compañeros y entre la familia. (7)",
+        "dba": [
+          "DBA-SOC-3-7 Participa en la construcción de acuerdos básicos sobre normas para el logro de metas comunes en su contexto cercano (compañeros y familia) y se compromete con su cumplimiento."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la importancia del trabajo en equipo para el logro de las metas comunes.",
+          "(Saber Hacer) Presenta sus ideas, intereses y sentimientos frente a las normas establecidas en la familia, en el salón de clase y otros espacios.",
+          "(Saber Aplicar) Plantea alternativas de solución frente a situaciones conflictivas en su familia y salón de clase. Expresa sus opiniones y colabora activamente en la construcción de los acuerdos grupales para la convivencia."
+        ],
+        "saberes": [
+          "Las normas de convivencia, los acuerdos.",
+          "Trabajo en equipo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "DBA-SOC-3-1 Expreso mis ideas, sentimientos e intereses en el salón y escucho respetuosamente los de los demás miembros del grupo. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la importancia de la escucha activa en la toma de decisiones grupales.",
+          "(Saber Hacer) Utiliza diferentes lenguajes para expresar sus sentimientos ante una norma del salón.",
+          "(Saber Aplicar) Participa activamente en la creación de acuerdos de convivencia dentro del aula."
+        ],
+        "saberes": [
+          "Mis ideas, e intereses.",
+          "La toma de decisiones.",
+          "Expresión de mis sentimientos y emociones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Reconozco diversas formas de representación de la Tierra.",
+        "dba": [
+          "DBA-SOC-3-6 Comprende cambios en las formas de habitar de los grupos humanos, desde el reconocimiento de los tipos de vivienda que se encuentran en el contexto de su barrio, vereda o lugar donde vive. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las viviendas que se destacan en su comunidad, que son patrimonio hoy y que deben conservarse. Reconoce el valor de la vivienda como el espacio donde tiene lugar su hogar y donde recibe seguridad y cuidado de su familia.",
+          "(Saber Hacer) Nombra los materiales utilizados en la construcción de la casa donde vive y la distribución de las habitaciones que hay en ella. Señala los lugares de procedencia de su familia y comprende cómo llegaron a su vivienda actual.",
+          "(Saber Aplicar) "
+        ],
+        "saberes": [
+          "Representación de la tierra.",
+          "¿De dónde soy?",
+          "Mi vivienda, la vivienda de los demás y su valor."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifico y describo algunas características socioculturales de comunidades a las que pertenezco y de otras diferentes a las mías. (2)",
+        "dba": [
+          "DBA-SOC-3-5 Reconoce su individualidad y su pertenencia a los diferentes grupos sociales (5)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las costumbres y tradiciones culturales de su comunidad mediante los relatos de los abuelos y personas mayores del barrio, vereda o lugar donde vive. Identifica los miembros de su familia y verbaliza quiénes nacieron antes o después de él.",
+          "(Saber Hacer) Recuerda las fechas de los cumpleaños de sus padres, hermanos, amigos y compañeros de clase más cercanos, diferenciando las edades entre ellos.",
+          "(Saber Aplicar) "
+        ],
+        "saberes": [
+          "Las costumbres y tradiciones culturales de su comunidad.",
+          "Los miembros de mi familia y las fechas de cumpleaños.",
+          "¿Quién nació antes y después de mí?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico situaciones cotidianas que indican cumplimiento o incumplimiento en las funciones de algunas organizaciones sociales y políticas de mi entorno. (2)",
+        "dba": [
+          "DBA-SOC-3-8 Establece relaciones de convivencia desde el reconocimiento y el respeto de sí mismo y de los demás. (8)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica situaciones de maltrato que se dan en su entorno consigo mismo y/o con otras personas y sabe a quiénes acudir para pedir ayuda y protección.",
+          "(Saber Hacer) Expresa el valor de sí mismo y de cada uno de los integrantes de la clase, explicando aquello que los diferencia y los identifica: el género, la procedencia, la edad, las ideas y creencias, entre otras. Expresa aquello que lo hace igual a los demás en la institución, desde el conocimiento y el respeto a los deberes y derechos establecidos en el Manual de Convivencia.",
+          "(Saber Aplicar) Participa de acciones que fomentan la sana convivencia en el entorno familiar y escolar."
+        ],
+        "saberes": [
+          "El valor de sí mismo y de los demás.",
+          "Todos tenemos derechos y deberes.",
+          "El maltrato infantil.",
+          "La sana convivencia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y Paz",
+        "dba": [
+          "DBA-SOC-3-1 Comprendo que todos los niños y niñas tenemos derecho a recibir buen trato, cuidado y amor. (1)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica sus derechos fundamentales como niño en el marco de la convivencia escolar.",
+          "(Saber Hacer) Describe acciones de cuidado y amor que recibe en su familia y escuela.",
+          "(Saber Aplicar) Aplica normas de buen trato en sus juegos y actividades diarias con sus pares."
+        ],
+        "saberes": [
+          "Derechos de los niños."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

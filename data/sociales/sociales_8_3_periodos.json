@@ -1,0 +1,274 @@
+
+  "area": "Ciencias Sociales",
+  "grado": "8",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia. Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación.",
+        "dba": [
+          "DBA-SOC-8-1 Evalúa el impacto producido por los avances tecnológicos en el desarrollo social y económico de Colombia en el siglo XIX."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce el papel de la Comisión Corográfica de Agustín Codazzi como un aporte a la planeación y gestión del territorio colombiano desde su representación cartográfica. Describe el papel del telégrafo, el correo, el ferrocarril, el barco de vapor, la industria textil y la electricidad en el desarrollo económico de Colombia.",
+          "(Saber Hacer) Relaciona los procesos de industrialización dados en el país con los cambios sociales como el crecimiento de las ciudades y la diversificación de la economía.",
+          "(Saber Aplicar) Explica algunos problemas ambientales provocados por procesos de industrialización en Colombia y realiza conjeturas acerca de sus consecuencias a corto, mediano y largo plazo."
+        ],
+        "saberes": [
+          "Impacto producido por los avances tecnológicos en el desarrollo social y económico en Colombia durante el siglo XIX.",
+          "La Comisión Corográfica de Agustín Codazzi",
+          "Problemas ambientales provocados por procesos de industrialización en Colombia y el mundo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Explico las principales características de algunas revoluciones de los siglos XVIII y XIX (Revolución Francesa, Revolución Industrial...).",
+        "dba": [
+          "DBA-SOC-8-2 Analiza los procesos de expansión territorial desarrollados por Europa durante el siglo XIX y las nuevas manifestaciones imperialistas observadas en las sociedades contemporáneas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe la expansión y distribución territorial de los imperios europeos en Asia y África durante el siglo XIX e interpreta mapas temáticos.",
+          "(Saber Hacer) Relaciona el crecimiento económico europeo con la explotación de Asia y África durante el siglo XIX. Compara la influencia de los países colonialistas en el siglo XIX en ámbitos como el comercio y la industria manufacturera, con la que ejercen las actuales potencias mundiales en el sector financiero, las telecomunicaciones, y las nuevas tecnologías de la información.",
+          "(Saber Aplicar) Explica la influencia actual de países como Estados Unidos en la dinámica económica, social y política de Colombia (Tratado del Libre Comercio, lucha contra las drogas, éxodo de colombianos)."
+        ],
+        "saberes": [
+          "Procesos de expansión territorial desarrollado por Europa durante el siglo XIX.",
+          "Colonización",
+          "Influencia actual de países como Estados Unidos en la dinámica económica, social y política de Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Respeto diferentes posturas frente a los fenómenos sociales y asumo una posición crítica frente a situaciones de discriminación y abuso por irrespeto a las posiciones ideológicas y propongo formas de cambiarlas. Identifico y comparo algunos de los procesos políticos que tuvieron lugar en el mundo en el siglo XIX y primera mitad del siglo XX.",
+        "dba": [
+          "DBA-SOC-8-3 Analiza los cambios sociales, económicos, políticos y culturales generados por el surgimiento y consolidación del capitalismo en Europa y las razones por las cuales este sigue siendo un sistema económico vigente. Evalúa la influencia de los procesos de cooperación económica y política entre los Estados Nacionales en la actualidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las diferencias en el nivel de desarrollo económico, político y cultural entre los países de América Latina y de Europa, en la actualidad. Reconoce la constitución de la Unión Europea como un ejemplo de cooperación entre países, sus objetivos, integrantes y su influencia en el orden mundial.",
+          "(Saber Hacer) Describe las transformaciones que se produjeron en Europa a finales del siglo XVIII y durante el siglo XIX a partir del desarrollo del comercio y la industria dando paso al surgimiento y consolidación del capitalismo. Describe diversas alianzas de cooperación dadas entre países: MERCOSUR, OTAN, NEPAD, APEC.",
+          "(Saber Aplicar) Explica las características del sistema económico capitalista (propiedad privada, libre competencia, capital, consumo) y las ventajas o desventajas que trae para las sociedades que lo han asumido. Explica las relaciones económicas y políticas que Colombia sostiene hoy con otros países de la región y el resto del mundo."
+        ],
+        "saberes": [
+          "El capitalismo y los cambios generados en Europa a partir de la instauración de este sistema.",
+          "Desarrollo económico, político y cultural entre los países de América Latina y de Europa, en la actualidad.",
+          "La cooperación internacional y sus efectos sociales, económicos y políticos.",
+          "La Unión Europea, MERCOSUR, OTAN, NEPAD, APEC."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "DBA-SOC-8-4 Comprendo las características del Estado de Derecho y del Estado Social de Derecho y su importancia para garantizar los derechos ciudadanos. Identifico y analizo las situaciones en las que se vulneran los derechos civiles y políticos. Conozco, analizo y uso los mecanismos de participación ciudadana. Identifico los sentimientos, necesidades y puntos de vista de aquellos a los que se les han violado derechos civiles y políticos y propongo acciones no violentas para impedirlo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Describe los principios fundamentales que rigen un Estado Social de Derecho y su relación con la protección de los derechos civiles.",
+          "(Saber Hacer) Analiza críticamente situaciones históricas y actuales de vulneración de derechos políticos, identificando los actores involucrados.",
+          "(Saber Aplicar) Propone el uso de mecanismos de participación ciudadana para intervenir en problemáticas sociales de su entorno bajo un marco de no violencia."
+        ],
+        "saberes": [
+          "Colombia Estado de Derecho.",
+          "Derechos civiles y políticos.",
+          "Mecanismos de participación ciudadana.",
+          "Colocarse en el lugar de otros."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Comparo las causas de algunas olas de migración y desplazamiento humano en nuestro territorio a lo largo del siglo XIX y la primera mitad del siglo XX (colonización antioqueña, urbanización del país...).",
+        "dba": [
+          "DBA-SOC-8-5 Comprende el fenómeno de las migraciones en distintas partes del mundo y cómo afectan a las dinámicas de los países receptores y a países de origen."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los niveles en el Índice de Desarrollo Humano obtenidos por los diferentes países que reciben migrantes en campos como la educación, la salud y la seguridad.",
+          "(Saber Hacer) Describe el fenómeno de las migraciones humanas que tienen lugar en la actualidad hacia Europa y hacia América del norte y los países de procedencia. Explica las principales diferencias entre los países que atraen emigrantes y aquellos de donde salen, así como las consecuencias del fenómeno de las migraciones en las relaciones entre los países.",
+          "(Saber Aplicar) Argumenta los aportes que han realizado los migrantes a los países que los reciben y a la humanidad en general, casos de algunos artistas, políticos, economistas y científicos naturales y sociales procedentes de otros países."
+        ],
+        "saberes": [
+          "Fenómenos demográficos en el mundo.",
+          "Migraciones, desplazamientos en el mundo. (problemáticas)",
+          "Aportes que han realizado los migrantes a los países que los reciben y a la humanidad en general"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Explico algunos procesos sociales, políticos y económicos posteriores en Colombia y América Latina. Analizo algunas de las condiciones sociales, económicas, políticas y culturales que dieron origen a los procesos de independencia de los pueblos americanos.",
+        "dba": [
+          "DBA-SOC-8-6 Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX y sus implicaciones para las sociedades contemporáneas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los aportes de la Revolución Francesa en el campo político (Derechos del Hombre y del Ciudadano, soberanía popular, Constitución, división de poderes y estados nacionales).",
+          "(Saber Hacer) Describe la influencia política y económica de las revoluciones francesa e Industrial en los procesos de independencia de las colonias americanas. Compara la organización político-administrativa entre las colonias americanas que estuvieron bajo el dominio europeo: inglesas, españolas, francesas, holandesas y portuguesas.",
+          "(Saber Aplicar) Argumenta acerca de las consecuencias que trae para los pueblos, en la actualidad la intervención de algunos Estados más desarrollados en países con economías en desarrollo."
+        ],
+        "saberes": [
+          "La revolución francesa.",
+          "Revolución industrial",
+          "La declaración de los derechos humanos.",
+          "Condiciones sociales, económicas, políticas y culturales que dieron origen a los procesos de independencia de los pueblos americanos",
+          "Patria Boba",
+          "Reconquista"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico y explico algunos de los principales procesos políticos del siglo XIX en Colombia.",
+        "dba": [
+          "DBA-SOC-8-6 Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX y sus implicaciones para las sociedades contemporáneas."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Compara la organización político-administrativa entre las colonias americanas que estuvieron bajo el dominio europeo: inglesas, españolas, francesas, holandesas y portuguesas.",
+          "(Saber Aplicar) Argumenta acerca de las consecuencias que trae para los pueblos, en la actualidad, la intervención de algunos Estados más desarrollados en países con economías en desarrollo."
+        ],
+        "saberes": [
+          "Condiciones sociales, económicas, políticas y culturales que dieron origen a los procesos de independencia de los pueblos americanos",
+          "Patria Boba",
+          "Reconquista",
+          "Federalismo y centralismo",
+          "Radicalismo liberal",
+          "Regeneración"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y paz",
+        "dba": [
+          "DBA-SOC-8-7 Entiendo la importancia de mantener expresiones de afecto y cuidado mutuo con mis familiares, amigos, amigas y parejas, a pesar de las diferencias, disgustos o conflictos. Identifico y supero emociones, como el resentimiento y el odio, para poder perdonar y reconciliarme con quienes he tenido conflictos. Preveo las consecuencias, a corto y largo plazo, de mis acciones y evito aquellas que pueden causarme sufrimiento o hacérselo a otras personas, cercanas o lejanas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la importancia de la resiliencia y el manejo de emociones negativas en la resolución de conflictos históricos y personales.",
+          "(Saber Hacer) Describe formas de expresar afecto y cuidado mutuo que fortalezcan los vínculos sociales en medio de la diversidad.",
+          "(Saber Aplicar) Evalúa las consecuencias de sus decisiones personales en su entorno social, priorizando acciones que eviten el sufrimiento ajeno."
+        ],
+        "saberes": [
+          "Las expresiones de afecto.",
+          "La Resiliencia",
+          "Mis acciones y sus consecuencias"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Comparo las maneras como distintas comunidades, etnias y culturas se han relacionado económicamente con el medio ambiente en Colombia a lo largo de la historia (pesca de subienda, cultivo en terrazas...). Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación.",
+        "dba": [
+          "DBA-SOC-8-8 Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica el papel que las comunidades, etnias y culturas han tenido con el territorio y el medio ambiente.". Reconoce las actividades económicas que generan el deterioro del medio ambiente y propone acciones para mejorar el medio ambiente frente a estas actividades."
+        ],
+        "saberes": [
+          "Cuidado del medio ambiente.",
+          "El papel que las comunidades etnias y culturas han tenido con el territorio y el medio ambiente."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Explico algunos de los grandes cambios sociales que se dieron en Colombia entre los siglos XIX y primera mitad del XX (abolición de la esclavitud, surgimiento de movimientos obreros...).",
+        "dba": [
+          "DBA-SOC-8-9 Evalúa hechos trascendentales para la dignidad humana (abolición de la esclavitud, reconocimiento de los derechos de las mujeres, derechos de las minorías) y describe las discriminaciones que aún se presentan."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que la discriminación y la exclusión social son factores generadores de situaciones negativas como el deterioro de las relaciones entre personas o grupos, el incremento de la pobreza y la violencia, entre otras.",
+          "(Saber Hacer) Describe la situación actual, desde casos concretos, de la vulneración de los derechos fundamentales de las personas en Colombia. Explica algunas situaciones que develan prejuicios y estereotipos relacionados con la exclusión, la discriminación y la intolerancia a la diferencia, que han sufrido históricamente grupos como: mujeres, grupos étnicos minoritarios, homosexuales, personas con alguna condición de discapacidad.",
+          "(Saber Aplicar) Propone acciones para mejorar el cumplimiento de los Derechos Humanos y constitucionales en Colombia y en el mundo."
+        ],
+        "saberes": [
+          "La dignidad humana",
+          "La discriminación y la exclusión social como factores de disociación social.",
+          "Vulneración de derechos fundamentales",
+          "Los prejuicios, los estereotipos, la exclusión, la intolerancia y la discriminación."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Comparo los mecanismos de participación ciudadana contemplados en las constituciones políticas de 1886 y 1991 y evalúo su aplicabilidad. Identifico algunas formas en las que organizaciones estudiantiles, movimientos sociales, partidos políticos, sindicatos... participaron en la actividad política colombiana a lo largo del siglo XIX y la primera mitad del siglo XX.",
+        "dba": [
+          "DBA-SOC-8-10 Comprende la importancia de las asociaciones, los gremios, los movimientos y organizaciones sindicales en la defensa de los derechos Colectivos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Interpreta a partir de evidencias sobre casos concretos (negociaciones -Gobierno Colombiano -FARC, huelgas del magisterio,...), como todo conflicto social o laboral, puede resolverse mediante la concertación entre las partes.",
+          "(Saber Hacer) Describe el surgimiento de los movimientos sociales (campesinos, estudiantiles y obreros) acaecidos durante el siglo XX en Colombia. Explica algunas herramientas y procedimientos alternativos (diálogo, conciliación, arbitraje, mediación,) con los que cuenta para resolver un conflicto social o laboral.",
+          "(Saber Aplicar) Argumenta la importancia de un desarrollo social, económico y tecnológico, fundamentado en una lógica orientada al bienestar colectivo."
+        ],
+        "saberes": [
+          "Los distintos movimientos sociales.",
+          "La defensa de los derechos humanos y colectivos.",
+          "Los líderes sociales",
+          "Proceso de paz en Colombia",
+          "Desarrollo social, económico y tecnológico.",
+          "Mecanismos alternos de solución de conflictos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "DBA-SOC-8-11 Comprendo los conceptos de prejuicio y estereotipo y su relación con la exclusión, la discriminación y la intolerancia a la diferencia. Respeto propuestas éticas y políticas de diferentes culturas, grupos sociales y políticos, y comprendo que es legítimo disentir. Conozco y respeto los derechos de aquellos grupos a los que históricamente se les han vulnerado (mujeres, grupos étnicos minoritarios, homosexuales, etc.)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los prejuicios y estereotipos que han fomentado la exclusión de grupos minoritarios a lo largo de la historia colombiana.",
+          "(Saber Hacer) Analiza críticamente propuestas éticas y políticas de diversos grupos sociales, reconociendo el valor del disenso en democracia.",
+          "(Saber Aplicar) Diseña estrategias de sensibilización para promover el respeto a los derechos de los grupos históricamente vulnerados en su comunidad."
+        ],
+        "saberes": [
+          "Prejuicios, estereotipos exclusión, discriminación, intolerancia.",
+          "El respeto por las propuestas del otro.",
+          "Derechos de los vulnerados y defensa de las minorías."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+
+  "area": "Ciencias Sociales",
+  "grado": "3",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Reconozco factores de tipo económico que generan bienestar o conflicto en la vida social. Identifico los principales recursos naturales (renovables y no renovables).",
+        "dba": [
+          "DBA-SOC-3-1 Comprende la importancia de los océanos y mares en la organización económica y social de los pueblos costeros en la actualidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los nombres de los continentes y de los océanos que conforman el planeta Tierra y reconoce las actividades que se realizan en las zonas costeras.",
+          "(Saber Hacer) Diferencia los mares como porciones de los océanos y su importancia en la fijación de límites entre países.",
+          "(Saber Aplicar) Relaciona la ubicación geográfica de su departamento, municipio, resguardo o lugar donde vive, con la presencia o no de costas sobre los océanos, y reconoce las ventajas y desventajas de tenerlas. Plantea preguntas sobre las problemáticas ambientales que viven los océanos en la actualidad y explica el impacto en las poblaciones costeras."
+        ],
+        "saberes": [
+          "Ubicación geográfica.",
+          "Recursos renovables y no renovables.",
+          "¿Qué son los mares? Y ¿cuál es su importancia?",
+          "Problemáticas ambientales que viven los océanos en la actualidad."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Reconozco características básicas de la diversidad étnica y cultural en Colombia. Reconozco la diversidad étnica y cultural de mi comunidad, mi ciudad…",
+        "dba": [
+          "DBA-SOC-3-2 Comprende el legado de los grupos humanos en la gastronomía, la música y el paisaje de la región, municipio, resguardo o lugar donde vive. Analiza las contribuciones de los grupos humanos que habitan en su departamento, municipio o lugar donde vive, a partir de sus características culturales: lengua, organización social, tipo de vivienda, cosmovisión y uso del suelo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la diversidad cultural como una característica del pueblo colombiano y explica los aportes de los diferentes grupos humanos. Identifica en su entorno algunos objetos, herramientas, aparatos, construcciones y documentos que brindan información acerca del pasado de su región.",
+          "(Saber Hacer) Describe algunas costumbres y tradiciones que le permiten reconocerse como miembro de un grupo poblacional y de una nación a través de la historia oral con sus abuelos.",
+          "(Saber Aplicar) Compara las fiestas que se celebran en diferentes municipios de su departamento, en aspectos como: origen, propósito, duración y participantes."
+        ],
+        "saberes": [
+          "Diversidad étnica y cultural en Colombia.",
+          "Tradiciones, fiestas y gastronomía del país y departamento.",
+          "La situación social y económica de los indígenas en mi región."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico normas que rigen algunas comunidades a las que pertenezco y explico su utilidad. Reconozco algunas normas que han sido construidas socialmente y distingo aquellas en cuya construcción y modificación puedo participar (normas del hogar, manual de convivencia escolar, Código de Tránsito…).",
+        "dba": [
+          "DBA-SOC-3-3 Comprende la importancia de participar en las decisiones de su comunidad cercana (institución educativa) mediante la elección del gobierno escolar. Comprende la estructura y el funcionamiento democrático a nivel del departamento como entidad política, administrativa y jurídica."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los mecanismos de elección del gobierno escolar y la importancia de elegir y ser elegido. Reconoce el papel que cumplen los representantes de los estudiantes y el consejo estudiantil en la vida de la institución educativa, mediante su participación en la elección de estos.",
+          "(Saber Hacer) Compara las propuestas que presentan los diferentes candidatos a ocupar los cargos de personero estudiantil.",
+          "(Saber Aplicar) Emite sus opiniones frente a las problemáticas observadas en los procesos de elección de cargos políticos en la región."
+        ],
+        "saberes": [
+          "La participación democrática: gobierno escolar, consejo estudiantil y personero estudiantil.",
+          "Las elecciones populares /problemáticas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "Entiendo el sentido de las acciones reparadoras, es decir de las acciones que buscan enmendar el daño causado cuando incumplo normas o acuerdos. (6). Colaboro activamente para el logro de metas comunes en mi salón y reconozco la importancia que tienen las normas para lograr esas metas. (7)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que las acciones reparadoras permiten restaurar la convivencia tras el incumplimiento de una norma.",
+          "(Saber Hacer) Propone acciones concretas para reparar daños causados a otros o al entorno del salón.",
+          "(Saber Aplicar) Participa activamente en el cumplimiento de normas grupales para alcanzar metas colectivas en el aula."
+        ],
+        "saberes": [
+          "Acciones reparadoras.",
+          "La cooperación y la importancia de las normas para lograr metas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Establezco relaciones entre el clima y las actividades económicas de las personas.",
+        "dba": [
+          "DBA-SOC-3-4 Relaciona las características biogeográficas de su departamento, municipio, resguardo o lugar donde vive, con las actividades económicas que en ellos se realizan."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la oferta de recursos naturales presentes en su región respecto del suelo, clima, flora, fauna y agua.",
+          "(Saber Hacer) Reconoce las actividades que se realizan en su región: agricultura, ganadería, pesca, industria, minería o servicios.",
+          "(Saber Aplicar) Expresa por qué en espacios con determinados climas no se cuenta con ciertos productos y destaca la importancia del trabajo que realizan quienes producen los alimentos para el bienestar de todos."
+        ],
+        "saberes": [
+          "Los recursos naturales",
+          "La biogeografía",
+          "El clima y las actividades económicas de las personas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifico los aportes culturales que mi comunidad y otras diferentes a la mía han hecho a lo que somos hoy.",
+        "dba": [
+          "DBA-SOC-3-5 Comprende la importancia del tiempo en la organización de las actividades sociales, económicas y culturales en su comunidad."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Describe el tiempo dedicado en su familia a actividades como trabajar, estudiar, viajar, jugar, practicar deporte y leer.". Compara las actividades escolares, familiares y de uso del tiempo libre, llevadas a cabo el año pasado con las que realiza actualmente y expresa aquellas que quiere hacer el año próximo.",
+          "(Saber Aplicar) Organiza las actividades personales y familiares con base en el uso del calendario. Elabora esquemas con la distribución del tiempo dedicado en procesos de producción y/o extracción de un producto típico en su región."
+        ],
+        "saberes": [
+          "Importancia del tiempo y su organización.",
+          "Las actividades escolares, familiares y uso del tiempo libre.",
+          "Distribución del tiempo en las actividades económicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico factores que generan cooperación y conflicto en las organizaciones sociales y políticas de mi entorno y explico por qué lo hacen.",
+        "dba": [
+          "DBA-SOC-3-6 Comprende la estructura y el funcionamiento democrático a nivel del departamento como entidad política, administrativa y jurídica."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Diferencia los órganos y las funciones del poder público que tiene el departamento (gobernador, diputados y jueces) de los que tiene el municipio y los resguardos.",
+          "(Saber Aplicar) Explica la importancia del gobierno departamental en el mejoramiento de las condiciones de vida de los ciudadanos, en cuanto a educación, obras públicas, salud y recreación.",
+        ],
+        "saberes": [
+          "Estructura del Estado colombiano",
+          "El departamento y la gobernación /políticas públicas de Bienestar."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y paz",
+        "dba": [
+          "Comprendo que las normas ayudan a promover el buen trato y evitar el maltrato en el juego y en la vida escolar. (10). Identifico cómo me siento yo o las personas cercanas cuando no recibimos buen trato... (11). Conozco y uso estrategias sencillas de resolución pacífica de conflictos... (13)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las normas del entorno escolar que promueven el respeto y previenen el maltrato.",
+          "(Saber Hacer) Expresa empatía y sentimientos compatibles con los de los demás ante situaciones de trato injusto.",
+          "(Saber Aplicar) Utiliza el diálogo y acuerdos creativos para resolver conflictos en el juego y la vida escolar de manera pacífica."
+        ],
+        "saberes": [
+          "La importancia de las normas",
+          "La asertividad y la empatía",
+          "Resolución de conflictos"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Comparo actividades económicas que se llevan a cabo en diferentes entornos. Reconozco, describo y comparo las actividades económicas de algunas personas en mi entorno y el efecto de su trabajo en la comunidad.",
+        "dba": [
+          "DBA-SOC-3-7 Explica las acciones humanas que han incidido en las transformaciones del territorio asociadas al número de habitantes e infraestructura, en su departamento, municipio, resguardo o lugar donde vive"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los cambios y/o permanencias que se presentan en espacios como la escuela, la plaza principal y el mercado, entre otros. Identifica problemas sociales relevantes en la población, originados en el uso de los recursos naturales.",
+          "(Saber Hacer) Diferencia cambios dados en el territorio local por la construcción de obras públicas (carreteras, parques, alcantarillado, acueducto y hospitales, entre otros).",
+          "(Saber Aplicar) Indaga sobre el aumento o disminución de la población en el departamento, municipio, resguardo o lugar donde vive, a partir de diferentes fuentes documentales."
+        ],
+        "saberes": [
+          "La acción humana sobre el medio ambiente.",
+          "Demografía / tasas de natalidad y mortalidad / densidad demográfica / los censos.",
+          "Problemas sociales debido al uso de los recursos naturales"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Reconozco conflictos que se generan cuando no se respetan mis rasgos particulares o los de otras personas",
+        "dba": [
+          "DBA-SOC-3-8 Analiza las contribuciones de los grupos humanos que habitan en su departamento, municipio o lugar donde vive, a partir de sus características culturales: lengua, organización social, tipo de vivienda, cosmovisión y uso del suelo."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Caracteriza aquellos grupos humanos que habitan en su región (afrodescendientes, raizales, blancos, indígenas, gitanos y/o mestizos).". Describe las expresiones culturales de cada uno de los grupos humanos identificados en su departamento, municipio, resguardo o lugar donde vive.",
+        ],
+        "saberes": [
+          "Grupos étnicos de mi región",
+          "Expresiones culturales de mi región"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico mis derechos y deberes y los de otras personas en las comunidades a las que pertenezco.",
+        "dba": [
+          "DBA-SOC-3-9 Comprende la estructura y el funcionamiento democrático a nivel del departamento como entidad política, administrativa y jurídica."
+        ],
+        "evidencias": [
+          "(Saber Aplicar) Propone acciones que pueden desarrollar las instituciones departamentales para fortalecer la convivencia y la paz en las comunidades."
+        ],
+        "saberes": [
+          "Mis derechos y deberes en comunidad",
+          "Fortalecimiento de la convivencia y la paz en las comunidades."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "Manifiesto desagrado cuando me excluyen o excluyen a alguien por su género, etnia, condición social y características físicas... (5). Comparo cómo me siento cuando me discriminan o me excluyen... y cómo, cuando me aceptan. (6)"
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica comportamientos y palabras que resultan excluyentes u ofensivas en su grupo social.",
+          "(Saber Hacer) Expresa de manera respetuosa y clara su desacuerdo ante situaciones de exclusión o discriminación.",
+          "(Saber Aplicar) Participa en acciones que promueven la aceptación y valoración de las diferencias individuales en el aula."
+        ],
+        "saberes": [
+          "Semejanzas y diferencias entre las personas.",
+          "Campaña infantil contra la discriminación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

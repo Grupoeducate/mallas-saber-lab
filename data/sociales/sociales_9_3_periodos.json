@@ -1,0 +1,277 @@
+  "area": "Ciencias Sociales",
+  "grado": "9",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia. Comparo las maneras como distintas comunidades, etnias y culturas se han relacionado económicamente con el medio ambiente en Colombia a lo largo de la historia (pesca de subienda, cultivo en terrazas...).",
+        "dba": [
+          "DBA-SOC-9-1 Analiza la situación ambiental de los geosistemas más biodiversos de Colombia (selvas, páramos, arrecifes coralinos) y las problemáticas que enfrentan actualmente debido a la explotación a que han sido sometidos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la importancia que tienen para la sociedad colombiana los geosistemas biodiversos existentes en el territorio colombiano y los ubica geográficamente.",
+          "(Saber Hacer) Explica las consecuencias para la biodiversidad colombiana acciones como la ampliación de la frontera agrícola, el turismo desmedido y la explotación minera. Describe los niveles de deforestación observados en las selvas colombianas y la disminución de las áreas de páramo en nuestro país, así como su incidencia en el deterioro de las fuentes hídricas en Colombia.",
+          "(Saber Aplicar) Argumenta acerca de las condiciones de otros geosistemas colombianos como los manglares, las sábanas, los ríos, las ciénagas, los humedales, los bosques secos, los embalses y los estuarios."
+        ],
+        "saberes": [
+          "Los geosistemas y su importancia en Colombia.",
+          "Protección de la biodiversidad en Colombia",
+          "Contaminación ambiental en Colombia: deforestación, disminución de las áreas de paramo, deterioro de las fuentes hídricas.",
+          "Relación de la comunidad con el medio ambiente en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Explico algunos de los grandes cambios sociales que se dieron en Colombia entre los siglos XIX y primera mitad del XX (abolición de la esclavitud, surgimiento de movimientos obreros...). Identifico algunas corrientes de pensamiento económico, político, cultural y filosófico del siglo XIX y explico su influencia en el pensamiento colombiano y el de América Latina.",
+        "dba": [
+          "DBA-SOC-9-2 Analiza los cambios sociales, políticos, económicos y culturales en Colombia en el siglo XX y su impacto en la vida de los habitantes del país."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Compara los hábitos de vida de las personas antes y después de la llegada al país del cine, la radio, la aviación comercial y los automóviles.",
+          "(Saber Hacer) Establece posibles relaciones entre los hechos sociales y políticos de la segunda mitad del siglo XX en Colombia y los que tienen lugar en la actualidad (partidos políticos, violencia política, conflicto armado, desplazamiento, narcotráfico, reformas constitucionales, apertura económica, corrupción, entre otros).",
+        ],
+        "saberes": [
+          "Abolición de la esclavitud",
+          "Surgimiento de movimientos obreros.",
+          "La masacre de las bananeras.",
+          "Procesos de modernización en Colombia (llegada del cine, la radio etc.)",
+          "Cambios y acontecimientos sociales, políticos, económicos y culturales en Colombia durante los siglos XIX y XX y su impacto en la vida de los habitantes del país.",
+          "Corrientes de pensamiento económico, político, cultural y filosófico del siglo XIX en Colombia y América latina."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – Político",
+        "estandar": "Comparo los mecanismos de participación ciudadana contemplados en las constituciones políticas de 1886 y 1991 y evalúo su aplicabilidad.",
+        "dba": [
+          "DBA-SOC-9-3 Evalúa cómo las sociedades democráticas en un Estado social de Derecho tienen el deber de proteger y promover los derechos fundamentales de los ciudadanos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los derechos constitucionales fundamentales, los derechos sociales, económicos y culturales y los derechos colectivos y del ambiente.",
+          "(Saber Hacer) Examina las implicaciones que tiene para la democracia y la ciudadanía la vulneración de los Derechos Humanos (DD. HH.) y sugiere para su protección mecanismos constitucionales. Justifica el uso de los mecanismos de participación ciudadana: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular, la revocatoria del mandato.",
+          "(Saber Aplicar) Explica mediante estudios de caso el papel que cumplen las autoridades que protegen los DD.HH. en Colombia (Procuraduría General de la Nación, Defensoría del Pueblo y personerías)."
+        ],
+        "saberes": [
+          "Colombia Estado social de derecho.",
+          "Constitución política de Colombia – derechos.",
+          "Mecanismos de protección de los derechos humanos.",
+          "Mecanismos de participación ciudadana",
+          "Órganos de control público."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "Hago seguimiento a las acciones que desarrollan los representantes escolares y protesto pacíficamente cuando no cumplen sus funciones o abusan de su poder. Conozco y uso estrategias creativas para generar opciones frente a decisiones colectivas. Participó en la planeación y ejecución de acciones que contribuyen a aliviar la situación de personas en desventaja. Cuestiono y analizo los argumentos de quienes limitan las libertades de las personas. Analizo críticamente la información de los medios de comunicación."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los canales institucionales para supervisar la gestión de los representantes estudiantiles.",
+          "(Saber Hacer) Diseña propuestas comunitarias para mitigar situaciones de desventaja social en su entorno escolar.",
+          "(Saber Aplicar) Evalúa la veracidad y sesgos de la información mediática sobre derechos y libertades ciudadanas."
+        ],
+        "saberes": [
+          "Representantes escolares - Derecho a la protesta pacífica.",
+          "Estrategias creativas y decisiones colectivas.",
+          "Planificar y ejecutar acciones comunitarias.",
+          "La libertad de las personas.",
+          "Los medios masivos de comunicación."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Explico el impacto de las migraciones y desplazamientos humanos en la vida política, económica, social y cultural de nuestro país en el siglo XIX y la primera mitad del siglo XX y lo comparo con los de la actualidad.",
+        "dba": [
+          "DBA-SOC-9-5 Comprende las consecuencias que han traído los procesos migratorios en la organización social y económica de Colombia en el siglo XX y en la actualidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica en la historia de Colombia las causas de los movimientos migratorios y su influencia en las condiciones de vida de la población actual del país.",
+          "(Saber Hacer) Diferencia procesos de emigración e inmigración dados en Colombia en la actualidad. Relaciona los movimientos de la población (del campo a la ciudad, entre ciudades y al interior de la ciudad) con los cambios políticos, ambientales, laborales y sociales dados en el territorio colombiano en las últimas décadas.",
+          "(Saber Aplicar) Explica desde situaciones de la vida cotidiana, las consecuencias económicas y sociales que tiene para el país el desplazamiento de las personas del campo a los centros urbanos."
+        ],
+        "saberes": [
+          "Demografía",
+          "Procesos migratorios en la organización social y económica de Colombia en el siglo XX y en la actualidad.",
+          "Desplazamiento forzado en Colombia.",
+          "Consecuencias de los desplazamientos forzados en Colombia."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Describo el impacto del proceso de modernización (desarrollo de los medios de comunicación, industrialización, urbanización...) en la organización social, política, económica y cultural de Colombia en el siglo XIX",
+        "dba": [
+          "DBA-SOC-9-2 Analiza los cambios sociales, políticos, económicos y culturales en Colombia en el siglo XX y su impacto en la vida de los habitantes del país."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica los cambios del proceso de modernización en Colombia en la primera mitad del siglo XX: construcción de vías de comunicación, urbanización y desarrollo industrial.",
+        ],
+        "saberes": [
+          "Cambios en los procesos de modernización en Colombia en la primera mitad del siglo XX. (urbanización, desarrollo, tecnologías, cultura, desarrollo industrial, etc.)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – Político",
+        "estandar": "Asumo una posición crítica frente a situaciones de discriminación y abuso por irrespeto a las posiciones ideológicas y propongo formas de cambiarlas. Comparo los mecanismos de participación ciudadana contemplados en las constituciones políticas de 1886 y 1991 y evalúo su aplicabilidad.",
+        "dba": [
+          "DBA-SOC-9-3 Evalúa cómo todo conflicto puede solucionarse mediante acuerdos en que las personas ponen de su parte para superar las diferencias."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Explica las consecuencias de aquellas acciones que pueden causar sufrimiento a otras personas. Analiza los conflictos entre grupos con el fin de proponer alternativas de solución. Plantea argumentos sobre los discursos que legitiman la violencia con el fin de rechazarlos como alternativa a la solución de los conflictos.",
+          "(Saber Aplicar) Establece posibles relaciones entre los hechos sociales y políticos de la segunda mitad del siglo XX en Colombia y los que tienen lugar en la actualidad (partidos políticos, violencia política, conflicto armado, desplazamiento, narcotráfico, reformas constitucionales, apertura económica, corrupción, entre otros). Propone alternativas para la solución de conflictos que ocurren en las relaciones, incluyendo las de pareja, y que se pueden resolver a partir de la escucha y comprensión de los diferentes puntos de vista."
+        ],
+        "saberes": [
+          "Discriminación, estereotipos, prejuicios, abuso e irrespeto como prácticas violatorias a los derechos humanos.",
+          "Análisis del conflicto en pro de la vida comunitaria",
+          "Campañas de mejoramiento de la convivencia escolar.",
+          "Resolución de conflictos.",
+          "El diálogo y la mediación como herramientas fundamentales en la resolución de conflictos.",
+          "Los acuerdos son compromisos reales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y paz",
+        "dba": [
+          "Conozco y utilizo estrategias creativas para solucionar conflictos. Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país. Analizo, de manera crítica, los discursos que legitiman la violencia. Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución. Construyo, celebro, mantengo y reparo acuerdos entre grupos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Categoriza los tipos de discursos que justifican la violencia en el entorno comunitario.",
+          "(Saber Hacer) Aplica técnicas de lluvia de ideas para proponer soluciones a conflictos territoriales o barriales.",
+          "(Saber Aplicar) Argumenta su posición frente a dilemas éticos donde colisionan derechos individuales y colectivos."
+        ],
+        "saberes": [
+          "Análisis crítico de los conflictos de mi municipio y mi país.",
+          "Discursos que legitiman la violencia.",
+          "¿Cómo enfrentar los dilemas de la vida?",
+          "La importancia de los acuerdos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Explico las políticas que orientaron la economía colombiana a lo largo del siglo XIX y primera mitad del XX (proteccionismo, liberalismo económico...).",
+        "dba": [
+          "DBA-SOC-9-8 Comprende el impacto social del crecimiento económico desigual que se da en las diferentes regiones del país. Analiza las crisis económicas dadas en la Colombia contemporánea y sus repercusiones en la vida cotidiana de las personas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce cómo las condiciones geográficas regionales pueden influir en la construcción o no de infraestructuras y por ende en el crecimiento económico. Establece algunas causas que han generado crisis económicas en Colombia, América Latina y el mundo, y sus efectos en la economía del hogar.",
+          "(Saber Hacer) Compara las características que tienen las zonas con mejores índices de crecimiento económico respecto a aquellas con menor desarrollo. Caracteriza a través de estudios de caso algunas crisis económicas en Colombia (sustitución de importaciones, financiera e hipotecaria [UPAC], ruptura del pacto internacional del café, crisis internacional del petróleo). Explica las consecuencias sociales de las crisis económicas en la vida diaria de las personas (desempleo, impuestos, canasta familiar, poder adquisitivo).",
+          "(Saber Aplicar) Explica posibles acciones a considerar en el mejoramiento del crecimiento de las regiones con menor índice de desarrollo humano. Plantea hipótesis de un futuro económico posible en que las personas vivan en mejores condiciones de vida."
+        ],
+        "saberes": [
+          "Crecimiento económico",
+          "Desigualdad social",
+          "Desarrollo humano en Colombia",
+          "Proteccionismo",
+          "Neoliberalismo",
+          "Apertura económica",
+          "Las crisis económicas contemporáneas en Colombia, América Latina y el mundo, y sus efectos en la economía del hogar y en la vida cotidiana."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Describo el impacto del proceso de modernización (desarrollo de los medios de comunicación, industrialización, urbanización...) en la organización social, política, económica y cultural de Colombia en la primera mitad del XX.",
+        "dba": [
+          "DBA-SOC-9-2 Analiza los cambios sociales, políticos, económicos y culturales en Colombia en el siglo XX y su impacto en la vida de los habitantes del país."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Relaciona el proceso de industrialización del país con el surgimiento de los sindicatos en la primera mitad del siglo XX, para el alcance de derechos de la clase trabajadora."
+        ],
+        "saberes": [
+          "La revolución industrial en Colombia.",
+          "Medios de comunicación, industrialización y urbanización en Colombia en el siglo XX.",
+          "Derechos de la clase trabajadora.",
+          "Los sindicatos.",
+          "El código del trabajo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – Político",
+        "estandar": "Comparo algunos de los procesos políticos que tuvieron lugar en Colombia en los siglos XIX y XX (por ejemplo, radicalismo liberal y Revolución en Marcha; Regeneración y Frente Nacional; constituciones políticas de 1886 y 1991...).",
+        "dba": [
+          "DBA-SOC-9-7 Comparo algunos de los procesos políticos que tuvieron lugar en Colombia en los siglos XIX y XX (radicalismo liberal, Revolución en Marcha, Regeneración, Frente Nacional)."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica la participación de las mujeres en la historia de Colombia en el ámbito político, académico, cultural, industrial y financiero.",
+          "(Saber Hacer) Explica las contribuciones de las mujeres en la construcción de una sociedad justa y creadora de una cultura de paz.",
+          "(Saber Aplicar) Caracteriza formas de violencia contra las mujeres en el país y en el mundo (psicológica, sexual, económica, doméstica, laboral, mediática y física) y propone alternativas para cambiarlas. Propone acciones para que las diversas formas de identidad de género sean respetadas en el contexto del desarrollo de todas las potencialidades humanas."
+        ],
+        "saberes": [
+          "El papel de las mujeres en los cambios sociales, políticos, económicos y culturales en el mundo.",
+          "No a la violencia contra la mujer.",
+          "Contribución de las mujeres en la construcción de la sociedad actual.",
+          "La identidad de género."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "Comprendo que la orientación sexual hace parte del libre desarrollo de la personalidad y rechazo cualquier discriminación al respecto. Analizo mis prácticas cotidianas e identifico cómo mis acciones u omisiones pueden contribuir a la discriminación. Identifico dilemas relacionados con problemas de exclusión y analizo alternativas de solución, considerando los aspectos positivos y negativos de cada opción."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce los marcos legales que protegen el libre desarrollo de la personalidad y la diversidad sexual.",
+          "(Saber Hacer) Detecta prejuicios implícitos en las interacciones cotidianas que fomentan la exclusión.",
+          "(Saber Aplicar) Propone alternativas de solución a dilemas de exclusión privilegiando el respeto a la dignidad humana."
+        ],
+        "saberes": [
+          "Mi orientación sexual y el libre desarrollo de la personalidad.",
+          "Actitudes que promueven discriminación.",
+          "Dilemas relacionados con problemas de exclusión"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

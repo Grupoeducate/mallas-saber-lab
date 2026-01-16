@@ -1,0 +1,258 @@
+
+  "area": "Ciencias Sociales",
+  "grado": "3",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Establezco relaciones entre los espacios físicos que ocupo (salón de clase, colegio, municipio…) y sus representaciones (mapas, planos, maquetas...).",
+        "dba": [
+          "DBA-SOC-3-1 Reconoce los puntos cardinales y los usa para orientarse en el desplazamiento de un lugar a otro."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Da orientaciones espaciales verbalmente o de otras formas para llegar a un lugar específico, utilizando expresiones de lateralidad (izquierda, derecha, adelante, atrás) y los puntos cardinales.",
+          "Establece relaciones entre el espacio físico del salón de clases y otros espacios que hacen parte de la Institución Educativa a través de dibujos, gráficos o planos, utilizando los puntos cardinales.",
+          "(Saber Aplicar) Mide distancias reales entre varios lugares, con pasos y otras medidas que pueden inventarse en el grupo, identificando la distancia - cerca o lejos- entre dichos lugares. Traza las rutas seguidas por algunos de sus compañeros de clase para llegar a la escuela y las representa en un dibujo."
+        ],
+        "saberes": [
+          "Los puntos cardinales.",
+          "Los croquis",
+          "Medir distancias.",
+          "Las orientaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Identifico y describo algunos elementos que permiten reconocerme como miembro de un grupo regional y de una nación (territorio, lenguas, costumbres, símbolos patrios…).",
+        "dba": [
+          "DBA-SOC-3-2 Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce las procedencias y los recorridos de los integrantes de su núcleo familiar antes de llegar al municipio donde viven actualmente, a través de relatos.",
+          "(Saber Hacer) Describe las características de la conformación de su familia antes de su nacimiento.",
+        ],
+        "saberes": [
+          "Mi familia, mi origen.",
+          "¿Quién soy?",
+          "¿De dónde vengo?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Comparo las formas de organización propias de los grupos pequeños (familia, salón de clase, colegio…) con las de los grupos más grandes (resguardo, territorios afrocolombianos, municipio…).",
+        "dba": [
+          "DBA-SOC-3-3 Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica los trabajos u oficios que las personas de su comunidad realizan para obtener su sustento y el de la familia.",
+          "(Saber Hacer) Describe las actividades económicas que realizan los adultos en su hogar y los beneficios que éstas traen para todos los integrantes de la familia.",
+        ],
+        "saberes": [
+          "Formas de organización social.",
+          "Las actividades económicas.",
+          "Economía familiar."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Participación y responsabilidad democrática",
+        "dba": [
+          "Manifiesto desagrado cuando a mí o a alguien del salón no nos escuchan o no nos toman en cuenta y lo expreso... sin agredir. Comprendo qué es una norma y qué es un acuerdo."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce la importancia de la escucha activa y el cumplimiento de acuerdos en el aula.",
+          "(Saber Hacer) Expresa sus sentimientos ante situaciones de exclusión de forma asertiva y sin agresión.",
+          "(Saber Aplicar) Participa en la construcción de normas de convivencia para mejorar el ambiente escolar."
+        ],
+        "saberes": [
+          "El valor de escuchar y expresar.",
+          "Las normas y los acuerdos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Establezco relaciones entre los accidentes geográficos y su representación gráfica. Establezco relaciones entre paisajes naturales y paisajes culturales.",
+        "dba": [
+          "DBA-SOC-3-5 Comprende que el paisaje que vemos es resultado de las acciones humanas que se realizan en un espacio geográfico y que, por esta razón, dicho paisaje cambia. Compara las características de las viviendas de su municipio, vereda o lugar donde vive con las de otros lugares."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las formas del relieve que se encuentran en la superficie terrestre (montaña, valle, llanura, meseta e islas) y nombra aquellas que se observan en su localidad, comuna o vereda. Reconoce características de las viviendas rurales y urbanas a partir de los materiales utilizados para su construcción.",
+          "(Saber Hacer) Explica los cambios que se han realizado en el paisaje del municipio debido a cultivos, construcciones recientes, carreteras, caminos, edificaciones y parques, entre otros.",
+          "(Saber Aplicar) Traza las formas básicas del paisaje de su municipio a través de dibujos y la elaboración de maquetas con barro, plastilina o materiales reutilizables que consiga en su contexto."
+        ],
+        "saberes": [
+          "El relieve colombiano.",
+          "El paisaje natural y cultural.",
+          "La vivienda con el pasar del tiempo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Reconozco en mi entorno cercano las huellas que dejaron las comunidades que lo ocuparon en el pasado (monumentos, museos, sitios de conservación histórica…).",
+        "dba": [
+          "DBA-SOC-3-2 Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva."
+        ],
+        "evidencias": [
+          "(Saber Hacer) Establece secuencias de datos históricos a nivel personal y familiar desde la lectura de su registro civil de nacimiento y elabora un árbol genealógico.",
+          "(Saber Aplicar) Indaga por los lugares de origen y las razones de los desplazamientos de la población en su comunidad."
+        ],
+        "saberes": [
+          "La memoria histórica",
+          "Las fuentes de información",
+          "El árbol genealógico"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Reconozco en mi entorno cercano las huellas que dejaron las comunidades que lo ocuparon en el pasado (monumentos, museos, sitios de conservación histórica…)",
+        "dba": [
+          "DBA-SOC-3-3 Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce experiencias donde algunos niños son explotados laboralmente y expresa razones para rechazar estas situaciones.",
+          "(Saber Hacer) Compara los oficios que los abuelos realizaban anteriormente respecto de cómo se realizan hoy y diferencia los trabajos característicos de las zonas urbanas y rurales.",
+        ],
+        "saberes": [
+          "Trabajos de antes y trabajos actuales.",
+          "Explotación infantil"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Convivencia y paz",
+        "dba": [
+          "Reconozco que las acciones se relacionan con las emociones y que puedo aprender a manejar mis emociones para no hacer daño a otras personas. Comprendo que mis acciones pueden afectar a la gente cercana... Comprendo que nada justifica el maltrato..."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las emociones básicas y cómo estas influyen en su comportamiento hacia los demás.",
+          "(Saber Hacer) Describe situaciones de maltrato en su entorno y reconoce las rutas de apoyo institucionales.",
+          "(Saber Aplicar) Propone y aplica acciones de cuidado y buen trato en sus relaciones diarias con compañeros y familiares."
+        ],
+        "saberes": [
+          "Manejo de las emociones.",
+          "Las acciones humanas, sus responsabilidades y afectaciones.",
+          "El maltrato infantil."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Espacio y Ambiente",
+        "estandar": "Identifico formas de medir el tiempo (horas, días, años...) y las relaciono con las actividades de las personas.",
+        "dba": [
+          "DBA-SOC-3-7 Explica cambios y continuidades en los medios empleados por las personas para transportarse en su municipio, vereda o lugar donde vive."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Diferencia los cambios vividos en los medios de transporte en su entorno cercano, a partir de relatos de su familia.",
+          "(Saber Hacer) Representa gráficamente la movilidad en su comunidad e identifica sus ventajas y desventajas.",
+        ],
+        "saberes": [
+          "Los medios de transporte pasado y presente",
+          "La movilidad en mi ciudad"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Historia y Cultura",
+        "estandar": "Reconozco situaciones de discriminación y abuso por irrespeto a los rasgos individuales de las personas (religión, etnia, género, discapacidad…) y propongo formas de cambiarlas.",
+        "dba": [
+          "DBA-SOC-3-8 Reconoce y rechaza situaciones de exclusión o discriminación en su familia, entre sus amigos y en los compañeros del salón de clase."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica las acciones que generan discriminación en su entorno y sabe a quién acudir para pedir ayuda y protección.",
+          "(Saber Hacer) Describe diversas características de los grupos humanos (etnia, edad, religión, género) y explica aquello que más le gusta de sus compañeros y lo que pudiera cambiarse para mejorar la convivencia en el grupo.",
+        ],
+        "saberes": [
+          "Características de los grupos humanos",
+          "Discriminación",
+          "Los inmigrantes y sus tradiciones.",
+          "¿A quién debo pedir ayuda?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Ético – político",
+        "estandar": "Identifico y describo algunos elementos que permiten reconocerme como miembro de un grupo regional y de una nación (territorio, lenguas, costumbres, símbolos patrios…).",
+        "dba": [
+          "DBA-SOC-3-9 Reconoce la organización territorial en su municipio, desde: comunas, corregimientos, veredas, localidades y territorios indígenas."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Identifica el croquis de su municipio y lo diferencia entre los demás municipios del departamento.",
+          "(Saber Hacer) Nombra topónimos (nombres propios que adoptan los lugares geográficos) en su municipio y diferencia su ubicación en el medio urbano o rural.",
+          "(Saber Aplicar) Ubica las comunas, corregimientos, localidades y/o territorios indígenas en los que está organizado el territorio de su municipio, teniendo en cuenta los puntos cardinales."
+        ],
+        "saberes": [
+          "Me reconozco como miembro de una comunidad",
+          "¿Dónde vivo?",
+          "Topónimos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Competencias Ciudadanas",
+        "estandar": "Pluralidad, identidad y valoración de las diferencias",
+        "dba": [
+          "Valoro las semejanzas y diferencias de gente cercana. Identifico las ocasiones en que mis amigos/as o yo hemos hecho sentir mal a alguien excluyéndolo, burlándonos o poniéndole apodos ofensivos."
+        ],
+        "evidencias": [
+          "(Saber Conocer) Reconoce que la diversidad física, cultural y de pensamiento enriquece al grupo escolar.",
+          "(Saber Hacer) Identifica comportamientos propios o ajenos que resultan excluyentes en el juego o el estudio.",
+          "(Saber Aplicar) Participa en acciones colectivas que promueven la inclusión y el respeto por las diferencias en el colegio."
+        ],
+        "saberes": [
+          "Semejanzas y diferencias entre las personas.",
+          "Campaña infantil contra la discriminación"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}
