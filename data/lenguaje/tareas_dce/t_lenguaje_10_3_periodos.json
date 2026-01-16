@@ -1,0 +1,337 @@
+{
+  "area": "Lenguaje",
+  "grado": "9",
+  "nombre_archivo": "t_lenguaje_9_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Consejo de Sabios",
+            "un_reto_sugerido": "¿Cómo podemos resolver un problema grave de nuestra comunidad usando solo el poder de la palabra?",
+            "ruta_de_exploracion": {
+              "explorar": "Estudio de Caso: Presentar un problema real del colegio (ej: exceso de basura, bullying) y lluvia de ideas sobre causas y soluciones.",
+              "visual": "Árbol de Problemas: Dibujar un árbol donde las raíces son las causas, el tronco el problema y las ramas las consecuencias. Luego, proponer soluciones para las raíces.",
+              "produccion": "Propuesta Argumentada: Redactar un texto formal dirigido al Consejo Directivo proponiendo una solución, usando argumentos de autoridad y ejemplos."
+            },
+            "para_pensar": [
+              "¿Por qué una buena idea puede fracasar si no se sabe explicar?",
+              "¿Qué hace que un argumento sea convincente?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza estrategias argumentativas para sustentar sus propuestas.",
+              "Estructura textos con coherencia y cohesión (uso de conectores)."
+            ],
+            "un_refuerzo": "Identificar en un texto argumentativo la tesis y los argumentos que la apoyan."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Historia vs. Ficción",
+            "un_reto_sugerido": "¿Cuánto de verdad hay en una novela histórica? ¿La ficción puede contar la verdad mejor que la historia?",
+            "ruta_de_exploracion": {
+              "explorar": "Cruce de Fuentes: Leer un fragmento de un libro de historia sobre un evento (ej: La Masacre de las Bananeras) y un fragmento de 'Cien Años de Soledad' sobre lo mismo.",
+              "visual": "Diagrama de Venn: Comparar los dos textos: ¿Qué datos coinciden? ¿Qué emociones aporta la literatura que la historia no?",
+              "produccion": "Ensayo Comparativo: Escribir un texto breve analizando cómo la literatura ayuda a entender la historia emocional de un país."
+            },
+            "para_pensar": [
+              "¿Por qué los escritores mezclan realidad y fantasía?",
+              "¿La literatura sirve para no olvidar el pasado?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona obras literarias con hechos históricos y problemáticas reales.",
+              "Analiza el lenguaje literario como vehículo de memoria histórica."
+            ],
+            "un_refuerzo": "Investigar el contexto histórico de una novela leída en clase."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Cine-Foro Literario",
+            "un_reto_sugerido": "¿Qué se pierde y qué se gana cuando un libro se convierte en película?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura y Visualización: Leer un cuento corto latinoamericano y ver un cortometraje basado en él.",
+              "visual": "Storyboard Inverso: Dibujar la secuencia de planos de una escena del corto y compararla con la descripción en el texto. ¿Cómo se narra con la cámara?",
+              "produccion": "Crítica de Adaptación: Escribir una reseña crítica evaluando si la adaptación audiovisual respetó la esencia de la obra literaria."
+            },
+            "para_pensar": [
+              "¿El lenguaje del cine es igual al lenguaje de la literatura?",
+              "¿Por qué a veces nos decepcionan las películas de libros que amamos?"
+            ],
+            "pistas_del_exito": [
+              "Compara formatos literarios y audiovisuales analizando elementos narrativos.",
+              "Reconoce problemáticas narradas en diferentes medios."
+            ],
+            "un_refuerzo": "Describir una escena de película usando lenguaje literario detallado."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Semiótica Urbana",
+            "un_reto_sugerido": "¿Qué nos dicen las estatuas, los grafitis y las banderas de nuestra ciudad?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata Virtual: Observar fotos de símbolos en espacios públicos (señales, monumentos, publicidad política). ¿Qué poder representan?",
+              "visual": "Mapa Simbólico: Crear un mapa del colegio o barrio ubicando los símbolos de poder (banderas, escudos) y de resistencia (grafitis, murales).",
+              "produccion": "Discurso Simbólico: Crear un nuevo símbolo (bandera o escudo) para su curso y escribir un discurso explicando su significado."
+            },
+            "para_pensar": [
+              "¿Por qué la gente quema banderas o derriba estatuas en las protestas?",
+              "¿Los símbolos unen o dividen a las personas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la función de símbolos políticos, cívicos y culturales.",
+              "Incorpora simbología conscientemente en sus producciones discursivas."
+            ],
+            "un_refuerzo": "Analizar el significado de los colores y elementos del escudo de Colombia."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Hackers de la Información",
+            "un_reto_sugerido": "¿Cómo descubrir la ideología oculta detrás de una noticia aparentemente 'neutral'?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura Contrastada: Leer la misma noticia en dos medios con posturas políticas opuestas. Subrayar los adjetivos que usan para describir a los protagonistas.",
+              "visual": "Lentes de la Ideología: Usar un esquema de 'Capas de la Cebolla' para analizar una noticia: Capa 1 (Hechos), Capa 2 (Opiniones), Capa 3 (Intereses políticos).",
+              "produccion": "Videocolumna de Opinión: Grabar un video corto exponiendo la propia postura frente a una noticia, confrontando lo que dicen los medios."
+            },
+            "para_pensar": [
+              "¿Existe el periodismo totalmente objetivo?",
+              "¿Cómo influyen los dueños de los medios en lo que se publica?"
+            ],
+            "pistas_del_exito": [
+              "Adopta una posición crítica frente a la información mediática.",
+              "Confronta discursos mediáticos para construir su propio punto de vista."
+            ],
+            "un_refuerzo": "Reescribir un titular tendencioso para hacerlo neutral."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Parlamento Escolar",
+            "un_reto_sugerido": "¿Podemos debatir sobre temas polémicos (aborto, eutanasia, voto joven) sin agredirnos?",
+            "ruta_de_exploracion": {
+              "explorar": "Tormenta de Falacias: Identificar en redes sociales comentarios que son ataques personales y no argumentos (falacias).",
+              "visual": "Estructura del Debate: Organizar el salón en bancadas. Usar tarjetas de colores para pedir la palabra: Verde (Argumento nuevo), Amarillo (Refutación), Rojo (Punto de orden).",
+              "produccion": "Debate Estructurado: Realizar un debate formal sobre un tema de actualidad, donde cada estudiante debe preparar argumentos y contraargumentos escritos previamente."
+            },
+            "para_pensar": [
+              "¿Ganar un debate es gritar más fuerte o tener mejores razones?",
+              "¿Qué es una falacia argumentativa?"
+            ],
+            "pistas_del_exito": [
+              "Participa en debates respetando opiniones y turnos.",
+              "Utiliza recursos lingüísticos y lógicos para defender sus ideas."
+            ],
+            "un_refuerzo": "Escribir tres argumentos a favor y tres en contra de un tema asignado."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "La Memoria de las Palabras",
+            "un_reto_sugerido": "¿Cómo un poema o una novela pueden guardar la historia secreta de un país?",
+            "ruta_de_exploracion": {
+              "explorar": "Antología de la Violencia/Paz: Leer poemas o cuentos que traten conflictos sociales del país. ¿Qué sentimientos predominan?",
+              "visual": "Línea de Tiempo Literaria: Ubicar obras literarias en una línea de tiempo histórica del país. ¿Coinciden con momentos de crisis o cambio?",
+              "produccion": "Ensayo de Interpretación: Escribir un análisis sobre cómo una obra leída refleja la visión de mundo de su época (ej: el rol de la mujer, la injusticia)."
+            },
+            "para_pensar": [
+              "¿La literatura puede sanar heridas sociales?",
+              "¿Qué responsabilidad tiene el lector frente a la historia que lee?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la literatura como memoria histórica y cultural.",
+              "Relaciona la obra con visiones de mundo de movimientos literarios."
+            ],
+            "un_refuerzo": "Identificar metáforas sociales en una canción popular."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Voces Ocultas de Latinoamérica",
+            "un_reto_sugerido": "¿Qué dicen las voces que la historia oficial ha ignorado (indígenas, afro, campesinos)?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de Testimonios: Leer fragmentos de literatura testimonial o crónica latinoamericana. Comparar con la versión oficial de los hechos.",
+              "visual": "Mapa de la Exclusión/Inclusión: En un mapa de Latinoamérica, ubicar autores que representen voces marginadas.",
+              "produccion": "Narrativa de la Otredad: Escribir un relato en primera persona asumiendo el rol de alguien marginado socialmente, intentando comprender su visión."
+            },
+            "para_pensar": [
+              "¿Por qué leemos más autores hombres y blancos?",
+              "¿Qué es la literatura de resistencia?"
+            ],
+            "pistas_del_exito": [
+              "Infiere significados implícitos y referentes ideológicos en textos literarios.",
+              "Valora la diversidad de voces en la literatura latinoamericana."
+            ],
+            "un_refuerzo": "Buscar biografías de escritoras latinoamericanas destacadas."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Analistas de Discursos",
+            "un_reto_sugerido": "¿Qué nos venden realmente cuando nos venden un estilo de vida?",
+            "ruta_de_exploracion": {
+              "explorar": "Deconstrucción Publicitaria: Ver comerciales de bebidas o ropa y analizar qué valores asocian al producto (juventud, éxito, libertad).",
+              "visual": "Collage de Estereotipos: Recortar imágenes de revistas que muestren estereotipos de género o raza y reflexionar sobre su impacto.",
+              "produccion": "Manifiesto Ético: Escribir un decálogo sobre cómo debería ser la publicidad responsable, evitando la manipulación y la discriminación."
+            },
+            "para_pensar": [
+              "¿La publicidad crea necesidades o las satisface?",
+              "¿Cómo afecta la publicidad nuestra autoimagen?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la función de símbolos en publicidad y propaganda.",
+              "Analiza críticamente los valores transmitidos por los medios."
+            ],
+            "un_refuerzo": "Comparar un anuncio de juguetes para niños vs uno para niñas."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Periodismo Ciudadano",
+            "un_reto_sugerido": "¿Podemos ser nosotros mismos un medio de comunicación confiable para el colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Consejo de Redacción: Definir qué temas le importan a los estudiantes y que los medios tradicionales no cubren.",
+              "visual": "Maqueta de Medio Escolar: Diseñar la portada de un periódico mural o la interfaz de un blog escolar con secciones de interés.",
+              "produccion": "Reportaje Escolar: Realizar un reportaje multimedia (texto + fotos o video) sobre un evento o problema del colegio, manteniendo la ética periodística."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre informar y opinar?",
+              "¿Qué poder tiene la información en una comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Participa en medios escolares planteando posturas críticas.",
+              "Utiliza representaciones gráficas para apoyar su discurso periodístico."
+            ],
+            "un_refuerzo": "Redactar el pie de foto de una imagen noticiosa de manera objetiva."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "TED Talks: Ideas que Valen la Pena",
+            "un_reto_sugerido": "¿Tienes una idea que podría cambiar tu entorno? ¡Compártela con el mundo!",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Oradores: Ver una charla TED famosa. Analizar cómo empieza (gancho), cómo desarrolla la idea y cómo cierra (impacto).",
+              "visual": "Guion y Apoyo Visual: Crear las diapositivas (máximo 3 palabras por lámina, muchas imágenes) y el esquema del discurso.",
+              "produccion": "Conferencia en Vivo: Presentar su charla de 3 minutos frente al grupo, aplicando técnicas de oratoria, control de voz y lenguaje corporal."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber hablar en público para el futuro profesional?",
+              "¿Cómo los nervios pueden jugarnos una mala pasada?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos orales planeados con estrategias expositivas.",
+              "Sintetiza ideas relevantes y las comunica con claridad."
+            ],
+            "un_refuerzo": "Grabar un video de 1 minuto explicando un concepto difícil de forma sencilla."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Laboratorio Poético",
+            "un_reto_sugerido": "¿La poesía sirve para algo en el mundo de hoy, lleno de tecnología?",
+            "ruta_de_exploracion": {
+              "explorar": "Poesía Urbana: Leer letras de rap o rock con alta calidad lírica. ¿Son poesía? Analizar sus figuras literarias.",
+              "visual": "Cadáver Exquisito: Juego grupal de escritura surrealista para crear metáforas inesperadas. Ilustrar el resultado.",
+              "produccion": "Antología Personal: Seleccionar 3 poemas de autores latinoamericanos y escribir un prólogo explicando por qué esos textos hablan de la juventud actual."
+            },
+            "para_pensar": [
+              "¿La poesía es solo sobre amor?",
+              "¿Cómo el lenguaje figurado nos permite decir lo indecible?"
+            ],
+            "pistas_del_exito": [
+              "Analiza el lenguaje literario como expresión artística y emocional.",
+              "Interpreta poemas relacionándolos con su contexto de producción."
+            ],
+            "un_refuerzo": "Transformar una noticia triste en un poema de esperanza."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Narrativas Transmedia",
+            "un_reto_sugerido": "¿Cómo se cuenta una historia usando libros, videos y redes sociales al mismo tiempo?",
+            "ruta_de_exploracion": {
+              "explorar": "Universo Expandido: Analizar cómo una saga (ej: Harry Potter, Marvel) cuenta historias en películas, cómics y libros que se complementan.",
+              "visual": "Mapa Transmedia: Diseñar cómo se contaría una historia original usando 3 plataformas (ej: El diario del personaje en un Blog, pistas en Instagram, final en un Cuento).",
+              "produccion": "Relato Interactivo: Escribir el inicio de una historia y plantear opciones para que el lector decida cómo continúa (tipo 'Elige tu propia aventura')."
+            },
+            "para_pensar": [
+              "¿El lector de hoy es pasivo o activo?",
+              "¿Cómo cambia la narración con la tecnología?"
+            ],
+            "pistas_del_exito": [
+              "Compara formatos literarios y audiovisuales.",
+              "Reconoce nuevas formas de narrar en la era digital."
+            ],
+            "un_refuerzo": "Crear el perfil de red social de un personaje literario clásico."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Editores de la Realidad",
+            "un_reto_sugerido": "¿Cómo asegurarnos de que lo que escribimos y compartimos es ético y correcto?",
+            "ruta_de_exploracion": {
+              "explorar": "El Editor Implacable: Intercambiar textos con un compañero y corregir no solo ortografía, sino también tono ofensivo o información falsa.",
+              "visual": "Manual de Estilo: Crear una infografía con las 'Reglas de Oro' para escribir en internet (Netiqueta, Citación, Respeto).",
+              "produccion": "Columna de Opinión Revisada: Escribir una columna sobre un tema escolar, pasarla por tres filtros de revisión (Ortografía, Claridad, Ética) antes de publicar."
+            },
+            "para_pensar": [
+              "¿Las palabras pueden herir tanto como los golpes?",
+              "¿Qué responsabilidad tenemos al publicar algo en internet?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa sus propios textos siguiendo procedimientos de corrección.",
+              "Reconoce la importancia de la ética en la comunicación escrita."
+            ],
+            "un_refuerzo": "Corregir un texto con errores intencionales de concordancia y tildes."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "La Imagen Protesta",
+            "un_reto_sugerido": "¿Puede una imagen cambiar la opinión de la gente sobre un problema social?",
+            "ruta_de_exploracion": {
+              "explorar": "Iconografía Social: Analizar fotos famosas que cambiaron la historia o generaron movimientos sociales. ¿Qué elementos tienen?",
+              "visual": "Diseño de Cartel: Crear un cartel gráfico minimalista (pocos elementos, mucho significado) sobre una causa justa (ej: medio ambiente, igualdad).",
+              "produccion": "Campaña Visual: Presentar el cartel acompañado de una justificación oral sobre la elección de colores, formas y símbolos."
+            },
+            "para_pensar": [
+              "¿Por qué una imagen vale más que mil palabras en las redes sociales?",
+              "¿El arte puede ser político?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza símbolos y representaciones gráficas en sus discursos.",
+              "Vincula conceptos temáticos con representaciones visuales."
+            ],
+            "un_refuerzo": "Analizar el mensaje de un grafiti artístico de la ciudad."
+          }
+        }
+      ]
+    }
+  ]
+}

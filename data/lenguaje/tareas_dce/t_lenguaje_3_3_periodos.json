@@ -1,0 +1,341 @@
+{
+  "area": "Lenguaje",
+  "grado": "3",
+  "nombre_archivo": "t_lenguaje_3_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Los Cirujanos de la Oración",
+            "un_reto_sugerido": "¿Cómo podemos arreglar una frase que está 'enferma' para que se entienda perfectamente?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego 'El Titular Loco': Entregar recortes de titulares de noticias cortados en dos (Sujeto y Predicado) y mezclarlos para crear frases absurdas.",
+              "visual": "Operación Gramatical: Usar tijeras y pegante para separar oraciones en dos colores: Azul para de quién se habla (Sujeto) y Rojo para lo que se dice (Predicado).",
+              "produccion": "Escribir un texto expositivo corto sobre su animal favorito, revisando con una 'Lupa de Corrección' las mayúsculas y puntos."
+            },
+            "para_pensar": [
+              "¿Por qué los signos de puntuación son como los semáforos de la escritura?",
+              "¿Qué pasa si escribimos todo seguido sin separar las ideas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el sujeto y el predicado en oraciones simples.",
+              "Revisa sus propios textos corrigiendo mayúsculas y puntuación básica."
+            ],
+            "un_refuerzo": "Completar oraciones a las que les falta el sujeto o la acción."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Instrucciones",
+            "un_reto_sugerido": "¿Podemos armar un juguete o jugar un juego nuevo solo leyendo el manual?",
+            "ruta_de_exploracion": {
+              "explorar": "Traer de casa manuales de juguetes, recetas o reglas de juegos de mesa y observar cómo están escritos (listas, números).",
+              "visual": "Análisis de Estructura: Subrayar en un texto instructivo los verbos que indican acción (corta, pega, dobla) y rodear los materiales necesarios.",
+              "produccion": "Crear el 'Manual de Convivencia Extraterrestre': Escribir 5 reglas claras para un alienígena que visita la escuela."
+            },
+            "para_pensar": [
+              "¿Por qué las instrucciones deben ir en un orden específico?",
+              "¿Qué pasaría si en una receta cambiamos la sal por azúcar?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el propósito de los textos instructivos y normativos.",
+              "Sigue instrucciones escritas de tres o más pasos."
+            ],
+            "un_refuerzo": "Seguir instrucciones escritas para hacer un avión de papel."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Teatro de Voces",
+            "un_reto_sugerido": "¿Cómo cambia el significado de una frase si la decimos gritando, susurrando o llorando?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura en eco: El docente lee una frase con una emoción y los estudiantes la repiten imitando la entonación exacta.",
+              "visual": "El Mapa del Personaje: Dibujar la silueta de un personaje de cuento y escribir dentro cómo se siente, qué quiere y dónde vive.",
+              "produccion": "Lectura Dramática: Leer en voz alta un guion corto de teatro en parejas, respetando los signos de admiración (¡!) e interrogación (¿?)."
+            },
+            "para_pensar": [
+              "¿Cómo sabemos qué siente un personaje si el libro no tiene dibujos?",
+              "¿Por qué es importante cambiar la voz cuando leemos en voz alta?"
+            ],
+            "pistas_del_exito": [
+              "Lee en voz alta con fluidez y entonación adecuada.",
+              "Describe características físicas y emocionales de los personajes."
+            ],
+            "un_refuerzo": "Grabar un audio leyendo un párrafo corto y escucharse para autocorregirse."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "El Juego de los Roles",
+            "un_reto_sugerido": "¿Hablamos igual con el rector del colegio que con nuestro mejor amigo en el recreo?",
+            "ruta_de_exploracion": {
+              "explorar": "Simulación de situaciones: Sacar tarjetas de roles (médico-paciente, abuela-nieto) e improvisar una conversación corta.",
+              "visual": "Diagrama de la Comunicación: Dibujar una situación real e identificar quién es el Emisor, quién es el Receptor y cuál es el Propósito (pedir, informar, saludar).",
+              "produccion": "Escribir dos diálogos cortos sobre el mismo tema (ej: pedir permiso para salir), uno formal para un adulto y otro informal para un amigo."
+            },
+            "para_pensar": [
+              "¿Por qué cambiamos nuestra forma de hablar según con quién estamos?",
+              "¿Qué es el respeto en la comunicación?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los interlocutores y el propósito en una situación comunicativa.",
+              "Adapta su registro (formal/informal) según el contexto."
+            ],
+            "un_refuerzo": "Clasificar saludos en 'Formales' (Buenos días) e 'Informales' (Hola, ¿qué más?)."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Armadores de Historietas",
+            "un_reto_sugerido": "¿Podemos contar una historia completa usando solo 4 dibujos y algunos globos de texto?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer tiras cómicas desordenadas e intentar encontrar el orden lógico de la historia.",
+              "visual": "Análisis de Viñetas: Recortar y pegar los elementos de la historieta: Globos de diálogo, onomatopeyas (¡PUM!) y cartelas de narración.",
+              "produccion": "Crear una historieta de 4 viñetas sobre 'El cuidado del medio ambiente', usando correctamente la secuencia temporal."
+            },
+            "para_pensar": [
+              "¿Cómo sabemos cuánto tiempo pasa entre un dibujo y otro?",
+              "¿Qué significan los símbolos como bombillos o signos de interrogación sobre la cabeza?"
+            ],
+            "pistas_del_exito": [
+              "Ordena secuencialmente las viñetas de una narrativa gráfica.",
+              "Utiliza recursos propios de la historieta (globos, onomatopeyas) para comunicar."
+            ],
+            "un_refuerzo": "Completar los globos de diálogo vacíos de una historieta conocida."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "La Fábrica de Textos",
+            "un_reto_sugerido": "¿Cómo sabemos si lo que vamos a escribir es un cuento para divertir o un informe para enseñar?",
+            "ruta_de_exploracion": {
+              "explorar": "Clasificación rápida: El docente lee textos cortos y los estudiantes votan si es 'Cuento' (Narrativo), 'Noticia' (Informativo) o 'Instrucción' (Expositivo).",
+              "visual": "Esqueleto del Texto: Usar plantillas gráficas diferentes para planear un cuento (Inicio-Nudo-Desenlace) y un texto informativo (Título-Idea principal-Detalles).",
+              "produccion": "Escribir un texto expositivo breve sobre un animal (qué come, dónde vive) usando conectores como 'también', 'además' y 'por último'.",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Por qué es importante planear antes de escribir?",
+              "¿Qué palabras nos ayudan a unir las ideas (conectores)?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia la estructura de un texto narrativo de uno expositivo.",
+              "Utiliza conectores lógicos para dar cohesión a sus escritos."
+            ],
+            "un_refuerzo": "Subrayar los conectores en un texto corto dado por el docente."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Propósitos",
+            "un_reto_sugerido": "¿Para qué escribió el autor este texto? ¿Quiere convencernos, informarnos o hacernos reír?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de cartas: Sacar un texto al azar (ej: anuncio de venta) y adivinar qué quiere el autor que hagamos (comprar).",
+              "visual": "Semáforo del Propósito: Marcar textos con colores: Rojo (Opinión/Convencer), Amarillo (Narrar/Entretener), Verde (Informar/Enseñar).",
+              "produccion": "Leer un poema y un texto informativo sobre el mismo tema (ej: La Luna) y explicar oralmente en qué se diferencian."
+            },
+            "para_pensar": [
+              "¿Todo lo que leemos en internet es cierto?",
+              "¿Cómo sabemos si un texto es una opinión o un hecho?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el propósito comunicativo (informar, narrar, convencer) en textos sencillos.",
+              "Compara dos textos con diferentes intenciones sobre un mismo tema."
+            ],
+            "un_refuerzo": "Transformar una noticia (informativa) en un cuento (narrativo) oralmente."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "El Laboratorio del Narrador",
+            "un_reto_sugerido": "¿Quién cuenta la historia? ¿Es un personaje de adentro o una voz misteriosa desde afuera?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar dos versiones de una historia corta: una contada con 'YO' (1ra persona) y otra con 'ÉL/ELLA' (3ra persona).",
+              "visual": "Gafas de Narrador: Ponerse unas gafas de juguete para ser 'Narrador Omnisciente' (que todo lo ve) y narrar lo que hacen los compañeros.",
+              "produccion": "Escribir un micro-cuento colectivo donde cada estudiante agrega una frase, manteniendo el mismo tipo de narrador.",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Cambia la historia si la cuenta el lobo en vez de Caperucita?",
+              "¿Qué es un narrador?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la voz que narra la historia (narrador).",
+              "Identifica la estructura narrativa en los textos que crea o lee."
+            ],
+            "un_refuerzo": "Reescribir un párrafo cambiando 'Yo caminé' por 'Él caminó'."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Publicistas por un Día",
+            "un_reto_sugerido": "¿Los anuncios publicitarios siempre dicen la verdad sobre los productos?",
+            "ruta_de_exploracion": {
+              "explorar": "Traer empaques de productos (cereales, juguetes) y analizar si la foto se parece a lo que hay adentro realmente.",
+              "visual": "Disección del Anuncio: Recortar de revistas: el eslogan (frase pegajosa), la imagen del producto y el logo de la marca.",
+              "produccion": "Crear un anuncio publicitario honesto para una fruta, inventando un eslogan creativo que destaque sus beneficios reales."
+            },
+            "para_pensar": [
+              "¿Qué trucos usan los anuncios para que queramos comprar cosas?",
+              "¿Qué es el consumismo y cómo afecta al planeta?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta la función persuasiva de los anuncios publicitarios.",
+              "Identifica elementos verbales y no verbales en la publicidad."
+            ],
+            "un_refuerzo": "Inventar un jingle (canción corta) para vender un lápiz."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Decodificadores Visuales",
+            "un_reto_sugerido": "¿Qué nos dicen los colores y las formas en los carteles de la calle?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar señales de tránsito y símbolos de seguridad del colegio; discutir por qué el rojo suele significar 'peligro' o 'pare'.",
+              "visual": "Collage de Códigos: Recortar símbolos universales (reciclaje, wifi, baño, prohibido) y explicar su significado sin usar palabras.",
+              "produccion": "Diseñar una nueva señalética para la biblioteca escolar usando solo imágenes y colores (ej: Silencio, Cuidar libros)."
+            },
+            "para_pensar": [
+              "¿Podríamos entendernos con personas de otro país usando solo dibujos?",
+              "¿Por qué es importante respetar las señales visuales?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta códigos no verbales en su contexto (señales, íconos).",
+              "Comprende que las imágenes también se pueden 'leer'."
+            ],
+            "un_refuerzo": "Juego de memoria con señales de tránsito y su significado."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Gran Orador",
+            "un_reto_sugerido": "¿Cómo podemos contar una historia o dar una opinión frente a todos sin morir de nervios?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de respiración y volumen: Inflar la barriga como un globo y soltar el aire diciendo vocales con diferentes volúmenes.",
+              "visual": "El Espejo del Discurso: Practicar frente a un espejo (o compañero) gestos que acompañen lo que se dice (manos abiertas, sonrisa).",
+              "produccion": "Presentar una 'Noticia de mi Vida' oralmente en 1 minuto, cuidando el volumen de la voz y mirando al público."
+            },
+            "para_pensar": [
+              "¿Por qué es importante mirar a los ojos cuando hablamos en público?",
+              "¿Cómo ayuda el cuerpo a explicar lo que decimos?"
+            ],
+            "pistas_del_exito": [
+              "Ajusta volumen y entonación en sus intervenciones orales.",
+              "Organiza sus ideas antes de expresarlas verbalmente."
+            ],
+            "un_refuerzo": "Leer un trabalenguas aumentando la velocidad progresivamente."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Investigadores de la Verdad",
+            "un_reto_sugerido": "¿Si leemos dos libros sobre el mismo tema, dicen exactamente lo mismo?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer dos textos breves sobre un animal (ej: el delfín), uno de una enciclopedia y otro de un cuento, y compararlos.",
+              "visual": "Cuadro Comparativo: Llenar una tabla de similitudes y diferencias entre dos fuentes de información sobre un tema de interés.",
+              "produccion": "Escribir un resumen informativo combinando datos de dos fuentes distintas, citando de dónde sacaron la información."
+            },
+            "para_pensar": [
+              "¿Por qué es bueno buscar información en varios lugares?",
+              "¿Qué es una fuente confiable?"
+            ],
+            "pistas_del_exito": [
+              "Compara información de diferentes textos sobre un mismo tema.",
+              "Sintetiza la información relevante en resúmenes o esquemas."
+            ],
+            "un_refuerzo": "Subrayar la idea principal en cada párrafo de un texto corto."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Mundos Fantásticos",
+            "un_reto_sugerido": "¿Cómo se inventa un mundo donde todo es posible, como animales que hablan o carros voladores?",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas fantástica: Combinar dos animales o objetos para crear seres nuevos (ej: Gato-Avión) y darles nombre.",
+              "visual": "Mapa del Tesoro: Dibujar el mapa de un mundo imaginario (con montañas de helado, ríos de lava) donde ocurrirá una historia.",
+              "produccion": "Escribir un cuento fantástico breve situando a un personaje en ese mundo inventado, describiendo el ambiente.",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Qué hace que una historia sea de fantasía y no real?",
+              "¿Para qué nos sirve la imaginación?"
+            ],
+            "pistas_del_exito": [
+              "Crea personajes y escenarios fantásticos en sus producciones escritas.",
+              "Describe el contexto (espacio y tiempo) en sus narraciones."
+            ],
+            "un_refuerzo": "Dibujar la escena favorita de un cuento fantástico leído en clase."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Cine para Oídos",
+            "un_reto_sugerido": "¿Podemos contar una historia emocionante usando solo sonidos y música, sin ver nada?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha activa: Cerrar los ojos y escuchar un 'paisaje sonoro' (selva, ciudad) identificando cada sonido.",
+              "visual": "Partitura de Sonidos: Crear una secuencia de dibujos que representen sonidos (lluvia, pasos, puerta) para narrar algo.",
+              "produccion": "Grabar o presentar en vivo un 'Radio-Cuento' corto, usando objetos del salón para hacer los efectos de sonido (foley)."
+            },
+            "para_pensar": [
+              "¿Cómo influye la música en las emociones de una película?",
+              "¿Podemos 'ver' con los oídos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce que los textos pueden integrarse con sonidos e imágenes.",
+              "Infiere significados a partir del contexto sonoro o visual."
+            ],
+            "un_refuerzo": "Asociar emociones (miedo, alegría) con tipos de música."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Ciudadanos Digitales",
+            "un_reto_sugerido": "¿Cómo usamos internet y las redes para aprender sin caer en trampas?",
+            "ruta_de_exploracion": {
+              "explorar": "Debate: ¿Qué cosas vemos en internet que nos gustan y cuáles nos asustan?",
+              "visual": "Mural de Medios: Recortar logos de apps y redes sociales, clasificándolos en 'Para aprender', 'Para jugar' y 'Para hablar'.",
+              "produccion": "Crear un 'Decálogo del Buen Internauta': Lista de 5 consejos para navegar seguros (no hablar con extraños, no creer todo).",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Por qué no debemos compartir información privada en internet?",
+              "¿Cómo afecta pasar mucho tiempo frente a las pantallas?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce diferentes medios digitales y sus usos principales.",
+              "Reflexiona sobre el consumo responsable de medios de comunicación."
+            ],
+            "un_refuerzo": "Diferenciar entre una noticia real y una noticia falsa exagerada."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "area": "Lenguaje",
+  "grado": "4",
+  "nombre_archivo": "t_lenguaje_4_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Arquitecto de Textos",
+            "un_reto_sugerido": "¿Te atreverías a construir una casa sin planos? ¿Por qué escribimos sin planear?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparación: Leer dos cartas, una desordenada y sin sentido, y otra estructurada. Debatir por qué una se entiende y la otra no.",
+              "visual": "El Esqueleto del Texto: Usar un rompecabezas gigante para organizar las partes de un texto informativo: Título, Introducción (Cabeza), Cuerpo (Tronco) y Conclusión (Pies).",
+              "produccion": "Escribir una carta formal al rector solicitando una mejora para el colegio, presentando primero el 'Plan de Escritura' (Borrador esquema) y luego la versión final."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber a quién le escribimos (audiencia) antes de empezar?",
+              "¿Qué pasaría si enviamos una carta con mala ortografía a una empresa?"
+            ],
+            "pistas_del_exito": [
+              "Elabora un plan previo (esquema) antes de redactar el texto final.",
+              "Adecúa el lenguaje (formal/informal) según el destinatario."
+            ],
+            "un_refuerzo": "Corregir un texto corto que tiene errores de concordancia (ej: 'Las niña juega')."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Cerebros Conectados",
+            "un_reto_sugerido": "¿Cómo podemos guardar mucha información en la cabeza sin memorizarla palabra por palabra?",
+            "ruta_de_exploracion": {
+              "explorar": "Reto de Memoria: Intentar recordar una lista de 20 palabras leídas una vez vs. recordar una historia que contenga esas palabras.",
+              "visual": "Red de Ideas: Crear un Mapa Conceptual en el tablero usando lana para conectar conceptos principales con sus definiciones, simulando neuronas.",
+              "produccion": "Elaborar un organizador gráfico (mapa mental o cuadro sinóptico) sobre un tema de Ciencias Naturales leído en clase."
+            },
+            "para_pensar": [
+              "¿Es mejor subrayar todo el texto o solo las palabras clave?",
+              "¿Cómo te ayuda un mapa conceptual a estudiar para un examen?"
+            ],
+            "pistas_del_exito": [
+              "Identifica ideas principales y secundarias en un texto expositivo.",
+              "Sintetiza información utilizando esquemas gráficos."
+            ],
+            "un_refuerzo": "Subrayar con dos colores diferentes las ideas principales y los ejemplos en un párrafo."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Las Tres Caras de la Historia",
+            "un_reto_sugerido": "¿Puede una misma historia contarse como canción, como cuento y como obra de teatro?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha activa: Oír una canción narrativa (corrido o balada) y luego leer la misma historia como noticia.",
+              "visual": "Diagrama de Venn Literario: Comparar visualmente las características del Cuento (párrafos), el Poema (versos) y el Teatro (diálogos).",
+              "produccion": "Transformar un cuento clásico corto (ej: Los Tres Cerditos) en una noticia de periódico ('Lobo feroz derriba viviendas')."
+            },
+            "para_pensar": [
+              "¿Qué género literario prefieres para expresar tus sentimientos?",
+              "¿Por qué el teatro necesita actores y el cuento solo lectores?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia elementos estructurales de textos narrativos, líricos y dramáticos.",
+              "Adapta un texto de un género a otro conservando el tema central."
+            ],
+            "un_refuerzo": "Clasificar textos cortos dados en 'Narrativo', 'Lírico' o 'Dramático'."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de la Intención",
+            "un_reto_sugerido": "¿Sabemos cuándo alguien nos quiere informar y cuándo nos quiere convencer de algo?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de Roles: Un estudiante intenta vender un lápiz roto (persuadir) y otro describe el lápiz objetivamente (informar).",
+              "visual": "Lupa de Intenciones: Analizar frases escritas y clasificarlas con iconos: Corazón (Expresar sentimientos), Cerebro (Informar), Mano (Pedir/Ordenar).",
+              "produccion": "Escribir un decálogo de 'Reglas para el Debate Respetuoso' en el salón de clases."
+            },
+            "para_pensar": [
+              "¿Por qué es importante escuchar los argumentos de los demás aunque no estemos de acuerdo?",
+              "¿Qué es la 'comunicación asertiva'?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la intención comunicativa (persuadir, informar, expresar) de su interlocutor.",
+              "Participa en discusiones respetando los turnos y opiniones ajenas."
+            ],
+            "un_refuerzo": "Observar un video de un debate y señalar cuándo los participantes se interrumpen."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "La Noticia en el Espejo",
+            "un_reto_sugerido": "¿Dice lo mismo la radio que el periódico sobre el mismo accidente?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparación de Medios: Leer una noticia en un periódico y ver la misma noticia en video. ¿Qué cambia?",
+              "visual": "Muro de la Verdad: Pegar en una pared dos versiones de una noticia (una real y una 'fake news' o rumor) y resaltar las diferencias.",
+              "produccion": "Cuadro Comparativo: Analizar una noticia de actualidad en dos medios distintos (TV vs Internet) identificando diferencias en la información."
+            },
+            "para_pensar": [
+              "¿Por qué no debemos creer todo lo que vemos en redes sociales?",
+              "¿Cómo influyen las imágenes en la forma en que entendemos una noticia?"
+            ],
+            "pistas_del_exito": [
+              "Contrasta la información presentada por diferentes medios sobre un mismo hecho.",
+              "Identifica elementos de veracidad en fuentes de información."
+            ],
+            "un_refuerzo": "Ser 'Verificador de Datos': Buscar si una cadena de WhatsApp es verdadera o falsa."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Taller de Sueños Poéticos",
+            "un_reto_sugerido": "¿Cómo podemos describir la lluvia sin usar la palabra 'agua'?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata Sensorial: Recorrer el colegio anotando en una libreta olores, texturas y sonidos (no solo lo que se ve).",
+              "visual": "Máquina de Metáforas: Unir tarjetas de objetos dispares (ej: 'Ojos' y 'Estrellas', 'Risa' y 'Cascada') para crear comparaciones visuales.",
+              "produccion": "Escribir un poema de tres estrofas usando personificación (dar vida a objetos) y metáforas, basado en un sentimiento."
+            },
+            "para_pensar": [
+              "¿Para qué sirven las figuras literarias (como la metáfora) si podemos hablar normal?",
+              "¿La poesía solo habla de amor?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza figuras literarias (símil, metáfora, personificación) en sus escritos.",
+              "Expresa sentimientos y emociones a través del lenguaje poético."
+            ],
+            "un_refuerzo": "Completar versos para que rimen y tengan sentido."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "La Bitácora del Lector",
+            "un_reto_sugerido": "¿Qué harías tú si fueras el personaje principal del libro que estamos leyendo?",
+            "ruta_de_exploracion": {
+              "explorar": "Silla del Personaje: Un estudiante asume el rol de un personaje del libro y responde preguntas de sus compañeros.",
+              "visual": "Línea de Emociones: Dibujar una gráfica que muestre cómo cambia el estado de ánimo del protagonista a lo largo de la historia.",
+              "produccion": "Escribir una página del 'Diario Secreto' del personaje principal, contando lo que sintió en el capítulo leído."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayuda leer a entender a otras personas?",
+              "¿Te ha pasado algo parecido a lo que le pasó al personaje?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona las vivencias de los personajes con sus propias experiencias.",
+              "Infiere motivaciones y sentimientos implícitos en el texto."
+            ],
+            "un_refuerzo": "Dibujar el final alternativo de la historia leída."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Héroes y Monstruos Modernos",
+            "un_reto_sugerido": "¿Cómo sería un cuento de hadas si ocurriera hoy en nuestra ciudad?",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Qué superpoderes tendrían los héroes colombianos? (ej: Super-Arepa, Capitán Tráfico).",
+              "visual": "Ficha Técnica de Personaje: Dibujar al héroe y al villano, especificando sus poderes, debilidades y su 'origen'.",
+              "produccion": "Escribir un cuento corto de aventura urbana donde un niño común resuelve un misterio o enfrenta un miedo."
+            },
+            "para_pensar": [
+              "¿Todos los héroes usan capa?",
+              "¿Por qué nos gustan las historias de miedo y aventura?"
+            ],
+            "pistas_del_exito": [
+              "Crea personajes con características definidas y roles (protagonista/antagonista).",
+              "Estructura una narración de aventura con coherencia."
+            ],
+            "un_refuerzo": "Crear un cómic de 4 viñetas sobre el héroe inventado."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "El Arte de la Escucha",
+            "un_reto_sugerido": "¿Podemos seguir instrucciones complejas si no estamos prestando atención al 100%?",
+            "ruta_de_exploracion": {
+              "explorar": "Dibujo a Ciegas: Un estudiante describe un dibujo geométrico y el otro debe dibujarlo sin verlo, solo escuchando.",
+              "visual": "Lista de Chequeo del Oyente: Crear un cartel con las acciones de un buen oyente (mirar a los ojos, asentir, no interrumpir).",
+              "produccion": "Realizar una entrevista a un compañero sobre sus gustos y luego presentarla al grupo (parafrasear) sin leer notas, demostrando escucha."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre oír y escuchar?",
+              "¿Cómo se siente una persona cuando la interrumpen constantemente?"
+            ],
+            "pistas_del_exito": [
+              "Demuestra escucha activa mediante el parafraseo y la respuesta adecuada.",
+              "Respeta el uso de la palabra en actividades grupales."
+            ],
+            "un_refuerzo": "Juego 'Fui al mercado y compré...': Repetir la lista de compras de todos los anteriores y agregar uno nuevo."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "La Voz que Convence",
+            "un_reto_sugerido": "¿Cómo saben los locutores de radio cuándo hablar rápido y cuándo hablar lento?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar grabaciones de diferentes tipos de discurso (narrador de fútbol vs cuenta-cuentos) y analizar su velocidad y tono.",
+              "visual": "Partitura de Voz: Marcar un texto corto con signos musicales (fuerte, suave, rápido) para guiar la lectura.",
+              "produccion": "Grabar un 'Podcast' o audio de 1 minuto narrando una noticia escolar, variando la entonación para mantener el interés."
+            },
+            "para_pensar": [
+              "¿Qué dice nuestro tono de voz sobre nuestro estado de ánimo?",
+              "¿Por qué los políticos hablan de cierta manera en sus discursos?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta el tono y la intención en el discurso oral.",
+              "Utiliza variaciones de voz (matices) para enriquecer su producción oral."
+            ],
+            "un_refuerzo": "Leer una frase con tres emociones distintas (enojado, triste, feliz)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Blogueros Escolares",
+            "un_reto_sugerido": "¿Cómo podemos compartir nuestras investigaciones con niños de otros colegios?",
+            "ruta_de_exploracion": {
+              "explorar": "Navegación guiada: Explorar un blog educativo infantil, identificando las entradas, los comentarios y las imágenes.",
+              "visual": "Maqueta de Blog: Diseñar en una cartulina la apariencia de un blog personal (Banner, Título, Texto, barra lateral).",
+              "produccion": "Redactar una 'Entrada de Blog' sobre un proyecto de clase, incluyendo título llamativo, texto informativo y descripción de la imagen."
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre escribir en un cuaderno y escribir en internet?",
+              "¿Por qué debemos ser respetuosos en los comentarios de un blog?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos informativos adaptados a formatos digitales (simulados o reales).",
+              "Organiza la información de manera jerárquica (título, subtítulos)."
+            ],
+            "un_refuerzo": "Escribir un comentario constructivo a la 'entrada de blog' de un compañero."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Teatro de Lectores",
+            "un_reto_sugerido": "¿Podemos actuar una historia solo usando nuestra voz, sin movernos del puesto?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura expresiva: Leer un poema coral en grupos, asignando versos a diferentes voces (agudas, graves).",
+              "visual": "Marcado de Texto: Usar colores para resaltar las emociones en un guion: Rojo (Ira), Azul (Tristeza), Amarillo (Alegría).",
+              "produccion": "Presentar una 'Lectura Dramática' de un capítulo de un libro, donde cada estudiante hace la voz de un personaje diferente."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda la entonación a entender el significado de un texto?",
+              "¿Qué es la personificación en la lectura?"
+            ],
+            "pistas_del_exito": [
+              "Lee con fluidez y expresividad textos literarios.",
+              "Interpreta las emociones de los personajes a través de la voz."
+            ],
+            "un_refuerzo": "Imitar la voz de un personaje famoso o de dibujos animados."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Directores de Escena",
+            "un_reto_sugerido": "¿Qué hace un director de teatro para que los actores sepan qué sentir?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de las Acotaciones: Un niño lee una acción (ej: 'entra llorando') y otro debe actuarla sin hablar.",
+              "visual": "Guion Técnico: Tomar un cuento corto y transformarlo en guion teatral, agregando paréntesis con las indicaciones (acotaciones).",
+              "produccion": "Dramatizar una escena corta creada por ellos, prestando atención al tono de voz y lenguaje corporal."
+            },
+            "para_pensar": [
+              "¿Para qué sirven los paréntesis en las obras de teatro?",
+              "¿Es más difícil escribir teatro o cuento?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y utiliza las acotaciones y diálogos en textos dramáticos.",
+              "Participa en dramatizaciones asumiendo roles y emociones complejas."
+            ],
+            "un_refuerzo": "Convertir un chiste en una escena teatral corta."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Comunicación sin Palabras",
+            "un_reto_sugerido": "¿Podemos dar un discurso convincente usando diapositivas o carteleras?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Video: Ver una charla TED o exposición (sin audio primero) y analizar qué hacen las manos y el cuerpo del expositor.",
+              "visual": "Diseño de Ayudas: Crear una cartelera de apoyo para una exposición, evitando llenarla de texto y usando gráficos clave.",
+              "produccion": "Realizar una exposición breve (3 min) sobre un tema libre, apoyándose en material visual y cuidando la postura corporal."
+            },
+            "para_pensar": [
+              "¿Por qué una imagen vale más que mil palabras en una exposición?",
+              "¿Qué pasa si leemos todo el tiempo durante una presentación?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza apoyo visual pertinente para complementar su discurso oral.",
+              "Mantiene una postura corporal adecuada y contacto visual con la audiencia."
+            ],
+            "un_refuerzo": "Practicar la exposición frente a un espejo evitando 'bailar' o esconder las manos."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Filtros de Realidad",
+            "un_reto_sugerido": "¿Todo lo que vemos en las redes sociales de los 'influencers' es real?",
+            "ruta_de_exploracion": {
+              "explorar": "Debate Influencer: Discutir qué hace popular a un youtuber o tiktoker y si su vida es perfecta como parece.",
+              "visual": "Collage 'Expectativa vs Realidad': Comparar fotos publicitarias de comida con la comida real, o fotos con filtro vs sin filtro.",
+              "produccion": "Crear una campaña de concientización (afiche o video simulado) sobre el uso responsable de las redes sociales y la autoestima."
+            },
+            "para_pensar": [
+              "¿Cómo nos afectan los 'likes' y los comentarios?",
+              "¿Por qué es importante ver diversidad de cuerpos y personas en los medios?"
+            ],
+            "pistas_del_exito": [
+              "Analiza críticamente el contenido de redes sociales y publicidad.",
+              "Reflexiona sobre la representación de la realidad en los medios."
+            ],
+            "un_refuerzo": "Identificar si un perfil de red social es educativo o solo de entretenimiento."
+          }
+        }
+      ]
+    }
+  ]
+}

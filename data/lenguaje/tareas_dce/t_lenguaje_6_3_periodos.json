@@ -1,0 +1,338 @@
+{
+  "area": "Lenguaje",
+  "grado": "5",
+  "nombre_archivo": "t_lenguaje_5_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Ingenieros de Textos",
+            "un_reto_sugerido": "¿Te atreverías a construir un edificio sin planos? ¿Por qué escribimos sin planear?",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de Ideas Estructurada: Usar post-its para anotar todas las ideas sobre un tema y luego agruparlas por categorías antes de escribir.",
+              "visual": "El Mapa del Tesoro Textual: Crear un esquema gráfico (esqueleto) que tenga: Título, Introducción (el gancho), Desarrollo (los datos) y Conclusión.",
+              "produccion": "Redactar un texto descriptivo sobre un lugar soñado, presentando obligatoriamente el plan previo (esquema) y el texto final."
+            },
+            "para_pensar": [
+              "¿Por qué un texto desordenado confunde al lector?",
+              "¿Qué es la coherencia en un escrito?"
+            ],
+            "pistas_del_exito": [
+              "Elabora un plan textual (esquema o borrador) antes de la redacción final.",
+              "Mantiene la unidad temática a lo largo del texto."
+            ],
+            "un_refuerzo": "Ordenar los párrafos de un texto que ha sido recortado y mezclado."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de la Intención",
+            "un_reto_sugerido": "¿El autor quiere informarme, venderme algo o hacerme reír? ¿Cómo lo sé?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de Roles: Leer una misma frase (ej: 'Está lloviendo') con tono de noticiero, tono de queja y tono de poema.",
+              "visual": "Clasificación Cromática: Subrayar textos con colores según su intención: Azul (Informativo), Rojo (Persuasivo/Publicidad), Verde (Narrativo).",
+              "produccion": "Escribir tres versiones breves sobre 'La Bicicleta': una definición de diccionario, un anuncio de venta y un poema corto."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber qué pretende el autor de un texto?",
+              "¿Qué palabras usan los anuncios para convencernos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la intención comunicativa (informar, persuadir, narrar) en diversos textos.",
+              "Reconoce la estructura básica de textos descriptivos y explicativos."
+            ],
+            "un_refuerzo": "Buscar en una revista un texto que quiera vender algo y explicar por qué."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "El Multiverso Literario",
+            "un_reto_sugerido": "¿Cómo cambia una historia si la contamos como un chisme, una canción o una obra de teatro?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparación de formatos: Leer el fragmento de una novela y ver la escena correspondiente en una película o adaptación.",
+              "visual": "Cuadro de Géneros: Llenar una tabla comparativa identificando si el texto tiene párrafos (Narrativa), versos (Lírica) o diálogos (Dramática).",
+              "produccion": "Transformar un cuento breve en un guion teatral corto, agregando las acotaciones (indicaciones de movimiento) necesarias."
+            },
+            "para_pensar": [
+              "¿Qué género te permite expresar mejor tus emociones?",
+              "¿Por qué el teatro necesita un escenario y la novela no?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las características formales de los géneros narrativo, lírico y dramático.",
+              "Adapta un texto literario a otro formato o género."
+            ],
+            "un_refuerzo": "Identificar las rimas en una canción popular y reescribirlas."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Decodificadores de Mensajes",
+            "un_reto_sugerido": "¿Alguna vez te han dicho 'haz lo que quieras' pero en realidad querían decir 'no lo hagas'?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis del Sarcasmo: Escuchar frases con diferentes entonaciones para descubrir el mensaje oculto (implícito).",
+              "visual": "El Iceberg de la Comunicación: Dibujar un iceberg donde la punta es lo que se dice (explícito) y lo de abajo es lo que se quiso decir (implícito).",
+              "produccion": "Escribir un diálogo corto donde dos personajes hablan educadamente pero están molestos (uso del subtexto)."
+            },
+            "para_pensar": [
+              "¿Por qué a veces las personas no dicen lo que piensan directamente?",
+              "¿Cómo influye el contexto (lugar, personas) en lo que decimos?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia entre información explícita e implícita.",
+              "Identifica el contexto y los interlocutores para ajustar su discurso."
+            ],
+            "un_refuerzo": "Explicar qué significa realmente un refrán popular (ej: 'A caballo regalado...')."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Verificadores de Noticias",
+            "un_reto_sugerido": "¿Cómo sabemos si una noticia que nos llega al celular es verdad o mentira?",
+            "ruta_de_exploracion": {
+              "explorar": "Teléfono Roto de la Información: Pasar un dato complejo de uno a otro para ver cómo se distorsiona la información.",
+              "visual": "Checklist de la Verdad: Crear una lista de chequeo para analizar noticias: ¿Tiene autor? ¿Tiene fecha? ¿La fuente es confiable?",
+              "produccion": "Analizar una noticia viral y escribir un reporte indicando si es confiable o sospechosa y por qué."
+            },
+            "para_pensar": [
+              "¿Qué daño puede hacer compartir una noticia falsa?",
+              "¿Por qué las noticias sensacionalistas usan títulos exagerados?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa la validez y pertinencia de la información en medios de comunicación.",
+              "Compara cómo diferentes medios presentan la misma noticia."
+            ],
+            "un_refuerzo": "Comparar la portada de dos periódicos distintos del mismo día."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Club del Debate",
+            "un_reto_sugerido": "¿Puedes defender una idea con la que no estás de acuerdo solo usando la inteligencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego 'A favor y en contra': Lanzar temas polémicos (ej: tareas escolares, uniformes) y asignar posturas al azar para defender.",
+              "visual": "La Hamburguesa Argumentativa: Usar el modelo visual: Pan (Opinión), Carne/Lechuga (Argumentos y Ejemplos), Pan (Conclusión) para armar párrafos.",
+              "produccion": "Escribir un texto argumentativo breve defendiendo su comida, deporte o pasatiempo favorito con 3 razones claras."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre opinar y argumentar?",
+              "¿Por qué es importante respetar la opinión contraria?"
+            ],
+            "pistas_del_exito": [
+              "Estructura textos argumentativos con tesis, argumentos y conclusión.",
+              "Utiliza conectores de causa y efecto (porque, por lo tanto)."
+            ],
+            "un_refuerzo": "Escribir 3 razones por las cuales es importante cuidar el agua."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Publicidad",
+            "un_reto_sugerido": "¿Qué trucos usan los publicistas para que compremos cosas que no necesitamos?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Slogans: Recordar frases famosas de comerciales y discutir qué prometen (felicidad, fuerza, popularidad).",
+              "visual": "Disección del Anuncio: Recortar un aviso de revista y señalar: la imagen atractiva, el texto persuasivo y el logo.",
+              "produccion": "Crear un 'Contra-Anuncio': Tomar un producto poco saludable y hacer un cartel honesto sobre sus efectos reales."
+            },
+            "para_pensar": [
+              "¿Las imágenes de la publicidad muestran la realidad?",
+              "¿Qué estereotipos (ideas fijas) vemos en los comerciales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica estrategias de persuasión en textos publicitarios.",
+              "Analiza críticamente los mensajes de los medios masivos."
+            ],
+            "un_refuerzo": "Inventar un nombre y un slogan para un producto imaginario."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Poetas de la Imagen",
+            "un_reto_sugerido": "¿Podemos pintar cuadros en la mente de las personas usando solo palabras?",
+            "ruta_de_exploracion": {
+              "explorar": "Haiku Visual: Observar una fotografía de la naturaleza y tratar de describirla en solo tres líneas poéticas.",
+              "visual": "Caligrama: Escribir un poema sobre un objeto (ej: una cometa) donde las letras formen la figura de ese objeto.",
+              "produccion": "Crear una antología de clase con poemas breves que utilicen símiles y metáforas para describir emociones."
+            },
+            "para_pensar": [
+              "¿Por qué la poesía no siempre necesita rima?",
+              "¿Cómo suenan las palabras cuando tienen ritmo?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el lenguaje figurado (metáfora, símil) en textos líricos.",
+              "Crea producciones poéticas jugando con la forma y el fondo."
+            ],
+            "un_refuerzo": "Completar comparaciones poéticas: 'Sus ojos eran como...'."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "La Mesa de la Paz",
+            "un_reto_sugerido": "¿Cómo podemos solucionar un conflicto hablando sin llegar a los gritos?",
+            "ruta_de_exploracion": {
+              "explorar": "Simulación de Conflicto: Dramatizar una situación común (perder un lápiz, un empujón) y probar dos finales: uno agresivo y uno asertivo.",
+              "visual": "El Puente de la Solución: Dibujar un puente roto y escribir en los ladrillos las palabras que ayudan a repararlo (perdón, escucha, acuerdo).",
+              "produccion": "Escribir un 'Acuerdo de Convivencia' para el recreo, redactando normas en positivo ('Haremos' en lugar de 'No haremos')."
+            },
+            "para_pensar": [
+              "¿Qué palabras funcionan como 'gasolina' en una pelea?",
+              "¿Por qué escuchar es el primer paso para la paz?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza la comunicación asertiva para la resolución de conflictos.",
+              "Argumenta sus puntos de vista respetando a los demás."
+            ],
+            "un_refuerzo": "Escribir una carta de disculpa explicando cómo se sintió y proponiendo una solución."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Analistas de Símbolos",
+            "un_reto_sugerido": "¿Qué significan los símbolos que vemos todos los días en la ropa, la tecnología y la calle?",
+            "ruta_de_exploracion": {
+              "explorar": "Bingo de Logos: Identificar marcas famosas o apps solo viendo un fragmento de su logo o sus colores.",
+              "visual": "Museo de Iconos: Dibujar símbolos universales (paz, reciclaje, peligro, wifi) y explicar qué mensaje transmiten sin palabras.",
+              "produccion": "Diseñar un logotipo personal o un escudo de armas que represente sus valores y gustos mediante símbolos."
+            },
+            "para_pensar": [
+              "¿Por qué los símbolos son un lenguaje universal?",
+              "¿Cómo influyen los colores en lo que sentimos al ver una imagen?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta códigos visuales y simbólicos en su entorno cultural.",
+              "Reconoce la importancia de la imagen en la comunicación actual."
+            ],
+            "un_refuerzo": "Relacionar emojis con las emociones exactas que representan."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Charlas TED Kids",
+            "un_reto_sugerido": "¿Podrías hablar durante 2 minutos sobre tu pasión sin aburrir a nadie y sin leer?",
+            "ruta_de_exploracion": {
+              "explorar": "Técnica del Espejo: Practicar gestos y miradas frente al espejo mientras se recita un trabalenguas.",
+              "visual": "Fichas Mnemotécnicas: Elaborar tarjetas pequeñas con palabras clave (no texto completo) para guiarse durante una exposición.",
+              "produccion": "Preparar y presentar un discurso corto (oratoria) sobre 'Cómo cambiar el mundo desde mi colegio', usando buen volumen y postura."
+            },
+            "para_pensar": [
+              "¿Qué hacen los grandes oradores para captar la atención?",
+              "¿Cómo controlamos los nervios al hablar en público?"
+            ],
+            "pistas_del_exito": [
+              "Prepara y estructura exposiciones orales con apoyo visual.",
+              "Utiliza recursos no verbales (gestos, mirada) para apoyar su discurso."
+            ],
+            "un_refuerzo": "Leer en voz alta un párrafo variando la velocidad para dar énfasis."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Humor Gráfico",
+            "un_reto_sugerido": "¿Puede un dibujo hacernos reír y pensar al mismo tiempo?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de Caricaturas: Observar caricaturas políticas o sociales sencillas (ej: Mafalda) y discutir qué critican o comentan.",
+              "visual": "Análisis de Expresiones: Dibujar caras con diferentes expresiones exageradas (cómics) para entender cómo se transmite la emoción.",
+              "produccion": "Crear una tira cómica de 3 viñetas que critique con humor una situación escolar (ej: la fila de la cafetería)."
+            },
+            "para_pensar": [
+              "¿Por qué el humor es una forma inteligente de comunicar?",
+              "¿Qué es la ironía en una imagen?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta el sentido crítico y humorístico en caricaturas e historietas.",
+              "Relaciona texto e imagen para construir significado global."
+            ],
+            "un_refuerzo": "Ponerle un título divertido a una imagen graciosa."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Antología de Clase",
+            "un_reto_sugerido": "¿Somos capaces de crear nuestro propio libro con las mejores historias del año?",
+            "ruta_de_exploracion": {
+              "explorar": "Curaduría Literaria: Revisar los textos escritos durante el año y seleccionar los favoritos para 'publicar'.",
+              "visual": "Diseño Editorial: Crear la portada, el índice y las ilustraciones para el libro recopilatorio del salón.",
+              "produccion": "Escribir el prólogo (introducción) o la dedicatoria de la Antología Literaria del Grado 5°, explicando de qué trata.",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Qué hace que un libro sea interesante desde la primera página?",
+              "¿Por qué es importante compartir lo que escribimos?"
+            ],
+            "pistas_del_exito": [
+              "Participa en proyectos colectivos de creación literaria.",
+              "Reconoce el valor de la escritura como expresión cultural."
+            ],
+            "un_refuerzo": "Escribir una breve biografía del autor (ellos mismos) para el libro."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Foro de Opinión",
+            "un_reto_sugerido": "¿Podemos discutir sobre un tema difícil respetando los turnos y las ideas diferentes?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de Debates: Ver un fragmento de un debate y anotar las reglas que siguen (o rompen) los participantes.",
+              "visual": "Mapa del Foro: Organizar el salón en círculo o media luna y asignar roles: Moderador, Participantes y Público.",
+              "produccion": "Participar en un Panel o Foro sobre 'El uso de celulares en niños', argumentando su postura con respeto."
+            },
+            "para_pensar": [
+              "¿Para qué sirve un moderador en una discusión?",
+              "¿Cómo se puede estar en desacuerdo sin ser grosero?"
+            ],
+            "pistas_del_exito": [
+              "Distingue formatos de discusión oral (foro, panel, debate).",
+              "Participa activamente respetando las reglas de intervención."
+            ],
+            "un_refuerzo": "Anotar las ideas principales de un compañero mientras habla."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Críticos de Medios",
+            "un_reto_sugerido": "¿Cómo influyen los youtubers y la TV en nuestra forma de vestir o hablar?",
+            "ruta_de_exploracion": {
+              "explorar": "Encuesta de Consumo: Hacer una encuesta rápida en el salón sobre qué redes sociales usan más y a quién siguen.",
+              "visual": "Mural de Influencias: Recortar imágenes de modas o tendencias actuales y analizar de dónde vienen (TV, Internet, Música).",
+              "produccion": "Escribir un artículo de opinión sobre la influencia de las redes sociales en la autoestima de los niños."
+            },
+            "para_pensar": [
+              "¿Somos libres de elegir lo que nos gusta o los medios deciden por nosotros?",
+              "¿Qué es ser un consumidor responsable de medios?"
+            ],
+            "pistas_del_exito": [
+              "Analiza la influencia de los medios en la cultura y el comportamiento.",
+              "Adopta una postura crítica frente a la información masiva."
+            ],
+            "un_refuerzo": "Identificar un mensaje positivo y uno negativo en un video musical."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "area": "Lenguaje",
+  "grado": "11",
+  "nombre_archivo": "t_lenguaje_11_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Ensayo Académico",
+            "un_reto_sugerido": "¿Cómo sostener una idea propia frente a un mundo lleno de opiniones sin fundamento?",
+            "ruta_de_exploracion": {
+              "explorar": "Seminario Socrático: Discusión circular sobre un tema filosófico (ej: ¿La tecnología nos hace más libres o más esclavos?) para detonar tesis.",
+              "visual": "Arquitectura Textual: Diseñar la estructura del ensayo usando un esquema de 'Tesis - Antítesis - Síntesis' o 'Afirmación - Evidencia - Garantía'.",
+              "produccion": "Escritura Académica: Redactar un ensayo argumentativo de 2 páginas, aplicando normas de citación para respaldar los argumentos con autoridades."
+            },
+            "para_pensar": [
+              "¿Por qué es intelectualmente deshonesto no citar las fuentes?",
+              "¿Cuál es la diferencia entre persuadir y demostrar?"
+            ],
+            "pistas_del_exito": [
+              "Estructura ensayos argumentativos con rigor conceptual.",
+              "Utiliza diversos tipos de argumentos (autoridad, ejemplo, analogía) para sustentar su tesis."
+            ],
+            "un_refuerzo": "Identificar falacias argumentativas en un texto de opinión."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Hermenéutica Crítica",
+            "un_reto_sugerido": "¿Qué nos dice una obra literaria sobre la política y la sociedad del momento en que fue escrita?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura Contextualizada: Leer un fragmento de una obra (ej: 1984 o Un Mundo Feliz) y compararlo con noticias actuales sobre vigilancia o biotecnología.",
+              "visual": "Matriz de Análisis: Crear un cuadro de doble entrada relacionando: Símbolos del texto vs. Realidad social referenciada.",
+              "produccion": "Comentario Crítico: Escribir un análisis interpretativo donde se devele la postura ideológica del autor (ironía, crítica, sátira)."
+            },
+            "para_pensar": [
+              "¿Toda obra de arte es política?",
+              "¿Cómo la ironía sirve para decir verdades prohibidas?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona obras literarias con contextos sociopolíticos contemporáneos.",
+              "Identifica el tono y el estilo (ironía, sátira) como herramientas de sentido."
+            ],
+            "un_refuerzo": "Explicar el doble sentido de una caricatura política."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Diálogos Universales",
+            "un_reto_sugerido": "¿Por qué Hamlet o Don Quijote siguen siendo 'influencers' 400 años después?",
+            "ruta_de_exploracion": {
+              "explorar": "Rastreo de Arquetipos: Identificar personajes modernos (en series o cine) que se parezcan a personajes clásicos (el rebelde, el soñador, el avaro).",
+              "visual": "Línea de Tiempo Comparada: Ubicar obras universales y eventos históricos mundiales para entender el 'Espíritu de la Época' (Zeitgeist).",
+              "produccion": "Ensayo de Vigencia: Argumentar por qué una obra clásica ofrece respuestas a problemas existenciales del joven del siglo XXI."
+            },
+            "para_pensar": [
+              "¿Qué hace que una obra sea universal y atemporal?",
+              "¿Leemos los clásicos para huir de la realidad o para entenderla?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce temas universales en la literatura clásica.",
+              "Argumenta la vigencia de obras canónicas en la actualidad."
+            ],
+            "un_refuerzo": "Reescribir un monólogo clásico en lenguaje de chat (slang) manteniendo el sentido."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Decodificadores de Símbolos",
+            "un_reto_sugerido": "¿Cómo los medios usan símbolos para manipular nuestras emociones sin que nos demos cuenta?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis Semiótico: Observar la puesta en escena de un noticiero o discurso político (colores, banderas, música de fondo). ¿Qué mensaje subliminal envían?",
+              "visual": "Mapa de Códigos: Desglosar una imagen publicitaria en sus códigos: Gestual (miradas), Cromático (colores) y Lingüístico (eslogan).",
+              "produccion": "Informe de Transparencia: Analizar un medio de comunicación y evaluar si respeta el derecho a la información veraz o si sesga la realidad."
+            },
+            "para_pensar": [
+              "¿La objetividad periodística es un mito?",
+              "¿Cómo influyen los símbolos patrios o religiosos en un discurso?"
+            ],
+            "pistas_del_exito": [
+              "Comprende el sentido figurado y simbólico en medios masivos.",
+              "Analiza críticamente la articulación de códigos verbales y no verbales."
+            ],
+            "un_refuerzo": "Interpretar el significado de una fotografía de prensa sin leer el pie de foto."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Observatorio de Medios",
+            "un_reto_sugerido": "¿Quién financia lo que leemos? Siguiendo la ruta del dinero y la ideología en las noticias.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate Editorial: Comparar cómo titulan tres periódicos diferentes una misma noticia de protesta social. ¿A quién defienden?",
+              "visual": "Infografía de Propiedad: Investigar quiénes son los dueños de los grandes canales de TV y hacer un gráfico de sus intereses económicos.",
+              "produccion": "Columna de Análisis de Medios: Escribir un texto crítico sobre cómo los estereotipos en la publicidad afectan la cultura democrática."
+            },
+            "para_pensar": [
+              "¿La información es un negocio o un derecho?",
+              "¿Cómo los algoritmos de redes sociales deciden qué noticias vemos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica intencionalidades políticas y económicas en los medios.",
+              "Participa con postura crítica frente a la información masiva."
+            ],
+            "un_refuerzo": "Diferenciar entre un hecho y una opinión en un reportaje televisivo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Blogueros de Opinión",
+            "un_reto_sugerido": "¿Cómo convertir una queja personal en una opinión pública fundamentada?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de Columnas: Leer columnas de opinión de autores contrastantes. Identificar su estilo (sarcástico, académico, reflexivo).",
+              "visual": "Estructura del Artículo: Esquematizar el texto: Gancho (anécdota), Tesis, Argumentos y Cierre contundente.",
+              "produccion": "Publicación Digital: Crear una entrada de Blog o un Hilo de Twitter argumentado sobre un tema polémico, cuidando la ortografía y el tono."
+            },
+            "para_pensar": [
+              "¿Internet ha democratizado la opinión o ha aumentado el ruido?",
+              "¿Qué responsabilidad implica tener seguidores?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos de opinión (blogs, columnas) con estructura clara.",
+              "Sustenta sus puntos de vista con argumentos variados."
+            ],
+            "un_refuerzo": "Escribir un comentario argumentado a la columna de un compañero."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Lectores Intertextuales",
+            "un_reto_sugerido": "¿Te has dado cuenta de que todos los libros hablan entre sí? El juego de las referencias.",
+            "ruta_de_exploracion": {
+              "explorar": "Cacería de Referencias: Ver un capítulo de 'Los Simpson' o una película de Tarantino e identificar todas las referencias a libros y cine clásico.",
+              "visual": "Red de Hipervínculos: Tomar un cuento moderno y trazar líneas hacia los textos antiguos que lo inspiraron (Biblia, Mitología, Cuentos de Hadas).",
+              "produccion": "Ensayo Comparativo: Analizar cómo un autor contemporáneo reinterpreta un mito clásico (ej: Penélope y Odiseo en la poesía actual)."
+            },
+            "para_pensar": [
+              "¿Existe la originalidad total o todo es remezcla?",
+              "¿Qué es la intertextualidad?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones de intertextualidad entre diversas obras.",
+              "Compara textos atendiendo a temáticas y contextos de producción."
+            ],
+            "un_refuerzo": "Identificar la referencia bíblica o mitológica en un poema moderno."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Poéticas de la Resistencia",
+            "un_reto_sugerido": "¿Puede la literatura ser un arma contra la opresión?",
+            "ruta_de_exploracion": {
+              "explorar": "Voces Silenciadas: Leer poesía escrita en cárceles, en el exilio o por minorías discriminadas. ¿Qué tienen en común?",
+              "visual": "Mapa de la Resistencia: Ubicar en el mapa mundi obras literarias que nacieron como protesta a dictaduras o injusticias.",
+              "produccion": "Antología Comentada: Seleccionar tres textos de 'literatura de resistencia' y explicar cómo desafían el poder establecido."
+            },
+            "para_pensar": [
+              "¿El escritor debe ser la voz de los que no tienen voz?",
+              "¿Qué relación hay entre literatura y feminismo o descolonización?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la literatura como forma de resistencia cultural y política.",
+              "Identifica temas de identidad y justicia en obras contemporáneas."
+            ],
+            "un_refuerzo": "Analizar la letra de una canción de protesta como si fuera un poema."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "La Propaganda al Desnudo",
+            "un_reto_sugerido": "¿Sabes diferenciar entre información, publicidad y propaganda?",
+            "ruta_de_exploracion": {
+              "explorar": "Museo de la Propaganda: Analizar carteles de guerra (I y II Guerra Mundial, Guerra Fría) y ver qué sentimientos manipulaban (miedo, orgullo).",
+              "visual": "Disección de Falacias: Tomar un discurso extremista actual y marcar las falacias lógicas (ataque personal, falsa causa, generalización).",
+              "produccion": "Video-Análisis: Crear un video corto explicando cómo funciona una técnica de propaganda moderna (ej: Fake News o Bots en redes)."
+            },
+            "para_pensar": [
+              "¿Somos inmunes a la propaganda?",
+              "¿Cómo el miedo es usado para controlar la opinión pública?"
+            ],
+            "pistas_del_exito": [
+              "Identifica mecanismos ideológicos y de propaganda en discursos públicos.",
+              "Argumenta a favor de la libertad de expresión y el pensamiento crítico."
+            ],
+            "un_refuerzo": "Detectar un eufemismo en una noticia de guerra (ej: 'daño colateral')."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Campaña de Contrainformación",
+            "un_reto_sugerido": "¿Podemos usar las mismas herramientas del marketing para promover valores positivos?",
+            "ruta_de_exploracion": {
+              "explorar": "Estudio de Caso: Analizar una campaña social exitosa (ej: #MeToo o Black Lives Matter) y sus estrategias visuales.",
+              "visual": "Brief Creativo: Diseñar la estrategia para una campaña escolar: Público objetivo, Mensaje clave, Canales y Tono visual.",
+              "produccion": "Campaña Transmedia: Lanzar una campaña real en el colegio (afiches + redes sociales) sobre un tema de convivencia, usando lenguaje persuasivo ético."
+            },
+            "para_pensar": [
+              "¿El activismo en redes sociales sirve de algo?",
+              "¿Cómo viralizar un mensaje positivo?"
+            ],
+            "pistas_del_exito": [
+              "Planea y ejecuta estrategias comunicativas con propósitos sociales.",
+              "Analiza el impacto de campañas publicitarias en la cultura."
+            ],
+            "un_refuerzo": "Crear un eslogan que resuma una idea compleja en 5 palabras."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Podcast Narrativo",
+            "un_reto_sugerido": "¿Cómo contar una historia real usando sonidos para que parezca una película en la mente?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha Inmersiva: Oír un podcast narrativo de alta calidad (ej: Radio Ambulante). Analizar el uso de música, silencios y testimonios.",
+              "visual": "Guion Técnico de Audio: Escribir el guion a dos columnas: Texto del narrador / Efectos de sonido y música (Planos sonoros).",
+              "produccion": "Producción de Podcast: Grabar y editar un episodio de 5 minutos sobre una historia de vida local, aplicando técnicas de narrativa sonora."
+            },
+            "para_pensar": [
+              "¿El audio es un medio más íntimo que el video?",
+              "¿Cómo la voz transmite emociones que el texto escrito no puede?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos orales complejos (podcasts) con planificación técnica.",
+              "Evalúa y corrige sus producciones atendiendo al contexto comunicativo."
+            ],
+            "un_refuerzo": "Grabar una entrevista y editarla para dejar solo lo más importante."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "El Texto como Tejido",
+            "un_reto_sugerido": "¿Qué pasa cuando analizamos la letra de una canción como si fuera alta literatura?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis Lírico-Musical: Tomar una canción compleja (ej: Residente, Bob Dylan, Spinetta) y analizar sus figuras retóricas y referencias culturales.",
+              "visual": "Mapa de Sentidos: Desglosar el texto en niveles: Literal (qué dice), Inferencial (qué sugiere) y Crítico (qué opino).",
+              "produccion": "Ensayo de Interpretación: Escribir un texto argumentando por qué una canción específica debería considerarse poesía contemporánea."
+            },
+            "para_pensar": [
+              "¿Hay diferencia entre 'alta cultura' y 'cultura popular'?",
+              "¿La música es la literatura de las masas?"
+            ],
+            "pistas_del_exito": [
+              "Contrasta textos de diversa índole (canciones, poemas) con rigor analítico.",
+              "Infiere relaciones de significado a nivel local y global en el texto."
+            ],
+            "un_refuerzo": "Identificar una metáfora, una hipérbole y una anáfora en una canción."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Teoría Literaria Aplicada",
+            "un_reto_sugerido": "¿Cómo cambia un cuento si lo leemos con gafas feministas, marxistas o psicoanalíticas?",
+            "ruta_de_exploracion": {
+              "explorar": "Lentes Teóricos: Explicar brevemente qué busca la crítica feminista (género), marxista (clases sociales) o psicoanalítica (deseos ocultos).",
+              "visual": "Análisis Capas: Aplicar uno de estos 'lentes' a un cuento de hadas clásico. (ej: Cenicienta vista desde la lucha de clases).",
+              "produccion": "Crítica Especializada: Escribir un análisis literario de una obra contemporánea aplicando una teoría crítica específica."
+            },
+            "para_pensar": [
+              "¿La teoría mata el disfrute de la lectura o lo profundiza?",
+              "¿Todo texto es producto de su tiempo y sus prejuicios?"
+            ],
+            "pistas_del_exito": [
+              "Aplica conceptos de teoría literaria en el análisis de obras.",
+              "Contrasta textos atendiendo a características formales y temáticas."
+            ],
+            "un_refuerzo": "Reinterpretar el final de una obra clásica desde una perspectiva moderna."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Ética en la Investigación",
+            "un_reto_sugerido": "¿Dónde termina la inspiración y empieza el plagio?",
+            "ruta_de_exploracion": {
+              "explorar": "Detectives de Plagio: Analizar casos famosos de plagio en música, literatura o tesis de grado. ¿Cuáles fueron las consecuencias?",
+              "visual": "Taller de Citación: Ejercicios prácticos de cómo citar un tuit, un video de YouTube o un libro según normas APA.",
+              "produccion": "Artículo de Investigación: Escribir un texto académico breve donde el 50% sean ideas propias y el 50% citas correctamente referenciadas."
+            },
+            "para_pensar": [
+              "¿El conocimiento es propiedad privada o pública?",
+              "¿Por qué el rigor académico es una cuestión de ética, no solo de forma?"
+            ],
+            "pistas_del_exito": [
+              "Aplica normas de citación y respeto por la propiedad intelectual.",
+              "Argumenta con base en la diversidad de criterios y fuentes."
+            ],
+            "un_refuerzo": "Parafrasear un párrafo complejo sin cambiar su sentido original."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Periodismo de Datos",
+            "un_reto_sugerido": "¿Cómo convertir números aburridos en historias que la gente quiera leer?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de Infografías: Analizar visualizaciones de datos complejas (ej: cambio climático, elecciones). ¿Cómo los gráficos cuentan la historia?",
+              "visual": "Boceto de Visualización: Tomar una estadística escolar (ej: notas, asistencia) y diseñar una forma creativa de mostrarla (gráficos, mapas).",
+              "produccion": "Reportaje de Datos: Crear una infografía periodística digital o física que explique un fenómeno social usando datos reales y fuentes verificadas."
+            },
+            "para_pensar": [
+              "¿Los datos son neutrales o se pueden manipular?",
+              "¿Cómo el diseño visual ayuda a democratizar la información compleja?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta y produce información basada en datos y códigos no verbales.",
+              "Utiliza lenguajes gráficos para comunicar investigaciones sociales."
+            ],
+            "un_refuerzo": "Traducir una tabla de Excel a un párrafo narrativo."
+          }
+        }
+      ]
+    }
+  ]
+}

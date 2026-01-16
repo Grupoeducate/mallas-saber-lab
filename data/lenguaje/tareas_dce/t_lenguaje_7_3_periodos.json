@@ -1,0 +1,337 @@
+{
+  "area": "Lenguaje",
+  "grado": "7",
+  "nombre_archivo": "t_lenguaje_7_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "La Agencia de Publicidad",
+            "un_reto_sugerido": "¿Cómo podemos convencer a toda la comunidad escolar de apoyar una causa usando solo palabras e imágenes?",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de Eslóganes: Recordar y analizar frases famosas de comerciales de TV. ¿Qué prometen? ¿Qué emociones tocan?",
+              "visual": "Disección de un Anuncio: Recortar un aviso publicitario y señalar con flechas: el producto, el público objetivo, los colores persuasivos y el texto gancho.",
+              "produccion": "Crear una Campaña Publicitaria Social: Diseñar un afiche y un guion de radio de 30 segundos para promover el cuidado del agua en el colegio."
+            },
+            "para_pensar": [
+              "¿La publicidad siempre dice la verdad o la exagera?",
+              "¿Qué responsabilidad tenemos al intentar convencer a otros?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza estrategias argumentativas y persuasivas en sus producciones.",
+              "Planea el texto teniendo en cuenta la coherencia y cohesión."
+            ],
+            "un_refuerzo": "Reescribir un anuncio aburrido para hacerlo más atractivo usando adjetivos y verbos de acción."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Anatomía de los Textos",
+            "un_reto_sugerido": "¿Podemos identificar qué tipo de texto es solo con ver su silueta y algunas palabras clave?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparación Rápida: Poner frente a frente una noticia, un poema y una receta. Discutir en qué se diferencian visualmente antes de leerlos.",
+              "visual": "Mapa de Superestructuras: Crear esquemas gráficos (esqueletos) para diferentes tipologías: Narrativo (Montaña), Expositivo (Cajas), Argumentativo (Balanza).",
+              "produccion": "Cuadro Comparativo: Analizar dos textos sobre un mismo tema (ej: el fútbol), uno informativo y otro literario, contrastando su lenguaje y estructura."
+            },
+            "para_pensar": [
+              "¿Por qué un texto científico no se escribe igual que un cuento?",
+              "¿Cómo influye la estructura en la facilidad de lectura?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica textos según su tipología y características formales.",
+              "Establece semejanzas y diferencias entre textos de tradición oral y escrita."
+            ],
+            "un_refuerzo": "Clasificar recortes de revistas en las categorías: Narrar, Informar, Argumentar."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros del Tiempo Literario",
+            "un_reto_sugerido": "¿Cómo nos ayuda la literatura a saber cómo pensaba la gente hace 100 o 500 años?",
+            "ruta_de_exploracion": {
+              "explorar": "Arqueología de Palabras: Leer un fragmento de un texto antiguo (ej: Quijote o Mitos) y subrayar palabras que ya no usamos o suenan raro.",
+              "visual": "Línea de Tiempo Literaria: Ubicar en una cuerda larga en el salón los autores y obras leídas, conectándolos con eventos históricos (guerras, descubrimientos).",
+              "produccion": "Adaptación Moderna: Reescribir una escena de una obra clásica (ej: Romeo y Julieta) ambientándola en un colegio actual con lenguaje moderno."
+            },
+            "para_pensar": [
+              "¿Los temas de amor y muerte han cambiado con los siglos?",
+              "¿Por qué es importante conocer el contexto en el que vivió el autor?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona las obras literarias con su época y contexto histórico.",
+              "Identifica características de los géneros narrativo, lírico y dramático."
+            ],
+            "un_refuerzo": "Investigar la biografía corta de un autor y ver cómo su vida influyó en su obra."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "El Sherlock de los Gestos",
+            "un_reto_sugerido": "¿Podemos descubrir las verdaderas intenciones de alguien solo mirando cómo se mueve?",
+            "ruta_de_exploracion": {
+              "explorar": "Cine Mudo: Ver una escena de película sin volumen e intentar adivinar qué relación tienen los personajes y qué están discutiendo.",
+              "visual": "Diccionario Corporal: Tomar fotos a compañeros haciendo gestos (cruzar brazos, tapar boca) y escribir qué significan en diferentes contextos.",
+              "produccion": "Juego de Roles Ético: Representar una situación de conflicto escolar donde el lenguaje verbal sea amable pero el no verbal sea agresivo (sarcasmo)."
+            },
+            "para_pensar": [
+              "¿Es posible mentir con el cuerpo?",
+              "¿Cómo afecta el tono de voz el significado de un 'gracias'?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta la intención comunicativa a partir de elementos no verbales.",
+              "Respeta al interlocutor reconociendo la importancia de la comunicación integral."
+            ],
+            "un_refuerzo": "Observar una entrevista y anotar cuántas veces el entrevistado sonríe o frunce el ceño."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Evolución Mediática",
+            "un_reto_sugerido": "¿Cómo ha cambiado la forma de chismear o informar desde las cavernas hasta TikTok?",
+            "ruta_de_exploracion": {
+              "explorar": "Museo de la Comunicación: Traer o dibujar objetos antiguos (cartas, teléfonos de disco, periódicos viejos) y compararlos con un smartphone.",
+              "visual": "Infografía Evolutiva: Dibujar la evolución de un medio (ej: de la señal de humo al WhatsApp), destacando ventajas y desventajas.",
+              "produccion": "Predicción Futurista: Escribir un cuento de ciencia ficción sobre cómo nos comunicaremos en el año 2050."
+            },
+            "para_pensar": [
+              "¿Antes nos comunicábamos mejor o peor que ahora?",
+              "¿Qué ganamos y qué perdimos con la velocidad de internet?"
+            ],
+            "pistas_del_exito": [
+              "Organiza información cronológicamente sobre la evolución de los medios.",
+              "Analiza el impacto social de los cambios tecnológicos en la comunicación."
+            ],
+            "un_refuerzo": "Entrevistar a un abuelo sobre cómo se enteraba de las noticias cuando era niño."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Voces al Aire (Podcast)",
+            "un_reto_sugerido": "¿Cómo podemos contar una historia o defender una idea usando solo nuestra voz y sonidos?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha Analítica: Oír un fragmento de un podcast o programa radial juvenil y anotar los efectos de sonido y la música de fondo.",
+              "visual": "Guion Técnico: Elaborar una tabla de dos columnas: una para lo que dice el locutor (Audio Verbal) y otra para la música/efectos (Audio No Verbal).",
+              "produccion": "Grabación del Piloto: Grabar con el celular un mini-podcast de 2 minutos sobre un tema polémico del colegio (ej: uso de uniformes), usando argumentos."
+            },
+            "para_pensar": [
+              "¿Por qué la voz necesita matices (subir y bajar) para no aburrir?",
+              "¿Qué poder tiene la radio/podcast para crear imágenes en la mente?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos orales planificados (podcasts) con estructura clara.",
+              "Selecciona el registro de lenguaje adecuado para su audiencia."
+            ],
+            "un_refuerzo": "Leer un texto informativo transformándolo en una narración emocionante de radio."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Contexto",
+            "un_reto_sugerido": "¿Podemos entender completamente un texto si no sabemos qué pasaba en el mundo cuando se escribió?",
+            "ruta_de_exploracion": {
+              "explorar": "Imagen vs Texto: Ver una foto de la Segunda Guerra Mundial o de la Independencia y luego leer un poema de esa época. ¿Se relacionan?",
+              "visual": "Mapa de Conexiones: Pegar el texto en el centro de una hoja y sacar flechas hacia recuadros que expliquen: Política, Sociedad y Creencias de esa época.",
+              "produccion": "Informe de Investigación: Escribir un breve análisis explicando por qué el autor escribió eso (su motivación histórica)."
+            },
+            "para_pensar": [
+              "¿Crees que lo que escribimos hoy será histórico en 100 años?",
+              "¿La literatura sirve para protestar contra las injusticias?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones entre las obras literarias y su contexto histórico-social.",
+              "Infiere la visión de mundo del autor a partir del texto."
+            ],
+            "un_refuerzo": "Buscar qué eventos importantes sucedieron el año en que nació su libro favorito."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Metamorfosis de Géneros",
+            "un_reto_sugerido": "¿Qué pasa si convertimos una noticia trágica en un poema o un cuento en una noticia?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura Cruzada: Leer una leyenda tradicional y luego leer una noticia actual que se le parezca (ej: desapariciones, fenómenos naturales).",
+              "visual": "Tabla de Rasgos: Comparar las características: Narrador (¿quién cuenta?), Tiempo (¿cuándo pasa?) y Formato (Prosa/Verso).",
+              "produccion": "Reescritura Creativa: Tomar una noticia del periódico y transformarla en un relato literario (cuento) o en un poema dramático."
+            },
+            "para_pensar": [
+              "¿La realidad supera a la ficción?",
+              "¿Qué herramientas tiene el escritor para hacer interesante un hecho real?"
+            ],
+            "pistas_del_exito": [
+              "Distingue y aplica procedimientos narrativos, líricos y dramáticos.",
+              "Transforma textos manteniendo el tema pero cambiando la tipología."
+            ],
+            "un_refuerzo": "Identificar el inicio, nudo y desenlace en una canción narrativa."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "El Mosaico de las Lenguas",
+            "un_reto_sugerido": "¿Hablamos 'mal' o hablamos 'diferente'? ¿Por qué juzgamos a las personas por su acento?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha de Dialectos: Oír audios de hablantes de España, Argentina, México y diversas regiones de Colombia. Identificar palabras distintas para lo mismo.",
+              "visual": "Mapa Lingüístico: Ubicar en un mapa de Colombia palabras típicas de cada región (Regionalismos) y su significado.",
+              "produccion": "Diccionario de la Diversidad: Crear un glosario de términos juveniles o regionales y su 'traducción' al español estándar, valorando la riqueza cultural."
+            },
+            "para_pensar": [
+              "¿Existe una única forma correcta de hablar español?",
+              "¿Cómo nos sentimos cuando alguien se burla de nuestra forma de hablar?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce y respeta las variantes lingüísticas y culturales.",
+              "Comprende que la diversidad en el habla enriquece la comunicación."
+            ],
+            "un_refuerzo": "Investigar 5 palabras de origen indígena o africano que usamos a diario."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Curadores de Información",
+            "un_reto_sugerido": "¿Cómo encontramos la aguja en el pajar de internet? Aprender a filtrar información útil.",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de Tesoros: Buscar un tema en Google y comparar el primer resultado con el décimo. ¿Cuál es más confiable?",
+              "visual": "Filtro de Confiabilidad: Diseñar un 'Semáforo' para evaluar webs: Rojo (Mucha publicidad, sin autor), Amarillo (Wikipedia), Verde (Universidades, Museos).",
+              "produccion": "Boletín Informativo: Crear un resumen de un tema usando información de 3 fuentes distintas y citándolas correctamente."
+            },
+            "para_pensar": [
+              "¿Por qué es peligroso 'copiar y pegar' sin leer?",
+              "¿Qué es el plagio y cómo lo evitamos?"
+            ],
+            "pistas_del_exito": [
+              "Selecciona y organiza información relevante de diversas fuentes.",
+              "Utiliza la información mediática para apoyar sus propios argumentos."
+            ],
+            "un_refuerzo": "Comparar la biografía de un famoso en dos páginas web diferentes."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de Historias",
+            "un_reto_sugerido": "¿Cómo logran los escritores mantenernos atrapados hasta la última página?",
+            "ruta_de_exploracion": {
+              "explorar": "Improvisación Narrativa: Juego de 'Sí, y además...'. Un estudiante empieza una frase y el otro debe continuarla agregando un conflicto.",
+              "visual": "La Pirámide de Freytag: Dibujar el esquema narrativo clásico: Exposición, Incidente Incitador, Acción Creciente, Clímax, Acción Decreciente y Resolución.",
+              "produccion": "Escritura Planificada: Escribir un cuento corto presentando primero el esquema de la trama y luego el desarrollo completo, revisando la coherencia."
+            },
+            "para_pensar": [
+              "¿Qué hace que un final sea satisfactorio?",
+              "¿Por qué es importante planear el conflicto antes de escribir?"
+            ],
+            "pistas_del_exito": [
+              "Prepara esquemas previos para estructurar sus textos narrativos.",
+              "Produce textos con secuencia lógica y estructura jerárquica."
+            ],
+            "un_refuerzo": "Ordenar párrafos desordenados de un cuento para encontrar la lógica temporal."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Visores de Mundos",
+            "un_reto_sugerido": "¿Cómo ven el mundo las personas de otras culturas a través de sus historias?",
+            "ruta_de_exploracion": {
+              "explorar": "Mitos Comparados: Leer un mito de creación nórdico y uno indígena (ej: Muisca). ¿En qué se parecen y en qué son distintos?",
+              "visual": "Diagrama de Venn Cultural: Comparar las visiones sobre un tema (ej: la muerte, la naturaleza) en dos textos de culturas diferentes.",
+              "produccion": "Ensayo de Opinión: Escribir un texto breve explicando qué aprendió sobre una cultura diferente a través de su literatura."
+            },
+            "para_pensar": [
+              "¿La literatura nos ayuda a ser más tolerantes?",
+              "¿Qué valores resalta cada cultura en sus héroes?"
+            ],
+            "pistas_del_exito": [
+              "Identifica visiones de mundo en textos literarios de diversos géneros.",
+              "Analiza cómo la cultura influye en la creación de historias."
+            ],
+            "un_refuerzo": "Dibujar cómo se imagina el lugar descrito en una narración extranjera."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "El Crítico Literario",
+            "un_reto_sugerido": "¿Podemos juzgar un libro no por su portada, sino por su estilo y tema?",
+            "ruta_de_exploracion": {
+              "explorar": "Degustación de Libros: Leer solo la primera página de varios libros y predecir su género (terror, romance, aventura) y calidad.",
+              "visual": "Ficha de Análisis: Completar una ficha técnica de una obra leída: Género, Tema Central, Tipo de Narrador y Época.",
+              "produccion": "Reseña Crítica: Escribir una recomendación (o crítica) de un libro leído, argumentando por qué vale la pena (o no) leerlo, basándose en su estructura."
+            },
+            "para_pensar": [
+              "¿Qué hace que un libro sea un 'clásico'?",
+              "¿Nuestros gustos personales influyen en cómo analizamos un texto?"
+            ],
+            "pistas_del_exito": [
+              "Categoriza obras literarias según género, temática y época.",
+              "Argumenta sus apreciaciones sobre los textos leídos."
+            ],
+            "un_refuerzo": "Clasificar una lista de títulos en Género Lírico, Narrativo o Dramático."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Decodificadores de Discursos",
+            "un_reto_sugerido": "¿Qué hay detrás de las palabras de un político, un influencer o un líder estudiantil?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Video: Ver un discurso famoso (ej: Martin Luther King o uno actual) y detectar las palabras que más repite.",
+              "visual": "El Iceberg del Discurso: Dibujar lo que se dice (superficie) y escribir abajo cuál es la verdadera intención (ganar votos, vender, inspirar).",
+              "produccion": "Micro-Discurso: Preparar y presentar un discurso de 1 minuto para postularse como representante del salón, usando argumentos claros."
+            },
+            "para_pensar": [
+              "¿Cómo influyen las emociones en un discurso?",
+              "¿Podemos estar de acuerdo con alguien aunque no nos caiga bien?"
+            ],
+            "pistas_del_exito": [
+              "Distingue líneas temáticas e intenciones en discursos orales.",
+              "Evalúa la validez de los argumentos escuchados en contextos sociales."
+            ],
+            "un_refuerzo": "Identificar en un texto tres palabras que indiquen la opinión del autor."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Analistas de Contenidos",
+            "un_reto_sugerido": "¿Cómo nos manipulan las imágenes y los sonidos en los videos que vemos a diario?",
+            "ruta_de_exploracion": {
+              "explorar": "Videoclip Crítico: Ver un video musical de moda sin audio y analizar solo la imagen. Luego escuchar solo la letra. ¿Coinciden?",
+              "visual": "Collage de Mensajes Ocultos: Recortar imágenes de revistas que promuevan estereotipos (ej: belleza inalcanzable) y hacer un collage crítico.",
+              "produccion": "Blog de Crítica de Medios: Escribir una entrada analizando un programa de TV o tendencia de TikTok, explicando sus mensajes positivos y negativos."
+            },
+            "para_pensar": [
+              "¿Todo lo que es popular es bueno?",
+              "¿Cómo influyen los medios en nuestra forma de vestir o actuar?"
+            ],
+            "pistas_del_exito": [
+              "Analiza críticamente la información y entretenimiento que consume.",
+              "Reconoce la interacción entre sistemas verbales y no verbales en los medios."
+            ],
+            "un_refuerzo": "Explicar el significado de los colores usados en un logotipo famoso."
+          }
+        }
+      ]
+    }
+  ]
+}

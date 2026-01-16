@@ -1,0 +1,338 @@
+{
+  "area": "Lenguaje",
+  "grado": "8",
+  "nombre_archivo": "t_lenguaje_8_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "El Club de la Argumentación",
+            "un_reto_sugerido": "¿Cómo defender una idea impopular usando la lógica y no la fuerza?",
+            "ruta_de_exploracion": {
+              "explorar": "Juicio Simulado: Dividir el salón en Defensa y Fiscalía para juzgar a un personaje de cuento (ej: El Lobo Feroz) basándose en pruebas, no en prejuicios.",
+              "visual": "La Balanza de Argumentos: Dibujar una balanza donde en un plato se ponen 'Afirmaciones' y en el otro 'Evidencias'. Si no hay evidencias, la balanza se cae.",
+              "produccion": "Escribir un texto argumentativo breve (ensayo de opinión) sobre un tema escolar polémico, usando al menos dos conectores lógicos (sin embargo, por lo tanto)."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre una opinión y un hecho?",
+              "¿Por qué es importante escuchar los contraargumentos?"
+            ],
+            "pistas_del_exito": [
+              "Estructura argumentos sólidos apoyados en evidencias o ejemplos.",
+              "Utiliza conectores lógicos para garantizar la cohesión del texto."
+            ],
+            "un_refuerzo": "Identificar la tesis (idea principal) en un artículo de opinión del periódico."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Arqueólogos de Textos",
+            "un_reto_sugerido": "¿Qué nos dice un texto que no está escrito explícitamente con palabras?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura entre Líneas: Leer un microcuento ambiguo y discutir en grupo: ¿Qué pasó realmente? ¿Qué pistas nos dio el autor?",
+              "visual": "Mapa de Inferencias: Pegar un texto en el centro y dibujar 'lupas' alrededor donde se escriba lo implícito (lo que se deduce pero no se dice).",
+              "produccion": "Análisis de Caso: Leer una noticia y responder: ¿A quién beneficia esta información? ¿Qué se omitió?",
+              "exploracion_extra": null
+            },
+            "para_pensar": [
+              "¿Por qué dos personas pueden entender cosas distintas del mismo libro?",
+              "¿Qué es el contexto de producción de un texto?"
+            ],
+            "pistas_del_exito": [
+              "Infiere información implícita a partir de marcas textuales.",
+              "Relaciona el texto con su contexto social y cultural."
+            ],
+            "un_refuerzo": "Deducir el significado de una palabra desconocida por el contexto de la oración."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Voces de Latinoamérica",
+            "un_reto_sugerido": "¿Qué tienen en común un cuento de la selva colombiana y uno de la pampa argentina?",
+            "ruta_de_exploracion": {
+              "explorar": "Mural de Identidad: Recortar imágenes que representen 'lo latino' (comida, paisajes, rostros) y discutir qué nos une como región.",
+              "visual": "Ruta del Autor: Marcar en un mapa de América Latina el origen de los autores leídos (Gabo, Cortázar, Rulfo) y una característica de su región.",
+              "produccion": "Cuento Regional: Escribir un relato corto que resalte una costumbre o creencia típica de su propia región, imitando el estilo de la tradición oral."
+            },
+            "para_pensar": [
+              "¿La literatura ayuda a construir la identidad de un país?",
+              "¿Por qué en Latinoamérica mezclamos lo real con lo mágico?"
+            ],
+            "pistas_del_exito": [
+              "Identifica rasgos de la identidad latinoamericana en obras literarias.",
+              "Reconoce la tradición oral como fuente de la literatura escrita."
+            ],
+            "un_refuerzo": "Comparar un mito precolombino con una leyenda urbana actual."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "El Observatorio de Gestos",
+            "un_reto_sugerido": "¿Podemos tener una conversación completa sin decir una sola palabra?",
+            "ruta_de_exploracion": {
+              "explorar": "Dígalo con Mímica 2.0: Representar conceptos abstractos (libertad, justicia, duda) usando solo el cuerpo.",
+              "visual": "Catálogo de Tatuajes y Símbolos: Investigar y dibujar qué significan ciertos tatuajes o formas de vestir en diferentes tribus urbanas (lenguaje no verbal).",
+              "produccion": "Ensayo Fotográfico: Tomar 3 fotos de 'lenguaje silencioso' en el colegio (grafitis, uniformes personalizados, gestos) y explicar qué comunican."
+            },
+            "para_pensar": [
+              "¿La ropa que usamos es una forma de comunicación?",
+              "¿Cómo influye la cultura en el significado de los gestos?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta manifestaciones del lenguaje no verbal en su entorno.",
+              "Valora la diversidad de expresiones culturales y simbólicas."
+            ],
+            "un_refuerzo": "Analizar qué comunica la postura de un político en un discurso mudo."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Filtros de Ideología",
+            "un_reto_sugerido": "¿Las noticias nos dicen qué pensar o nos dicen en qué pensar?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparación de Portadas: Traer dos periódicos del mismo día y comparar qué foto y titular eligieron para la noticia principal. ¿Son iguales?",
+              "visual": "Lentes Ideológicos: Crear unas gafas de cartón con filtros de colores (Rojo = Opinión, Azul = Hecho) para analizar un reportaje de TV.",
+              "produccion": "Crítica de Medios: Escribir un comentario crítico sobre cómo una red social o noticiero trata a los jóvenes (¿los criminaliza? ¿los ignora?)."
+            },
+            "para_pensar": [
+              "¿Existe la objetividad total en los medios?",
+              "¿Qué intereses puede tener un medio de comunicación?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la carga ideológica o política en mensajes mediáticos.",
+              "Asume una postura crítica frente a la información masiva."
+            ],
+            "un_refuerzo": "Identificar adjetivos calificativos en una noticia supuestamente objetiva."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Escribas de la Realidad",
+            "un_reto_sugerido": "¿Cómo explicarle a un extraterrestre cómo funciona nuestro colegio sin que se confunda?",
+            "ruta_de_exploracion": {
+              "explorar": "Instrucciones Cruzadas: Escribir instrucciones para 'Ponerse un zapato' y dárselas a un compañero para que las siga literalmente (robot).",
+              "visual": "Diagrama de Flujo: Crear un esquema lógico para un texto explicativo: Definición -> Causas -> Consecuencias -> Ejemplos.",
+              "produccion": "Artículo Explicativo: Redactar un texto para el periódico escolar explicando un fenómeno científico o social, adaptando el lenguaje al público estudiantil."
+            },
+            "para_pensar": [
+              "¿Por qué es difícil explicar algo sencillo?",
+              "¿Qué es la adecuación al contexto en la escritura?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos explicativos coherentes y adecuados al ámbito de uso.",
+              "Organiza la información de manera secuencial y lógica."
+            ],
+            "un_refuerzo": "Resumir un párrafo complejo en una sola oración simple."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "El Círculo de Lectores",
+            "un_reto_sugerido": "¿Qué hace que un cuento nos dé miedo, risa o tristeza? ¿Es el tema o cómo está escrito?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura Compartida: Leer un cuento latinoamericano en voz alta y detenerse para predecir qué hará el personaje.",
+              "visual": "Perfil del Personaje: Dibujar la silueta del protagonista y llenarla con sus pensamientos (adentro) y sus acciones (afuera).",
+              "produccion": "Carta al Autor: Escribirle al autor del cuento preguntando por las decisiones que tomaron los personajes o proponiendo un final alternativo."
+            },
+            "para_pensar": [
+              "¿La literatura refleja la realidad o la inventa?",
+              "¿Por qué nos identificamos con personajes de ficción?"
+            ],
+            "pistas_del_exito": [
+              "Analiza la estructura formal de cuentos y novelas breves.",
+              "Establece relaciones entre la obra literaria y la identidad cultural."
+            ],
+            "un_refuerzo": "Identificar el tipo de narrador en tres fragmentos distintos."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Realismo Mágico y Otros Mundos",
+            "un_reto_sugerido": "¿Qué pasa cuando lo imposible se vuelve cotidiano en una historia?",
+            "ruta_de_exploracion": {
+              "explorar": "Noticiero Mágico: Inventar noticias al estilo Realismo Mágico (ej: 'Llovió flores amarillas en el pueblo') y contarlas como si fueran normales.",
+              "visual": "Collage Surrealista: Recortar imágenes de revistas para crear una escena imposible (una vaca volando, un reloj derretido) que inspire una historia.",
+              "produccion": "Relato Fantástico: Escribir una historia breve donde un elemento sobrenatural irrumpa en la vida cotidiana del colegio."
+            },
+            "para_pensar": [
+              "¿En qué se diferencia el Realismo Mágico de la fantasía de Harry Potter?",
+              "¿Qué dice esto sobre la forma de ser latinoamericana?"
+            ],
+            "pistas_del_exito": [
+              "Identifica características del Realismo Mágico y la literatura fantástica.",
+              "Distingue diferentes voces narrativas en un texto."
+            ],
+            "un_refuerzo": "Describir un objeto cotidiano como si tuviera vida propia."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Gramática en Acción",
+            "un_reto_sugerido": "¿Puede una coma salvar una vida? La importancia de escribir bien.",
+            "ruta_de_exploracion": {
+              "explorar": "El Juego de la Coma: Comparar frases donde la coma cambia el sentido: 'No, quiero' vs 'No quiero'. 'Vamos a comer, niños' vs 'Vamos a comer niños'.",
+              "visual": "Hospital de Oraciones: Corregir en el tablero frases con 'heridas' ortográficas o gramaticales usando marcadores rojos (curitas).",
+              "produccion": "Edición de Pares: Intercambiar cuadernos con un compañero y revisar la ortografía y redacción de su último texto con respeto."
+            },
+            "para_pensar": [
+              "¿La mala ortografía afecta nuestra imagen personal?",
+              "¿Por qué las reglas gramaticales facilitan la comunicación?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa y corrige el uso de normas gramaticales y ortográficas.",
+              "Reconoce la importancia de la precisión en la comunicación escrita."
+            ],
+            "un_refuerzo": "Completar textos con las palabras homófonas correctas (haya/halla, ay/hay/ahí)."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Museo de la Cultura Pop",
+            "un_reto_sugerido": "¿Cómo cuentan la historia de nuestro tiempo los grafitis, los memes y las canciones?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Memes: Traer memes virales y discutir qué situación social critican o representan. ¿Son arte?",
+              "visual": "Línea de Tiempo Musical: Ubicar canciones populares de las últimas décadas y relacionarlas con lo que pasaba en el mundo en ese momento.",
+              "produccion": "Reseña Cultural: Escribir sobre una manifestación artística urbana (mural, baile, música) y su importancia para la identidad juvenil."
+            },
+            "para_pensar": [
+              "¿El arte callejero es vandalismo o expresión?",
+              "¿Cómo construimos nuestra identidad a través de lo que consumimos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce manifestaciones artísticas como formas de identidad cultural.",
+              "Analiza críticamente productos culturales masivos."
+            ],
+            "un_refuerzo": "Interpretar el mensaje de una canción de protesta."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Producción Textual",
+          "guia_didactica": {
+            "la_estrategia": "Oradores del Futuro",
+            "un_reto_sugerido": "¿Cómo hablar para que todos quieran escuchar? El poder de la palabra hablada.",
+            "ruta_de_exploracion": {
+              "explorar": "Improvisación: Sacar un tema al azar de una bolsa y hablar 1 minuto seguido sobre él sin detenerse.",
+              "visual": "Mapa del Discurso: Diseñar un esquema visual (Intro, Argumento 1, 2, 3, Cierre) para no perderse al hablar.",
+              "produccion": "Presentación TED-Ed: Preparar una charla corta sobre 'Un cambio necesario en mi comunidad', usando apoyo visual y retórica."
+            },
+            "para_pensar": [
+              "¿Qué es el carisma en un orador?",
+              "¿Cómo influye el miedo escénico y cómo controlarlo?"
+            ],
+            "pistas_del_exito": [
+              "Planifica y ejecuta intervenciones orales formales.",
+              "Utiliza recursos retóricos para persuadir o informar a la audiencia."
+            ],
+            "un_refuerzo": "Leer un poema frente al espejo practicando el contacto visual."
+          }
+        },
+        {
+          "componente": "Comprensión e interpretación textual",
+          "guia_didactica": {
+            "la_estrategia": "Polifonía de Voces",
+            "un_reto_sugerido": "¿Quién cuenta la historia? ¿Podemos confiar en el narrador?",
+            "ruta_de_exploracion": {
+              "explorar": "El Testigo Ocular: Simular un evento en clase y pedir a 3 estudiantes que lo narren. ¿Coinciden sus versiones?",
+              "visual": "Tipos de Narrador: Crear tarjetas de personajes: Narrador Omnisciente (Dios), Protagonista (Yo), Testigo (Él/Ella) y clasificar textos.",
+              "produccion": "Reescritura de Punto de Vista: Tomar un fragmento de un cuento y reescribirlo desde la perspectiva de otro personaje (ej: Caperucita contada por el Lobo)."
+            },
+            "para_pensar": [
+              "¿La verdad es única o depende de quien la cuenta?",
+              "¿Qué es la polifonía en la literatura?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y diferencia tipos de narradores en textos literarios.",
+              "Comprende cómo el punto de vista afecta el sentido del texto."
+            ],
+            "un_refuerzo": "Identificar en un texto quién está hablando (diálogo vs narración)."
+          }
+        },
+        {
+          "componente": "Literatura",
+          "guia_didactica": {
+            "la_estrategia": "Espejo de la Sociedad",
+            "un_reto_sugerido": "¿Puede una novela explicar mejor la historia de un país que un libro de historia?",
+            "ruta_de_exploracion": {
+              "explorar": "Contextualización: Leer fragmentos de novelas sobre dictaduras o conflictos latinoamericanos y discutir qué sentimientos transmiten.",
+              "visual": "Collage Histórico-Literario: Mezclar recortes de noticias reales con citas de libros que hablen del mismo tema (ej: violencia, pobreza).",
+              "produccion": "Ensayo Literario: Escribir un texto breve analizando cómo un cuento leído refleja un problema social real (pobreza, injusticia, soledad)."
+            },
+            "para_pensar": [
+              "¿El escritor tiene un compromiso con su sociedad?",
+              "¿La literatura sirve para denunciar?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la literatura con problemáticas sociales y políticas.",
+              "Infiere sentidos múltiples en obras complejas."
+            ],
+            "un_refuerzo": "Buscar una canción que hable de un problema social actual."
+          }
+        },
+        {
+          "componente": "Ética de la Comunicación",
+          "guia_didactica": {
+            "la_estrategia": "Curadores de Arte y Cultura",
+            "un_reto_sugerido": "¿El arte debe ser bello o debe decir algo importante?",
+            "ruta_de_exploracion": {
+              "explorar": "Galería Virtual: Proyectar obras de arte latinoamericano (Frida Kahlo, Botero) y discutir qué comunican sin palabras.",
+              "visual": "Ficha Técnica de Obra: Analizar una pintura o escultura: Autor, Técnica, Tema y Mensaje oculto.",
+              "produccion": "Guía de Museo: Escribir el texto explicativo para una obra de arte (real o inventada) interpretando su significado cultural."
+            },
+            "para_pensar": [
+              "¿Cómo leemos una imagen?",
+              "¿Por qué el arte es una forma de comunicación universal?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta manifestaciones artísticas no verbales.",
+              "Valora el patrimonio cultural como forma de lenguaje."
+            ],
+            "un_refuerzo": "Describir las emociones que produce una canción instrumental."
+          }
+        },
+        {
+          "componente": "Medios de Comunicación y otros sistemas simbólicos",
+          "guia_didactica": {
+            "la_estrategia": "Alfabetización Mediática",
+            "un_reto_sugerido": "¿Cómo nos convertimos en prosumidores (productores + consumidores) responsables?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de Tendencias: Investigar por qué un video se vuelve viral. ¿Es suerte o estrategia?",
+              "visual": "Mapa de la Información: Dibujar el recorrido de una noticia desde que sucede hasta que llega al celular (Testigo -> Periodista -> Editor -> Redes).",
+              "produccion": "Decálogo del Usuario Digital: Crear una lista de 10 normas para compartir información en redes de manera ética y segura."
+            },
+            "para_pensar": [
+              "¿Qué huella digital dejamos en internet?",
+              "¿Cómo afecta la desinformación a la democracia?"
+            ],
+            "pistas_del_exito": [
+              "Organiza y clasifica información de medios masivos.",
+              "Adopta una postura ética frente a la producción y consumo de información."
+            ],
+            "un_refuerzo": "Verificar la fecha y autor de una noticia reenviada."
+          }
+        }
+      ]
+    }
+  ]
+}
