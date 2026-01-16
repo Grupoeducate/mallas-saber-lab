@@ -1,4 +1,4 @@
-// FILE: js/ui-filtros.js | VERSION: v10.4 Stable
+// FILE: js/ui-filtros.js | VERSION: v10.5 Stable
 document.addEventListener('DOMContentLoaded', () => {
   const areaSel = document.getElementById('area');
   const gradoSel = document.getElementById('grado');
@@ -9,12 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const btnTop = document.getElementById('btn-top');
   const radiosPeriodos = document.querySelectorAll('input[name="periodos"]');
 
-  // --- CAPA DE SEGURIDAD NACIONAL v10.4 ---
-  document.addEventListener('contextmenu', e => e.preventDefault()); // Bloqueo clic derecho
+  // SEGURIDAD ANTI-COPIA
+  document.addEventListener('contextmenu', e => e.preventDefault());
   document.addEventListener('keydown', e => {
-    if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 'i' || e.key === 's')) {
+    if (e.ctrlKey && ['c','u','i','s'].includes(e.key)) {
       e.preventDefault();
-      alert("Acceso Protegido - Grupo Edúcate Colombia");
+      alert("Contenido Protegido - Plataforma ECO");
     }
   });
 
@@ -25,24 +25,34 @@ document.addEventListener('DOMContentLoaded', () => {
     if (contMalla) contMalla.innerHTML = '';
     if (resPrincipal) resPrincipal.classList.remove('mostrar-block');
     if (indPeriodo) indPeriodo.style.display = 'none';
-    btnProg.disabled = true; // Asegura que no se use sin datos
+    btnProg.disabled = true;
   }
 
+  // LÓGICA DE CONMUTACIÓN DE MODALIDAD (3P / 4P)
   radiosPeriodos.forEach(radio => {
     radio.addEventListener('change', (e) => {
-      window.APP_CONFIG.TIPO_MALLA = window.APP_CONFIG.MODALIDADES_TIEMPO[e.target.value];
+      const seleccion = e.target.value;
+      window.APP_CONFIG.TIPO_MALLA = window.APP_CONFIG.MODALIDADES_TIEMPO[seleccion];
+      
+      // Limpieza profunda al cambiar de modalidad
       resetResultados();
       areaSel.value = "";
       gradoSel.innerHTML = '<option value="">Seleccionar</option>';
       gradoSel.disabled = true;
+      periodoSel.innerHTML = '<option value="">Seleccionar</option>';
       periodoSel.disabled = true;
+      compSel.innerHTML = '<option value="todos">Todos</option>';
       compSel.disabled = true;
+      
+      console.log(`Sistema conmutado a: ${window.APP_CONFIG.TIPO_MALLA}`);
     });
   });
 
   areaSel.addEventListener('change', () => {
     resetResultados();
     gradoSel.innerHTML = '<option value="">Seleccionar</option>';
+    periodoSel.innerHTML = '<option value="">Seleccionar</option>';
+    periodoSel.disabled = true;
     if (areaSel.value) {
       window.APP_CONFIG.GRADOS.forEach(g => {
         const opt = document.createElement('option'); opt.value = g;
@@ -69,11 +79,14 @@ document.addEventListener('DOMContentLoaded', () => {
   periodoSel.addEventListener('change', async () => {
     resetResultados();
     if (!periodoSel.value) return;
+    
     window.RenderEngine.setCargando(true);
     const exito = await asegurarDatosGrado(areaSel.value, gradoSel.value);
+    
     if (exito) {
       const configArea = window.APP_CONFIG.AREAS[areaSel.value];
       const dataGrado = window.MallasData[normalizarTexto(configArea.nombre)]?.[gradoSel.value]?.[window.APP_CONFIG.TIPO_MALLA];
+      
       if (dataGrado?.periodos?.[periodoSel.value]) {
         const items = dataGrado.periodos[periodoSel.value];
         compSel.innerHTML = '<option value="todos">Todos</option>';
@@ -85,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         });
         compSel.disabled = false;
-        btnProg.disabled = false; // RECTIVACIÓN EXITOSA
+        btnProg.disabled = false;
       }
     }
     window.RenderEngine.setCargando(false);
