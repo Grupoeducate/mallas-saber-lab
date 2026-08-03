@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 8,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Moral Compass Radio",
+            "un_reto_sugerido": "¿Cómo podemos diferenciar entre una obligación legal y un consejo ético basándonos solo en el tono y las palabras de un hablante?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar clips de audio cortos de situaciones cotidianas (un médico, un policía, un amigo) e identificar quién está dando una orden y quién un consejo.",
+              "visual": "Crear un 'Semáforo de Modales' con cartulina: Rojo (Must/Obligation), Amarillo (Have to/Necessity), Verde (Should/Advice) para clasificar frases escuchadas.",
+              "produccion": "Inferir información específica de una conversación sobre dilemas escolares, identificando el uso de modales y la diferencia entre pasado simple y continuo."
+            },
+            "para_pensar": [
+              "¿Por qué las reglas son necesarias para la convivencia en una comunidad científica o escolar?",
+              "¿Cómo influyen los modales en la seguridad industrial y tecnológica? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente la intención del hablante (obligación vs. consejo) en textos orales.",
+              "Diferencia el uso de pasado simple y continuo para describir el contexto de una situación."
+            ],
+            "un_refuerzo": "Utilizar una tabla comparativa visual que relacione cada verbo modal con su nivel de 'fuerza' o autoridad."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Youth Counselor Forum",
+            "un_reto_sugerido": "¿Cómo podrías ayudar a un compañero a mejorar su rendimiento académico usando solo recomendaciones en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una lluvia de ideas sobre problemas comunes en la escuela y clasificarlos por nivel de urgencia.",
+              "visual": "Juego de roles 'The Advice Booth': los estudiantes rotan por estaciones donde deben dar y recibir consejos sobre planes futuros y obligaciones.",
+              "produccion": "Realizar una exposición breve sobre un tema de interés general, justificando puntos de vista con argumentos sencillos y modales adecuados."
+            },
+            "para_pensar": [
+              "¿Qué hace que un consejo sea efectivo y respetuoso?",
+              "¿Cómo la comunicación asertiva previene conflictos en el entorno familiar?"
+            ],
+            "pistas_del_exito": [
+              "Expresa opiniones y consejos usando 'should', 'must' y 'have to' con propiedad gramatical.",
+              "Mantiene una conversación coherente sobre experiencias pasadas y planes futuros."
+            ],
+            "un_refuerzo": "Proporcionar tarjetas de 'Situación-Problema' para que el estudiante ensaye su respuesta antes de hablar frente al grupo."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Narrative Anatomy Lab",
+            "un_reto_sugerido": "¿Podemos predecir el desenlace de una historia analizando solo los elementos culturales y el nudo del relato?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar la estructura de un mito o leyenda local y compararla con una narración en inglés para encontrar similitudes universales.",
+              "visual": "Diseñar un 'Mapa Óseo de la Narración': un diagrama donde se ubiquen físicamente el inicio, nudo y desenlace de un texto leído.",
+              "produccion": "Identificar el propósito de descripciones en textos de mediana extensión y reconocer elementos culturales específicos presentes en la lectura."
+            },
+            "para_pensar": [
+              "¿Cómo las historias que leemos moldean nuestra visión de otras culturas?",
+              "¿De qué manera la estructura de una narración se parece al reporte de un experimento científico?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la estructura organizativa (inicio, nudo, desenlace) en diversos géneros textuales.",
+              "Identifica información implícita y relaciones de significado en textos narrativos."
+            ],
+            "un_refuerzo": "Usar marcadores de colores para resaltar las partes de la narración directamente en el texto impreso o fotocopiado."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Personal Chronicle Workshop",
+            "un_reto_sugerido": "¿Cómo transformar una experiencia personal en un relato coherente que atrape al lector desde la primera frase?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una serie de fotografías personales o recortes de noticias y listar los eventos en orden cronológico.",
+              "visual": "Construir un 'Muro de Párrafos': organizar oraciones desordenadas en cartulinas para formar un texto con sentido lógico y cohesión.",
+              "produccion": "Escribir una narración sobre una experiencia propia, utilizando conectores de secuencia y editando el texto según la retroalimentación recibida."
+            },
+            "para_pensar": [
+              "¿Por qué la revisión y edición son pasos fundamentales en la producción de conocimiento?",
+              "¿Cómo la ortografía y puntuación afectan la credibilidad de un mensaje escrito?"
+            ],
+            "pistas_del_exito": [
+              "Organiza párrafos coherentes teniendo en cuenta la ortografía y la puntuación.",
+              "Justifica por escrito sus planes y acciones futuras de manera clara y sencilla."
+            ],
+            "un_refuerzo": "Utilizar una lista de chequeo (checklist) de edición que incluya: mayúsculas, puntos, conectores y tiempo verbal."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Transit Monitor",
+            "un_reto_sugerido": "¿Cómo influye la ubicación geográfica en la forma en que las personas se desplazan y viven en diferentes continentes?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar grabaciones de anuncios en estaciones de tren o aeropuertos de diferentes ciudades e identificar el medio de transporte y el destino.",
+              "visual": "Crear un 'Mapa de Coordenadas Auditivas': ubicar puntos de referencia en un plano basándose en instrucciones orales que usen adverbios de lugar.",
+              "produccion": "Identificar información clave en conversaciones sobre viajes, diferenciando entre rutinas (presente) y experiencias pasadas (pasado)."
+            },
+            "para_pensar": [
+              "¿Cómo ha cambiado la tecnología de transporte nuestra percepción de la distancia global?",
+              "¿Qué impacto ambiental tiene el uso masivo de aviones frente a los trenes eléctricos? (CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica ideas generales y específicas en audios sobre geografía y transporte.",
+              "Usa adverbios de lugar para describir la ubicación de objetos o personas tras la escucha."
+            ],
+            "un_refuerzo": "Asociar sonidos de transporte con imágenes de ciudades icónicas antes de realizar la actividad de escucha profunda."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The International Tour Guide",
+            "un_reto_sugerido": "¿Cómo describirías la importancia histórica y geográfica de un lugar sin mencionar su nombre, para que otros lo adivinen?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotos de monumentos o paisajes naturales y listar adjetivos que describan su ubicación y relevancia.",
+              "visual": "Realizar un 'Juego de Roles' de una agencia de viajes, donde deben convencer a un cliente de visitar un país usando argumentos sobre ocio y cultura.",
+              "produccion": "Hacer presentaciones cortas sobre un tema académico (geografía/historia), cuidando la pronunciación y el uso de adverbios de lugar."
+            },
+            "para_pensar": [
+              "¿Por qué es importante conocer la cultura de un lugar antes de visitarlo?",
+              "¿Cómo el turismo puede ser una herramienta para la conservación ambiental?"
+            ],
+            "pistas_del_exito": [
+              "Describe oralmente lugares y actividades con fluidez y vocabulario técnico.",
+              "Expresa opiniones sobre diferentes culturas justificando sus preferencias personales."
+            ],
+            "un_refuerzo": "Utilizar un 'Script' o guion base con espacios en blanco para practicar la estructura de la descripción antes de la presentación."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Logic of Discovery",
+            "un_reto_sugerido": "¿Qué conexiones ocultas de causa y efecto podemos encontrar en un texto sobre avances tecnológicos?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Skimming' de un texto informativo para identificar palabras que indiquen causa (because, since) y efecto (so, therefore).",
+              "visual": "Diseñar un 'Diagrama de Flujo de Lectura' que conecte los eventos de un texto narrativo o descriptivo según su orden temporal y espacial.",
+              "produccion": "Diferenciar la estructura de textos descriptivos y argumentativos, identificando puntos a favor y en contra sobre un tema familiar."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayuda a tomar mejores decisiones el entender la relación causa-efecto?",
+              "¿Por qué algunos textos científicos son más fáciles de entender que otros? (Análisis de estructura)"
+            ],
+            "pistas_del_exito": [
+              "Comprende relaciones de adición, contraste y causa-efecto entre enunciados.",
+              "Identifica la información implícita y el propósito de diferentes tipos de textos."
+            ],
+            "un_refuerzo": "Proporcionar un organizador gráfico de 'Espina de Pescado' (Ishikawa) para mapear las causas y efectos del texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Environmental Reporter",
+            "un_reto_sugerido": "¿Cómo redactar un informe que explique claramente las causas y consecuencias de un problema ambiental en tu comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar un hecho local (ej. contaminación de un río) y listar los eventos que llevaron a esa situación.",
+              "visual": "Crear un 'Borrador de Párrafos' usando conectores de causa-efecto, asegurando que cada idea fluya lógicamente hacia la siguiente.",
+              "produccion": "Producir un texto descriptivo o argumentativo breve, editándolo para mejorar la ortografía, puntuación y adecuación del vocabulario."
+            },
+            "para_pensar": [
+              "¿Qué responsabilidad tienen los escritores al informar sobre hechos científicos?",
+              "¿Cómo la escritura organizada facilita la resolución de problemas en la vida diaria?"
+            ],
+            "pistas_del_exito": [
+              "Explica por escrito situaciones y hechos estableciendo relaciones de causa y efecto.",
+              "Escribe textos sencillos con funciones claras (describir/argumentar) sobre temas académicos."
+            ],
+            "un_refuerzo": "Usar una lista de conectores clasificados (Adición, Contraste, Causa) como herramienta de apoyo durante la redacción."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Planet's Pulse",
+            "un_reto_sugerido": "¿Podemos identificar cuál es el problema global más urgente solo analizando datos comparativos en un audio?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar noticias cortas sobre cambio climático o pobreza y anotar los adjetivos comparativos y superlativos utilizados (ej. hotter, the poorest).",
+              "visual": "Construir una 'Gráfica de Barras Auditiva': escuchar cantidades y niveles de contaminación de diferentes países y representarlos físicamente.",
+              "produccion": "Analizar las causas y consecuencias de un problema global tras escuchar una exposición académica, proponiendo soluciones simples."
+            },
+            "para_pensar": [
+              "¿Por qué los datos estadísticos son fundamentales para entender los problemas del mundo?",
+              "¿Cómo la ciencia ayuda a mitigar los efectos del cambio climático? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica la idea principal y detalles relevantes en audios sobre problemas globales.",
+              "Usa comparativos y superlativos para procesar información sobre diferentes países o situaciones."
+            ],
+            "un_refuerzo": "Escuchar el audio con una transcripción parcial que tenga espacios en blanco para los adjetivos comparativos."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Solutions Debate",
+            "un_reto_sugerido": "¿Cómo defenderías una solución para la contaminación si tuvieras que compararla con otras propuestas menos efectivas?",
+            "ruta_de_exploracion": {
+              "explorar": "Elegir un personaje destacado (científico o activista) e investigar sus habilidades (can/can't) para resolver problemas.",
+              "visual": "Realizar un 'Debate de Mesa Redonda' sobre temas de actualidad, usando comparativos y superlativos para argumentar cuál solución es 'the best'.",
+              "produccion": "Hacer una exposición sobre un personaje destacado, justificando por qué sus acciones son importantes para el mundo actual."
+            },
+            "para_pensar": [
+              "¿Qué habilidades (can) son más valiosas para un líder del siglo XXI?",
+              "¿Cómo el debate respetuoso contribuye al avance de la ciencia y la sociedad?"
+            ],
+            "pistas_del_exito": [
+              "Expresa opiniones, gustos y preferencias sobre problemas globales con pronunciación clara.",
+              "Intercambia información académica usando estructuras de comparación y capacidad (can/can't)."
+            ],
+            "un_refuerzo": "Utilizar 'Sentence Starters' (Iniciadores de oración) para el debate: 'In my opinion...', 'This is better because...', 'The most important thing is...'"
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Fact-Checker's Quest",
+            "un_reto_sugerido": "¿Cómo distinguir entre un hecho científico y una opinión del autor en un texto argumentativo sobre el clima?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un artículo de opinión y subrayar con diferentes colores las afirmaciones (hechos) y las creencias (opiniones).",
+              "visual": "Crear un 'Mural de Argumentos': clasificar los puntos a favor y en contra encontrados en una lectura sobre un problema global.",
+              "produccion": "Identificar la recurrencia de ideas y la estructura organizativa de un texto argumentativo, reconociendo elementos culturales presentes."
+            },
+            "para_pensar": [
+              "¿Por qué es peligroso creer en información que no tiene sustento científico?",
+              "¿Cómo influye la cultura de un país en la forma en que aborda sus problemas sociales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica puntos a favor y en contra en textos argumentativos complejos.",
+              "Emite una opinión fundamentada sobre la información presentada en un texto de interés general."
+            ],
+            "un_refuerzo": "Proporcionar un glosario de términos específicos sobre problemas globales (poverty, pollution, warming) antes de la lectura."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Change Maker's Manifesto",
+            "un_reto_sugerido": "¿Cómo escribir un manifiesto que convenza a tu comunidad de realizar acciones concretas para salvar el planeta?",
+            "ruta_de_exploracion": {
+              "explorar": "Listar acciones cotidianas que podemos (can) y no podemos (can't) hacer para ayudar al medio ambiente.",
+              "visual": "Diseñar un 'Póster Argumentativo': escribir párrafos que usen comparativos y superlativos para resaltar la importancia de una acción sobre otra.",
+              "produccion": "Escribir un texto argumentativo sencillo, justificando planes y acciones futuras con coherencia, cohesión y ortografía correcta."
+            },
+            "para_pensar": [
+              "¿Qué poder tiene la palabra escrita para generar cambios sociales?",
+              "¿Cómo la justificación de nuestras acciones nos hace ciudadanos más responsables?"
+            ],
+            "pistas_del_exito": [
+              "Produce textos argumentativos coherentes sobre temas personales y globales.",
+              "Usa comparativos y superlativos correctamente para dar fuerza a sus argumentos escritos."
+            ],
+            "un_refuerzo": "Utilizar una estructura de 'Párrafo de Opinión': Idea principal + Evidencia/Comparación + Conclusión."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "9",
+  "nombre_archivo": "t_sociales_9_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Fábrica de Agua",
+            "un_reto_sugerido": "¿Cómo afecta la minería y la deforestación la capacidad de los páramos para proveer agua a nuestra comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de un mapa de ecosistemas estratégicos de Colombia y debate sobre el origen del agua que llega a los grifos de la escuela.",
+              "visual": "Experimento de filtración: Comparar cómo el agua atraviesa un suelo con vegetación (simulando un páramo) vs un suelo erosionado o compactado.",
+              "produccion": "Mapa argumentativo sobre las amenazas a los geosistemas biodiversos (manglares, selvas, páramos) y propuesta de mitigación local."
+            },
+            "para_pensar": [
+              "¿Por qué se dice que el agua es un recurso geopolítico estratégico para Colombia?",
+              "¿Es posible un equilibrio entre el turismo y la conservación de los arrecifes coralinos?"
+            ],
+            "pistas_del_exito": [
+              "Ubica geográficamente los geosistemas biodiversos y explica su importancia social.",
+              "Relaciona la deforestación con el deterioro de las fuentes hídricas nacionales."
+            ],
+            "un_refuerzo": "Realizar una infografía sobre los servicios ecosistémicos que prestan los manglares en las costas colombianas."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Onda de la Modernización",
+            "un_reto_sugerido": "¿De qué manera la llegada del cine, la radio y la aviación transformó la mentalidad de los colombianos en el siglo XX?",
+            "ruta_de_exploracion": {
+              "explorar": "Audición de grabaciones de radio antiguas y visualización de fragmentos de cine mudo para identificar modas y lenguajes de la época.",
+              "visual": "Taller de 'Radio-Teatro': Crear un guion breve que narre un evento histórico del siglo XX (como la Masacre de las Bananeras) usando efectos de sonido manuales.",
+              "produccion": "Ensayo comparativo sobre los hábitos de vida antes y después de la aviación comercial y los automóviles en la conectividad del país."
+            },
+            "para_pensar": [
+              "¿Cómo influyeron las corrientes de pensamiento filosófico del siglo XIX en la modernización del siglo XX?",
+              "¿Por qué la llegada de los medios masivos de comunicación se considera un hito cultural?"
+            ],
+            "pistas_del_exito": [
+              "Compara hábitos de vida históricos con el impacto de las tecnologías de transporte y comunicación.",
+              "Relata hechos sociales del siglo XX con problemáticas actuales de la vida nacional."
+            ],
+            "un_refuerzo": "Investigar la biografía de un pionero de la aviación o la radio en Colombia y su aporte al desarrollo del país."
+          }
+        },
+        {
+          "componente": "Ético – Político",
+          "guia_didactica": {
+            "la_estrategia": "Veedores del Estado Social",
+            "un_reto_sugerido": "¿Cómo garantizan las autoridades colombianas que nuestros derechos fundamentales no sean solo palabras en papel?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos reales de vulneración de DD.HH. en Colombia y búsqueda de los artículos constitucionales que los protegen.",
+              "visual": "Simulacro de 'Cabildo Abierto' o 'Referendo': Organizar una votación estudiantil sobre una necesidad escolar siguiendo los pasos legales del mecanismo.",
+              "produccion": "Guía de protección ciudadana que explique cuándo acudir a la Procuraduría, Defensoría o Personería ante un caso de abuso de poder."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia fundamental entre la Constitución de 1886 y la de 1991 en términos de participación?",
+              "¿Por qué el voto es el mecanismo de participación más conocido pero no necesariamente el más efectivo para cambios locales?"
+            ],
+            "pistas_del_exito": [
+              "Justifica el uso de diversos mecanismos de participación ciudadana en contextos democráticos.",
+              "Explica el papel de los órganos de control en la protección de los derechos colectivos y del ambiente."
+            ],
+            "un_refuerzo": "Redactar un derecho de petición ficticio dirigido a una autoridad local para solicitar la reparación de un parque público."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Auditores de la Información",
+            "un_reto_sugerido": "¿Cómo podemos identificar sesgos y noticias falsas en los medios de comunicación sobre nuestros derechos?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar una misma noticia publicada en tres medios diferentes (redes sociales, periódico, TV) y anotar las diferencias de enfoque.",
+              "visual": "Laboratorio de 'Fake News': Crear una noticia falsa creíble y luego aplicar herramientas de verificación (fuentes, fechas, imágenes) para desmentirla.",
+              "produccion": "Informe crítico sobre cómo los medios pueden limitar o promover las libertades ciudadanas según su línea editorial."
+            },
+            "para_pensar": [
+              "¿Por qué la protesta pacífica es un derecho fundamental para supervisar a los representantes escolares?",
+              "¿De qué manera los algoritmos de redes sociales crean 'burbujas' que limitan nuestra visión del mundo?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa la veracidad y sesgos de la información mediática sobre libertades ciudadanas.",
+              "Identifica canales institucionales para supervisar la gestión de representantes estudiantiles."
+            ],
+            "un_refuerzo": "Diseñar una campaña de 'Consumo Responsable de Medios' para compartir con los grados inferiores."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cartografía del Éxodo",
+            "un_reto_sugerido": "¿Cómo ha transformado el desplazamiento forzado la geografía humana y económica de las ciudades colombianas?",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistas anónimas o relatos sobre el origen de las familias en el barrio para identificar procesos de migración campo-ciudad.",
+              "visual": "Mapeo de asentamientos: Usar mapas de la ciudad de diferentes décadas para observar el crecimiento de los cinturones de miseria y la expansión urbana.",
+              "produccion": "Análisis demográfico sobre las consecuencias laborales y ambientales del desplazamiento forzado en el municipio receptor."
+            },
+            "para_pensar": [
+              "¿Por qué las personas desplazadas suelen llegar a zonas de alto riesgo ambiental en las ciudades?",
+              "¿Qué diferencia hay entre un migrante económico y un desplazado por el conflicto armado?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los movimientos de población con cambios políticos y laborales en las últimas décadas.",
+              "Explica las consecuencias sociales del desplazamiento desde situaciones de la vida cotidiana."
+            ],
+            "un_refuerzo": "Realizar una línea de tiempo con las principales olas migratorias en Colombia durante el siglo XX."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de la Modernidad",
+            "un_reto_sugerido": "¿Cómo la construcción de vías y el desarrollo industrial reconfiguraron el mapa de Colombia en la primera mitad del siglo XX?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de planos antiguos de ferrocarriles y carreteras nacionales, comparándolos con las rutas de transporte actuales.",
+              "visual": "Maqueta de urbanismo: Representar la transformación de un pueblo tradicional en una ciudad industrializada, destacando fábricas y servicios públicos.",
+              "produccion": "Informe sobre el impacto del desarrollo industrial en la organización política y cultural de las regiones colombianas."
+            },
+            "para_pensar": [
+              "¿Fue la modernización en Colombia un proceso igualitario para todas las regiones?",
+              "¿Cómo influyó el desarrollo industrial en la aparición de nuevas clases sociales?"
+            ],
+            "pistas_del_exito": [
+              "Explica los cambios del proceso de modernización (vías, urbanización) en la primera mitad del siglo XX.",
+              "Analiza el impacto de la industrialización en la vida de los habitantes del país."
+            ],
+            "un_refuerzo": "Investigar la historia de una empresa emblemática de la región que haya nacido en la época de la industrialización."
+          }
+        },
+        {
+          "componente": "Ético – Político",
+          "guia_didactica": {
+            "la_estrategia": "Mediadores de la Paz Social",
+            "un_reto_sugerido": "¿Cómo podemos desmantelar los discursos que justifican la violencia para resolver conflictos en nuestra comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de discursos políticos o mediáticos históricos que han legitimado la violencia y debate sobre sus efectos sociales.",
+              "visual": "Taller de 'Escucha Activa': Dinámicas de resolución de conflictos de pareja o familiares usando técnicas de mediación y parafraseo.",
+              "produccion": "Propuesta de un 'Acuerdo de Convivencia Barrial' que utilice el diálogo como herramienta fundamental frente al narcotráfico o la corrupción."
+            },
+            "para_pensar": [
+              "¿Por qué los estereotipos y prejuicios son la base de muchas prácticas violatorias de DD.HH.?",
+              "¿Cómo se relacionan los hechos de violencia de la segunda mitad del siglo XX con la inseguridad actual?"
+            ],
+            "pistas_del_exito": [
+              "Analiza conflictos entre grupos sugiriendo alternativas de solución basadas en la escucha.",
+              "Rechaza discursos que legitiman la violencia como alternativa a la solución de problemas."
+            ],
+            "un_refuerzo": "Crear un decálogo de 'Compromisos Reales' para mejorar la convivencia en el aula de clase."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Dilemas de la Vida Real",
+            "un_reto_sugerido": "¿Qué hacer cuando dos derechos o valores importantes entran en conflicto en nuestra comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Presentación de dilemas éticos (ej. derecho al trabajo informal vs derecho al espacio público) y toma de postura inicial.",
+              "visual": "Lluvia de ideas creativa: Usar técnicas de pensamiento lateral para encontrar una 'tercera vía' que resuelva un conflicto territorial en el barrio.",
+              "produccion": "Ensayo argumentativo sobre la importancia de los acuerdos reparadores para mantener la paz en grupos sociales divididos."
+            },
+            "para_pensar": [
+              "¿Es posible celebrar un acuerdo si una de las partes se siente engañada?",
+              "¿Cómo enfrentas un dilema donde tus valores personales chocan con las normas del grupo?"
+            ],
+            "pistas_del_exito": [
+              "Categoriza discursos que justifican la violencia en el entorno comunitario.",
+              "Argumenta posiciones frente a dilemas éticos donde colisionan derechos individuales y colectivos."
+            ],
+            "un_refuerzo": "Realizar un sociodrama donde se muestre la reparación de un acuerdo roto entre dos grupos del colegio."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Economías en Crisis",
+            "un_reto_sugerido": "¿Cómo afectan las crisis económicas internacionales (petróleo, café) el bolsillo de las familias colombianas?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de precios de la canasta familiar y comparación con noticias sobre la inflación o el precio del dólar.",
+              "visual": "Simulación de 'Crisis Hipotecaria': Juego de roles para entender qué pasó con el UPAC y cómo las familias perdieron sus viviendas.",
+              "produccion": "Planteamiento de hipótesis sobre un futuro económico posible con mejores condiciones de vida y menor desigualdad regional."
+            },
+            "para_pensar": [
+              "¿Por qué algunas regiones de Colombia crecen económicamente mientras otras permanecen en la pobreza extrema?",
+              "¿Cuál es el impacto del neoliberalismo y la apertura económica en los pequeños productores locales?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce causas de crisis económicas en Colombia y sus efectos en la economía del hogar.",
+              "Compara índices de crecimiento económico entre diferentes zonas del país."
+            ],
+            "un_refuerzo": "Elaborar un presupuesto familiar ideal considerando los impuestos y el poder adquisitivo actual."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Lucha Sindical",
+            "un_reto_sugerido": "¿Por qué el surgimiento de los sindicatos fue fundamental para alcanzar la jornada de 8 horas y las prestaciones sociales?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de fragmentos del Código Sustantivo del Trabajo y comparación con las condiciones laborales de principios del siglo XX.",
+              "visual": "Creación de un mural sobre los 'Derechos de la Clase Trabajadora', destacando hitos de las luchas sindicales en Colombia.",
+              "produccion": "Análisis sobre la relación entre industrialización, urbanización y el fortalecimiento de los movimientos obreros."
+            },
+            "para_pensar": [
+              "¿Siguen siendo necesarios los sindicatos en la era del trabajo digital y las plataformas?",
+              "¿Cómo influyó la Revolución Industrial en Colombia en la creación de leyes laborales?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la industrialización con el surgimiento de sindicatos y derechos laborales.",
+              "Describe el impacto de los medios de comunicación en la organización social del siglo XX."
+            ],
+            "un_refuerzo": "Entrevistar a un miembro de un sindicato local sobre los retos actuales de los trabajadores."
+          }
+        },
+        {
+          "componente": "Ético – Político",
+          "guia_didactica": {
+            "la_estrategia": "Voz y Voto de Mujer",
+            "un_reto_sugerido": "¿Cómo ha sido el camino de las mujeres colombianas para conquistar espacios en la política y la ciencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de nombres de mujeres en la historia de Colombia (académicas, políticas, artistas) y análisis de por qué muchas han sido invisibilizadas.",
+              "visual": "Taller de 'Identidad de Género': Crear carteles que expliquen las diferentes formas de violencia contra la mujer (económica, mediática, psicológica) y cómo prevenirlas.",
+              "produccion": "Propuesta de acciones para que la identidad de género sea respetada en el manual de convivencia y el entorno escolar."
+            },
+            "para_pensar": [
+              "¿Por qué la participación política de la mujer es clave para una cultura de paz?",
+              "¿Cómo los estereotipos de género limitan las potencialidades de hombres y mujeres por igual?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la participación histórica de las mujeres en diversos ámbitos de la sociedad.",
+              "Caracteriza formas de violencia contra las mujeres y propone alternativas de cambio."
+            ],
+            "un_refuerzo": "Realizar una semblanza sobre una mujer líder de la comunidad actual."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Libre Desarrollo y Respeto",
+            "un_reto_sugerido": "¿Cómo podemos garantizar que el colegio sea un espacio seguro para todas las orientaciones sexuales e identidades?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de situaciones de discriminación por orientación sexual en entornos escolares y debate sobre el marco legal que protege el libre desarrollo.",
+              "visual": "Mapa de 'Prácticas Cotidianas': Identificar frases o chistes comunes que discriminan y proponer un lenguaje incluyente.",
+              "produccion": "Diseño de un protocolo de atención para dilemas de exclusión, priorizando siempre la dignidad humana."
+            },
+            "para_pensar": [
+              "¿Por qué la orientación sexual se considera parte del libre desarrollo de la personalidad?",
+              "¿Cómo tus acciones u omisiones pueden estar contribuyendo a la discriminación de un compañero?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los marcos legales que protegen la diversidad sexual y el libre desarrollo.",
+              "Propone alternativas de solución a dilemas de exclusión respetando la dignidad humana."
+            ],
+            "un_refuerzo": "Crear un video corto o podcast sobre la importancia de la empatía en la valoración de las diferencias."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

@@ -1,0 +1,64 @@
+<!-- FILE: diccionario_eco.html | VERSION: v12.2.0 -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diccionario ECO - Grupo Edúcate Colombia</title>
+  <!-- Doble tipografía: Barlow para Títulos, Inter para Lectura -->
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles-diccionario.css">
+</head>
+<body id="body-diccionario">
+  
+  <header id="header-institucional" class="no-print">
+    <div class="header-blue-content">
+      <div class="brand-titles">
+        <h1>MALLAS CURRICULARES NACIONALES</h1>
+        <p>Grupo Edúcate Colombia - Dirección de Pedagogía</p>
+      </div>
+      <div class="header-actions">
+        <button id="btn-imprimir-dic" class="btn-imprimir">🖨️ IMPRIMIR FICHA</button>
+        <button id="btn-cerrar-dic" class="btn-cerrar">✕</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="info-bar-consulta" class="no-print">
+    <div class="info-bar-content">
+      <span class="label-eco">CONSULTA AL DICCIONARIO DEL PROYECTO ECO PRO</span>
+      <span id="dic-header-info" class="data-eco">CARGANDO INFORMACIÓN...</span>
+    </div>
+  </div>
+
+  <main id="main-diccionario">
+    <section id="dic-container">
+      
+      <!-- Navegación con capacidad Sticky -->
+      <nav id="dic-menu" class="no-print">
+        <button class="dic-menu-item active" data-content="diccionario">DICCIONARIO</button>
+        <button class="dic-menu-item" data-content="taller-1">TALLER 1</button>
+        <button class="dic-menu-item" data-content="taller-2">TALLER 2</button>
+        <button class="dic-menu-item" data-content="taller-3">TALLER 3</button>
+      </nav>
+
+      <!-- El contenido recibirá animaciones vía JS -->
+      <div id="dic-content-display">
+        <p class="loading-message">Procesando información completa del periodo...</p>
+      </div>
+
+    </section>
+  </main>
+
+  <div id="capa-impresion-exclusiva">
+    <div class="watermark-print">GRUPO EDÚCATE COLOMBIA <br> COPIA PARA ESTUDIO</div>
+    <div id="print-header-dic" class="print-only-header">
+        <h1>GRUPO EDÚCATE COLOMBIA</h1>
+        <h2>Diccionario ECO - Dirección de Pedagogía</h2>
+        <p id="print-fecha-txt-dic"></p>
+    </div>
+  </div>
+
+  <script src="js/diccionario-controller.js"></script>
+</body>
+</html>

@@ -1,0 +1,426 @@
+{
+  "area": "Inglés",
+  "grado": "7",
+  "nombre_archivo": "t_ingles_7_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Echo Location Challenge",
+            "un_reto_sugerido": "Identificar objetos y personas específicas en un relato pausado para completar el mapa de una escena misteriosa.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar sonidos de ambiente (una cocina, un parque) y nombrar los objetos que imaginan en inglés.",
+              "visual": "Dibujar los objetos mencionados en un audio corto siguiendo la ubicación espacial indicada por el docente.",
+              "produccion": "Resolver un cuestionario de falso/verdadero basado en la descripción oral de los miembros de una familia."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los sonidos ambientales a predecir de qué tratará una conversación?",
+              "¿Por qué es importante esperar a que el interlocutor termine de hablar para procesar la información?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce al menos 5 sustantivos y 3 acciones clave en un audio pausado.",
+              "Responde preguntas cerradas sobre la información personal escuchada."
+            ],
+            "un_refuerzo": "Audios de diálogos cortos con transcripción parcial para completar espacios en blanco."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Courtesy Chain",
+            "un_reto_sugerido": "Mantener una conversación de tres fases (inicio, nudo, cierre) para solicitar y agradecer un favor especial en la escuela.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de roles 'The Polite Alien': enseñar a un extraterrestre cómo pedir permiso y disculparse en el salón.",
+              "visual": "Diagrama de flujo de una conversación: Saludo -> Conector (But/And) -> Petición -> Agradecimiento.",
+              "produccion": "Simulacro de 'Oficina de Objetos Perdidos' donde deben describir lo perdido y agradecer la ayuda recibida."
+            },
+            "para_pensar": [
+              "¿Por qué los conectores como 'but' cambian el tono de una petición?",
+              "¿Cómo influye el agradecimiento en la disposición de los demás para ayudarnos?"
+            ],
+            "pistas_del_exito": [
+              "Inicia y cierra diálogos usando frases de cortesía preestablecidas.",
+              "Usa conectores de contraste para explicar situaciones (ej: I need a pen, but I don't have money)."
+            ],
+            "un_refuerzo": "Tarjetas con 'diálogos modelo' para practicar la estructura básica de interacción social."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Action Snapshots",
+            "un_reto_sugerido": "Narrar una anécdota del pasado describiendo lo que estabas haciendo cuando ocurrió un evento inesperado.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego 'Freeze!': actuar una acción en progreso; cuando el docente diga 'Stop', otro estudiante describe la escena en pasado continuo.",
+              "visual": "Crear un friso comparativo: una columna para 'Past Simple' (acción terminada) y otra para 'Past Continuous' (acción en progreso).",
+              "produccion": "Presentar un monólogo de 45 segundos sobre un día de campo que fue interrumpido por la lluvia."
+            },
+            "para_pensar": [
+              "¿Cuándo es necesario usar el pasado continuo para dar más detalle a una historia?",
+              "¿Cómo cambia el significado de una frase si solo usamos pasado simple?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia el uso de 'was/were + -ing' frente a verbos regulares/irregulares en pasado.",
+              "Nombra rutinas diarias en pasado con coherencia temporal."
+            ],
+            "un_refuerzo": "Cuadro comparativo de estructuras gramaticales con ejemplos de 'When' y 'While'."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Celebration Detectives",
+            "un_reto_sugerido": "Identificar costumbres y tradiciones en textos de interés general para organizar un festival cultural ficticio.",
+            "ruta_de_exploracion": {
+              "explorar": "Mirar fotos de festivales raros del mundo y tratar de encontrar palabras clave en un texto corto.",
+              "visual": "Completar un cuadro de 'Wh- Questions' (What, Who, When, Where) basado en la lectura de una festividad.",
+              "produccion": "Escribir un comentario corto sobre si les gustaría participar en esa celebración y por qué."
+            },
+            "para_pensar": [
+              "¿Qué elementos hacen que una celebración sea considerada cultura y no solo una fiesta?",
+              "¿Cómo nos ayuda el diccionario a entender el contexto cultural de una palabra?"
+            ],
+            "pistas_del_exito": [
+              "Localiza el significado de palabras técnicas en el diccionario según el tema del texto.",
+              "Responde preguntas literales sobre fechas y personajes de la lectura."
+            ],
+            "un_refuerzo": "Lectura dirigida de textos con glosario ilustrado para facilitar la comprensión."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Animal Encyclopedia",
+            "un_reto_sugerido": "Redactar una entrada de enciclopedia sobre un animal describiendo sus características y sus gustos.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas sobre animales salvajes y domésticos; clasificarlos por hábitat oralmente.",
+              "visual": "Crear una infografía del animal elegido con etiquetas de sus partes del cuerpo y hábitos.",
+              "produccion": "Escribir un texto de dos párrafos usando 'I like/I don't like' desde la perspectiva del animal."
+            },
+            "para_pensar": [
+              "¿Por qué es importante seguir un modelo preestablecido al escribir información científica o académica?",
+              "¿Cómo ayudan los adjetivos a que el lector visualice al animal sin verlo?"
+            ],
+            "pistas_del_exito": [
+              "Organiza oraciones simples para describir hechos familiares y académicos.",
+              "Utiliza vocabulario específico de animales visto en el periodo."
+            ],
+            "un_refuerzo": "Ficha de escritura creativa 'Un día en la vida de...' con conectores de secuencia."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Lyric Analyst",
+            "un_reto_sugerido": "Extraer información sobre sentimientos y experiencias personales de una canción o video musical.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar el ritmo de una canción y predecir el sentimiento antes de entender la letra.",
+              "visual": "Crear una 'nube de palabras' con los términos que logran captar de una grabación de audio.",
+              "produccion": "Completar un texto con huecos (cloze) basado en la letra de una canción sobre la amistad."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda la música a recordar vocabulario nuevo en inglés?",
+              "¿Por qué a veces el tono de voz en un video nos dice más que las palabras?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el tema principal de una canción o video corto.",
+              "Reconoce expresiones idiomáticas sencillas referidas al entorno personal."
+            ],
+            "un_refuerzo": "Videos cortos con subtítulos en inglés para asociar sonido y grafía."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Proposal Market",
+            "un_reto_sugerido": "Negociar con compañeros un plan de fin de semana usando Presente Continuo para planes futuros.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Agendas Ocupadas': tratar de encontrar un espacio libre preguntando 'What are you doing on Saturday?'.",
+              "visual": "Diseñar un calendario semanal con iconos de actividades sociales y académicas.",
+              "produccion": "Debate grupal para elegir la mejor propuesta de excursión escolar, justificando con el tiempo simple y continuo."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre hablar de algo que hacemos siempre y algo que estamos planeando?",
+              "¿Cómo aceptamos o rechazamos una propuesta sin ser groseros?"
+            ],
+            "pistas_del_exito": [
+              "Realiza propuestas coherentes sobre qué, dónde y cuándo realizar una actividad.",
+              "Usa correctamente el presente continuo para hablar de eventos futuros cercanos."
+            ],
+            "un_refuerzo": "Tarjetas con conectores de tiempo (tomorrow, next week) para practicar oraciones de futuro."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Teenage Opinions",
+            "un_reto_sugerido": "Exponer tu opinión sobre un tema de tendencia actual (tecnología, música o deportes) de forma coherente.",
+            "ruta_de_exploracion": {
+              "explorar": "Ver mini-clips de noticias juveniles y anotar palabras de opinión (I think, In my view).",
+              "visual": "Hacer un mapa mental con el tema central y 3 argumentos a favor o en contra.",
+              "produccion": "Monólogo de 1 minuto defendiendo un punto de vista sobre el uso de redes sociales."
+            },
+            "para_pensar": [
+              "¿Por qué es importante respetar las opiniones de los demás aunque sean diferentes?",
+              "¿Cómo le damos coherencia a un discurso oral para que se entienda?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza vocabulario de actualidad adecuado al nivel de séptimo grado.",
+              "Mantiene una entonación constante y pausas lógicas al hablar."
+            ],
+            "un_refuerzo": "Lista de 'Sentence Starters' para expresar acuerdo y desacuerdo."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Academic Reading Lab",
+            "un_reto_sugerido": "Analizar un texto académico sencillo sobre ciencia o historia para responder preguntas de comprensión.",
+            "ruta_de_exploracion": {
+              "explorar": "Ojear el texto (skimming) para identificar títulos, imágenes y palabras transparentes.",
+              "visual": "Resaltar con colores: Azul (personajes), Verde (lugares), Rojo (palabras desconocidas).",
+              "produccion": "Escribir un resumen de tres líneas sobre la idea principal del texto leído."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda el contexto a adivinar la pronunciación de una palabra nueva?",
+              "¿Por qué es útil identificar la idea principal antes de leer los detalles?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia entre información general e información específica en la lectura.",
+              "Encuentra sinónimos básicos en el texto usando el diccionario."
+            ],
+            "un_refuerzo": "Lecturas cortas con preguntas de opción múltiple para practicar la agilidad lectora."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cause-Effect Report",
+            "un_reto_sugerido": "Redactar un reporte sobre un cambio ambiental o social usando conectores de contraste y causa-efecto.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Qué pasa si no reciclamos? (Causa) -> Contaminación (Efecto).",
+              "visual": "Crear un organizador gráfico de 'Espina de Pescado' para estructurar causas y consecuencias.",
+              "produccion": "Escribir un texto corto: 'The ocean is dirty because people throw trash. However, we can clean it'."
+            },
+            "para_pensar": [
+              "¿Cómo hacen los conectores que un texto pase de ser una lista a ser una historia?",
+              "¿Qué sentimientos nos genera escribir sobre temas que afectan nuestro entorno?"
+            ],
+            "pistas_del_exito": [
+              "Usa conectores como 'Because', 'So', 'But' y 'And' con precisión.",
+              "Escribe sobre hechos familiares integrando su opinión personal."
+            ],
+            "un_refuerzo": "Ejercicios de unión de oraciones simples para formar oraciones compuestas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "Personal Puzzles",
+            "un_reto_sugerido": "Escuchar descripciones de vidas de personas en otros países y completar sus perfiles biográficos.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de asociación: escuchar el nombre de un país y decir la nacionalidad correspondiente.",
+              "visual": "Dibujar a la persona descrita en el audio con los rasgos físicos y ropa mencionados.",
+              "produccion": "Completar una ficha técnica de 'Identidad Global' basada en una grabación de un estudiante extranjero."
+            },
+            "para_pensar": [
+              "¿Qué sonidos o acentos nos ayudan a identificar de dónde viene una persona?",
+              "¿Cómo nos sentimos cuando entendemos a alguien que habla de su propia vida en inglés?"
+            ],
+            "pistas_del_exito": [
+              "Identifica datos exactos como edad, origen y profesión en el audio.",
+              "Muestra interés haciendo preguntas de seguimiento sobre lo escuchado."
+            ],
+            "un_refuerzo": "Uso de audios de plataformas educativas con diferentes velocidades de habla."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Condition Negotiator",
+            "un_reto_sugerido": "Llegar a acuerdos con tus padres (simulados) usando oraciones condicionales para obtener un permiso.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Si ocurre esto...': Completar oraciones como 'If I study hard, I will...' oralmente.",
+              "visual": "Crear tarjetas de 'Condición' y 'Resultado' para jugar a emparejar situaciones lógicas.",
+              "produccion": "Diálogo en parejas: Negociar quién hace qué tarea del hogar usando condicionales y conectores temporales."
+            },
+            "para_pensar": [
+              "¿Por qué las oraciones condicionales son útiles para planear el futuro?",
+              "¿Cómo ayuda el orden temporal (first, then) a que una instrucción sea exitosa?"
+            ],
+            "pistas_del_exito": [
+              "Estructura correctamente el primer condicional en una charla espontánea.",
+              "Pide aclaraciones sobre palabras desconocidas sin usar el español."
+            ],
+            "un_refuerzo": "Guía de estructuras condicionales con ejemplos de la vida cotidiana del estudiante."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The World Tour Guide",
+            "un_reto_sugerido": "Exponer las instrucciones y recomendaciones para visitar un país asignado, incluyendo cultura y normas.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas sobre qué cosas se deben y no se deben hacer en un aeropuerto o museo.",
+              "visual": "Hacer un folleto de 'Dos and Don'ts' con iconos claros y frases cortas en imperativo.",
+              "produccion": "Presentación oral: 'If you go to Japan, you should take off your shoes. First, enter the house...'."
+            },
+            "para_pensar": [
+              "¿Por qué es importante conocer las nacionalidades y países en el mundo globalizado?",
+              "¿Cómo cambia el tono de voz cuando damos una instrucción vs cuando damos una sugerencia?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza vocabulario de países y nacionalidades con ortografía y pronunciación correcta.",
+              "Da al menos 3 instrucciones claras usando secuencia lógica."
+            ],
+            "un_refuerzo": "Video sobre curiosidades culturales para practicar la toma de notas descriptivas."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Festival Reviewers",
+            "un_reto_sugerido": "Comparar dos celebraciones mundiales en un texto descriptivo para decidir cuál es más interesante.",
+            "ruta_de_exploracion": {
+              "explorar": "Leer párrafos cortos sobre festividades y subrayar adjetivos calificativos.",
+              "visual": "Diagrama de Venn comparando la comida, la ropa y las actividades de dos culturas.",
+              "produccion": "Responder un cuestionario de comprensión que incluya inferencias sobre el gusto de los personajes."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los elementos culturales a entender mejor a las personas de otros países?",
+              "¿Por qué es importante verificar el significado de palabras específicas del contexto cultural?"
+            ],
+            "pistas_del_exito": [
+              "Extrae detalles específicos sobre costumbres en una lectura de nivel A2.",
+              "Explica en inglés sencillo una tradición leída."
+            ],
+            "un_refuerzo": "Lecturas comparativas con cuadros de vocabulario de apoyo."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Comparison Blog",
+            "un_reto_sugerido": "Escribir una entrada de blog comparando dos objetos tecnológicos o personajes de ficción.",
+            "ruta_de_exploracion": {
+              "explorar": "Elegir dos personajes populares y listar 5 diferencias y 5 similitudes.",
+              "visual": "Hacer un cuadro comparativo usando adjetivos cortos y largos (bigger, more interesting).",
+              "produccion": "Escribir el post del blog usando conectores de contraste y adición: 'A is faster than B, but B is cheaper'."
+            },
+            "para_pensar": [
+              "¿Cómo influye el público al que escribimos en las palabras que elegimos?",
+              "¿Por qué comparar nos ayuda a tomar mejores decisiones de compra o gusto?"
+            ],
+            "pistas_del_exito": [
+              "Aplica correctamente las reglas de los adjetivos comparativos.",
+              "Escribe textos de al menos dos párrafos con coherencia y cohesión."
+            ],
+            "un_refuerzo": "Lista de adjetivos irregulares y reglas de ortografía para comparativos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Gratitude Gala",
+            "un_reto_sugerido": "Organizar un evento de cierre de año donde cada estudiante deba agradecer y pedir favores finales a sus compañeros.",
+            "ruta_de_exploracion": {
+              "explorar": "Círculo de cumplidos: decir algo positivo de un compañero y agradecer por algo del año.",
+              "visual": "Crear tarjetas de invitación y de agradecimiento con frases formales.",
+              "produccion": "Role-play: Simulacro de una gala donde deben interactuar con al menos 4 personas diferentes usando 'Would you mind...?'."
+            },
+            "para_pensar": [
+              "¿Qué frases de cierre de conversación nos hacen sonar más naturales?",
+              "¿Cómo cambia la dinámica del grupo cuando practicamos el agradecimiento constante?"
+            ],
+            "pistas_del_exito": [
+              "Inicia y mantiene conversaciones sencillas sobre temas conocidos sin pausas largas.",
+              "Pide favores y se disculpa usando las estructuras gramaticales correctas."
+            ],
+            "un_refuerzo": "Juego de mesa 'Conversation Starters' para practicar fluidez social."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "My City, My Home",
+            "un_reto_sugerido": "Realizar una video-guía describiendo los lugares más emblemáticos de tu ciudad o comunidad escolar.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata por la escuela identificando lugares y describiéndolos con un adjetivo (the library is quiet).",
+              "visual": "Hacer un mapa ilustrado de la ciudad con etiquetas descriptivas en inglés.",
+              "produccion": "Monólogo grabado o en vivo: 'In my city, there is a big park. People go there on Sundays'."
+            },
+            "para_pensar": [
+              "¿Cómo podemos describir nuestra comunidad para que alguien quiera visitarla?",
+              "¿Por qué es importante apoyarse en apuntes cuando describimos lugares complejos?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza vocabulario de lugares y objetos con precisión descriptiva.",
+              "Construye oraciones simples pero coherentes sobre su entorno."
+            ],
+            "un_refuerzo": "Ficha de adjetivos descriptivos para lugares (crowded, peaceful, modern)."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Literary Explorers",
+            "un_reto_sugerido": "Leer un cuento corto o artículo académico sencillo para extraer los hechos históricos o ficticios principales.",
+            "ruta_de_exploracion": {
+              "explorar": "Leer los primeros dos enunciados y dibujar lo que imaginan de la historia.",
+              "visual": "Hacer una línea de tiempo con los eventos más importantes de la lectura.",
+              "produccion": "Responder preguntas de 'Qué pasó' y 'A quién le pasó' sobre un fragmento literario."
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre leer para aprender (académico) y leer para divertirse (literario)?",
+              "¿Cómo nos ayudan los personajes a entender los valores de una cultura?"
+            ],
+            "pistas_del_exito": [
+              "Entiende la idea principal en textos descriptivos cortos de lenguaje sencillo.",
+              "Relaciona elementos culturales de la lectura con su vida cotidiana."
+            ],
+            "un_refuerzo": "Uso de diccionarios bilingües para aclarar términos de mayor complejidad."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Family Biographer",
+            "un_reto_sugerido": "Escribir una breve biografía de un miembro de la familia narrando sus experiencias más importantes.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a un familiar sobre un hecho divertido y tomar notas en palabras clave.",
+              "visual": "Árbol genealógico creativo con una oración descriptiva para cada persona.",
+              "produccion": "Escribir un texto narrativo de 10 oraciones sobre la familia, usando conectores de adición y secuencia."
+            },
+            "para_pensar": [
+              "¿Por qué narrar hechos familiares nos ayuda a practicar todos los tiempos verbales?",
+              "¿Cómo podemos hacer que un texto corto sobre nosotros sea interesante para otros?"
+            ],
+            "pistas_del_exito": [
+              "Escribe información personal en formatos preestablecidos con ortografía correcta.",
+              "Narra hechos y actividades familiares de forma sencilla y clara."
+            ],
+            "un_refuerzo": "Guía de revisión de redacción (puntuación, mayúsculas y conectores)."
+          }
+        }
+      ]
+    }
+  ]
+}

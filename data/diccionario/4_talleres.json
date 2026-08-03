@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "grado": 4,
+    "area": "Proyecto Socioemocional",
+    "descripcion_grado": "Planeación anual de talleres socioemocionales para estudiantes de grado cuarto, enfocada en profundizar en la regulación emocional, el desarrollo de la autonomía, la compasión y el liderazgo colaborativo."
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G4-P1-T1",
+          "nombre_taller": "Mi GPS Emocional: Autocontrol y Conciencia",
+          "conceptos_relacionados": [
+            "Regulación Emocional",
+            "Autoconocimiento",
+            "Conciencia del Impulso"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de reconocer, gestionar y regular emociones, identificando el autoconocimiento y el impacto de los impulsos.",
+          "recursos_eco": "Hojas de registro de emociones, termómetro emocional de papel, lápices de colores.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces nuestras emociones son como una tormenta, y necesitamos un GPS para guiarnos. Hoy aprenderemos a ser nuestros propios guías emocionales'.",
+          "momento_desarrollo_vivencia": "Cada estudiante identifica sus emociones y las registra en una 'hoja de emociones'. Se introduce la 'Regulación Emocional' con el ejercicio 'Pausa de 5 segundos': notar la emoción, respirar y relajar el cuerpo antes de elegir una respuesta. Se reflexiona sobre la 'Conciencia del Impulso' al recordar acciones impulsivas pasadas. 'Usé regulación emocional cuando respiré y pedí un momento para contestar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emoción te cuesta más regular?' y '¿Cómo te ayuda hacer una pausa antes de actuar impulsivamente?'.",
+          "revision_proposito": "Observar la habilidad de los estudiantes para identificar, registrar y aplicar técnicas de regulación emocional, y su conciencia del impulso.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P1-T2",
+          "nombre_taller": "El Poder de Mi Intención y Amabilidad",
+          "conceptos_relacionados": [
+            "Intención",
+            "Amabilidad",
+            "Identificación de Emociones"
+          ],
+          "proposito_experiencia": "Fomentar la reflexión sobre las intenciones detrás de las acciones, promoviendo la amabilidad y la identificación de emociones propias y ajenas.",
+          "recursos_eco": "Tarjetas con acciones (ayudar, participar, callar, insistir), hojas para escribir intenciones y resultados.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada cosa que hacemos tiene un 'para qué', una intención. ¿Cómo nuestras intenciones pueden hacer un mundo más amable?'",
+          "momento_desarrollo_vivencia": "Cada estudiante elige una acción reciente, escribe su intención y el resultado. Se reflexiona grupalmente sobre cómo la intención influye en el efecto final. Se conecta con la 'Amabilidad' discutiendo cómo intenciones positivas generan bienestar. 'Fui amable cuando ayudé a recoger los cuadernos de un compañero'. Se practica identificar cómo se sienten los demás ante nuestras acciones.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué intención reconociste en tu acción?' y '¿Qué acción amable te gustaría que hicieran contigo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para identificar sus intenciones, relacionarlas con la amabilidad y reconocer emociones.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P1-T3",
+          "nombre_taller": "Miradas Diferentes, Caminos Juntos (Equidad)",
+          "conceptos_relacionados": [
+            "Equidad",
+            "Respeto por la Diferencia",
+            "Humildad"
+          ],
+          "proposito_experiencia": "Comprender y aplicar la equidad, respetando las diferencias y practicando la humildad al reconocer que no todos necesitan lo mismo.",
+          "recursos_eco": "Situaciones de juego o reparto (pelotas, fichas), imágenes de personas con diferentes necesidades.",
+          "momento_inicio_conexion": "Diga a los niños: 'No todos somos iguales, y eso es lo que nos hace especiales. A veces, para que todos estemos bien, necesitamos cosas diferentes. Eso es equidad'.",
+          "momento_desarrollo_vivencia": "Se presentan situaciones donde la igualdad no es justa. Los estudiantes proponen soluciones equitativas. Se enfatiza el 'Respeto por la Diferencia' y la 'Humildad' al reconocer que no siempre tenemos todas las respuestas. 'Mostré equidad cuando dejamos que el compañero que no veía bien se sentara más cerca'. 'Fui humilde cuando pedí ayuda porque no entendía'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cuál es la diferencia entre igualdad y equidad?' y '¿Cómo mejora la convivencia cuando aplicamos equidad?'.",
+          "revision_proposito": "Observar la comprensión de los estudiantes sobre la equidad y su capacidad para proponer soluciones respetuosas y humildes.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G4-P2-T1",
+          "nombre_taller": "Mi Agenda: Autonomía y Coherencia",
+          "conceptos_relacionados": [
+            "Autonomía",
+            "Coherencia",
+            "Disciplina"
+          ],
+          "proposito_experiencia": "Desarrollar la autonomía en la organización y la coherencia entre lo que se dice y se hace, cultivando la disciplina.",
+          "recursos_eco": "Hojas de planificación, agendas escolares.",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser autónomo es como tener tu propio mapa para tus tareas. Y ser coherente es seguir ese mapa'.",
+          "momento_desarrollo_vivencia": "Cada estudiante organiza una tarea real en un planificador. Se refuerza la 'Autonomía' al dejar que ellos mismos propongan los pasos. Luego, identifican situaciones de 'Coherencia' (hacer lo que se prometió). Se conecta con la 'Disciplina' al sostener el esfuerzo diario. 'Fui coherente cuando dije que trabajaría en silencio y lo hice'. 'Demostré disciplina cuando estudié cada día'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué decisión tomaste por ti mismo hoy?' y '¿Por qué la coherencia genera confianza?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para planificar de forma autónoma, identificar la coherencia y mantener la disciplina.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P2-T2",
+          "nombre_taller": "El Corazón Valiente: Compasión y Empatía",
+          "conceptos_relacionados": [
+            "Compasión",
+            "Manejo de Emociones",
+            "Estrategias de Apoyo"
+          ],
+          "proposito_experiencia": "Fomentar la compasión, el manejo de emociones propias y ajenas, y el desarrollo de estrategias para acompañar sin juzgar.",
+          "recursos_eco": "Escenarios escritos de situaciones difíciles, hojas de acción.",
+          "momento_inicio_conexion": "Diga a los niños: 'Un corazón valiente no solo es fuerte, sino que también siente lo que otros sienten y les ofrece ayuda sin juzgar'.",
+          "momento_desarrollo_vivencia": "Se analizan situaciones de dificultad ajena. Los estudiantes proponen acciones compasivas (acompañar, escuchar). Se reflexiona sobre cómo nuestras emociones influyen en la respuesta brindada. 'Sentí compasión cuando acompañé a mi compañero triste'. 'Mostré apoyo intentando calmarme antes de hablar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué diferencia hay entre compasión y lástima?' y '¿Cómo se siente cuando alguien te acompaña?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para identificar situaciones de dificultad, proponer acciones compasivas y manejar sus propias emociones.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P2-T3",
+          "nombre_taller": "El Equipo de Líderes Colaborativos",
+          "conceptos_relacionados": [
+            "Liderazgo Colaborativo",
+            "Toma de Decisiones",
+            "Responsabilidad"
+          ],
+          "proposito_experiencia": "Desarrollar habilidades de liderazgo colaborativo, toma de decisiones compartida y responsabilidad en equipo.",
+          "recursos_eco": "Proyectos grupales, tarjetas de roles rotativos.",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser un líder no es mandar, es guiar y hacer que todos aporten sus ideas para tomar las mejores decisiones'.",
+          "momento_desarrollo_vivencia": "En grupos, rotan el rol de 'Líder Colaborativo' (organiza y escucha). Se enfatiza la toma de decisiones grupal y la 'Responsabilidad' individual. 'Mostré liderazgo colaborativo cuando escuché las ideas de todos'. 'Mostré responsabilidad cuando pedí disculpas por un error en el equipo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué hace diferente a un líder colaborativo?' y '¿Qué aprendiste sobre escuchar a otros?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para liderar de forma colaborativa, tomar decisiones en grupo y asumir responsabilidades.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G4-P3-T1",
+          "nombre_taller": "El Espejo de la Autoaceptación",
+          "conceptos_relacionados": [
+            "Autoaceptación",
+            "Orgullo por el Buen Hacer",
+            "Reflexión"
+          ],
+          "proposito_experiencia": "Promover la autoaceptación y el orgullo por los propios logros, animando a la reflexión sobre el crecimiento personal.",
+          "recursos_eco": "Espejos pequeños, fichas de reflexión.",
+          "momento_inicio_conexion": "Diga a los niños: 'Mirémonos al espejo. ¿Qué cosas bonitas vemos en nosotros mismos? Hoy celebraremos lo que somos'.",
+          "momento_desarrollo_vivencia": "Cada estudiante reconoce algo en lo que es bueno y algo que está aprendiendo a su propio ritmo. Se fomenta la 'Autoaceptación'. 'Practiqué autoaceptación cuando entendí que no soy perfecto, pero sigo aprendiendo'. 'Me siento orgulloso de hacer bien mi trabajo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué parte de ti aprendiste a aceptar mejor?' y '¿Qué sientes cuando avanzas a tu propio ritmo?'.",
+          "revision_proposito": "Evaluar la expresión de autoaceptación y orgullo por los logros, así como la capacidad de reflexión personal.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P3-T2",
+          "nombre_taller": "Guardianes del Entorno",
+          "conceptos_relacionados": [
+            "Cuidado del Entorno",
+            "Responsabilidad",
+            "Promoción de la Convivencia"
+          ],
+          "proposito_experiencia": "Fomentar el cuidado del entorno y la responsabilidad compartida, promoviendo una convivencia respetuosa.",
+          "recursos_eco": "Imágenes de entornos, plan de acción del aula.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro colegio es como un gran hogar. ¿Qué podemos hacer para cuidarlo y vivir mejor juntos?'",
+          "momento_desarrollo_vivencia": "Discusión sobre reglas de 'Cuidado del Entorno'. En grupos, identifican un área a mejorar y realizan una acción concreta (organizar, limpiar, señalizar). 'Cuido los materiales que usamos entre todos'. 'Trato de resolver problemas con diálogo en el salón'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa cuidar nuestro entorno?' y '¿Cómo podemos hacer que nuestro colegio sea un lugar mejor?'.",
+          "revision_proposito": "Observar la participación activa en el cuidado del entorno y la comprensión de la relación entre cuidado y convivencia.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P3-T3",
+          "nombre_taller": "Conversaciones que Unen",
+          "conceptos_relacionados": [
+            "Convivencia Respetuosa",
+            "Comunicación Respetuosa",
+            "Escucha Activa"
+          ],
+          "proposito_experiencia": "Fortalecer la convivencia respetuosa a través de la comunicación asertiva y la escucha activa, facilitando la búsqueda de acuerdos.",
+          "recursos_eco": "Escenarios de desacuerdo, tarjetas de comunicación asertiva.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces, para vivir en armonía, necesitamos hablar con respeto y escuchar con el corazón'.",
+          "momento_desarrollo_vivencia": "Actuación de escenarios de desacuerdo. Practican 'Escucha Activa y Valoración' de las ideas del otro. Buscan acuerdos mutuos. 'Escucho con atención cuando mis compañeros expresan sus ideas'. 'Expreso mis ideas con respeto aunque no esté de acuerdo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué cambia en una conversación cuando escuchamos con respeto?' y '¿Qué puedes hacer si alguien no te escucha?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para comunicarse respetuosamente, practicar la escucha activa y buscar acuerdos.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G4-P4-T1",
+          "nombre_taller": "El Club de Soluciones: Gestión de Conflictos",
+          "conceptos_relacionados": [
+            "Gestión de Conflictos",
+            "Diálogo para Resolver",
+            "Búsqueda de Acuerdos"
+          ],
+          "proposito_experiencia": "Desarrollar habilidades para la gestión de conflictos, utilizando el diálogo y la búsqueda de acuerdos de manera constructiva.",
+          "recursos_eco": "Casos de conflicto, tarjetas de pasos para resolver.",
+          "momento_inicio_conexion": "Diga a los niños: 'Los conflictos son como nudos que podemos desatar juntos. Hoy seremos expertos en encontrar soluciones'.",
+          "momento_desarrollo_vivencia": "Se presentan casos de conflicto. Practican el diálogo y la mediación. Se enfatiza saber cuándo pedir ayuda a un adulto. 'Busco ayuda de un adulto cuando no podemos ponernos de acuerdo'. 'Uso el diálogo para resolver un conflicto sin pelear'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cuándo buscarías ayuda de un adulto?' y '¿Qué estrategia te ayuda más a llegar a un acuerdo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para identificar conflictos, aplicar el diálogo y buscar acuerdos.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P4-T2",
+          "nombre_taller": "El Gran Desafío: Participación Activa",
+          "conceptos_relacionados": [
+            "Participación Activa",
+            "Colaboración",
+            "Comunicación Respetuosa"
+          ],
+          "proposito_experiencia": "Fomentar la participación activa y la colaboración, utilizando la comunicación respetuosa para proyectos colectivos.",
+          "recursos_eco": "Proyecto grupal complejo, materiales variados.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy enfrentaremos un gran desafío que solo lograremos si todos participamos con entusiasmo y nos ayudamos'.",
+          "momento_desarrollo_vivencia": "Participan en un proyecto colectivo aportando ideas con actitud positiva. Se refuerza la 'Colaboración'. 'Participo en actividades grupales aportando mis ideas'. 'Colaboré cuando ayudé a mi grupo a terminar a tiempo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué fue lo que más te gustó de participar?' y '¿Cómo ayuda la comunicación respetuosa al equipo?'.",
+          "revision_proposito": "Observar la calidad de la participación, la colaboración y la comunicación respetuosa en un proyecto grupal.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G4-P4-T3",
+          "nombre_taller": "Celebrando Nuestros Logros: Orgullo y Esfuerzo",
+          "conceptos_relacionados": [
+            "Orgullo por el Buen Hacer",
+            "Autoaceptación",
+            "Perseverancia"
+          ],
+          "proposito_experiencia": "Consolidar el orgullo por el esfuerzo y los logros, fortaleciendo la autoaceptación y la perseverancia al finalizar el año.",
+          "recursos_eco": "Certificados simbólicos, galería de logros.",
+          "momento_inicio_conexion": "Diga a los niños: '¡Ha sido un año lleno de aprendizajes! Hoy es el día de celebrar todo lo que hemos logrado y sentir mucho orgullo'.",
+          "momento_desarrollo_vivencia": "Cada estudiante presenta un logro conectándolo con su 'Perseverancia'. Se realiza una exposición de trabajos. 'Me siento orgulloso de hacer bien mi trabajo'. 'Usé perseverancia para terminar mi proyecto'. 'Acepto que aprendo a mi ritmo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cuál fue el logro del que te sientes más orgulloso?' y '¿Qué te gustaría mejorar el próximo año?'.",
+          "revision_proposito": "Evaluar la expresión de orgullo y autoaceptación, y la capacidad de reflexionar sobre el progreso personal.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

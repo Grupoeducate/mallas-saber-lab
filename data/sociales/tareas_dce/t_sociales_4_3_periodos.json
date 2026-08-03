@@ -1,0 +1,276 @@
+{
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "4",
+  "nombre_archivo": "t_sociales_4_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Urbanistas y Campesinos en la Frontera",
+            "un_reto_sugerido": "¿Por qué las ciudades crecen tanto y cómo nos conectamos con nuestros vecinos de otros países?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías aéreas (o mapas de Google Earth) de una ciudad y un campo, comparando la cantidad de techos, calles y zonas verdes.",
+              "visual": "Construcción de una maqueta de 'Uso del Suelo' dividida en dos: una zona urbana con convenciones comerciales/industriales y una rural con cultivos y minería.",
+              "produccion": "Informe de análisis demográfico basado en el último censo, explicando por qué la población prefiere las ciudades y dibujando los límites fronterizos de Colombia."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si las fronteras fueran muros cerrados en lugar de puntos de encuentro?",
+              "¿Por qué es necesario que el campo y la ciudad trabajen juntos para que no falte el alimento?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia usos del suelo urbano y rural mediante convenciones en mapas.",
+              "Localiza los límites geográficos de Colombia y explica situaciones de convivencia fronteriza."
+            ],
+            "un_refuerzo": "Crear un glosario ilustrado con los términos: Censo, Frontera, Escala y Convención."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Rastreadores de Culturas Ancestrales",
+            "un_reto_sugerido": "¿Cómo lograron los pueblos indígenas transformar el territorio colombiano antes de la llegada de los españoles?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de piezas de orfebrería (Muisca, Tairona, Quimbaya) y tratar de adivinar qué herramientas usaron para crearlas.",
+              "visual": "Taller de 'Arqueología en el Aula': Modelar en arcilla o plastilina una vivienda ancestral (maloca o bohío) siguiendo las descripciones de las familias Chibcha, Caribe o Arawak.",
+              "produccion": "Cuadro comparativo de las organizaciones sociales y religiosas de los pueblos ancestrales, destacando su legado cultural actual."
+            },
+            "para_pensar": [
+              "¿Cómo cambió la vida de los humanos al dejar de caminar todo el tiempo (nómadas) para quedarse en un solo lugar (sedentarios)?",
+              "¿Por qué la llegada de los europeos redujo tanto la población indígena en nuestro territorio?"
+            ],
+            "pistas_del_exito": [
+              "Ubica espacialmente las familias lingüísticas que habitaron Colombia.",
+              "Compara las estructuras sociales y religiosas de al menos tres culturas prehispánicas."
+            ],
+            "un_refuerzo": "Investigar una palabra de origen indígena que usemos hoy (ej: mazamorra, iguana) y explicar su significado."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes del Equilibrio de Poder",
+            "un_reto_sugerido": "¿Cómo evita la democracia que una sola persona mande sobre todos los demás?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de un caso: 'Un rey que decide todo' vs 'Un grupo que vota'. Debatir cuál es más justo y por qué.",
+              "visual": "Creación del 'Árbol del Poder Público': Las raíces son el voto, el tronco es la Constitución y las ramas son las ramas Ejecutiva, Legislativa y Judicial.",
+              "produccion": "Infografía sobre los órganos de control (Procuraduría, Contraloría, Defensoría) y las responsabilidades de los cargos de elección popular."
+            },
+            "para_pensar": [
+              "¿Para qué sirve el voto si ya existen las leyes?",
+              "¿Quién defiende a un ciudadano si siente que el gobierno no está cumpliendo con su deber?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las funciones de las tres ramas del poder público en Colombia.",
+              "Explica el papel de los órganos de control en el mantenimiento de la democracia."
+            ],
+            "un_refuerzo": "Simulacro de elección: Crear un tarjetón electoral para elegir una propuesta de mejora para el salón."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Voces Activas en el Manual",
+            "un_reto_sugerido": "¿Cómo puedo usar mis palabras para participar en las decisiones de mi colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura compartida de un capítulo del Manual de Convivencia sobre los derechos de los estudiantes.",
+              "visual": "Mesa redonda de 'Puntos de Vista': Discutir una norma escolar que les guste y una que cambiarían, usando el diálogo asertivo.",
+              "produccion": "Propuesta escrita para el Gobierno Escolar que busque mejorar la convivencia en el descanso, siguiendo los conductos regulares."
+            },
+            "para_pensar": [
+              "¿Qué significa ser 'asertivo' al hablar con los profesores o compañeros?",
+              "¿Por qué es importante conocer el Manual de Convivencia antes de reclamar un derecho?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las funciones del gobierno escolar según la norma institucional.",
+              "Expresa opiniones personales de forma clara, respetuosa y asertiva."
+            ],
+            "un_refuerzo": "Dibujar una situación donde se use el diálogo para resolver un desacuerdo en el salón."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Misión: Bienestar y Planeta",
+            "un_reto_sugerido": "¿Qué necesita un ser humano para vivir bien y cómo podemos cuidar el lugar donde vivimos?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una lista de 'cosas sin las que no podríamos vivir' y clasificarlas en necesidades básicas (salud, comida) y deseos.",
+              "visual": "Taller de 'Eco-Clasificación': Crear estaciones de manejo de residuos en el salón (papel, plástico, orgánico) y practicar el reciclaje diario.",
+              "produccion": "Pirámide de necesidades básicas de la comunidad colombiana, proponiendo una acción para mejorar el medio ambiente escolar."
+            },
+            "para_pensar": [
+              "¿Es posible ser feliz si no tenemos salud o educación?",
+              "¿Qué pasa con nuestra basura después de que el camión se la lleva?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y clasifica las necesidades básicas humanas y su nivel de satisfacción.",
+              "Demuestra manejo responsable de residuos en el entorno escolar."
+            ],
+            "un_refuerzo": "Hacer un juguete u objeto útil usando únicamente materiales reciclados."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros del Tiempo Tecnológico",
+            "un_reto_sugerido": "¿Cómo cambió la vida de las familias cuando llegó la luz eléctrica y el internet?",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a los abuelos sobre cómo conservaban los alimentos sin nevera o cómo se comunicaban sin celular.",
+              "visual": "Museo de Inventos: Dibujar el 'Antes' (vela, carta, carreta) y el 'Ahora' (bombillo, e-mail, carro) de 5 tecnologías esenciales.",
+              "produccion": "Ensayo corto sobre cómo la tecnología en la salud (vacunas, hospitales) ha cambiado la duración de la vida de las personas."
+            },
+            "para_pensar": [
+              "¿Era la gente más paciente antes de que existiera el internet?",
+              "¿Qué invento tecnológico crees que ha ayudado más a las familias pobres?"
+            ],
+            "pistas_del_exito": [
+              "Explica cambios socioculturales motivados por el acceso a servicios públicos y tecnología.",
+              "Relata la importancia de los avances médicos en el bienestar familiar."
+            ],
+            "un_refuerzo": "Diseñar un invento que aún no exista para resolver un problema de la casa."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Escudo de Derechos de la Niñez",
+            "un_reto_sugerido": "¿Qué nos protege de la discriminación y el abuso en la sociedad?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de la Convención sobre los Derechos del Niño y subrayar los derechos que consideran más vulnerados hoy.",
+              "visual": "Mural de 'Sujetos de Derechos': Cada niño dibuja un derecho y un deber correspondiente que se compromete a cumplir.",
+              "produccion": "Manifiesto contra la discriminación por etnia o género, proponiendo formas de respetar los rasgos individuales de todos."
+            },
+            "para_pensar": [
+              "¿Por qué tener derechos también nos obliga a cumplir deberes?",
+              "¿Qué harías si ves que discriminan a un compañero por su color de piel o su forma de hablar?"
+            ],
+            "pistas_del_exito": [
+              "Describe los derechos de la niñez y asume una posición crítica ante el abuso.",
+              "Se identifica como sujeto de derechos y deberes en la comunidad educativa."
+            ],
+            "un_refuerzo": "Crear una 'Caja de Denuncias Amiga' donde se puedan reportar situaciones de irrespeto de forma anónima."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Tesoro de la Diferencia",
+            "un_reto_sugerido": "¿Cómo nuestras diferencias hacen que el trabajo en equipo sea más divertido y exitoso?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Identidad Secreta': Adivinar quién es el compañero basándose solo en sus talentos y gustos, no en su apariencia.",
+              "visual": "Mural colectivo 'Piezas del Rompecabezas': Cada niño decora una pieza que representa su cultura o rasgos únicos; al unirlas forman un solo equipo.",
+              "produccion": "Relato reflexivo sobre una situación donde una diferencia personal ayudó a resolver un problema grupal."
+            },
+            "para_pensar": [
+              "¿Sería aburrido un mundo donde todos pensáramos igual?",
+              "¿Cómo podemos aprender algo nuevo de alguien que es muy distinto a nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el valor igualitario de todos los niños y niñas.",
+              "Valora las diferencias como oportunidades para construir nuevos conocimientos."
+            ],
+            "un_refuerzo": "Investigar una costumbre de un grupo étnico diferente al propio y compartirla con el salón."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Exploradores de los Biomas del Mundo",
+            "un_reto_sugerido": "¿Cómo se adaptan los seres humanos para vivir en los polos, desiertos o selvas?",
+            "ruta_de_exploracion": {
+              "explorar": "Viaje virtual por las regiones naturales del mundo usando videos, identificando climas extremos y paisajes.",
+              "visual": "Diseño de un 'Kit de Supervivencia' y vivienda para una región específica (ej: un iglú para los polos o una casa elevada para la selva).",
+              "produccion": "Propuesta de intervención escolar para ayudar a comunidades con inseguridad alimentaria, basada en los factores económicos y sociales vistos."
+            },
+            "para_pensar": [
+              "¿Por qué la comida es más cara en los desiertos que en las selvas?",
+              "¿Cuál es nuestra responsabilidad como comunidad ante las personas que no tienen sus necesidades satisfechas?"
+            ],
+            "pistas_del_exito": [
+              "Describe características de regiones naturales del mundo (polos, selvas, desiertos).",
+              "Sugiere actuaciones para la satisfacción de necesidades básicas en su comunidad."
+            ],
+            "un_refuerzo": "Dibujar un mapa del mundo y colorear con diferentes tonos las zonas cálidas, frías y templadas."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Cronistas de la Comunicación",
+            "un_reto_sugerido": "¿Cómo los medios de comunicación nos ayudan a ser mejores ciudadanos?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar una noticia de televisión o periódico y debatir si la información es útil para la comunidad.",
+              "visual": "Línea de tiempo de las exploraciones: Desde los barcos antiguos hasta las naves espaciales, destacando la tecnología de cada época.",
+              "produccion": "Creación de un 'Noticiero Escolar' (en video o escrito) donde se informe sobre la cultura y la política del país."
+            },
+            "para_pensar": [
+              "¿Cómo ha cambiado el internet la forma en que nos relacionamos con nuestra familia?",
+              "¿Podemos creer todo lo que vemos en las redes sociales? ¿Por qué?"
+            ],
+            "pistas_del_exito": [
+              "Identifica condiciones tecnológicas que permitieron exploraciones históricas.",
+              "Deduce los efectos de los medios de comunicación en la vida personal y ciudadana."
+            ],
+            "un_refuerzo": "Escribir una carta a mano y enviarla a un compañero para comparar la experiencia con un mensaje de chat."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Red de Protección de la Niñez",
+            "un_reto_sugerido": "¿A quién debemos llamar cuando los derechos de un niño están en peligro?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en un mapa de la ciudad las sedes del ICBF, Comisarías de Familia y estaciones de Policía cercanas.",
+              "visual": "Directorio de Emergencia Creativo: Crear un folleto con los nombres y funciones de las instituciones que protegen a los niños.",
+              "produccion": "Socio-drama sobre una situación de vulneración de derechos y la forma correcta de buscar apoyo institucional."
+            },
+            "para_pensar": [
+              "¿Por qué existían organizaciones como la Real Audiencia antes y ahora tenemos un Congreso?",
+              "¿Cuál es el papel de la Personería Estudiantil en la defensa de tus derechos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce instituciones y autoridades para la defensa de los derechos de la niñez.",
+              "Propone soluciones ante situaciones de vulneración de derechos detectadas."
+            ],
+            "un_refuerzo": "Investigar qué hace el ICBF y escribir un resumen de tres renglones."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de la Calma",
+            "un_reto_sugerido": "¿Cómo puedo transformar mi rabia en una solución pacífica?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica del 'Globo': Inflar un globo (rabia) y aprender a soltar el aire despacio (respiración) para no estallar.",
+              "visual": "El semáforo del conflicto: Rojo (parar y respirar), Amarillo (pensar opciones y consecuencias), Verde (actuar pacíficamente).",
+              "produccion": "Plan personal de manejo de conflictos donde el estudiante evalúe las consecuencias de sus acciones antes de actuar."
+            },
+            "para_pensar": [
+              "¿Qué pasa en mi cuerpo cuando siento mucha rabia?",
+              "¿Por qué alejarse de una situación de pelea no es cobardía, sino inteligencia?"
+            ],
+            "pistas_del_exito": [
+              "Identifica opciones para manejar conflictos y prevé sus consecuencias.",
+              "Aplica técnicas de autocontrol en situaciones de tensión escolar."
+            ],
+            "un_refuerzo": "Crear un 'Rincón de la Calma' en el salón con elementos que ayuden a tranquilizarse."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

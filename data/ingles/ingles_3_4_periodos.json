@@ -6,7 +6,7 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -24,7 +24,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -46,7 +46,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y describe algunos detalles en textos cortos y sencillos sobre temas familiares, a partir de imágenes y frases conocidas."
@@ -70,7 +70,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Responde, de manera oral o escrita, preguntas sencillas sobre textos descriptivos cortos y alusivos a temas conocidos y de clase.",
@@ -99,7 +99,7 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Convversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -118,7 +118,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y describe algunos detalles en textos cortos y sencillos sobre temas familiares, a partir de imágenes y frases conocidas."
@@ -142,7 +142,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Describe, de manera oral y escrita, objetos, lugares, personas y comunidades, usando oraciones simples"
@@ -167,7 +167,7 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -186,7 +186,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -203,7 +203,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y describe algunos detalles en textos cortos y sencillos sobre temas familiares, a partir de imágenes y frases conocidas."
@@ -229,7 +229,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Describe, de manera oral y escrita, objetos, lugares, personas y comunidades, usando oraciones simples.",
@@ -256,7 +256,7 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico Conversación",
         "estandar": ["Conversación"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -273,7 +273,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Intercambia ideas y opiniones sencillas con compañeros y profesores, siguiendo modelos a través de imágenes."
@@ -292,7 +292,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y describe algunos detalles en textos cortos y sencillos sobre temas familiares, a partir de imágenes y frases conocidas."
@@ -315,7 +315,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Describe, de manera oral y escrita, objetos, lugares, personas y comunidades, usando oraciones simples"
@@ -344,4 +344,6 @@
       }
     ]
   }
+
 }
+

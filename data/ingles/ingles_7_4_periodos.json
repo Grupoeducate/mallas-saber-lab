@@ -6,8 +6,10 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos."
         ],
@@ -24,8 +26,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares."
@@ -48,8 +52,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Describe acciones relacionadas con un tema de su entorno familiar o escolar."
         ],
@@ -65,8 +71,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
           "Responde a preguntas relacionadas con el 'qué, quién y cuándo' después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
@@ -90,8 +98,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Describe, de manera oral, personas, actividades, eventos y experiencias personales.",
           "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
@@ -122,8 +132,10 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares."
         ],
@@ -141,8 +153,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares.",
           "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas."
@@ -169,8 +183,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Describe, de manera oral, personas, actividades, eventos y experiencias personales."
         ],
@@ -186,8 +202,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
           "Responde a preguntas relacionadas con el 'qué, quién y cuándo' después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
@@ -210,8 +228,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
           "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc."
@@ -239,8 +259,10 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares."
         ],
@@ -256,8 +278,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares.",
           "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
@@ -287,8 +311,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
           "Describe, de manera oral, personas, actividades, eventos y experiencias personales.",
@@ -312,8 +338,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
           "Responde a preguntas relacionadas con el 'qué, quién y cuándo' después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
@@ -335,8 +363,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
           "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
@@ -368,8 +398,10 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares."
         ],
@@ -389,8 +421,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Describe, de manera oral, personas, actividades, eventos y experiencias personales.",
           "Describe las características básicas de personas, cosas y lugares de su escuela, ciudad y comunidad, a través de frases y oraciones sencillas."
@@ -410,8 +444,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
           "Responde a preguntas relacionadas con el 'qué, quién y cuándo' después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
@@ -435,8 +471,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
           "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc."

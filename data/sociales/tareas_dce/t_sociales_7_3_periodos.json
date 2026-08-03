@@ -1,0 +1,276 @@
+{
+"area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "7",
+  "nombre_archivo": "t_sociales_7_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mapas del Tiempo y el Poder",
+            "un_reto_sugerido": "¿Cómo ha cambiado nuestra forma de ver el mundo desde los mapas medievales hasta las imágenes satelitales de hoy?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un mapa medieval (Mapa de T en O) y compararlo con Google Maps; identificar qué elementos eran reales y cuáles eran fantasía o creencias.",
+              "visual": "Taller de Cartografía Comparada: Dibujar un mapa del colegio basado solo en recuerdos (visión subjetiva) y luego usar una foto aérea para corregirlo (visión técnica).",
+              "produccion": "Ensayo visual que explique cómo la tecnología satelital ha modificado nuestra vida cotidiana y la representación del espacio geográfico."
+            },
+            "para_pensar": [
+              "¿Por qué en la Edad Media los mapas se dibujaban con base en la Biblia y no en la observación directa?",
+              "¿De qué manera el GPS ha cambiado nuestra dependencia de la memoria espacial?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la representación del mundo medieval con la influencia cultural de la época.",
+              "Explica la importancia de la cartografía satelital en la toma de decisiones actuales."
+            ],
+            "un_refuerzo": "Investigar qué era la 'Terra Incognita' y por qué los exploradores medievales le temían."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Roma: El ADN de Occidente",
+            "un_reto_sugerido": "¿Qué elementos de la antigua Roma sobreviven en las leyes, calles y diversiones de nuestra ciudad hoy?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Safari Arquitectónico' virtual o real para identificar arcos, columnas y acueductos en edificios públicos del municipio.",
+              "visual": "Simulacro de Juicio Romano: Organizar un debate sobre una norma escolar usando principios básicos del Derecho Romano (testigos, pruebas, defensa).",
+              "produccion": "Infografía sobre el legado romano en la ingeniería (vías y alcantarillado) y su comparación con la infraestructura actual de la región."
+            },
+            "para_pensar": [
+              "¿Por qué un imperio tan poderoso como el Romano llegó a una crisis total? ¿Podría pasarle a un país hoy?",
+              "¿En qué se parecen los juegos públicos romanos (gladiadores) a los eventos deportivos masivos de la actualidad?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la influencia del sistema político y jurídico romano en la cultura latinoamericana.",
+              "Identifica factores de crisis estatal comparando el pasado con el presente."
+            ],
+            "un_refuerzo": "Crear un glosario de términos latinos que todavía usamos en el derecho o la vida diaria (ej. quórum, currículum)."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Dignidad Humana",
+            "un_reto_sugerido": "¿Cómo podemos usar la Constitución para proteger a las personas que sufren discriminación en Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos reales de discriminación en noticias colombianas y debate sobre qué derechos fundamentales se están vulnerando.",
+              "visual": "Taller 'Mi Primera Tutela': Redactar un formato sencillo de acción de tutela para un caso ficticio de negación del derecho a la salud o educación.",
+              "produccion": "Cuadro comparativo entre la Declaración Universal de DDHH y los derechos fundamentales de la Constitución de 1991, destacando su aplicabilidad."
+            },
+            "para_pensar": [
+              "¿Por qué es responsabilidad de toda la sociedad evitar la violación de los derechos de un solo ciudadano?",
+              "¿Qué pasaría si no existiera un mecanismo como la tutela en nuestro país?"
+            ],
+            "pistas_del_exito": [
+              "Identifica situaciones precisas en las que procede el uso de la acción de tutela.",
+              "Plantea soluciones argumentadas frente a hechos de vulneración de derechos."
+            ],
+            "un_refuerzo": "Diseñar una campaña escolar de 'Cero Discriminación' usando artículos específicos de la Constitución."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Líderes con Sentido Crítico",
+            "un_reto_sugerido": "¿Cómo nuestras decisiones colectivas afectan el futuro de la convivencia en el colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Efecto Mariposa': Analizar cómo una decisión pequeña de un representante estudiantil puede afectar a todo el grado.",
+              "visual": "Simulacro de Consejo Estudiantil: Debatir una propuesta de cambio en el uso del tiempo libre, evaluando consecuencias a corto y largo plazo.",
+              "produccion": "Propuesta de seguimiento ciudadano al Gobierno Escolar, definiendo criterios para evaluar el cumplimiento de sus promesas."
+            },
+            "para_pensar": [
+              "¿Por qué la libertad de expresión debe ir siempre acompañada del respeto por la opinión del otro?",
+              "¿Qué consecuencias tiene para un grupo que sus miembros no participen en las decisiones colectivas?"
+            ],
+            "pistas_del_exito": [
+              "Prevé consecuencias de diversas alternativas de acción frente a decisiones grupales.",
+              "Ejerce la libre expresión respetando la divergencia en debates de aula."
+            ],
+            "un_refuerzo": "Redactar un decálogo del 'Buen Elector Estudiantil' para las próximas elecciones del colegio."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Radiografía de la Ciudad Contemporánea",
+            "un_reto_sugerido": "¿Por qué las ciudades crecen de forma desordenada y qué problemas sociales genera esto?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un mapa de 'asentamientos informales' vs 'zonas planificadas' en el municipio, identificando diferencias en servicios y vías.",
+              "visual": "Mapeo Comunitario: Localizar en un plano del barrio zonas con problemáticas de inseguridad, basuras o falta de espacio público.",
+              "produccion": "Informe sobre la relación entre la industrialización en Colombia y el crecimiento de las áreas metropolitanas en las últimas décadas."
+            },
+            "para_pensar": [
+              "¿Cómo afecta la conurbación (unión de ciudades) a la calidad de vida de los habitantes?",
+              "¿Por qué la pobreza urbana suele concentrarse en las periferias de las grandes ciudades?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza conceptos de geografía urbana para explicar fenómenos de su contexto.",
+              "Explica las causas y consecuencias de los asentamientos informales en la ciudad."
+            ],
+            "un_refuerzo": "Investigar qué es un Plan de Ordenamiento Territorial (POT) y para qué sirve en su municipio."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Encuentro de Dos Mundos",
+            "un_reto_sugerido": "¿Qué cambió para siempre en América y Europa tras el proceso de Conquista y Colonización?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar una lista de alimentos (maíz, papa, trigo, café) y clasificarlos según su origen: Americano o Europeo.",
+              "visual": "Diorama Comparativo: Representar en una mitad una sociedad medieval europea y en la otra una sociedad precolombina (Inca o Azteca).",
+              "produccion": "Ensayo sobre las consecuencias demográficas (caída de la población indígena) y el surgimiento del mestizaje cultural en América Latina."
+            },
+            "para_pensar": [
+              "¿Por qué el modelo económico feudal europeo no pudo aplicarse exactamente igual en las colonias americanas?",
+              "¿Cómo influye la herencia colonial en la forma en que nos organizamos socialmente hoy?"
+            ],
+            "pistas_del_exito": [
+              "Compara la organización social precolombina con la medieval europea.",
+              "Explica los cambios y continuidades de las instituciones coloniales en América."
+            ],
+            "un_refuerzo": "Investigar la biografía de un líder indígena que haya resistido a la conquista española."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Ciudades del Pasado, Lecciones del Presente",
+            "un_reto_sugerido": "¿En qué se parecían las ciudades mayas a las ciudades europeas del año 1000?",
+            "ruta_de_exploracion": {
+              "explorar": "Viaje virtual por Teotihuacán y París medieval; comparar el tamaño de sus templos, mercados y sistemas de defensa.",
+              "visual": "Taller de 'Urbanismo Comparado': Dibujar los planos de una ciudad medieval y una ciudad precolombina destacando sus centros de poder.",
+              "produccion": "Argumentación escrita sobre las discontinuidades culturales que sufrieron los pueblos ancestrales con la llegada de los europeos."
+            },
+            "para_pensar": [
+              "¿Por qué algunas culturas precolombinas tenían sistemas de acueducto más avanzados que las ciudades europeas de la misma época?",
+              "¿Qué elementos del ordenamiento político medieval aún persisten en algunas instituciones actuales?"
+            ],
+            "pistas_del_exito": [
+              "Compara características sociales y económicas de ciudades globales del año 1000.",
+              "Argumenta las rupturas culturales tras el encuentro entre Europa y América."
+            ],
+            "un_refuerzo": "Realizar un cuadro comparativo entre el mercado de Tlatelolco (Azteca) y un mercado medieval europeo."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Derechos en el Espacio Público",
+            "un_reto_sugerido": "¿Cómo el cuidado del espacio público garantiza los derechos de todas las familias?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata de observación: Identificar barreras arquitectónicas en el barrio que impidan el paso a personas con discapacidad o ancianos.",
+              "visual": "Taller 'Mi Barrio Ideal': Diseñar una propuesta de parque o plaza que respete el medio ambiente y sea accesible para todos.",
+              "produccion": "Manifiesto sobre la importancia de los derechos sexuales y reproductivos como parte del bienestar y la autonomía familiar."
+            },
+            "para_pensar": [
+              "¿Por qué el espacio público se considera patrimonio de todos y no de nadie?",
+              "¿Cómo el ejercicio de la autoridad debe respetar siempre la dignidad y los derechos de las personas?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los derechos fundamentales de las familias (vivienda, salud, recreación).",
+              "Propone acciones concretas para el cuidado del espacio público como patrimonio colectivo."
+            ],
+            "un_refuerzo": "Escribir una carta a la alcaldía sugiriendo una mejora para un espacio público deteriorado del sector."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Impacto de la Revolución Urbana",
+            "un_reto_sugerido": "¿Cómo la industrialización transformó a Colombia de un país rural a uno de ciudades?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de fotografías antiguas de la ciudad (hace 50 años) vs actuales; debatir sobre la desaparición de zonas verdes.",
+              "visual": "Gráfica de Problemáticas: Crear un diagrama de causas y efectos sobre el desempleo, la inseguridad y la falta de vivienda en las ciudades.",
+              "produccion": "Propuesta de solución innovadora para un problema de movilidad o contaminación en su municipio, basada en ejemplos históricos."
+            },
+            "para_pensar": [
+              "¿Es posible tener una ciudad industrializada que sea al mismo tiempo sostenible ambientalmente?",
+              "¿Qué motiva a una familia campesina a dejar su tierra para irse a un asentamiento informal en la ciudad?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la migración campo-ciudad con la organización urbana en Colombia.",
+              "Compara problemáticas urbanas actuales con procesos similares en otros periodos históricos."
+            ],
+            "un_refuerzo": "Realizar una entrevista a una persona que haya migrado del campo a la ciudad para conocer su historia."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Renacimiento: El Despertar del Humanismo",
+            "un_reto_sugerido": "¿Cómo el cambio de pensamiento en el Renacimiento permitió el avance de la ciencia y el arte moderno?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar obras de Da Vinci o Miguel Ángel e identificar cómo el ser humano pasó a ser el centro de la atención (Antropocentrismo).",
+              "visual": "Taller de 'Inventos Renacentistas': Construir un modelo sencillo inspirado en los bocetos de Leonardo da Vinci usando materiales reciclados.",
+              "produccion": "Mapa conceptual sobre las implicaciones políticas y económicas de la Reforma Protestante en Europa y su llegada a América."
+            },
+            "para_pensar": [
+              "¿Por qué la invención de la imprenta fue tan importante para el Renacimiento como el Internet para nosotros?",
+              "¿Cómo influyó el arte renacentista en la forma en que vemos la belleza hoy en día?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce en el arte renacentista la organización social y la vida cotidiana de la época.",
+              "Explica los acontecimientos que dieron paso a la modernidad y al nuevo pensamiento intelectual."
+            ],
+            "un_refuerzo": "Investigar qué fue el Humanismo y cómo cambió la educación en las universidades europeas."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de la Paz",
+            "un_reto_sugerido": "¿Cómo podemos transformar un conflicto cotidiano en una oportunidad para fortalecer la convivencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de un conflicto escolar reciente: Identificar los puntos de vista de todas las partes involucradas sin juzgar.",
+              "visual": "Laboratorio de Mediación: Practicar técnicas de negociación y arbitraje mediante juegos de roles sobre problemas de convivencia.",
+              "produccion": "Diseño de una 'Ruta de Mediación Escolar' para el salón, que incluya pasos para el diálogo y la conciliación pacífica."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre resolver un conflicto por la fuerza y resolverlo por la negociación?",
+              "¿Cómo el respeto a la dignidad del otro facilita la solución de cualquier problema?"
+            ],
+            "pistas_del_exito": [
+              "Identifica consecuencias de conflictos y plantea acciones de resolución negociada.",
+              "Compara estrategias como mediación, conciliación y arbitraje para la paz."
+            ],
+            "un_refuerzo": "Crear un póster que explique los 5 pasos para ser un buen mediador en el colegio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Cultura de la Inclusión y el Cuidado",
+            "un_reto_sugerido": "¿Cómo nuestras acciones individuales pueden frenar la discriminación hacia los más vulnerables?",
+            "ruta_de_exploracion": {
+              "explorar": "Test de Empatía: Analizar situaciones donde favorecer a alguien excluido puede afectar nuestra 'imagen' ante el grupo.",
+              "visual": "Mapa de Cuidado: Identificar en el colegio y el barrio los espacios que necesitan ser más seguros para niños, ancianos y discapacitados.",
+              "produccion": "Plan de acción solidario para apoyar a una población vulnerable de la comunidad, justificándolo desde los derechos humanos."
+            },
+            "para_pensar": [
+              "¿Por qué a veces nos cuesta actuar contra la discriminación cuando somos testigos de ella?",
+              "¿Cómo el cuidado de los niños y ancianos refleja la calidad humana de una sociedad?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa críticamente sus propias acciones frente a actos de discriminación.",
+              "Implementa acciones de apoyo y cuidado hacia poblaciones vulnerables en su entorno."
+            ],
+            "un_refuerzo": "Escribir un cuento o reflexión sobre la importancia de la independencia frente a la presión de grupo en actos injustos."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

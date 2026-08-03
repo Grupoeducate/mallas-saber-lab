@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "11",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -281,4 +281,5 @@
       }
     ]
   }
+
 }

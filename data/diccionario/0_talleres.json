@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "grado": 0,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G0-P1-T1",
+          "nombre_taller": "El Objeto Misterioso de la Clase",
+          "conceptos_relacionados": [
+            "Curiosidad"
+          ],
+          "proposito_experiencia": "Estimular la exploración sensorial y la capacidad de asombro mediante el descubrimiento.",
+          "recursos_eco": "Bolsa opaca, objetos cotidianos (esponja, llaves, juguete suave).",
+          "momento_inicio_conexion": "Siente a los niños en círculo. Muestre la bolsa con misterio y diga a los niños: 'Dentro de esta bolsa hay algo que quiere que lo descubran'.",
+          "momento_desarrollo_vivencia": "Haga que cada niño meta la mano sin mirar, toque el objeto y lo describa antes de sacarlo. Use frases como '¿Qué crees que es?', '¿Es suave o duro?'. Al final, revele el objeto y celebren el descubrimiento.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te hizo sentir curiosidad hoy?' y '¿Cómo te sentiste al descubrir qué era?'.",
+          "revision_proposito": "Observar si el niño formula preguntas o muestra interés activo por identificar el contenido de la bolsa.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P1-T2",
+          "nombre_taller": "Mi Lugar Seguro en el Colegio",
+          "conceptos_relacionados": [
+            "Seguridad"
+          ],
+          "proposito_experiencia": "Identificar figuras de apoyo y espacios que brindan tranquilidad para fortalecer la confianza.",
+          "recursos_eco": "Hojas de papel, crayones.",
+          "momento_inicio_conexion": "Diga a los niños: 'En nuestro colegio hay rincones que nos cuidan como un abrazo'. Pida que cierren los ojos y piensen en su lugar favorito.",
+          "momento_desarrollo_vivencia": "Haga que los niños dibujen ese lugar (el patio, el salón, la biblioteca). Pida que señalen quién los acompaña allí (la profe, un amigo) y expliquen por qué se sienten tranquilos en ese sitio.",
+          "momento_cierre_integracion": "Pregunte: '¿Con quién te sientes seguro aquí?' y '¿Qué puedes hacer cuando no te sientes seguro?'.",
+          "revision_proposito": "Verificar si el niño identifica al menos un espacio o persona que le genere sensación de protección.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P1-T3",
+          "nombre_taller": "La Fiesta de la Espera Alegre",
+          "conceptos_relacionados": [
+            "Paciencia",
+            "Entusiasmo"
+          ],
+          "proposito_experiencia": "Gestionar la espera manteniendo una actitud positiva y participativa.",
+          "recursos_eco": "Un títere o campana, música alegre.",
+          "momento_inicio_conexion": "Presente al títere y diga: 'Este amigo tiene una sorpresa, pero solo sale cuando estamos en calma y felices'.",
+          "momento_desarrollo_vivencia": "Use una señal visual de 'esperar'. Los niños deben bailar mientras el títere se esconde y quedarse quietos cuando aparezca. Haga que esperen su turno para saludar al títere uno por uno con entusiasmo.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo te sentiste mientras esperabas?' y '¿Qué te ayudó a mantener la alegría mientras llegaba tu turno?'.",
+          "revision_proposito": "Evaluar la capacidad de espera sin muestras de irritabilidad y el nivel de participación entusiasta.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G0-P2-T1",
+          "nombre_taller": "Exploradores de Corazones",
+          "conceptos_relacionados": [
+            "Curiosidad",
+            "Empatía"
+          ],
+          "proposito_experiencia": "Integrar el interés por descubrir con la comprensión de los sentimientos de los demás.",
+          "recursos_eco": "Imágenes de niños con diversas expresiones faciales.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy seremos investigadores de rostros'. Muestre una imagen y pregunte: '¿Qué nos querrá decir este niño con su cara?'.",
+          "momento_desarrollo_vivencia": "Muestre imágenes de alegría, tristeza y miedo. Haga que el grupo imite la emoción y proponga ideas para ayudar: 'Si este niño está triste, ¿cómo podríamos ser su corazón que escucha?'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo sabías que el niño estaba triste?' y '¿Qué podrías hacer hoy para ser un buen compañero?'.",
+          "revision_proposito": "Observar la capacidad de identificar emociones básicas y proponer acciones de cuidado.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P2-T2",
+          "nombre_taller": "La Estación de los Deseos Buenos",
+          "conceptos_relacionados": [
+            "Esperanza",
+            "Amistad"
+          ],
+          "proposito_experiencia": "Fomentar vínculos afectivos mediante el intercambio de deseos positivos para el futuro.",
+          "recursos_eco": "Caja decorada, trozos de papel de colores.",
+          "momento_inicio_conexion": "Siente a los niños en parejas. Diga a los niños: 'Un amigo es quien nos desea cosas lindas aunque todavía no pasen'.",
+          "momento_desarrollo_vivencia": "Pida a cada niño que complete la frase: 'Espero que mañana tú puedas... (jugar, estar feliz, comer rico)'. Coloquen todos los deseos en la 'Caja de la Esperanza' del grupo.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué esperas para mañana?' y '¿Por qué es importante seguir intentando ser un buen amigo?'.",
+          "revision_proposito": "Identificar si el niño proyecta ideas positivas hacia el futuro y hacia sus compañeros.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P2-T3",
+          "nombre_taller": "El Reto del Puente Calmo",
+          "conceptos_relacionados": [
+            "Paciencia",
+            "Frustración",
+            "Entusiasmo"
+          ],
+          "proposito_experiencia": "Regular el malestar ante la dificultad manteniendo el ánimo por aprender.",
+          "recursos_eco": "Bloques de madera o plástico.",
+          "momento_inicio_conexion": "Diga a los niños: '¡Vamos a construir una torre gigante! Pero si se cae, diremos: ¡Oh no, aprendamos de nuevo!'.",
+          "momento_desarrollo_vivencia": "Haga que armen una torre alta. Si se cae, enseñe la técnica: inhalar, exhalar y volver a intentar con entusiasmo. Use la frase guía: 'Si no sale como quieres, sigues intentando y aprendes'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sentiste cuando la torre se cayó?' y '¿Qué te ayudó a calmarte para empezar otra vez?'.",
+          "revision_proposito": "Evaluar el uso de estrategias de respiración y la persistencia ante el error.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G0-P3-T1",
+          "nombre_taller": "Curitas para el Corazón",
+          "conceptos_relacionados": [
+            "Culpa",
+            "Empatía"
+          ],
+          "proposito_experiencia": "Reconocer cuando una acción lastima a otros y practicar la reparación.",
+          "recursos_eco": "Lápices regados intencionalmente, pegatinas o dibujos de corazón.",
+          "momento_inicio_conexion": "Simule que tira unos lápices sin querer. Diga a los niños: 'Me siento mal porque esto no estuvo bien. ¿Qué puedo hacer para arreglarlo?'.",
+          "momento_desarrollo_vivencia": "Haga que el grupo recoja junto al docente. Practiquen frases como 'Lo siento', 'Fue sin querer', '¿Te ayudo?'. Explique que reparar es poner una curita al corazón de quien se sintió mal.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo cambia tu emoción cuando arreglas lo que pasó?' y '¿Qué significa reparar un error?'.",
+          "revision_proposito": "Observar la disposición del niño para pedir disculpas y participar en acciones de mejora.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P3-T2",
+          "nombre_taller": "El Semáforo de la Espera",
+          "conceptos_relacionados": [
+            "Paciencia",
+            "Frustración"
+          ],
+          "proposito_experiencia": "Fortalecer el control de impulsos ante situaciones desafiantes.",
+          "recursos_eco": "Tarjetas de colores (rojo, verde).",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces el corazón quiere ir rápido como un rayo, pero necesitamos aprender a esperar en calma'.",
+          "momento_desarrollo_vivencia": "Proponga un patrón de colores difícil de seguir. Cuando los niños se equivoquen o se impacienten, muestre el color rojo para 'respirar' y el verde para 'volver a intentar'. Diga: 'Está bien si cuesta trabajo hoy, mañana será más fácil'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te costó trabajo hoy?' y '¿Qué puedes decirte cuando te frustras?'.",
+          "revision_proposito": "Verificar si el niño reconoce el sentimiento de frustración y aplica la pausa sugerida.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P3-T3",
+          "nombre_taller": "El Mural del 'Ahora Sí'",
+          "conceptos_relacionados": [
+            "Superación",
+            "Amistad"
+          ],
+          "proposito_experiencia": "Celebrar el progreso personal y el apoyo mutuo en el aprendizaje.",
+          "recursos_eco": "Papel grande, crayones.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cierren los ojos y piensen en algo que antes no podían hacer (como amarrarse los zapatos) y hoy sí pueden'.",
+          "momento_desarrollo_vivencia": "Pida que dibujen ese logro. Luego, haga que cada niño le muestre su dibujo a un amigo y este le diga: '¡Lo lograste, eres capaz!'. Refuerce la idea de que los amigos nos ayudan a ser mejores.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo te sentiste al lograrlo?' y '¿Quién te ayudó en el proceso?'.",
+          "revision_proposito": "Evaluar si el niño reconoce sus propios avances y manifiesta sentimientos de autoeficacia.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G0-P4-T1",
+          "nombre_taller": "Tejiendo una Gran Amistad",
+          "conceptos_relacionados": [
+            "Empatía",
+            "Amistad"
+          ],
+          "proposito_experiencia": "Fortalecer la cohesión grupal y el valor del acompañamiento constante.",
+          "recursos_eco": "Una pelota de lana.",
+          "momento_inicio_conexion": "Haga un círculo. Diga a los niños: 'Nuestra amistad es como un hilo que nos une y nos permite escucharnos'.",
+          "momento_desarrollo_vivencia": "Lanza la lana a un niño mientras dices algo lindo de él. Ese niño hace lo mismo con otro, formando una red. Diga: 'Si yo fuera tú, me gustaría que me cuidaran así'. Al final, todos sostienen la red juntos.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué hicieron juntos hoy?' y '¿Qué hace que alguien sea un buen amigo?'.",
+          "revision_proposito": "Observar la calidad de las interacciones verbales y la participación en la actividad colectiva.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P4-T2",
+          "nombre_taller": "Mirando hacia Adelante",
+          "conceptos_relacionados": [
+            "Esperanza",
+            "Culpa"
+          ],
+          "proposito_experiencia": "Aprender que los errores del pasado no definen el futuro y que siempre se puede mejorar.",
+          "recursos_eco": "Hojas de papel arrugadas.",
+          "momento_inicio_conexion": "Muestre un papel arrugado y diga: 'A veces cometemos errores que nos hacen sentir culpa, pero mañana podemos hacerlo diferente'.",
+          "momento_desarrollo_vivencia": "Haga que los niños intenten estirar el papel (reparar). Luego, pídales que dibujen en el reverso algo bueno que esperan que pase mañana. Diga: 'Aunque hoy no pude, mañana puedo intentar algo nuevo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué esperas para mañana?' y '¿Por qué es importante seguir intentándolo?'.",
+          "revision_proposito": "Identificar si el niño diferencia entre el error cometido y la posibilidad de mejora futura.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G0-P4-T3",
+          "nombre_taller": "El Desfile de los Logros",
+          "conceptos_relacionados": [
+            "Superación"
+          ],
+          "proposito_experiencia": "Consolidar la autoconfianza mediante el reconocimiento de los retos superados durante el año.",
+          "recursos_eco": "Música solemne o festiva.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy es un día especial. Vamos a caminar con orgullo por todo lo que hemos aprendido'.",
+          "momento_desarrollo_vivencia": "Haga un pequeño 'desfile'. Cada niño pasa al frente y dice una cosa nueva que puede hacer hoy. El resto del grupo aplaude. Diga a los niños: '¡Siéntanse grandes y capaces!'",
+          "momento_cierre_integracion": "Pregunte: '¿Qué lograste hoy que antes costaba más?' y '¿Qué nuevo reto te gustaría intentar después?'.",
+          "revision_proposito": "Evaluar el sentido de logro y la expresión corporal de seguridad al hablar frente al grupo.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

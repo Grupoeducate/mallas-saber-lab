@@ -1,0 +1,72 @@
+{
+  "area": "matematicas",
+  "grado": "0",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Lógico - matemáticas",
+        "estandar": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para comprenderlo y construirlo.",
+        "dba": [
+          "DBA-0-Prop.3-16: Determina la cantidad de objetos que conforman una colección, al establecer relaciones de correspondencia y acciones de juntar y separar."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.3-16-EV-1: Determina cuántos objetos conforman una colección a partir de: la percepción global, la enumeración y la correspondencia uno a uno."
+        ],
+        "saberes": [
+          "Números: Reconocimiento de la grafía y cantidad (1-10).",
+          "Clasificación: Un atributo."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Lógico - matemáticas",
+        "estandar": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para comprenderlo y construirlo.",
+        "dba": [
+          "DBA-0-Prop.3-15: Compara, ordena, clasifica objetos e identifica patrones de acuerdo con diferentes criterios.",
+          "DBA-0-Prop.3-16: Determina la cantidad de objetos que conforman una colección, al establecer relaciones de correspondencia y acciones de juntar y separar."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.3-15-EV-3: Clasifica colecciones de objetos de acuerdo a sus atributos (por la funcionalidad, por el sabor, por la tonalidad, por el peso, entre otras).",
+          "DBA-0-Prop.3-15-EV-1: Identifica el patrón que conforma una secuencia (pollo-gato-pollo) y puede continuarla (pollo-gato-pollo-gato).",
+          "DBA-0-Prop.3-16-EV-3: Comprende situaciones que implican agregar y quitar, y propone procedimientos basados en la manipulación de objetos concretos o representaciones gráficas.",
+          "DBA-0-Prop.3-14-EV-1: Mide objetos utilizando patrones de medida no convencionales (número de pasos que hay entre un lugar y otro, la palma de la mano, lanas, cordones, recipientes, entre otros)."
+        ],
+        "saberes": [
+          "Lógica: Clasificación por Doble Atributo. Patrones de repetición.",
+          "Espacial: Figuras geométricas 2D. Relación grafía-cantidad hasta 15.",
+          "Operaciones: Conceptos de 'juntar', 'quitar' (Pre-Álgebra).",
+          "Medición: Unidades no estandarizadas y comparación de magnitudes (longitud, peso)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Lógico - matemáticas",
+        "estandar": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para comprenderlo y construirlo.",
+        "dba": [
+          "DBA-0-Prop.3-16: Determina la cantidad de objetos que conforman una colección, al establecer relaciones de correspondencia y acciones de juntar y separar."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.3-16-EV-2: Compara colecciones de objetos y determina: ¿cuántos hay?, ¿en dónde hay más?, ¿en dónde hay menos?, ¿cuántos hacen falta para tener la misma cantidad?, ¿cuántos le sobran?, entre otras."
+        ],
+        "saberes": [
+          "Síntesis: Conteo avanzado (hasta 30).",
+          "Estadística: Tablas de frecuencia simple (Aleatorio).",
+          "Prueba de Madurez."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ]
+  }
+}

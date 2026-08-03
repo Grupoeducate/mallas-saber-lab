@@ -3,289 +3,262 @@
   "grado": "7",
   "tipo_malla": "4_periodos",
   "numero_periodos": 4,
- "periodos": {
-  "1": [
-    {
-      "componente": "Numérico Variacional",
-      "estandar": "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones en las medidas. Utilizo números racionales, en sus distintas expresiones (fracciones, razones, decimales o porcentajes) para resolver problemas en contextos de medida. Analizo las propiedades de correlación positiva y negativa entre variables, de variación lineal o de proporcionalidad directa y de proporcionalidad inversa en contextos aritméticos y geométricos.",
-      "dba": [
-        "DBA-MAT-7-1: Interpreta y utiliza los números racionales en sus diferentes representaciones para formular y resolver problemas de variación y cambio.",
-        "DBA-MAT-7-8: Analiza y modela situaciones de covariación entre variables usando representaciones numéricas, algebraicas y gráficas."
-      ],
-      "evidencias": [
-        "MAT-7-D1-E1: Resuelve problemas en los que intervienen números racionales positivos y negativos en procesos de comparación, transformación y representación.",
-        "MAT-7-D1-E2: Propone y justifica diferentes estrategias para resolver problemas con números racionales en contextos escolares y extraescolares.",
-        "MAT-7-D8-E1: Propone patrones de comportamiento numéricos y los representa mediante tablas y gráficas cartesianas."
-      ],
-      "saberes": [
-        "Números racionales positivos y negativos.",
-        "Relaciones entre razones, fracciones, decimales y porcentajes.",
-        "Covariación directa e inversa y su representación en el plano cartesiano."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    },
-    {
-      "componente": "Espacial Métrico",
-      "estandar": "Represento objetos tridimensionales desde diferentes posiciones y vistas. Clasifico polígonos en relación con sus propiedades. Utilizo técnicas y herramientas para la construcción de figuras planas y cuerpos con medidas dadas.",
-      "dba": [
-        "DBA-MAT-7-6: Analiza y utiliza las propiedades de figuras bidimensionales y tridimensionales para su clasificación y construcción.",
-        "DBA-MAT-7-4: Utiliza estrategias y herramientas para construir figuras planas y cuerpos a partir de sus desarrollos planos."
-      ],
-      "evidencias": [
-        "MAT-7-D6-E1: Diferencia las propiedades geométricas de las figuras y cuerpos geométricos y los clasifica según dichas propiedades.",
-        "MAT-7-D6-E2: Identifica y describe los elementos (lados, ángulos, caras, vértices, aristas) de figuras y cuerpos geométricos.",
-        "MAT-7-D4-E1: Construye plantillas y desarrollos planos para cuerpos geométricos dadas sus medidas."
-      ],
-      "saberes": [
-        "Clasificación de polígonos según lados y ángulos.",
-        "Elementos de figuras y cuerpos geométricos.",
-        "Desarrollos planos de prismas y pirámides.",
-        "Uso de regla, compás y escuadra en construcciones geométricas."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    },
-    {
-      "componente": "Aleatorio",
-      "estandar": "Comparo e interpreto datos provenientes de diversas fuentes (prensa, revistas, televisión, experimentos, consultas, entrevistas). Reconozco la relación entre un conjunto de datos y su representación.",
-      "dba": [
-        "DBA-MAT-7-10: Analiza información estadística proveniente de diferentes fuentes, la contrasta con información recolectada y comunica conclusiones."
-      ],
-      "evidencias": [
-        "MAT-7-D10-E1: Lee y extrae información estadística publicada en diferentes medios.",
-        "MAT-7-D10-E2: Formula preguntas para orientar la recolección de datos que permitan contrastar la información publicada.",
-        "MAT-7-D10-E3: Organiza la información recolectada en tablas y la representa mediante gráficas adecuadas."
-      ],
-      "saberes": [
-        "Población, muestra y variables estadísticas.",
-        "Tablas de frecuencia y gráficos de barras, líneas y sectores.",
-        "Lectura crítica de información estadística en medios de comunicación."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    }
-  ],
-  "2": [
-    {
-      "componente": "Numérico Variacional",
-      "estandar": "Justifico la extensión de la representación polinomial decimal usual de los números naturales a la representación decimal usual de los números racionales, utilizando las propiedades del sistema de numeración decimal. Analizo las propiedades de correlación positiva y negativa entre variables, de variación lineal o de proporcionalidad directa y de proporcionalidad inversa en contextos aritméticos y geométricos.",
-      "dba": [
-        "DBA-MAT-7-1: Interpreta y utiliza los números racionales en sus diferentes representaciones para formular y resolver problemas de variación y cambio.",
-        "DBA-MAT-7-8: Analiza y modela situaciones de covariación entre variables usando representaciones numéricas, algebraicas y gráficas."
-      ],
-      "evidencias": [
-        "MAT-7-D1-E3: Representa en la recta numérica la posición de números racionales utilizando diversas estrategias.",
-        "MAT-7-D1-E4: Interpreta y justifica cálculos numéricos al resolver problemas que involucran fracciones, decimales y porcentajes.",
-        "MAT-7-D8-E2: Realiza cálculos numéricos, organiza la información en tablas, elabora representaciones gráficas y las interpreta.",
-        "MAT-7-D8-E3: Trabaja con incógnitas y números desconocidos para dar respuesta a problemas de variación."
-      ],
-      "saberes": [
-        "Representación decimal de fracciones.",
-        "Equivalencias entre fracciones, decimales y porcentajes.",
-        "Tablas y gráficas de variación lineal y proporcionalidad directa e inversa."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    },
-    {
-      "componente": "Espacial Métrico",
-      "estandar": "Represento objetos tridimensionales desde diferentes posiciones y vistas. Clasifico polígonos en relación con sus propiedades. Utilizo técnicas y herramientas para la construcción de figuras planas y cuerpos con medidas dadas.",
-      "dba": [
-        "DBA-MAT-7-6: Analiza y utiliza las propiedades de figuras bidimensionales y tridimensionales para su clasificación y construcción.",
-        "DBA-MAT-7-4: Utiliza estrategias y herramientas para construir figuras planas y cuerpos a partir de sus desarrollos planos."
-      ],
-      "evidencias": [
-          "MAT-7-D6-E3: Describe y compara congruencias y semejanzas en figuras bidimensionales y tridimensionales.",
-          "MAT-7-D6-E4: Estima áreas y volúmenes de figuras y cuerpos geométricos a partir de sus representaciones.",
-          "MAT-7-D6-E5: Construye cuerpos geométricos utilizando instrumentos de medida adecuados.",
-          "MAT-7-D4-E2: Selecciona los desarrollos planos que corresponden a cuerpos geométricos dados.",
-          "MAT-7-D4-E3: Diseña y dibuja desarrollos planos de cuerpos geométricos cuando se conocen sus medidas."
-      ],
-      "saberes": [
-        "Congruencia y semejanza en el plano y el espacio.",
-        "Cálculo y estimación de áreas y volúmenes.",
-        "Construcción de cuerpos geométricos a partir de desarrollos planos."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    },
-    {
-      "componente": "Aleatorio",
-      "estandar": "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar diversos tipos de datos (diagramas de barras, diagramas circulares).",
-      "dba": [
-        "DBA-MAT-7-10: Analiza información estadística proveniente de diferentes fuentes, la contrasta con información recolectada y comunica conclusiones."
-      ],
-      "evidencias": [
-        "MAT-7-D10-E4: Calcula las medidas requeridas (medidas de tendencia central, porcentajes, etc.) a partir de datos recolectados y utiliza, cuando es pertinente, calculadora o software.",
-        "MAT-7-D10-E5: Escribe informes en los que analiza la información presentada en los medios de comunicación y la contrasta con la obtenida en sus propios estudios."
-      ],
-      "saberes": [
-        "Diseño de encuestas y recolección de datos.",
-        "Elección de gráficas adecuadas según el tipo de dato.",
-        "Uso de medidas de tendencia central para interpretar conjuntos de datos."
-      ],
-      "socioemocional": null,
-      "diccionario": null,
-      "tareas_dce": null,
-      "fuente": null
-    }
-],
-"3": [
-  {
-    "componente": "Numérico Variacional",
-    "estandar": "Reconozco y generalizo propiedades de las relaciones entre números racionales (simétrica, transitiva, etc.) y de las operaciones entre ellos (conmutativa, asociativa, etc.) en diferentes contextos. Reconozco el conjunto de valores de cada una de las cantidades variables ligadas entre sí en situaciones concretas de cambio (variación).",
-    "dba": [
-      "DBA-MAT-7-2: Reconoce, justifica y utiliza propiedades de los números racionales y de las operaciones entre ellos.",
-      "DBA-MAT-7-9: Modela situaciones de variación usando expresiones numéricas, algebraicas y gráficas."
+  "periodos": {
+    "1": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones en las medidas. Utilizo números racionales, en sus distintas expresiones (fracciones, razones, decimales o porcentajes) para resolver problemas en contextos de medida. Utilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones.",
+        "dba": [
+          "DBA-MAT-7-1: Comprende y resuelve problemas, que involucran los números racionales con las operaciones (suma, resta, multiplicación, división, potenciación, adicación) en contextos escolares y extraescolares.",
+          "DBA-MAT-7-7: Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "MAT-7-D1-E1: Describe situaciones en las que los números enteros y racionales con sus operaciones están presentes.",
+          "MAT-7-D1-E2: Utiliza los signos “positivo” y “negativo” para describir cantidades relativas con números enteros y racionales. ",
+          "MAT-7-D1-E3: Resuelve problemas en los que se involucran  variaciones porcentuales.",
+          "MAT-7-D7-E1: Plantea modelos algebraicos, gráficos o numéricos en los que identifica variables y rangos de variación de las variables."
+        ],
+        "saberes": [
+          "Operaciones entre fracciones. División entre dos fracciones.",
+          "Números negativos. Significado, representación y comparación",
+          "Ecuaciones sencillas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Espacial Métrico",
+        "estandar": "Represento objetos tridimensionales desde diferentes posiciones y vistas. Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas).",
+        "dba": [
+          "DBA-MAT-7-5: Observa objetos tridimensionales desde diferentes puntos de vista, los representa según su ubicación y los reconoce cuando se transforman mediante rotaciones, traslaciones y reflexiones.",
+          "DBA-MAT-7-4: Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "MAT-7-D5-E1: Establece relaciones entre la posición y las vistas de un objeto.",
+          "MAT-7-D4-E1: Identifica los tipos de escalas y selecciona la  adecuada para la elaboración de planos de acuerdo al formato o espacio disponible para dibujar."
+        ],
+        "saberes": [
+          "Vistas de objetos tridimensionales (perspectiva, vista frontal o alzada, vista superior o planta, vista lateral o perfil).",
+          "Escalas y representaciones proporcionales."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": "Resuelvo y formulo problemas a partir de un conjunto de datos presentados en tablas, diagramas de barras, diagramas circulares.",
+        "dba": [
+          "DBA-MAT-7-8: Plantea preguntas para realizar estudios estadísticos en los que representa información mediante histogramas, polígonos de frecuencia, gráficos de línea entre otros; identifica variaciones, relaciones o tendencias para dar respuesta a las preguntas planteadas."
+        ],
+        "evidencias": [
+          "MAT-7-D8-E1: Plantea preguntas, diseña y realiza un plan para recolectar la información pertinente.",
+          "MAT-7-D8-E2: Construye tablas de frecuencia y gráficos (histogramas, polígonos de frecuencia, gráficos de línea, entre otros), para datos agrupados usando, calculadoras o software adecuado."
+        ],
+        "saberes": [
+          "Muestreo aleatorio.",
+          "Representación gráfica de frecuencias absolutas y relativas, para datos agrupados."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
     ],
-    "evidencias": [
-      "MAT-7-D2-E1: Propone y utiliza diferentes procedimientos para realizar operaciones con números racionales.",
-      "MAT-7-D2-E2: Argumenta la necesidad de establecer propiedades y relaciones en conjuntos numéricos (paridad, múltiplos, divisibilidad, etc.).",
-      "MAT-7-D2-E3: Utiliza las operaciones y sus inversas en problemas de cálculo numérico.",
-      "MAT-7-D9-E1: Organiza información numérica en tablas, construye representaciones gráficas y las interpreta en situaciones de variación."
+    "2": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": "Resuelvo y formulo problemas cuya solución requiere de la potenciación o radicación. Justifico la pertinencia de un cálculo exacto o aproximado en la solución de un problema y lo razonable o no de las respuestas obtenidas. Utilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones.",
+        "dba": [
+          "DBA-MAT-7-2: Describe y utiliza diferentes algoritmos, convencionales y no convencionales, al realizar operaciones entre números racionales en sus diferentes representaciones (fracciones y decimales) y los emplea con sentido en la solución de problemas.",
+          "DBA-MAT-7-7: Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "MAT-7-D2-E1: Representa los números enteros y racionales en una recta numérica. ",
+          "MAT-7-D2-E2: Estima el valor de una raíz cuadrada y de una potencia.",
+          "MAT-7-D2-E3: Construye representaciones geométricas y pictóricas para ilustrar relaciones entre cantidades.",
+          "MAT-7-D7-E2: Toma decisiones informadas en exploraciones numéricas, algebraicas o gráficas de los modelos matemáticos usados."
+        ],
+        "saberes": [
+          "Enteros, racionales, comparación y operaciones.",
+          "Potenciación y radicación",
+          "Método de complementación, ensayo y error para solucionar ecuaciones."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Espacial Métrico",
+        "estandar": "Predigo y comparo los resultados de aplicar transformaciones rígidas (traslaciones, rotaciones, reflexiones) y homotecias (ampliaciones y reducciones) sobre figuras bidimensionales en situaciones matemáticas y en el arte. Identifico relaciones entre distintas unidades utilizadas para medir cantidades de la misma magnitud.",
+        "dba": [
+          "DBA-MAT-7-5: Observa objetos tridimensionales desde diferentes puntos de vista, los representa según su ubicación y los reconoce cuando se transforman mediante rotaciones, traslaciones y reflexiones.",
+          "DBA-MAT-7-4: Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "MAT-7-D5-E2: Reconoce e interpreta la representación de un objeto.",
+          "MAT-7-D4-E2: Expresa la misma medida con diferentes unidades según el contexto."
+        ],
+        "saberes": [
+          "Identificar algunas propiedades geométricas en figuras planas y sólidos.",
+          "Identificar las escalas en un mapa",
+          "Expresión de medidas con diferentes unidades."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": "Uso medidas de tendencia central (media, mediana, moda) para interpretar comportamiento de un conjunto de datos.",
+        "dba": [
+          "DBA-MAT-7-8: Plantea preguntas para realizar estudios estadísticos en los que representa información mediante histogramas, polígonos de frecuencia, gráficos de línea entre otros; identifica variaciones, relaciones o tendencias para dar respuesta a las preguntas planteadas."
+        ],
+        "evidencias": [
+          "MAT-7-D10-E3: Encuentra e interpreta las medidas de tendencia central y el rango en datos agrupados, empleando herramientas tecnológicas cuando sea posible. ",
+          "MAT-7-D10-E4: Analiza la información presentada identificando variaciones, relaciones o tendencias y elabora conclusiones que permiten responder la pregunta planteada."
+        ],
+        "saberes": [
+          "Cálculo de la Media, mediana, moda, rango, mediante herramientas tecnológicas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
     ],
-    "saberes": [
-      "Propiedades de los números racionales.",
-      "Paridad, múltiplos, divisibilidad.",
-      "Relaciones entre operaciones directas e inversas.",
-      "Organización de datos numéricos según patrones.",
-      "Igualdad y equivalencia en expresiones numéricas."
+    "3": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": "Justifico la elección de métodos e instrumentos de cálculo en la resolución de problemas. tilizo métodos informales (ensayo y error, complementación) en la solución de ecuaciones. Identifico las características de las diversas gráficas cartesianas (de puntos, continuas, formadas por segmentos, etc.) en relación con la situación que representan",
+        "dba": [
+          "DBA-MAT-7-2: Describe y utiliza diferentes algoritmos, convencionales y no convencionales, al realizar operaciones entre números racionales en sus diferentes representaciones (fracciones y decimales) y los emplea con sentido en la solución de problemas.",
+          "DBA-MAT-7-7:Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "MAT-7-D2-E4: Calcula e interpreta el máximo común divisor y el mínimo común múltiplo entre números enteros.",
+          "MAT-7-D2-E5: Describe procedimientos para calcular el resultado de una operación (suma, resta, multiplicación y división) entre números enteros y racionales.",
+          "MAT-7-D7-E3: Utiliza métodos informales exploratorios para resolver ecuaciones."
+        ],
+        "saberes": [
+          "Máximo común divisor y mínimo común múltiplo",
+          "Resolver problemas que involucran patrones numéricos o geométricos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Espacial Métrico",
+        "estandar": "Identifico características de localización de objetos en sistemas de representación cartesiana y geográfica. Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas). Resuelvo y formulo problemas que requieren técnicas de estimación",
+        "dba": [
+          "DBA-MAT-7-6: Representa en el plano cartesiano la variación de magnitudes (áreas y perímetro) y con base en la variación explica el comportamiento de situaciones y fenómenos de la vida diaria.",
+          "DBA-MAT-7-4: Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "MAT-7-D6-E1: Interpreta las modificaciones entre el perímetro y el área con un factor de variación respectivo. ",
+          "MAT-7-D6-E2: Establece diferencias entre los gráficos del perímetro y del área.",
+          "MAT-7-D4-E3: Representa e interpreta situaciones de ampliación y reducción en contextos diversos."
+        ],
+        "saberes": [
+          "Factores de variación en el perímetro y área.",
+          " Ampliación y reducción mediante uso de escalas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": "Uso modelos (diagramas de árbol, por ejemplo) para discutir y predecir posibilidad de ocurrencia de un evento.",
+        "dba": [
+          "DBA-MAT-7-9: Usa el principio multiplicativo en situaciones aleatorias sencillas y lo representa con tablas o diagramas de árbol. Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "MAT-7-D9-E1: Elabora tablas o diagramas de árbol para representar las distintas maneras en que un experimento aleatorio puede suceder.",
+          "MAT-7-D9-E2: Usa el principio multiplicativo para calcular el número de resultados posibles"
+        ],
+        "saberes": [
+          "Diagramas de tallo y hojas.",
+          "Diagramas de Árbol.",
+          "Principio multiplicativo para determinar la probabilidad de eventos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
     ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  },
-  {
-    "componente": "Espacial Métrico",
-    "estandar": "Identifico y describo figuras y cuerpos generados por cortes rectos y transversales de objetos tridimensionales. Calculo áreas y volúmenes a través de composición y descomposición de figuras y cuerpos. Reconozco el plano cartesiano como un sistema bidimensional que permite ubicar puntos como sistema de referencia gráfico o geográfico.",
-    "dba": [
-      "DBA-MAT-7-7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y movimientos.",
-      "DBA-MAT-7-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando composición, descomposición y fórmulas."
-    ],
-    "evidencias": [
-      "MAT-7-D7-E1: Localiza, describe y representa la posición y trayectoria de un objeto en el plano cartesiano.",
-      "MAT-7-D5-E1: Analiza la pertinencia de estrategias de estimación y explica posibles fuentes de error en mediciones.",
-      "MAT-7-D5-E2: Realiza estimaciones de medidas y contrasta los resultados con mediciones efectivas en contextos de problema."
-    ],
-    "saberes": [
-      "Cortes rectos y transversales de cuerpos sólidos.",
-      "Plano cartesiano y sistemas de referencia.",
-      "Cálculo de áreas y volúmenes mediante composición y descomposición.",
-      "Estrategias de estimación de medidas."
-    ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  },
-  {
-    "componente": "Aleatorio",
-    "estandar": "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar diversos tipos de datos (diagramas de barras, diagramas circulares). Comparo características compartidas por dos o más poblaciones o características diferentes dentro de una misma población.",
-    "dba": [
-      "DBA-MAT-7-11: Compara conjuntos de datos utilizando medidas de tendencia central y dispersión y las representa mediante gráficas estadísticas."
-    ],
-    "evidencias": [
-      "MAT-7-D11-E1: Distingue entre población y muestra en contextos estadísticos.",
-      "MAT-7-D11-E2: Selecciona y produce representaciones gráficas adecuadas para diferentes conjuntos de datos.",
-      "MAT-7-D11-E3: Interpreta gráficos estadísticos utilizando medidas de tendencia central y el rango.",
-      "MAT-7-D11-E4: Compara dos o más poblaciones o grupos usando medidas de tendencia central y rango.",
-      "MAT-7-D11-E5: Describe el comportamiento de distintas poblaciones o grupos a partir de sus medidas estadísticas."
-    ],
-    "saberes": [
-      "Población y muestra.",
-      "Uso de software para representación gráfica de datos.",
-      "Media, mediana, moda y rango."
-    ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  }
-],
-"4": [
-  {
-    "componente": "Numérico Variacional",
-    "estandar": "Resuelvo y formulo problemas utilizando propiedades básicas de la teoría de números, como las de la igualdad, las distintas formas de desigualdad y las operaciones de adición, sustracción, multiplicación, división y potenciación. Reconozco el conjunto de valores de cada una de las cantidades variables ligadas entre sí en situaciones concretas de cambio (variación).",
-    "dba": [
-      "DBA-MAT-7-3: Establece y utiliza relaciones de orden y equivalencia entre números racionales en múltiples representaciones.",
-      "DBA-MAT-7-9: Modela situaciones de variación usando expresiones numéricas, algebraicas y gráficas."
-    ],
-    "evidencias": [
-      "MAT-7-D3-E1: Reconoce y establece relaciones de orden y equivalencia entre números racionales y las utiliza para argumentar procedimientos.",
-      "MAT-7-D3-E2: Define criterios para comparar y ordenar números racionales.",
-      "MAT-7-D3-E3: Representa en la recta numérica la posición de números racionales usando diferentes estrategias.",
-      "MAT-7-D9-E2: Describe procedimientos para resolver ecuaciones lineales sencillas.",
-      "MAT-7-D9-E3: Realiza combinaciones de operaciones, analiza propiedades y resuelve ecuaciones numéricas."
-    ],
-    "saberes": [
-      "Desigualdades y relaciones de orden.",
-      "Equivalencia entre fracciones y decimales.",
-      "Ecuaciones lineales de una incógnita.",
-      "Combinación de operaciones aritméticas."
-    ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  },
-  {
-    "componente": "Espacial Métrico",
-    "estandar": "Identifico y describo figuras y cuerpos generados por cortes rectos y transversales de objetos tridimensionales. Calculo áreas y volúmenes a través de composición y descomposición de figuras y cuerpos. Reconozco el plano cartesiano como un sistema bidimensional que permite ubicar puntos como sistema de referencia gráfico o geográfico.",
-    "dba": [
-      "DBA-MAT-7-7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y movimientos.",
-      "DBA-MAT-7-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando composición, descomposición y fórmulas."
-    ],
-    "evidencias": [
-      "MAT-7-D7-E2: Identifica e interpreta la semejanza de figuras mediante rotaciones, ampliaciones y reducciones en el plano cartesiano.",
-      "MAT-7-D5-E3: Estima longitudes, áreas, volúmenes, masas, pesos y ángulos, con o sin presencia del objeto, y selecciona instrumentos adecuados según la situación."
-    ],
-    "saberes": [
-      "Transformaciones en el plano cartesiano (rotaciones, ampliaciones y reducciones).",
-      "Circunferencia y círculo.",
-      "Cálculo de áreas, perímetros y volúmenes."
-    ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  },
-  {
-    "componente": "Aleatorio",
-    "estandar": "Conjeturo acerca del resultado de un experimento aleatorio usando proporcionalidad y nociones básicas de probabilidad.",
-    "dba": [
-      "DBA-MAT-7-12: Predice y explica la probabilidad de ocurrencia de eventos simples usando frecuencias relativas y modelos de probabilidad."
-    ],
-    "evidencias": [
-      "MAT-7-D12-E1: Enumera los posibles resultados de experimentos aleatorios sencillos.",
-      "MAT-7-D12-E2: Repite un experimento aleatorio, registra resultados en tablas y gráficos de frecuencia.",
-      "MAT-7-D12-E3: Determina y explica probabilidades de eventos a partir de frecuencias relativas.",
-      "MAT-7-D12-E4: Compara resultados experimentales con predicciones teóricas."
-    ],
-    "saberes": [
-      "Probabilidad y frecuencia relativa.",
-      "Eventos seguros, probables e imposibles."
-    ],
-    "socioemocional": null,
-    "diccionario": null,
-    "tareas_dce": null,
-    "fuente": null
-  }
-]
+    "4": [
+      {
+        "componente": "Numérico Variacional",
+        "estandar": "Justifico el uso de representaciones y procedimientos en situaciones de proporcionalidad directa e inversa. Establezco conjeturas sobre propiedades y relaciones de los números, utilizando calculadoras o computadores. Identifico las características de las diversas gráficas cartesianas (de puntos, continuas, formadas por segmentos, etc.) en relación con la situación que representan",
+        "dba": [
+          "DBA-MAT-7-3: Establece y utiliza relaciones de orden y equivalencia entre números racionales en múltiples representaciones.",
+          "DBA-MAT-7-7: Plantea y resuelve ecuaciones, las describe verbalmente y representa situaciones de variación de manera numérica, simbólica o gráfica."
+        ],
+        "evidencias": [
+          "MAT-7-D3-E1: Realiza operaciones para calcular el número decimal que representa una fracción y viceversa.",
+          "MAT-7-D3-E2: Usa las propiedades distributiva, asociativa, modulativa, del inverso y conmutativa de la suma y la multiplicación en los racionales para proponer diferentes caminos al realizar un cálculo. ",
+          "MAT-7-D3-E3: Determina el valor desconocido de una cantidad a partir de las transformaciones de una expresión algebraica.",
+          "MAT-7-D-E3: Utiliza métodos informales exploratorios para resolver ecuaciones."
+        ],
+        "saberes": [
+          "Proporcionalidad directa e inversa para resolver problemas. ",
+          "Representar, comparar y ordenar decimales.",
+          "Uso de propiedades de los números.",
+          "Representar patrones y secuencias usando dibujos o números."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Espacial Métrico",
+        "estandar": "Resuelvo y formulo problemas usando modelos geométricos. Identifico características de localización de objetos en sistemas de representación cartesiana y geográfica. Resuelvo y formulo problemas que involucren factores escalares (diseño de maquetas, mapas). Identifico relaciones entre distintas unidades utilizadas para medir cantidades de la misma magnitud",
+        "dba": [
+          "DBA-MAT-7-6: Representa en el plano cartesiano la variación de magnitudes (áreas y perímetro) y con base en la variación explica el comportamiento de situaciones y fenómenos de la vida diaria.",
+          "DBA-MAT-7-4: Utiliza escalas apropiadas para representar e interpretar planos, mapas y maquetas con diferentes unidades."
+        ],
+        "evidencias": [
+          "MAT-7-D6-E3: Coordina los cambios de la variación entre el perímetro y la longitud de los lados o el área de una figura.",
+          "MAT-7-D6-E4: Organiza la información (registros tabulares y gráficos) para comprender la relación entre el perímetro y el área.",
+          "MAT-7-D4-E3: Representa e interpreta situaciones de ampliación y reducción en contextos diversos."
+        ],
+        "saberes": [
+          "Modelos geométricos mediante el análisis del perímetro y el área.",
+          "Estimación de medidas"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Aleatorio",
+        "estandar": "Uso modelos (diagramas de árbol, por ejemplo) para discutir y predecir posibilidad de ocurrencia de un evento. Predigo y justifico razonamientos y conclusiones usando información estadística.",
+        "dba": [
+          "DBA-MAT-7-9: Usa el principio multiplicativo en situaciones aleatorias sencillas y lo representa con tablas o diagramas de árbol. Asigna probabilidades a eventos compuestos y los interpreta a partir de propiedades básicas de la probabilidad."
+        ],
+        "evidencias": [
+          "MAT-7-D12-E3: Interpreta el número de resultados considerando que cuando se cambia de orden no se altera el resultado."
+        ],
+        "saberes": [
+          "Probabilidades de eventos compuestos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
   }
 }
-
-
-
-

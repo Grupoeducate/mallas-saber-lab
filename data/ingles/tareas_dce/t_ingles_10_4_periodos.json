@@ -1,0 +1,279 @@
+{
+  "area": "Inglés",
+  "grado": "10",
+  "nombre_archivo": "t_ingles_10_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha, Conversación, Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Influencer's Toolkit",
+            "un_reto_sugerido": "Sostener una conversación espontánea grabada tipo 'Podcast' sobre un tema de interés personal, usando lenguaje corporal y entonación efectiva.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar videos cortos de oradores famosos sin sonido para identificar emociones y propósitos solo a través de gestos.",
+              "visual": "Crear un 'Cheat Sheet' o infografía con frases clave para iniciar (Opening), mantener (Keeping) y cerrar (Closing) una charla.",
+              "produccion": "Grabar un clip de audio de 2 minutos donde entrevistes a un compañero sobre su pasión, aplicando estrategias de escucha activa."
+            },
+            "para_pensar": [
+              "¿Cómo influye nuestro lenguaje corporal en la confianza que proyectamos al hablar inglés?",
+              "¿Por qué el propósito de un mensaje cambia según el tono de voz que usemos?"
+            ],
+            "pistas_del_exito": [
+              "Inicia y cierra la conversación usando expresiones naturales (ej: 'By the way', 'Anyway').",
+              "Utiliza gestos y cambios de entonación para enfatizar ideas principales."
+            ],
+            "un_refuerzo": "Ejercicio de 'Shadowing': repetir diálogos de películas imitando exactamente la gestualidad y pausas del actor."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Opinion Detectives",
+            "un_reto_sugerido": "Analizar tres artículos de diferentes fuentes sobre un mismo tema para identificar el punto de vista de cada autor.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Fake or Real': leer titulares impactantes y debatir si son hechos u opiniones basadas en conocimientos previos.",
+              "visual": "Diseñar un mapa conceptual que conecte palabras clave del texto con las inferencias realizadas por el estudiante.",
+              "produccion": "Redactar un breve 'Fact-Check' (verificación de hechos) donde se resuma el enunciado más importante del autor."
+            },
+            "para_pensar": [
+              "¿Cómo podemos distinguir entre una información objetiva y la opinión personal de un escritor?",
+              "¿Qué papel juegan nuestras inferencias al leer textos en una lengua extranjera?"
+            ],
+            "pistas_del_exito": [
+              "Extrae al menos 3 ideas principales de un texto argumentativo complejo.",
+              "Identifica el sesgo o la intención del autor basándose en las palabras clave utilizadas."
+            ],
+            "un_refuerzo": "Guía de conectores de opinión (In my view, However, Therefore) para facilitar la comprensión de textos argumentativos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Versatile Writer",
+            "un_reto_sugerido": "Escribir dos versiones de un mismo mensaje (una carta formal y un correo informal) adaptando el vocabulario al lector.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar ejemplos de correos electrónicos mal redactados y proponer correcciones según el contexto.",
+              "visual": "Crear una tabla comparativa de 'Formal vs Informal English' para situaciones comunes (pedir algo, agradecer, invitar).",
+              "produccion": "Redactar una carta de solicitud de información para una universidad y un mensaje de WhatsApp para un amigo sobre el mismo tema."
+            },
+            "para_pensar": [
+              "¿Por qué es vital conocer a nuestro lector antes de empezar a escribir?",
+              "¿Cómo afecta el uso de estructuras gramaticales incorrectas a la claridad de un correo electrónico?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia el uso de saludos y despedidas según el grado de formalidad.",
+              "Estructura el mensaje con claridad (Introducción, cuerpo y conclusión)."
+            ],
+            "un_refuerzo": "Plantillas de 'Email Etiquette' con frases pre-establecidas para diferentes contextos académicos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Negotiation Table",
+            "un_reto_sugerido": "Participar en un debate sobre estilos de vida modernos, negociando acuerdos y usando lenguaje funcional para discutir alternativas.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un podcast sobre 'Vivir en el extranjero' e identificar los conectores de contraste y adición usados por los hablantes.",
+              "visual": "Hacer un glosario visual de 'Functional Language' para debates (I agree, I see your point, but..., However).",
+              "produccion": "Simulacro de debate grupal donde se deba llegar a un acuerdo sobre una regla escolar, manteniendo una pronunciación inteligible."
+            },
+            "para_pensar": [
+              "¿Cómo se logra una negociación exitosa cuando hay opiniones opuestas?",
+              "¿Por qué la pronunciación es una herramienta de respeto hacia el interlocutor?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza conectores lógicos para hilar sus argumentos en el debate.",
+              "Responde a preguntas de sus compañeros de forma coherente con el contexto."
+            ],
+            "un_refuerzo": "Práctica de 'Minimal Pairs' para mejorar la claridad de sonidos específicos que causan confusión al hablar."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Legacy Seekers: World Heroes",
+            "un_reto_sugerido": "Realizar una exposición oral sobre la vida de un héroe mundial usando el Presente Perfecto para resaltar sus logros hasta hoy.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas sobre qué hace a alguien un 'héroe' y clasificar logros usando la estructura 'Have/Has + Participio'.",
+              "visual": "Diseñar una línea de tiempo biográfica interactiva con fotos y frases en Present Perfect (Affirmative/Negative).",
+              "produccion": "Presentar un monólogo caracterizando al personaje, respondiendo preguntas del público al finalizar la exposición."
+            },
+            "para_pensar": [
+              "¿Qué impacto tienen los logros del pasado en nuestra identidad actual?",
+              "¿Cómo nos sentimos al hablar frente a otros sobre temas que nos inspiran?"
+            ],
+            "pistas_del_exito": [
+              "Emplea correctamente el Presente Perfecto en sus tres formas (Afirmativa, Negativa e Interrogativa).",
+              "Muestra seguridad y confianza en su expresión corporal durante la exposición."
+            ],
+            "un_refuerzo": "Lista de verbos irregulares en participio pasado con ejemplos de oraciones biográficas."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Identity Report",
+            "un_reto_sugerido": "Escribir un informe comparativo sobre los valores de dos culturas diferentes basándose en lecturas previas.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de perfiles de 'Héroes del Mundo' e identificación de valores culturales (resiliencia, libertad, justicia).",
+              "visual": "Crear un cuadro comparativo de 'Cultural Values' entre la cultura propia y una extranjera.",
+              "produccion": "Redactar un resumen de mediana longitud que interprete cómo la historia de un país construye su identidad actual."
+            },
+            "para_pensar": [
+              "¿De qué manera la lectura nos ayuda a entender el mundo sin haber viajado?",
+              "¿Cómo podemos expresar nuestra identidad cultural de forma escrita?"
+            ],
+            "pistas_del_exito": [
+              "Sintetiza información compleja en un resumen claro.",
+              "Utiliza vocabulario relacionado con identidades y valores globales."
+            ],
+            "un_refuerzo": "Guía para la construcción de párrafos (Topic sentence, Supporting details, Concluding sentence)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Neuro-Entrepreneurs: Mind Hackers",
+            "un_reto_sugerido": "Diseñar y presentar una idea de negocio basada en una de las 'Inteligencias Múltiples', escuchando y dando feedback respetuoso a otros.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un audio sobre el funcionamiento del cerebro y las inteligencias múltiples, tomando notas tipo 'Cornell'.",
+              "visual": "Hacer un test de inteligencias múltiples y graficar los resultados personales en una 'Rueda de Fortalezas'.",
+              "produccion": "Sostener conversaciones rápidas (Speed dating) para convencer a otros de invertir en su idea de negocio basada en talentos."
+            },
+            "para_pensar": [
+              "¿Cómo influye conocer nuestro tipo de inteligencia en nuestra capacidad para aprender inglés?",
+              "¿Por qué el respeto es la base de un debate académico exitoso?"
+            ],
+            "pistas_del_exito": [
+              "Escucha atentamente a sus compañeros y realiza preguntas de seguimiento pertinentes.",
+              "Participa espontáneamente defendiendo su punto de vista con lenguaje claro."
+            ],
+            "un_refuerzo": "Video sobre 'Growth Mindset' para discutir la plasticidad cerebral en el aprendizaje de idiomas."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Life in Progress: The Vlog",
+            "un_reto_sugerido": "Narrar detalladamente una experiencia personal que ha durado mucho tiempo usando el Present Perfect Continuous.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar la diferencia entre 'I have worked' y 'I have been working' a través de ejemplos de la vida diaria.",
+              "visual": "Dibujar una 'Línea de Continuidad' de sus hobbies o estudios actuales.",
+              "produccion": "Grabar un monólogo de 3 minutos narrando una historia de superación personal que aún esté en desarrollo."
+            },
+            "para_pensar": [
+              "¿Qué actividades has estado haciendo últimamente que han cambiado tu forma de ver la vida?",
+              "¿Cómo ayuda el tiempo continuo a dar detalle a una narración?"
+            ],
+            "pistas_del_exito": [
+              "Estructura correctamente oraciones en Present Perfect Continuous (Subject + have/has been + -ing).",
+              "Mantiene una audiencia interesada mediante una narración detallada y fluida."
+            ],
+            "un_refuerzo": "Práctica de verbos de estado (stative verbs) que no suelen usarse en tiempos continuos."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "Teen Startup Magazine",
+            "un_reto_sugerido": "Escribir un artículo de revista sobre 'Emprendedores Adolescentes' resaltando los valores culturales de su región.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de casos de éxito de jóvenes emprendedores, identificando las ideas principales y secundarias.",
+              "visual": "Diseñar la portada y el layout de una revista digital usando herramientas como Canva o dibujos manuales.",
+              "produccion": "Escribir un correo electrónico formal a un emprendedor real invitándolo a una entrevista escolar."
+            },
+            "para_pensar": [
+              "¿Cómo pueden los jóvenes impactar positivamente su economía local?",
+              "¿De qué manera los valores de nuestra cultura se reflejan en la forma en que trabajamos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica información específica en textos informativos sobre emprendimiento.",
+              "Redacta textos que integran valores culturales de forma coherente."
+            ],
+            "un_refuerzo": "Glosario de términos de negocios y emprendimiento (Startup, Funding, Leadership, Target)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The 20th Century Newsroom",
+            "un_reto_sugerido": "Realizar una simulación de noticiero sobre cambios políticos y económicos del siglo XX, basándose en la escucha de testimonios históricos.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de discursos históricos famosos e identificar el tema y la situación política descrita.",
+              "visual": "Crear un 'Mapa Mundi de Cambios' con colores para zonas de conflicto o crecimiento económico del siglo pasado.",
+              "produccion": "Simular una mesa redonda donde se discutan las acciones que un líder de negocios debe tener hoy basándose en lecciones del pasado."
+            },
+            "para_pensar": [
+              "¿Cómo los eventos del siglo XX siguen moldeando nuestra economía actual?",
+              "¿Qué estrategias de escucha nos sirven cuando el audio tiene ruidos históricos o interferencia?"
+            ],
+            "pistas_del_exito": [
+              "Extrae el propósito central de un texto oral sobre temas sociales complejos.",
+              "Usa estrategias de inicio y cierre de conversación para dar fluidez a la mesa redonda."
+            ],
+            "un_refuerzo": "Línea de tiempo interactiva con audios de los hitos del siglo XX."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Walt Disney Pitch",
+            "un_reto_sugerido": "Hacer una presentación detallada sobre la vida de un emprendedor destacado, respondiendo preguntas del 'jurado' tras la exposición.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar videos de Walt Disney o Steve Jobs identificando elementos metalingüísticos (pausas dramáticas, énfasis).",
+              "visual": "Crear un guion visual (Storyline) con las etapas del éxito del emprendedor elegido.",
+              "produccion": "Exponer la biografía detallada del personaje con seguridad, confianza y uso adecuado de apoyos visuales."
+            },
+            "para_pensar": [
+              "¿Qué características personales permiten a alguien convertirse en un emprendedor destacado?",
+              "¿Cómo manejamos la ansiedad al responder preguntas imprevistas en inglés?"
+            ],
+            "pistas_del_exito": [
+              "Narra historias de forma detallada y coherente.",
+              "Responde inquietudes del público con seguridad gramatical y léxica."
+            ],
+            "un_refuerzo": "Taller de 'Public Speaking': técnicas de respiración y contacto visual para oradores."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Business Proposal",
+            "un_reto_sugerido": "Escribir una propuesta de proyecto comunitario clara y bien estructurada, dirigida a un posible donante o inversionista.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de biografías de emprendedores para extraer lecciones sobre perseverancia y estrategia.",
+              "visual": "Hacer un esquema del proyecto usando el modelo 'Problem-Solution-Impact'.",
+              "produccion": "Redactar una propuesta formal de 300 palabras cuidando la ortografía, el tono profesional y el lector objetivo."
+            },
+            "para_pensar": [
+              "¿Cómo la lectura de biografías nos inspira a escribir nuestras propias metas?",
+              "¿Por qué un texto bien estructurado tiene más probabilidades de éxito en el mundo laboral?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza vocabulario técnico adecuado a la disciplina del proyecto.",
+              "Distingue entre información general y específica al citar fuentes en su texto."
+            ],
+            "un_refuerzo": "Revisión de pares basada en una rúbrica de redacción formal (Cohesion, Coherence, Grammar, Lexis)."
+          }
+        }
+      ]
+    }
+  ]
+}

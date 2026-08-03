@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "6",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -18,7 +18,14 @@
           "Compara teorías científicas, religiosas y mitos de culturas ancestrales sobre el origen del universo.",
           "Expresa la importancia de explorar el universo como una posibilidad para entender el origen y el cambio de las formas de vida en la Tierra."
         ],
-        "saberes": ["Teorías sobre el origen del universo", "Del mito a la cosmología", "Ubicación geoespacial", "Características climáticas", "Sistema solar", "El universo", "Formas de vida en la Tierra"],
+        "saberes": [
+          "Teorías sobre el origen del universo",
+          "Del mito a la cosmología",
+          "Sistema solar y el universo",
+          "Formas de vida en la Tierra",
+          "Características climáticas",
+          "Ubicación geoespacial"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -32,7 +39,12 @@
           "Diferencia las características fisiológicas y anatómicas presentes en los australopithecus, homo habilis, homo erectus, homo neanderthalensis y homo sapiens sapiens, reconociendo los factores que incidieron en estos cambios.",
           "Identifica los cambios tecnológicos que tuvieron los homínidos (piedras talladas, huesos, conchas) así como las repercusiones en su vida y en el entorno."
         ],
-        "saberes": ["La prehistoria y la historia", "Etapas de la historia", "Cronología", "Proceso de hominización", "Teoría de Darwin"],
+        "saberes": [
+          "Etapas de la historia (cronología)",
+          "La prehistoria y la historia",
+          "Proceso de hominización",
+          "Teoría de Darwin"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -90,7 +102,14 @@
           "Describe las interacciones que se dan entre el relieve, el clima, las zonas bioclimáticas (cambios en la temperatura, mareas, vientos, corrientes marinas, nubes, radiación solar) y las acciones humanas.",
           "Explica la teoría de la deriva continental y la dinámica interna de la Tierra reconociendo los efectos que esta genera: sismos, tsunamis, erupciones volcánicas y cambios en el paisaje."
         ],
-        "saberes": ["Husos horarios", "Relieve terrestre", "Zonas bioclimáticas", "Relación relieve-clima", "Población y formas de vida", "Deriva continental", "Dinámica interna de la Tierra"],
+        "saberes": [
+          "El territorio",
+          "Características físicas del entorno natural",
+          "El relieve terrestre",
+          "El relieve, el clima y las zonas bioclimáticas",
+          "La poblcionby sus formas de vida",
+          "Demografía"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -104,7 +123,11 @@
           "Explica el papel del trabajo de los homínidos (caza, pesca, recolección) y la importancia de estas actividades en la organización social y en el proceso de humanización.",
           "Discute teorías sobre las posibles formas de poblamiento en los diferentes continentes."
         ],
-        "saberes": ["Cultura de los pueblos", "Características de la sociedad colombiana", "Papel del trabajo en los homínidos", "Poblamiento de los continentes", "Nomadismo y sedentarismo"],
+        "saberes": [
+          "Cultura de los pueblos",
+          "Papel del trabajo en los homínidos",
+          "Poblamiento de los continentes",
+          "Nomadismo y sedentarismo"],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -155,7 +178,12 @@
           "Diferencia las repercusiones de algunos fenómenos climáticos (huracanes, tornados, fenómeno del niño y de la niña, lluvias tropicales) en la vida de las personas.",
           "Argumenta a partir de evidencias los efectos de un sismo en la población (tomando como ejemplo uno sucedido en Colombia) y conoce las recomendaciones a seguir en caso de un sismo."
         ],
-        "saberes": ["Sistemas de producción", "Campañas de prevención", "Desastres naturales", "Fenómeno del Niño y la Niña", "Prevención de sismos"],
+        "saberes": [
+          "Características climáticas",
+          "Desastres naturales",
+          "Sistemas de producción",
+          "Campañas de prevención"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -171,7 +199,13 @@
           "Establece las implicaciones del proceso de sedentarización, la domesticación de animales y el empleo de mano de obra esclavizada en la revolución agrícola.",
           "Expresa opiniones sobre la influencia de la agricultura y las primeras obras de ingeniería en el desarrollo de las sociedades actuales."
         ],
-        "saberes": ["Organización social antigua", "Civilizaciones antiguas", "Ciudades fluviales", "Revolución agrícola", "Ingeniería en la antigüedad", "Domesticación de animales"],
+        "saberes": [
+          "Organización social económica, social, política y cultural de las antiguas civilizaciones",
+          "Organización social económica, social, política y cultural desde la antiguedad hasta la época modernar (generalidades)",
+          "El papel de los ríos en la consolidación de las primeras civilizaciones",
+          "El papel de la agricultura, la ingienieria, en el desarrollo de los prueblos antiguos",
+          "Civilización Griega"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -293,4 +327,5 @@
       }
     ]
   }
+
 }

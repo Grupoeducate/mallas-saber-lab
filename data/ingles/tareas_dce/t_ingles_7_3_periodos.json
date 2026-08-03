@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 7,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Wildlife Time-Traveler",
+            "un_reto_sugerido": "¿Cómo podemos reconstruir la historia de una especie animal basándonos en lo que estaba haciendo antes de que su hábitat cambiara?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una grabación de sonidos de la naturaleza e identificar animales y acciones simultáneas (ej. pájaros cantando mientras el viento soplaba).",
+              "visual": "Crear un 'Diorama de Acciones Pasadas' con materiales reciclados, representando una escena donde un animal realizaba una acción (Past Continuous) cuando ocurrió un evento (Past Simple).",
+              "produccion": "Responder preguntas sobre un texto oral identificando la relación entre acciones en pasado simple y continuo, usando conectores de contraste."
+            },
+            "para_pensar": [
+              "¿Por qué es vital entender el pasado de un ecosistema para proteger su futuro?",
+              "¿Cómo influyen los cambios climáticos repentinos en las rutinas de los animales? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Diferencia el uso del pasado simple y continuo en contextos de descripción natural.",
+              "Identifica vocabulario específico de animales y hábitats en audios pausados."
+            ],
+            "un_refuerzo": "Utilizar una línea de tiempo física donde el estudiante ubique tarjetas de 'acciones largas' (was/were -ing) y 'acciones cortas' (ed/irregular)."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Polite Explorer's Council",
+            "un_reto_sugerido": "¿Cómo pedirías ayuda para salvar a un animal herido usando un lenguaje cortés y preciso en una situación de emergencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de interacciones sociales y clasificar gestos en 'pedir favor', 'agradecer' o 'disculparse'.",
+              "visual": "Juego de rol 'Rescate en la Selva': Los estudiantes deben simular una conversación donde piden favores y agradecen mientras narran lo que estaba sucediendo en el lugar.",
+              "produccion": "Iniciar y mantener una conversación sencilla sobre una experiencia personal con animales, usando conectores de adición y contraste."
+            },
+            "para_pensar": [
+              "¿Cómo la cortesía puede cambiar el resultado de una negociación ambiental?",
+              "¿Por qué el lenguaje corporal es tan importante como las palabras en una conversación?"
+            ],
+            "pistas_del_exito": [
+              "Participa en situaciones comunicativas pidiendo favores y agradeciendo con fluidez.",
+              "Narra hechos familiares combinando pasado simple y continuo de forma lógica."
+            ],
+            "un_refuerzo": "Tener un 'Menú de Frases de Cortesía' plastificado para usar como apoyo durante el juego de roles."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Habitat Detective Agency",
+            "un_reto_sugerido": "¿Qué pistas textuales nos permiten predecir si un animal podrá sobrevivir en un hábitat específico?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Skimming' de un texto sobre animales para identificar palabras clave relacionadas con la alimentación y el clima.",
+              "visual": "Diseñar una 'Ficha Técnica de Supervivencia' basada en la lectura, usando el diccionario para precisar términos sobre características físicas.",
+              "produccion": "Extraer información general y específica de un texto descriptivo, emitiendo una opinión sobre la protección de especies."
+            },
+            "para_pensar": [
+              "¿De qué manera la extinción de una sola especie afecta a toda la cadena alimenticia?",
+              "¿Cómo el uso del diccionario nos ayuda a entender conceptos científicos en otro idioma?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la idea principal y detalles en textos descriptivos sobre animales.",
+              "Usa estrategias de lectura para comprender el significado de palabras por contexto."
+            ],
+            "un_refuerzo": "Subrayar con colores diferentes las características físicas (adjetivos) y las acciones (verbos) en el texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Biodiversity Chronicle",
+            "un_reto_sugerido": "¿Cómo escribir un reporte científico breve que inspire a otros a cuidar el entorno de tu familia y amigos?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar una secuencia de imágenes sobre un evento ambiental y organizar las ideas usando conectores de secuencia (first, second).",
+              "visual": "Elaborar un 'Mini-Libro de Naturaleza' donde se describa a un animal, su hábitat y una anécdota pasada relacionada con él.",
+              "produccion": "Escribir un texto corto y coherente sobre hechos familiares o ambientales, aplicando reglas ortográficas y gramaticales vistas."
+            },
+            "para_pensar": [
+              "¿Cómo la escritura ayuda a documentar los cambios en nuestro entorno cercano?",
+              "¿Qué impacto tiene la ortografía en la claridad de una instrucción científica?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos narrativos cortos siguiendo un modelo preestablecido y secuencia lógica.",
+              "Expresa gustos y disgustos sobre temas ambientales con frases completas."
+            ],
+            "un_refuerzo": "Proporcionar un organizador gráfico de 'Causa y Efecto' para estructurar el texto antes de la redacción final."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "City Soundscapes & Rhythms",
+            "un_reto_sugerido": "¿Podemos identificar el nivel de desarrollo de una ciudad solo por los medios de transporte y actividades que escuchamos?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar audios de diferentes ciudades del mundo y clasificar los sonidos en 'transporte', 'ocio' o 'naturaleza'.",
+              "visual": "Crear un 'Mapa Sonoro' en el salón: los estudiantes deben ubicar imágenes de lugares (museum, park) según las descripciones auditivas recibidas.",
+              "produccion": "Interpretar preguntas y respuestas sobre actividades de tiempo libre y transporte en un audio de nivel intermedio."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el ruido del transporte a la salud de los ciudadanos?",
+              "¿Qué tecnologías modernas están haciendo que el transporte sea más sostenible? (Relación CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de lugares de la ciudad y medios de transporte en audios.",
+              "Diferencia tiempos verbales (presente/pasado) al escuchar rutinas urbanas."
+            ],
+            "un_refuerzo": "Usar tarjetas visuales de medios de transporte para levantar cada vez que se escuche uno en la grabación."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Urban Planner Debate",
+            "un_reto_sugerido": "¿Cómo convencerías a tus compañeros de que tu lugar favorito de la ciudad es el más importante para la comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una encuesta rápida en el salón sobre los lugares favoritos de ocio y graficar los resultados.",
+              "visual": "Simular una 'Asamblea de Ciudad': los estudiantes proponen qué hacer, dónde y cuándo, usando conectores de adición y contraste.",
+              "produccion": "Mantener una conversación comparando dos lugares de la ciudad, justificando preferencias con argumentos sencillos."
+            },
+            "para_pensar": [
+              "¿Qué hace que un espacio público sea inclusivo para todas las personas?",
+              "¿Cómo influye la arquitectura de una ciudad en el estado de ánimo de sus habitantes?"
+            ],
+            "pistas_del_exito": [
+              "Participa en conversaciones brindando información sobre lugares y eventos familiares.",
+              "Haga propuestas coherentes sobre qué hacer y dónde, usando vocabulario adecuado."
+            ],
+            "un_refuerzo": "Utilizar una lista de adjetivos comparativos (better, more modern, cheaper) como apoyo visual en el debate."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "City Guide Reviewers",
+            "un_reto_sugerido": "¿Qué hace que una descripción de un lugar sea tan atractiva que quieras visitarlo de inmediato?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer folletos turísticos cortos y marcar con un círculo los adjetivos descriptivos (beautiful, crowded, quiet).",
+              "visual": "Crear un 'Comparador de Ciudades' en una tabla, extrayendo detalles de dos textos descriptivos diferentes.",
+              "produccion": "Identificar la idea principal y detalles relevantes en un texto sobre lugares urbanos, emitiendo una opinión justificada."
+            },
+            "para_pensar": [
+              "¿Por qué algunas ciudades se vuelven famosas y otras no?",
+              "¿Cómo el turismo masivo impacta la infraestructura de una ciudad pequeña?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce y clasifica vocabulario de lugares y preposiciones de lugar en textos.",
+              "Compara y contrasta la descripción de dos lugares diferentes con precisión."
+            ],
+            "un_refuerzo": "Proporcionar un glosario con imágenes de los lugares mencionados en la lectura (library, museum, etc.)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Ideal City Designer",
+            "un_reto_sugerido": "¿Cómo diseñarías una ciudad desde cero que sea amigable con el medio ambiente y divertida para los jóvenes?",
+            "ruta_de_exploracion": {
+              "explorar": "Dibujar un croquis de su barrio ideal e identificar los lugares clave usando preposiciones de lugar.",
+              "visual": "Escribir un 'Blog Post' corto describiendo su ciudad imaginaria, usando conectores de causa y efecto (because, so).",
+              "produccion": "Escribir un texto coherente describiendo un lugar, incluyendo actividades posibles y opiniones personales."
+            },
+            "para_pensar": [
+              "¿Qué elementos tecnológicos no pueden faltar en una 'Smart City'?",
+              "¿Cómo la planificación urbana puede ayudar a reducir la contaminación? (Educación Ambiental)"
+            ],
+            "pistas_del_exito": [
+              "Usa vocabulario y estructuras gramaticales para describir lugares con coherencia.",
+              "Organiza ideas lógicamente en un texto corto sobre su entorno urbano."
+            ],
+            "un_refuerzo": "Utilizar una plantilla de 'Guía Turística' con secciones predefinidas para facilitar la organización del texto."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Opportunity Map",
+            "un_reto_sugerido": "¿Cómo cambiarían nuestras vidas si decidiéramos vivir en una cultura totalmente diferente a la nuestra?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar saludos y música de diferentes países e intentar identificar la nacionalidad y el idioma.",
+              "visual": "Construir un 'Árbol de Decisiones Condicionales': 'If I go to Japan, I will eat sushi'. Los estudiantes escuchan posibilidades y completan el árbol.",
+              "produccion": "Interpretar diálogos sobre viajes y experiencias, identificando estructuras condicionales simples (If... then...)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante conocer las costumbres de otros países antes de viajar?",
+              "¿Cómo la globalización tecnológica ha acercado a las culturas lejanas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de países, nacionalidades y costumbres en audios.",
+              "Reconoce la estructura de oraciones condicionales simples al escuchar posibilidades."
+            ],
+            "un_refuerzo": "Escuchar oraciones condicionales y unir la 'condición' con el 'resultado' usando fichas de colores."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Exchange Fair",
+            "un_reto_sugerido": "¿Cómo explicarías una tradición colombiana a un extranjero para que se sienta invitado a participar?",
+            "ruta_de_exploracion": {
+              "explorar": "Traer un objeto o imagen que represente una costumbre familiar y describirla brevemente en inglés.",
+              "visual": "Simular una 'Entrevista de Viaje': un estudiante es el viajero y otro el local, intercambiando información sobre países y nacionalidades.",
+              "produccion": "Mantener una conversación sobre experiencias de viaje (reales o imaginarias) usando condicionales y conectores de secuencia."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si todas las culturas del mundo fueran iguales?",
+              "¿Cómo el respeto por la diversidad cultural contribuye a la paz mundial?"
+            ],
+            "pistas_del_exito": [
+              "Participa en conversaciones brindando información sobre países y eventos culturales.",
+              "Da y recibe recomendaciones sobre viajes usando estructuras gramaticales adecuadas."
+            ],
+            "un_refuerzo": "Usar un 'Pasaporte de Conversación' con preguntas guía sobre comida, música y tradiciones."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "World Culture Investigators",
+            "un_reto_sugerido": "¿Qué elementos de la geografía y la historia influyen en la comida y la música de un país?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un mapa mundial y predecir las costumbres de un país basándose en su ubicación geográfica.",
+              "visual": "Crear un 'Cuadro Comparativo de Culturas' extrayendo datos de textos cortos sobre diferentes países (geografía, música, comida).",
+              "produccion": "Emitir una opinión justificada sobre un texto cultural leído, comparando la información con su propia cultura."
+            },
+            "para_pensar": [
+              "¿Cómo influye el clima en la forma de vestir y de vivir de las personas?",
+              "¿Por qué la música es considerada un lenguaje universal?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la idea principal y detalles en textos sobre países y culturas.",
+              "Compara y contrasta información de diferentes textos sobre un mismo tema cultural."
+            ],
+            "un_refuerzo": "Utilizar un mapa interactivo o digital para localizar los países mencionados en la lectura."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Travel Blogger's Diary",
+            "un_reto_sugerido": "¿Cómo narrar una experiencia de viaje de forma tan vívida que el lector sienta que está viajando contigo?",
+            "ruta_de_exploracion": {
+              "explorar": "Organizar una secuencia de fotos de un viaje imaginario y escribir pies de foto usando conectores de secuencia.",
+              "visual": "Escribir una 'Postal de Viaje' o un blog corto, describiendo un país, sus costumbres y una experiencia personal (real o ficticia).",
+              "produccion": "Escribir textos narrativos breves usando pasado y condicionales para describir planes y experiencias, con ortografía cuidada."
+            },
+            "para_pensar": [
+              "¿Cómo la tecnología (blogs, redes) ha cambiado la forma en que documentamos nuestros viajes?",
+              "¿Qué impacto ambiental tiene el turismo internacional y cómo podemos ser viajeros responsables?"
+            ],
+            "pistas_del_exito": [
+              "Usa conectores de secuencia y estructuras gramaticales para narrar experiencias de viaje.",
+              "Escribe información personal y cultural en formatos preestablecidos con coherencia."
+            ],
+            "un_refuerzo": "Proporcionar un 'Banco de Palabras de Viaje' (souvenir, flight, custom, landscape) para enriquecer el texto."
+          }
+        }
+      ]
+    }
+  ]
+}

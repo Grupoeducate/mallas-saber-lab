@@ -1,0 +1,79 @@
+{
+  "area": "Proyecto Socioemocional",
+  "grado": "9",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "competencia_anual": "Proyecto personal, resiliencia y propósito de vida",
+        "estandar": "Identifico mis metas personales en contextos escolares específicos",
+        "competencia": "Habilidades para la vida",
+        "eje_central": "Planteo mis metas",
+        "Habilidades": [
+          "Definición de Metas: Establece metas personales y académicas a corto y mediano plazo",
+          "Planificación Estratégica: Diseña planes de acción con pasos concretos para alcanzar sus metas",
+          "Compromiso y Esfuerzo: Demuestra esfuerzo sostenido para lograr los propósitos definidos"
+        ],
+        "evidencias_de_desempeno": [
+          "Nombra una meta concreta para mejorar en clase o proyecto grupal",
+          "Explica por qué esa meta es importante para su desarrollo"
+        ],
+        "orientacion_bateria": "Auto conocimiento y propósito personal"
+      }
+    ],
+    "2": [
+      {
+        "competencia_anual": "Proyecto personal, resiliencia y propósito de vida",
+        "estandar": "Planifico acciones autónomas para alcanzar mis metas escolares",
+        "competencia": "Autonomía emocional",
+        "eje_central": "Me levanto cuando caigo",
+        "Habilidades": [
+          "Persistencia ante el Fracaso: Mantiene el intento y la perseverancia a pesar de los errores",
+          "Aprendizaje y Reflexión: Analiza los errores y busca soluciones para mejorar el desempeño",
+          "Confianza en la Superación: Expresa la creencia en su capacidad para superar las dificultades"
+        ],
+        "evidencias_de_desempeno": [
+          "Divide su meta en pasos pequeños con plazos definidos",
+          "Identifica recursos necesarios para ejecutar su plan"
+        ],
+        "orientacion_bateria": "Resiliencia emocional"
+      }
+    ],
+    "3": [
+      {
+        "competencia_anual": "Proyecto personal, resiliencia y propósito de vida",
+        "estandar": [
+          "Resisto distracciones emocionales para cumplir mis metas",
+          "Gestiono con autonomía mis proyectos personales y metas de vida escolar, contribuyendo al grupo con responsabilidad"
+        ],
+        "competencia": [
+          "Autonomía emocional",
+          "Habilidades para la vida y el desarrollo integral"
+        ],
+        "eje_central": [
+          "Rompo el silencio",
+          "Equilibrio en el mundo digital"
+        ],
+        "Habilidades": [
+          "Identificación de Conductas de Riesgo: Reconoce situaciones de acoso o maltrato entre compañeros",
+          "Intervención Prosocial y Denuncia: Busca ayuda o denuncia activamente situaciones de acoso escolar",
+          "Defensa del Respeto y la Integridad: Defiende el respeto y la integridad de los compañeros vulnerables",
+          "Autorregulación del Tiempo Digital: Regula el tiempo dedicado a redes sociales y dispositivos digitales",
+          "Uso Responsable de la Tecnología: Demuestra responsabilidad al usar tecnología para fines académicos",
+          "Equilibrio entre Actividades: Prioriza actividades fuera de pantalla para un bienestar integral"
+        ],
+        "evidencias_de_desempeno": [
+          "Mantiene enfoque ante frustraciones durante tareas planificadas",
+          "Ajusta su plan ante obstáculos sin abandonar la meta",
+          "Evalúa avances de sus metas y propone mejoras autónomas",
+          "Integra sus logros personales al trabajo colaborativo escolar"
+        ],
+        "orientacion_bateria": [
+          "Toma de decisiones y responsabilidad ética",
+          "Proyecto de vida y contribución social"
+        ]
+      }
+    ]
+  }
+}

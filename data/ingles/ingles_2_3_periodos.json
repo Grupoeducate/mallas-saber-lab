@@ -1,0 +1,368 @@
+{
+  "area": "Inglés",
+  "grado": 2,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Entiendo cuando me saludan y se despiden de mí.",
+          "(Evidencia) Expreso e indico necesidades básicas relacionadas al aula.",
+          "(Saber Conocer) Reconoce y responde a frases de cortesía dentro y fuera del salón de clases (excuse me, please, thanks, can you borrow, silence…)",
+          "(Saber Conocer) Comprende y responde a instrucciones dentro del aula (open the book, go to page.., write your name, sit down, be quiet, stand up, make a line, rise your hand)",
+          "(Saber Conocer) Reconoce y responde a saludos y despedidas, asi como preguntas de información personal.",
+          "(Saber Conocer) Identifica adjetivos descriptivos (tall, short, kind, fast, intelligent…)",
+          "(Saber Hacer) Formula y responde a frases para pedir o corresponder favores (please, sorry, yes, no, that’s ok, that is not ok…)",
+          "(Saber Hacer) Interpreta preguntas y respuestas sencillas sobre información personal y descripciones (My name is…, I’m … years old, I live in…, I’m from…, I’m tall, She is kind, he is fast…)",
+          "(Saber Aplicar) Reconoce en carteles, avisos o señales, instrucciones sencillas dentro y fuera del aula (be quiet, don't enter, no cell phone, danger)",
+          "(Saber Aplicar) Compara y contrasta las características físicas e información personal de diferentes compañeros y familiares"
+        ],
+        "saberes": [
+          "Saludos y despedidas.",
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Los gustos.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Uso expresiones cotidianas para indicar necesidades básicas en el aula.",
+          "(Evidencia) Describo algunas características de mí mismo, de otras personas, de animales, de lugares y del clima."
+        ],
+        "saberes": [
+          "Saludos y despedidas.",
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Los gustos.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+        "dba": [
+          "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
+        ],
+        "evidencias": [
+          "(Evidencia) Identifico palabras Relacionadas entre sí sobre temas que me son familiares.",
+          "(Evidencia) Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+          "(Evidencia) Expreso mis sentimientos y estados de ánimo.",
+          "(Evidencia) Menciono lo que me gusta y lo que no me gusta.",
+          "(Evidencia) Respondo a saludos y a despedidas.",
+          "(Evidencia) Comprendo descripciones cortas y sencillas de objetos y lugares conocidos.",
+          "(Saber Conocer) Identifica vocabulario básico relacionado a saludos y despedidas (hello, goodbye, good morning, good afternoon, see you, how are you?)",
+          "(Saber Conocer) Reconoce vocabulario y frases relacionadas con rutinas diarias y actividades de tiempo libre (wake up, eat breakfast/lunch/dinner, play, read, ….)",
+          "(Saber Hacer) Utiliza frases de saludos y despedidas de manera correcta en situaciones dentro y fuera del aula (I'm ok, yes, no, thanks, thank you, see you)",
+          "(Saber Hacer) Interpreta preguntas y formula respuestas sencillas sobre rutinas y actividades de tiempo libre. (In the morning I eat breakfast, In the afternoon she…, at night he…)",
+          "(Saber Aplicar) Saluda al profesor y a sus compañeros al llegar al aula y se despide al salir.",
+          "(Saber Aplicar) Identifica similitudes y diferencias entre sus rutinas y las de sus compañeros."
+        ],
+        "saberes": [
+          "Saludos y despedidas.",
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Los gustos.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo mensajes de invitación y felicitación usando formatos sencillos.",
+        "dba": [
+          "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Respondo a preguntas sobre personas, objetos y lugares de mi entorno.",
+          "(Evidencia) Demuestro conocimiento de las estructuras básicas del inglés.",
+          "(Evidencia) Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+          "(Evidencia) Escribo el nombre de lugares y elementos que reconozco en una ilustración.",
+          "(Saber Conocer) Lista vocabulario básico relacionado con costumbres, tradiciones y festividades de su entorno (My births is on…, Christmas is December, Halloween is on October)",
+          "(Saber Hacer) Completa textos sencillos sobre diferentes festividades o celebraciones (When is your birthday? Is St Valetine celebrated in September? What do people celebrate in December?",
+          "(Saber Aplicar) Participa en celebraciones culturales en el aula."
+        ],
+        "saberes": [
+          "Saludos y despedidas.",
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Los gustos.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Expreso e indico necesidades básicas relacionadas al aula.",
+          "(Saber Conocer) Reconoce objetos del aula y lugares de su escuela (classroom, field, stairs, cafeteria, book, notebook, board)",
+          "(Saber Hacer) Interpreta y relaciona descripciones sencillas de objetos de aula y lugares de su escuela",
+          "(Saber Aplicar) Compara y contrasta diferentes objetos, lugares o animales según sus características."
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "Acciones que podemos hacer o que no."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Uso expresiones cotidianas para indicar necesidades básicas en el aula.",
+          "(Evidencia) Describo algunas características de mí mismo, de otras personas, de animales, de lugares y del clima.",
+          "(Evidencia) Nombro algunas cosas que puedo o no puedo hacer.",
+          "(Saber Conocer) Identifica vocabulario de algunos animales y sus características. (dog, cat, bird, big, small, dangerous…)",
+          "(Saber Hacer) Usa adjetivos y vocabulario aprendido para describir de manera sencilla objetos, lugares y animales."
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "Acciones que podemos hacer o que no."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+        "dba": [
+          "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
+        ],
+        "evidencias": [
+          "(Evidencia) Identifico palabras Relacionadas entre sí sobre temas que me son familiares.",
+          "(Evidencia) Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+          "(Evidencia) Comprendo descripciones cortas y sencillas de objetos y lugares conocidos.",
+          "(Saber Conocer) Identifica imágenes de vocabulario relacionado con la comida (apple, meat, milk, rice, ham, tomato..), el clima (hot, rainy, cold, warm..)",
+          "(Saber Conocer) Reconoce frases sencillas para describir estados de ánimo (I’m sad, she’s happy, he’s ok, they are not ok)",
+          "(Saber Hacer) Interpreta preguntas y formula respuestas sencillas sobre hábitos alimenticios (I eat vegetables, I don’t eat junk food…) y el clima (is today hot/cold, warm? yes, it is, no, it is not…)",
+          "(Saber Aplicar) Expresa su opinión sobre diferentes tipos de clima o comida."
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "Acciones que podemos hacer o que no."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo mensajes de invitación y felicita ción usando formatos sencillos.",
+        "dba": [
+          "Comprende la secuencia de una historia corta y sencilla sobre temas familiares, y la cuenta nuevamente a partir de ilustraciones y palabras conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Demuestro conocimiento de las estructuras básicas del inglés.",
+          "(Evidencia) Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+          "(Evidencia) Escribo el nombre de lugares y elementos que reconozco en una ilustración.",
+          "(Saber Conocer) Identifica y describe de manera sencillas acciones que puede o no puede hacer (run, swim, jump, speak another language, play soccer)",
+          "(Saber Hacer) Opina acerca de las actividades que puede hacer o no puede hacer (I can run, I can’t swim…)",
+          "(Saber Aplicar) Contrasta sus habilidades con las de sus compañeros (I can run, he can run too; I can’t swim but he can…)"
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Palabras y frases cortas en libros, juguetes, propagandas y lugares de mi escuela.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "Acciones que podemos hacer o que no."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Identifico a las personas que participan en una conversación.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Expreso e indico necesidades básicas relacionadas al aula.",
+          "(Saber Conocer) Identifica vocabulario relacionado con medios de transporte (car, bus, train, plane..) y lugares de la comunidad (park, school, library, supermarket..).",
+          "(Saber Conocer) Relaciona algunas preposiciones de lugar (in, on, at, next to…)",
+          "(Saber Hacer) Reconoce preposiciones de lugar para señalar la ubicación de objetos y lugares",
+          "(Saber Aplicar) Diseña un mapa de su comunidad, ubicando diferentes lugares y utilizando preposiciones de lugar en inglés."
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "¿Qué estoy haciendo?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Uso expresiones cotidianas para expresar mis necesidades inmediatas en el aula.",
+        "dba": [
+          "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
+        ],
+        "evidencias": [
+          "(Evidencia) Uso expresiones cotidianas para indicar necesidades básicas en el aula.",
+          "(Evidencia) Describo lo que estoy haciendo.",
+          "(Saber Conocer) Describe de manera sencilla algunas características de medios de transportes y lugares de su comunidad (the car is red, the school is big, the bus is slow…)",
+          "(Saber Hacer) Interpreta y formula descripciones que incluyen preposiciones de lugar (the car is in the garage, I’m at the school, Where is the library?)"
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "¿Qué estoy haciendo?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+        "dba": [
+          "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
+        ],
+        "evidencias": [
+          "(Evidencia) Identifico palabras relacionadas entre sí sobre temas que me son familiares.",
+          "(Evidencia) Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela.",
+          "(Evidencia) Expreso mis sentimientos y estados de ánimo.",
+          "(Evidencia) Menciono lo que me gusta y lo que no me gusta.",
+          "(Saber Conocer) Identifica vocabulario y frases relacionadas con actividades escolares (read, write, draw, sing).",
+          "(Saber Conocer) Reconoce y reacciona positivamente a imperativos para dar instrucciones (open your book, listen, repeat).",
+          "(Saber Hacer) Sigue instrucciones relacionadas con las actividades escolares.",
+          "(Saber Aplicar) Identificar los pasos necesarios para completar una tarea escolar"
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "¿Qué estoy haciendo?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo información personal en formatos sencillos.",
+        "dba": [
+          "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Respondo a preguntas sobre personas, objetos y lugares de mi entorno.",
+          "(Evidencia) Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno.",
+          "(Evidencia) Escribo el nombre de lugares y elementos que reconozco en una ilustración.",
+          "(Evidencia) Respondo brevemente a las preguntas “qué, quién, cuándo y dónde”, si se refieren a mi familia, mis amigos o mi colegio.",
+          "(Evidencia) Demuestro conocimiento de las estructuras básicas del inglés",
+          "(Saber Conocer) Elabora una lista corta con hábitos saludables e insalubres (eat healthy food, do exercise, watch too much TV)",
+          "(Saber Hacer) Usar frases simples para explicar hábitos saludables o no que se desarrollan en el momento de hablar (he’s eating healthy food, she is not doing exercise, they are watching too much TV)",
+          "(Saber Aplicar) Completa una historia corta donde se muestran hábitos saludables o no que se desarrollan en el momento de hablar"
+        ],
+        "saberes": [
+          "Expresiones cotidianas",
+          "Relación de vocabulario.",
+          "Preguntas sobre personas, objetos y lugares de mi entorno.",
+          "Estructuras del inglés",
+          "Preguntas sobre mí, mi familia y mi entorno.",
+          "Nombres de lugares y elementos en imágenes.",
+          "¿Qué estoy haciendo?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

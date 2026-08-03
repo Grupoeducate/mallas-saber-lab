@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "11",
+  "nombre_archivo": "t_sociales_11_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mercado Global: El Tablero de las Naciones",
+            "un_reto_sugerido": "Diseñar una campaña publicitaria para un producto colombiano que deba competir en un mercado internacional bajo un Tratado de Libre Comercio (TLC).",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de etiquetas: Los estudiantes revisan las etiquetas de su ropa y objetos personales para mapear en el tablero cuántos países intervienen en su vida diaria.",
+              "visual": "Crear un mapa mental que conecte las ventajas y desventajas de la globalización con la realidad económica de su municipio.",
+              "produccion": "Simulación de una mesa de negociación de un TLC donde se debatan las tensiones entre la identidad local y el mercado global."
+            },
+            "para_pensar": [
+              "¿Cómo afecta un tratado firmado a miles de kilómetros la canasta básica de tu familia?",
+              "¿Es posible que una comunidad conserve su cultura intacta en un mundo totalmente globalizado?"
+            ],
+            "pistas_del_exito": [
+              "Identifica al menos tres consecuencias directas de los TLC en la economía colombiana.",
+              "Argumenta con datos las tensiones entre soberanía nacional e integración económica."
+            ],
+            "un_refuerzo": "Analizar un caso real de un producto nacional que haya quebrado o tenido éxito debido a la apertura económica."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Ajedrez Geopolítico: Conflictos del Nuevo Siglo",
+            "un_reto_sugerido": "Producir un videoblog explicativo sobre la raíz histórica y los intereses económicos detrás de un conflicto contemporáneo (ej. Medio Oriente o Primavera Árabe).",
+            "ruta_de_exploracion": {
+              "explorar": "Noticiero Flash: Los estudiantes traen una noticia internacional del día y deben ubicar el país en el mapa mundi explicando quiénes son los aliados y enemigos.",
+              "visual": "Diseñar una infografía que compare las ideologías de las potencias actuales (EE.UU., China, Rusia) frente a un recurso natural en disputa.",
+              "produccion": "Debate tipo 'Consejo de Seguridad' sobre el impacto de las fronteras en la vida de las poblaciones civiles."
+            },
+            "para_pensar": [
+              "¿Por qué un conflicto por recursos en otro continente puede hacer que suba el precio de la gasolina en Colombia?",
+              "¿Qué intereses pesan más en la guerra: los religiosos, los ideológicos o los económicos?"
+            ],
+            "pistas_del_exito": [
+              "Describe correctamente los intereses de las potencias involucradas en el conflicto elegido.",
+              "Ubica geográficamente los focos de tensión geopolítica tratados en clase."
+            ],
+            "un_refuerzo": "Lectura dirigida de un testimonio o diario de una persona joven viviendo en una zona de conflicto actual."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Misión Planeta: La Agenda 2030 en mi Colegio",
+            "un_reto_sugerido": "Elaborar una 'Propuesta de Mitigación Local' que traduzca las acciones de la ONU frente al calentamiento global a prácticas cotidianas en la institución educativa.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata de observación: Identificar 'islas de calor' o prácticas anti-ambientales dentro del entorno escolar.",
+              "visual": "Crear un gráfico de barras que compare los países que más emiten CO2 frente a los que más sufren las consecuencias.",
+              "produccion": "Redacción de un decálogo de compromisos ambientales basados en la Agenda 2030 para ser presentado al consejo directivo."
+            },
+            "para_pensar": [
+              "¿Por qué los países con mayor poder económico son los más reacios a cambiar sus prácticas de producción?",
+              "¿Qué responsabilidad tiene un ciudadano común frente a un problema de escala global como el efecto invernadero?"
+            ],
+            "pistas_del_exito": [
+              "Explica al menos dos acciones propuestas por la ONU para frenar el cambio climático.",
+              "Diferencia entre causas económicas y consecuencias políticas del calentamiento global."
+            ],
+            "un_refuerzo": "Ver un fragmento de un documental sobre el deshielo y realizar una síntesis de las causas demográficas mencionadas."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de lo Público: Contra la Corrupción",
+            "un_reto_sugerido": "Crear un sistema de vigilancia ciudadana escolar para supervisar el buen uso de un bien público del colegio (baños, restaurante, biblioteca).",
+            "ruta_de_exploracion": {
+              "explorar": "El valor de lo nuestro: Discusión sobre quién paga los pupitres del salón y qué sucede cuando se dañan.",
+              "visual": "Diseñar un flujograma que muestre cómo la corrupción en un contrato estatal termina afectando la salud o educación de un niño.",
+              "produccion": "Simulacro de una audiencia pública donde los estudiantes auditen (simuladamente) un proyecto escolar."
+            },
+            "para_pensar": [
+              "¿Es la corrupción un problema de 'malos políticos' o de una cultura que permite el beneficio personal sobre el común?",
+              "¿Cómo la empatía con los grupos vulnerables puede prevenir actos de corrupción?"
+            ],
+            "pistas_del_exito": [
+              "Propone una estrategia clara de vigilancia ciudadana para un bien público.",
+              "Identifica el daño social causado en un caso real de corrupción analizado."
+            ],
+            "un_refuerzo": "Realizar un mural sobre la transparencia y la honestidad como bases de la democracia escolar."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Gran Monopolio: Neoliberalismo en Juego",
+            "un_reto_sugerido": "Organizar un panel de expertos para evaluar si la apertura económica en Colombia ha beneficiado o perjudicado a los pequeños productores agrícolas.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de roles de mercado: Unos estudiantes actúan como grandes multinacionales y otros como campesinos locales para observar la competencia.",
+              "visual": "Cuadro comparativo entre los modelos de Liberalismo y Neoliberalismo económico.",
+              "produccion": "Redacción de un artículo de opinión sobre el impacto de los monopolios en los precios del consumidor."
+            },
+            "para_pensar": [
+              "¿Puede un país pequeño sobrevivir sin abrir sus fronteras al comercio internacional?",
+              "¿En qué momento la competencia deja de ser sana y se convierte en un monopolio?"
+            ],
+            "pistas_del_exito": [
+              "Define con precisión los conceptos de monopolio, oligopolio y apertura económica.",
+              "Argumenta ventajas y desventajas del neoliberalismo en el contexto colombiano."
+            ],
+            "un_refuerzo": "Análisis de una factura de servicios públicos para identificar si hay competencia o monopolio en la región."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Cortina de Hierro en América",
+            "un_reto_sugerido": "Crear un guion de radio-novela que narre la vida de una familia dividida por la influencia de los bloques capitalista y comunista en Latinoamérica.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de propaganda: Observar carteles soviéticos y estadounidenses de la época para identificar cómo cada uno vendía su 'mundo ideal'.",
+              "visual": "Mapeo de la Guerra Fría en América Latina: Identificar países con revoluciones comunistas y países con intervencionismo capitalista.",
+              "produccion": "Debate: ¿Fue la Revolución Cubana una liberación o una nueva forma de dependencia?"
+            },
+            "para_pensar": [
+              "¿Por qué dos potencias alejadas de América Latina terminaron definiendo nuestra política interna?",
+              "¿Qué miedos generaba en la gente común la amenaza de una guerra nuclear?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las características ideológicas de los bloques capitalista y comunista.",
+              "Explica la influencia de la Guerra Fría en un caso específico de América Latina."
+            ],
+            "un_refuerzo": "Ver fragmentos de un documental sobre la crisis de los misiles y realizar un esquema de las tensiones."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Voces contra el Olvido: Dictaduras y Democracia",
+            "un_reto_sugerido": "Diseñar un 'Museo de la Memoria' itinerante con fichas sobre las dictaduras latinoamericanas y sus efectos en la democracia actual.",
+            "ruta_de_exploracion": {
+              "explorar": "Audición de canciones de protesta de los años 70 y 80 en el Cono Sur para identificar mensajes ocultos de resistencia.",
+              "visual": "Matriz de comparación entre dos dictaduras latinoamericanas (ej. Chile y Argentina) y su proceso de retorno a la democracia.",
+              "produccion": "Ensayo argumentativo sobre el peligro del intervencionismo extranjero en las decisiones democráticas de un país."
+            },
+            "para_pensar": [
+              "¿Por qué en momentos de crisis económica algunas sociedades prefieren gobiernos dictatoriales?",
+              "¿Cuál es el valor real de la libertad de expresión en una democracia?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta las repercusiones políticas de las dictaduras en la configuración actual de Latinoamérica.",
+              "Plantea argumentos sobre el riesgo de las armas de destrucción masiva hoy."
+            ],
+            "un_refuerzo": "Lectura de un testimonio de un 'desaparecido' o exiliado político para generar empatía histórica."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Jueces de Paz: Resolviendo el Conflicto",
+            "un_reto_sugerido": "Establecer un 'Centro de Conciliación Escolar' donde se apliquen mecanismos de mediación para resolver dilemas entre el bienestar particular y el general.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de dilemas: ¿Debo denunciar a mi mejor amigo si sé que hizo algo malo? Discusión en pequeños grupos.",
+              "visual": "Crear un directorio de instituciones de justicia en el municipio (Comisaría, Jueces de paz, Centros de conciliación).",
+              "produccion": "Role-playing de una audiencia de mediación sobre un conflicto de convivencia común en el grado 11."
+            },
+            "para_pensar": [
+              "¿Por qué es necesario que solo el Estado tenga el monopolio de la fuerza y la justicia?",
+              "¿En qué situaciones el bien general debe estar por encima de mis deseos personales?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza técnicas de negociación o arbitramento para proponer soluciones a un conflicto.",
+              "Diferencia las funciones de la justicia ordinaria frente a los mecanismos alternativos."
+            ],
+            "un_refuerzo": "Investigar dónde queda la Comisaría de Familia más cercana y qué servicios presta."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Plato Sostenible: ¿Qué estamos comiendo?",
+            "un_reto_sugerido": "Realizar una auditoría de etiquetas de alimentos para identificar productos transgénicos y proponer una dieta basada en el desarrollo sostenible.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate: ¿Es mejor un tomate perfecto creado en laboratorio o uno pequeño pero natural? Lluvia de ideas sobre seguridad alimentaria.",
+              "visual": "Mapa de uso de la tierra en Colombia: Identificar zonas de desierto vs. zonas de gran producción agrícola.",
+              "produccion": "Creación de un infografía sobre los riesgos de la desertización y el uso irracional de agrotóxicos."
+            },
+            "para_pensar": [
+              "¿Tenemos derecho a saber qué modificaciones genéticas tienen nuestros alimentos?",
+              "¿Cómo afecta el desperdicio de comida el derecho de otros a no pasar hambre?"
+            ],
+            "pistas_del_exito": [
+              "Propone al menos tres acciones para disminuir los efectos del calentamiento global desde el consumo.",
+              "Explica el concepto de desarrollo sostenible aplicado a la producción de alimentos."
+            ],
+            "un_refuerzo": "Hacer un pequeño experimento de germinación comparando semillas orgánicas vs. industriales."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Interculturalidad: Más allá de los Estereotipos",
+            "un_reto_sugerido": "Organizar un 'Foro de Culturas Vivas' donde se debatan dilemas éticos donde chocan valores de diferentes grupos sociales (ej. medicina tradicional vs. occidental).",
+            "ruta_de_exploracion": {
+              "explorar": "Test de prejuicios: Los estudiantes escriben lo primero que piensan al ver fotos de personas de diferentes etnias o tribus urbanas.",
+              "visual": "Mural de la Multiculturalidad: Collage que represente la diversidad de lenguas y costumbres en Colombia.",
+              "produccion": "Ensayo sobre cómo la inclusión social puede superar las barreras de la discriminación histórica."
+            },
+            "para_pensar": [
+              "¿Es posible respetar una cultura cuyos valores van en contra de mis derechos humanos?",
+              "¿Por qué nos cuesta tanto sentir empatía por grupos sociales que no conocemos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica estereotipos propios y propone caminos para superarlos.",
+              "Argumenta con respeto en un debate sobre conflictos culturales."
+            ],
+            "un_refuerzo": "Ver una charla TED sobre el peligro de la 'historia única' y realizar una síntesis."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Estado en Acción: Mi Derecho a Participar",
+            "un_reto_sugerido": "Simular una acción de tutela o un derecho de petición para exigir el cumplimiento de un derecho fundamental vulnerado en la comunidad.",
+            "ruta_de_exploracion": {
+              "explorar": "Organigrama humano: Los estudiantes se dividen en ramas del poder y órganos de control para entender quién vigila a quién.",
+              "visual": "Diseñar un 'Mapa de Ruta' para un ciudadano que quiera participar en política o proteger sus derechos.",
+              "produccion": "Taller de redacción de mecanismos de participación ciudadana (voto, cabildo abierto, iniciativa legislativa)."
+            },
+            "para_pensar": [
+              "¿Por qué Colombia se define como un Estado Social de Derecho y no solo como un Estado de Derecho?",
+              "¿Qué pasaría con nuestros derechos si no existieran los organismos de control como la Procuraduría?"
+            ],
+            "pistas_del_exito": [
+              "Describe las funciones de las ramas del poder y los organismos de control.",
+              "Utiliza correctamente un mecanismo de protección de derechos en un caso hipotético."
+            ],
+            "un_refuerzo": "Consultar la página web de la Defensoría del Pueblo para ver qué tipos de denuncias reciben."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Dilemas de la Diversidad",
+            "un_reto_sugerido": "Participar en un 'Torneo de Debates Éticos' donde se defiendan posturas frente a conflictos reales de valores en una sociedad pluralista.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica 'El Barco se Hunde': Debatir a quién salvar basándose en perfiles diversos, observando los sesgos del grupo.",
+              "visual": "Matriz de valores: Listar valores de dos culturas diferentes y encontrar puntos de encuentro.",
+              "produccion": "Propuesta de una norma de convivencia que integre las necesidades de una minoría étnica en el colegio."
+            },
+            "para_pensar": [
+              "¿Puede la mayoría imponer sus valores sobre una minoría en una democracia?",
+              "¿Cómo influyen nuestras emociones en el trato que damos a los que piensan diferente?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa críticamente sus propias emociones frente a personas con cosmovisiones diferentes.",
+              "Reconoce la validez de los argumentos ajenos incluso cuando no está de acuerdo."
+            ],
+            "un_refuerzo": "Escribir un microrrelato desde la perspectiva de una persona que sufre discriminación."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cinturones de Realidad: Del Campo a la Ciudad",
+            "un_reto_sugerido": "Realizar un reportaje fotográfico o audiovisual sobre los asentamientos informales (cinturones de miseria) y su relación con el abandono del campo.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevista de memoria: Preguntar a familiares si son migrantes del campo y por qué llegaron a la ciudad.",
+              "visual": "Pirámide demográfica comparativa: Analizar el crecimiento de las ciudades frente al decrecimiento de la población rural.",
+              "produccion": "Plan de acción: Propuesta para mejorar el Índice de Desarrollo Humano en una zona vulnerable de la ciudad."
+            },
+            "para_pensar": [
+              "¿Por qué las personas prefieren vivir en condiciones difíciles en la ciudad que quedarse en el campo?",
+              "¿Qué responsabilidad tiene la ciudad frente a las poblaciones desplazadas que recibe?"
+            ],
+            "pistas_del_exito": [
+              "Compara índices de crecimiento económico entre diferentes regiones del país.",
+              "Explica las causas sociales del desplazamiento forzado en Colombia."
+            ],
+            "un_refuerzo": "Consultar datos del DANE sobre pobreza y desplazamiento en su departamento."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Diásporas y Refugio: Un Mundo en Movimiento",
+            "un_reto_sugerido": "Organizar una campaña de sensibilización y solidaridad con los refugiados y migrantes, basada en el análisis de genocidios y crisis mundiales.",
+            "ruta_de_exploracion": {
+              "explorar": "La maleta de emergencia: ¿Qué tres cosas te llevarías si tuvieras que huir de casa hoy mismo por la guerra?",
+              "visual": "Cartografía de las migraciones mundiales: Identificar las rutas de refugiados de Siria, Ucrania o Venezuela.",
+              "produccion": "Manifiesto contra el genocidio y la xenofobia firmado por el grado 11."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre un migrante económico y un refugiado de guerra?",
+              "¿Por qué los países receptores a veces ven al migrante como una amenaza y no como un ser humano con derechos?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta las consecuencias sociales del desplazamiento forzado a nivel mundial.",
+              "Define conceptos como genocidio, diáspora y refugio."
+            ],
+            "un_refuerzo": "Investigar qué dice la ONU sobre los derechos de los refugiados y crear un afiche informativo."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Memoria para la Paz: El Reto de la JEP",
+            "un_reto_sugerido": "Simular una sesión de la Jurisdicción Especial para la Paz (JEP) donde se discuta un caso de reparación a las víctimas.",
+            "ruta_de_exploracion": {
+              "explorar": "Círculo de la Verdad: Discusión sobre por qué es necesario perdonar pero no olvidar para que no se repita el conflicto.",
+              "visual": "Línea de tiempo de los acuerdos de paz en Colombia (Desde la Habana hasta la actualidad).",
+              "produccion": "Ensayo: La paz como deber ético y constitucional de todos los colombianos."
+            },
+            "para_pensar": [
+              "¿Se puede lograr la paz sin que haya una justicia total y cárcel para todos los culpables?",
+              "¿Qué papel juegan el perdón y la reparación en la construcción de una nueva Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Explica la importancia de la resolución pacífica de conflictos para la democracia.",
+              "Reconoce los pilares de la justicia transicional: verdad, justicia, reparación y no repetición."
+            ],
+            "un_refuerzo": "Visitar virtualmente el Centro Nacional de Memoria Histórica y elegir un relato para comentar."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Ciudadanos del Futuro: Ambiente y Vía",
+            "un_reto_sugerido": "Diseñar e implementar una campaña de cultura ciudadana que incluya seguridad vial y protección ambiental en el entorno escolar.",
+            "ruta_de_exploracion": {
+              "explorar": "Observatorio de tránsito: Salir a la puerta del colegio y registrar cuántas infracciones de tránsito ocurren en 15 minutos.",
+              "visual": "Diseño de un mapa de 'puntos críticos ambientales' en el barrio y propuestas de recuperación.",
+              "produccion": "Debate argumentado sobre leyes estatales que priorizan el bien común sobre el beneficio de empresas privadas."
+            },
+            "para_pensar": [
+              "¿Por qué cumplir una norma de tránsito es también un acto de paz y respeto por la vida?",
+              "¿Es posible defender el medio ambiente sin cambiar nuestras leyes económicas?"
+            ],
+            "pistas_del_exito": [
+              "Lidera una campaña de conservación o seguridad vial en su comunidad.",
+              "Debate de forma asertiva sobre dilemas entre bien general y particular."
+            ],
+            "un_refuerzo": "Realizar un test de normas de tránsito para prepararse como futuros conductores responsables."
+          }
+        }
+      ]
+    }
+  ]
+}

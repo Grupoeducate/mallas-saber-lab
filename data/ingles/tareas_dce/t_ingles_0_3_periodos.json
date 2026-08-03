@@ -1,0 +1,86 @@
+{
+  "area": "Inglés",
+  "grado": 0,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Comunicativo Integrado",
+          "guia_didactica": {
+            "la_estrategia": "The Magic Mirror and the Color Box",
+            "un_reto_sugerido": "¿Cómo puedo presentarme y describir mis juguetes favoritos usando sonidos y colores en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Frente a un espejo, los estudiantes tocan partes de su cara siguiendo la canción 'Head, Shoulders, Knees and Toes', asombrándose al reconocer que cada parte tiene un nombre diferente.",
+              "visual": "Experimento de 'Cromatografía Mágica': Usar servilletas y marcadores de colores primarios (Red, Blue, Yellow) para ver cómo el agua 'camina' y descubrir formas (Circle, Square) en las manchas.",
+              "produccion": "Creación de un carné personal con un dibujo propio donde el estudiante dice: 'Hello, my name is... I am a boy/girl' y señala su color favorito.",
+            },
+            "para_pensar": [
+              "¿Por qué es importante saludar a los demás cuando llegamos a un lugar?",
+              "¿Cómo cambian los colores cuando los mezclamos con agua? (Observación de fenómenos)"
+            ],
+            "pistas_del_exito": [
+              "El estudiante señala correctamente 3 partes de la cara al escucharlas en inglés.",
+              "Identifica y nombra al menos 3 colores básicos durante la actividad práctica."
+            ],
+            "un_refuerzo": "Juego de 'Simón dice' (Simon Says) usando solo comandos de movimiento y partes del cuerpo para fortalecer la escucha activa."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Comunicativo Integrado",
+          "guia_didactica": {
+            "la_estrategia": "Nature's Feelings & Animal Friends",
+            "un_reto_sugerido": "¿Cómo expreso mis emociones y qué acciones puedo hacer para cuidar a los animales y las plantas de mi entorno?",
+            "ruta_de_exploracion": {
+              "explorar": "Uso de 'Emotion Masks' (Máscaras de emociones). El docente muestra una cara triste o feliz y los niños deben imitar el sonido de un animal que se sienta así (ej. un perro feliz).",
+              "visual": "Clasificación de hábitats: Usar arena, agua y hojas para crear pequeños dioramas donde clasifiquen juguetes de animales en 'Wild' o 'Domestic' mientras repiten sus nombres.",
+              "produccion": "Campaña 'Eco-English': Los estudiantes crean carteles con la instrucción 'Pick up the trash' y dibujan un animal (Pink dolphin, Jaguar) que quieren proteger.",
+            },
+            "para_pensar": [
+              "¿Cómo crees que se sienten los animales cuando su hogar (el bosque o el mar) está sucio?",
+              "¿Qué podemos hacer en el salón para que todos nos sintamos 'Happy'?"
+            ],
+            "pistas_del_exito": [
+              "Asocia correctamente el sonido del animal con su nombre en inglés.",
+              "Utiliza la estructura 'I feel...' para expresar una emoción básica usando tarjetas visuales."
+            ],
+            "un_refuerzo": "Cantar la canción 'If you are happy and you know it' enfatizando las acciones (stomp, clap) y las emociones."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Comunicativo Integrado",
+          "guia_didactica": {
+            "la_estrategia": "The Community Time Machine",
+            "un_reto_sugerido": "¿Quiénes son las personas que ayudan en mi comunidad y cómo celebramos el paso del tiempo en familia?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de roles 'Guess who?'. El docente se disfraza con un elemento simple (estetoscopio, sombrero de policía, delantal) y los niños adivinan la profesión en inglés.",
+              "visual": "Construcción del 'Birthday Train': Cada vagón es un mes del año. Los estudiantes decoran su vagón con material reciclado y colocan su foto según el mes de su cumpleaños.",
+              "produccion": "Entrevista familiar grabada o simulada: El estudiante pregunta 'How old are you?' y presenta a un miembro de su familia diciendo 'This is my mom/dad'.",
+            },
+            "para_pensar": [
+              "¿Qué profesión te parece más valiente en tu comunidad y por qué?",
+              "¿Por qué celebramos los cumpleaños cada año? ¿Qué cambia en nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Nombra al menos 4 miembros de la familia y 3 profesiones con pronunciación clara.",
+              "Identifica el número de su edad (10-20) al responder preguntas personales."
+            ],
+            "un_refuerzo": "Lotería de profesiones y miembros de la familia para asociar la palabra escuchada con la imagen correspondiente."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 6,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G6-P1-T1",
+          "nombre_taller": "Mi Brújula Interna: Autoregulación y Estrés",
+          "conceptos_relacionados": [
+            "Autorregulación",
+            "Identidad Personal",
+            "Manejo del Estrés"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de monitorear y gestionar reacciones, reconociendo la identidad personal y manejando el estrés escolar.",
+          "recursos_eco": "Hojas con termómetro de estrés, lápices, escenarios de presión escolar.",
+          "momento_inicio_conexion": "Diga a los niños: 'En la escuela, a veces sentimos que nos 'explota la cabeza' o que el cuerpo se tensa. Es normal, pero podemos aprender a calmarnos'.",
+          "momento_desarrollo_vivencia": "El docente presenta el concepto de 'Autorregulación' y 'Manejo del Estrés' en situaciones escolares (exámenes, presentaciones). Los estudiantes identifican la 'Identidad Personal' al reconocer qué les hace únicos y qué reacciones tienen ante el estrés. Se practican técnicas de respiración. Use el ejemplo: 'Usé técnicas de respiración para calmarme cuando sentí rabia'. 'Pude describir qué cosas me hacen único y diferente a los demás'. 'Reconocí que estaba nervioso por el examen y pedí un momento para calmarme'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sientes cuando estás estresado?' y '¿Qué técnica te ayudó a sentirte más tranquilo?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para identificar y gestionar el estrés, aplicando técnicas de autorregulación.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P1-T2",
+          "nombre_taller": "Soy Quien Soy: Autopercepción y Validación Emocional",
+          "conceptos_relacionados": [
+            "Autopercepción",
+            "Validación Emocional",
+            "Autenticidad"
+          ],
+          "proposito_experiencia": "Fortalecer la imagen de sí mismo, reconociendo emociones y validándolas, y cultivando la autenticidad.",
+          "recursos_eco": "Hojas para escribir 'Cómo me veo' (Actividad 1), tarjetas de emociones complejas (Actividad 2).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestra mente es un espejo. ¿Cómo nos vemos en él y cómo aceptamos lo que sentimos para ser más auténticos?'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 1: Autopercepción – Cómo me veo', escribiendo frases sobre sí mismos ('Algo que cree que hace bien', 'Algo que está aprendiendo', 'Algo que le gustaría mejorar'). Luego, hacen la 'Actividad 2: Validación emocional – Lo que siento importa', donde el docente presenta emociones complejas (enojo, vergüenza, tristeza, frustración), y los estudiantes escriben una situación en la que sintieron una de ellas y practican validarla sin juzgarse. Se refuerza la 'Autenticidad' al aceptar sus sentimientos. Use el ejemplo: 'Mi autopercepción mejoró al darme cuenta de que soy bueno en matemáticas y me gusta dibujar'. 'Practiqué validación emocional al decirle a mi amigo que me sentía frustrado con el juego'. 'Mostré autenticidad al decir que no me gustaba esa actividad, aunque mis amigos la disfrutaran'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué pensamiento sobre ti te gustaría fortalecer?' y '¿Por qué es importante aceptar todas nuestras emociones?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para describir su autopercepción, validar emociones y mostrar autenticidad.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P1-T3",
+          "nombre_taller": "Conectando con Otros: Sensibilidad y Apreciación",
+          "conceptos_relacionados": [
+            "Sensibilidad Social",
+            "Apreciación",
+            "Solidaridad"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de leer el contexto social, valorar cualidades positivas y ofrecer apoyo solidario.",
+          "recursos_eco": "Escenarios de situaciones del aula (trabajo en grupo, recreo, exposiciones - Actividad 4), tarjetas de elogios.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestra clase es como una orquesta, y para que suene bien, necesitamos escucharnos y valorar el talento de cada uno'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 4: Sensibilidad social – Leer el ambiente', identificando señales emocionales en otros y proponiendo respuestas respetuosas. Se introduce la 'Apreciación' con un ejercicio de 'elogios sinceros' hacia un compañero. Se conecta con la 'Solidaridad' al discutir cómo apoyar a otros en situaciones difíciles. Use el ejemplo: 'Demostré sensibilidad social al notar que alguien estaba incómodo y le pregunté si necesitaba algo'. 'Mostré apreciación cuando felicité a mi compañero por su buen trabajo'. 'Mostré solidaridad ayudando a mi compañero a ponerse al día después de una ausencia'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué señales te ayudan a saber cómo se siente otra persona?' y '¿Cómo te sientes cuando alguien valora algo que haces?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para interpretar el contexto social, expresar aprecio y mostrar solidaridad.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G6-P2-T1",
+          "nombre_taller": "Mi Compromiso y Mis Acciones: Responsabilidad y Autodisciplina",
+          "conceptos_relacionados": [
+            "Responsabilidad",
+            "Autodisciplina",
+            "Autorregulación cognitiva"
+          ],
+          "proposito_experiencia": "Asumir las consecuencias de las acciones y cumplir con deberes, regulando pensamientos para mantener la concentración y la disciplina.",
+          "recursos_eco": "Lista de responsabilidades escolares, 'planificador' semanal, 'distractores' comunes (Actividad 5).",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada uno de nosotros tiene un superpoder: la responsabilidad. Hoy aprenderemos a usarlo para cumplir nuestras metas'.",
+          "momento_desarrollo_vivencia": "Los estudiantes revisan sus responsabilidades y las consecuencias de cumplirlas o no ('Responsabilidad'). Luego, planifican una tarea que requiera 'Autodisciplina' (estudiar para un examen, terminar un proyecto). Realizan la 'Actividad 5: Autorregulación cognitiva – Dirigir mis pensamientos', identificando distractores y proponiendo estrategias. Use el ejemplo: 'Practiqué responsabilidad al entregar mi tarea a tiempo sin que me lo recordaran'. 'Mostré autodisciplina cuando me senté a estudiar para el examen sin que mis padres me lo dijeran'. 'Usé autorregulación cognitiva para mantener mi concentración en la lectura, ignorando el ruido del fondo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué compromiso te cuesta más cumplir?' y '¿Qué estrategia te ayuda a concentrarte?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para asumir responsabilidades, mostrar autodisciplina y aplicar estrategias de autorregulación cognitiva.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P2-T2",
+          "nombre_taller": "La Voz que Construye: Comunicación Asertiva y Resolución de Conflictos",
+          "conceptos_relacionados": [
+            "Comunicación Asertiva",
+            "Resolución de Conflictos",
+            "Manejo de la Frustración"
+          ],
+          "proposito_experiencia": "Expresar opiniones y sentimientos de forma clara y respetuosa, buscando soluciones y gestionando la frustración en conflictos.",
+          "recursos_eco": "Escenarios de conflicto (juego, trabajo en grupo), frases de comunicación asertiva, semáforo de la frustración.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces, en los desacuerdos, nos frustramos. Hoy aprenderemos a hablar con respeto y a buscar soluciones, no culpables'.",
+          "momento_desarrollo_vivencia": "Se presentan escenarios de conflicto. Los estudiantes practican la 'Comunicación Asertiva' para expresar sus ideas y la 'Resolución de Conflictos' buscando soluciones (negociación, acuerdos). Se introduce el 'Manejo de la Frustración' con técnicas de pausa y respiración. Use el ejemplo: 'Le dije a mi compañero que me molestaba su actitud sin insultarlo'. 'En lugar de pelear por el balón, propuse una solución donde ambos jugáramos por turnos'. 'Cuando sentí frustración al no ganar, respiré profundo y busqué cómo mejorar para la próxima'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sientes cuando te expresas asertivamente?' y '¿Qué estrategia usas para manejar la frustración en un conflicto?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para comunicarse asertivamente, resolver conflictos y manejar la frustración.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P2-T3",
+          "nombre_taller": "Mi Valor Interior: Apreciación y Autoprotección",
+          "conceptos_relacionados": [
+            "Apreciación personal",
+            "Autoprotección",
+            "Orgullo por el Buen Hacer"
+          ],
+          "proposito_experiencia": "Reconocer el valor personal más allá del rendimiento, poner límites saludables y sentir orgullo por el buen hacer.",
+          "recursos_eco": "Hojas para escribir 'lo que valgo' (Actividad 6), escenarios de presión de grupo o ciberacoso (Actividad 9).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro valor no es solo por lo que sacamos en un examen, sino por quienes somos. Hoy aprenderemos a cuidarnos y a sentir orgullo por nosotros mismos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 6: Apreciación personal – Reconocer lo que valgo', escribiendo tres cualidades no académicas. Luego, se trabaja la 'Autoprotección' con la 'Actividad 9: Autoprotección – Poner límites', donde practican respuestas claras y respetuosas en situaciones presenciales y digitales. Se conecta con el 'Orgullo por el Buen Hacer' al celebrar sus fortalezas. Use el ejemplo: 'Mi autoestima se fortalece cuando valoro mis habilidades más allá de las notas'. 'Ejercí autoprotección al alejarme de una situación donde me sentía incómodo y dije 'no''. 'Me siento orgulloso cuando mi esfuerzo se ve reflejado en un trabajo bien hecho'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué cualidad personal te costó más reconocer?' y '¿Qué sientes cuando pones un límite que te protege?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reconocer su valor personal, practicar la autoprotección y sentir orgullo por sus acciones.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G6-P3-T1",
+          "nombre_taller": "El Poder de la Resiliencia: Mentalidad de Crecimiento y Perseverancia",
+          "conceptos_relacionados": [
+            "Mentalidad de Crecimiento",
+            "Perseverancia",
+            "Autodisciplina"
+          ],
+          "proposito_experiencia": "Fomentar la creencia en la mejora de habilidades, la persistencia ante la frustración y la autodisciplina para alcanzar metas.",
+          "recursos_eco": "Escenarios de dificultad académica o social, 'planificador' de metas (Actividad 10).",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces las cosas se ponen difíciles, pero dentro de nosotros tenemos un superpoder: la mentalidad de crecimiento. ¡Hoy lo activaremos!'.",
+          "momento_desarrollo_vivencia": "Se presentan desafíos académicos o sociales. Los estudiantes practican la 'Mentalidad de Crecimiento' al ver los errores como oportunidades. Se refuerza la 'Perseverancia' al persistir ante la frustración. Se conecta con la 'Autodisciplina' al establecer metas y esforzarse por ellas. Realizan la 'Actividad 10: Mentalidad de crecimiento – Aprender del error', reflexionando sobre qué aprendieron. Use el ejemplo: 'Usé mentalidad de crecimiento al ver mi error en el examen como una oportunidad para aprender más'. 'No me rendí cuando el ejercicio de matemáticas se puso difícil y seguí intentando hasta resolverlo'. 'Seguí practicando mi presentación oral todos los días, aunque prefería jugar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste de un error reciente?' y '¿Qué meta quieres seguir intentando?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para mostrar mentalidad de crecimiento, perseverancia y autodisciplina ante los desafíos.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P3-T2",
+          "nombre_taller": "Conexiones Genuinas: Autenticidad y Sensibilidad Social",
+          "conceptos_relacionados": [
+            "Autenticidad",
+            "Sensibilidad Social",
+            "Validación Emocional"
+          ],
+          "proposito_experiencia": "Mantener la identidad frente a la presión de grupo, leer el contexto social y escuchar activamente a otros.",
+          "recursos_eco": "Situaciones de presión social (grupo, redes, modas - Actividad 3), escenarios de desacuerdo (Actividad 2, 4).",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser auténtico es como tener una voz propia, y la sensibilidad social nos ayuda a escuchar las voces de los demás. Hoy conectaremos con ambas'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 3: Autenticidad – Ser yo mismo', analizando situaciones de presión social. Luego, realizan la 'Actividad 4: Sensibilidad social – Leer el ambiente', identificando señales emocionales y proponiendo respuestas respetuosas. Se incorpora la 'Validación Emocional' al escuchar activamente a otros. Use el ejemplo: 'Dije 'no' a algo que no quería hacer, aunque mis amigos lo hicieran'. 'Me aseguré de que todos en el equipo tuvieran una tarea y se sintieran incluidos'. 'Escuché por qué mi amigo estaba enojado antes de defenderme'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué fortalece tu autenticidad?' y '¿Cómo mejora la convivencia con sensibilidad social?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para mostrar autenticidad, sensibilidad social y validación emocional en sus interacciones.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P3-T3",
+          "nombre_taller": "Mi Círculo de Seguridad: Autoprotección y Confianza",
+          "conceptos_relacionados": [
+            "Autoprotección",
+            "Toma de Decisiones Éticas",
+            "Iniciativa"
+          ],
+          "proposito_experiencia": "Identificar riesgos en redes sociales o entorno escolar, tomar decisiones éticas y tener iniciativa para buscar ayuda o generar un bienestar colectivo.",
+          "recursos_eco": "Casos de riesgo digital o escolar, ejemplos de dilemas éticos, hojas para planes de acción de autoprotección.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro mundo tiene desafíos, pero nosotros tenemos el poder de protegernos y de tomar decisiones que nos cuiden'.",
+          "momento_desarrollo_vivencia": "Se abordan situaciones de riesgo (online o presencial). Los estudiantes identifican estos riesgos ('Autoprotección') y proponen acciones de 'Toma de Decisiones Éticas'. Se fomenta la 'Iniciativa' para buscar ayuda o crear soluciones. Use el ejemplo: 'Avise a un adulto cuando vi una situación que podía ser peligrosa en redes sociales'. 'Antes de hacer una broma, pensé si eso haría sentir mal a mi amigo y decidí no hacerla'. 'Propuse una idea para mejorar la convivencia en el recreo y animé a otros a participar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué límites son importantes en redes sociales?' y '¿Qué puedes hacer si sientes que una situación no es segura?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para identificar riesgos, tomar decisiones éticas y mostrar iniciativa para su autoprotección.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G6-P4-T1",
+          "nombre_taller": "El Constructor de Paz: Convivencia Democrática y Resolución de Conflictos",
+          "conceptos_relacionados": [
+            "Convivencia Democrática",
+            "Resolución de Conflictos",
+            "Integridad"
+          ],
+          "proposito_experiencia": "Participar en la construcción de un ambiente escolar justo, buscando soluciones y cumpliendo promesas con integridad.",
+          "recursos_eco": "Acuerdos de aula existentes, escenarios de conflicto (Actividad 1 y 2), tarjetas de 'promesas' para el aula.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro salón es como una pequeña sociedad. Hoy vamos a construir la paz juntos, con reglas justas y promesas cumplidas'.",
+          "momento_desarrollo_vivencia": "Los estudiantes revisan los acuerdos de aula y proponen mejoras ('Convivencia Democrática'). Se trabaja la 'Resolución de Conflictos' con el 'Diálogo para resolver el malentendido' y la búsqueda de acuerdos. Se enfatiza la 'Integridad' al cumplir promesas y reglas. Use el ejemplo: 'Ayudé a establecer reglas justas para el juego en el recreo, que todos aceptamos'. 'Usé el diálogo para resolver el malentendido con mi amigo y buscamos una solución juntos'. 'Cumplí mi promesa de ayudar a un amigo con la tarea, aunque me invitaron a jugar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué es lo más importante para una convivencia justa?' y '¿Por qué cumplir tu palabra fortalece la confianza?'.",
+          "revision_proposito": "Evaluar la participación en la construcción de normas, la resolución de conflictos y la demostración de integridad.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P4-T2",
+          "nombre_taller": "Mi Voz con Coraje: Coraje Emocional e Iniciativa",
+          "conceptos_relacionados": [
+            "Coraje Emocional",
+            "Iniciativa",
+            "Responsabilidad Social"
+          ],
+          "proposito_experiencia": "Desarrollar la valentía para expresar sentimientos, pedir perdón o corregir errores, y tomar iniciativa para el bienestar común.",
+          "recursos_eco": "Situaciones de arrepentimiento o necesidad de hablar, tablero de 'ideas para mejorar la convivencia'.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces necesitamos un poco de coraje para hacer lo correcto, para hablar o para pedir perdón. Hoy lo encontraremos dentro de nosotros'.",
+          "momento_desarrollo_vivencia": "Los estudiantes comparten situaciones donde necesitaron 'Coraje Emocional' para hablar o corregir un error. Se practica la 'Iniciativa' para proponer mejoras en la convivencia y el cuidado del entorno. Se conecta con la 'Responsabilidad Social' al pensar en el bienestar de todos. Use el ejemplo: 'Tuve el coraje de pedir disculpas a mi compañero por haberle hablado mal'. 'Propuse una idea para mejorar la convivencia en el recreo y animé a otros a participar'. 'Cuidé los materiales del salón para que otros también pudieran usarlos, porque es una responsabilidad de todos'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sientes cuando logras hablar con coraje?' y '¿Qué pequeña iniciativa puedes tomar hoy para mejorar nuestro salón?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para mostrar coraje emocional, tomar iniciativa y asumir responsabilidad social.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G6-P4-T3",
+          "nombre_taller": "El Valor de Nuestro Legado: Responsabilidad Colectiva e Integridad",
+          "conceptos_relacionados": [
+            "Responsabilidad Colectiva",
+            "Integridad",
+            "Orgullo por el Buen Hacer"
+          ],
+          "proposito_experiencia": "Identificar el impacto de acciones individuales en el colectivo, proponiendo compromisos grupales y actuando con integridad para el bienestar común.",
+          "recursos_eco": "Listado de acuerdos del aula (Actividad 8), materiales para crear un 'mural de compromisos'.",
+          "momento_inicio_conexion": "Diga a los niños: 'Somos un equipo, y el legado que dejamos depende de cada uno de nosotros. Hoy vamos a reafirmar nuestros compromisos con integridad'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 8: Responsabilidad colectiva – Somos parte del grupo', identificando acuerdos y analizando el impacto de acciones individuales. Se proponen nuevos 'compromisos grupales'. Se refuerza la 'Integridad' al actuar con honestidad y cumplir promesas. Se conecta con el 'Orgullo por el Buen Hacer' al celebrar el cumplimiento de estos compromisos. Use el ejemplo: 'Cumplí mi promesa de ayudar a un amigo con la tarea, aunque me invitaron a jugar'. 'Me siento orgulloso de hacer bien mi trabajo en clase'. 'Cumplí los acuerdos colectivos del aula, contribuyendo a un buen ambiente'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo afecta tu acción al grupo?' y '¿Qué puedes hacer para que el próximo año todos cumplan los acuerdos?'.",
+          "revision_proposito": "Evaluar la comprensión de la responsabilidad colectiva, la demostración de integridad y el orgullo por el buen hacer individual y grupal.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

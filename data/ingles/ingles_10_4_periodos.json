@@ -6,8 +6,10 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Explica las ideas de un textooralo escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones."
         ],
@@ -32,8 +34,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Sostiene conversaciones espontáneas y sencillas acerca de temas que son de su conocimiento, interés personal o académico. Según su propósito y el conocimiento del interlocutor, es capaz de seleccionar expresiones apropiadas para iniciar, mantener y cerrar una conversación."
         ],
@@ -53,8 +57,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares a partir de su conocimiento previo, inferencias e interpretaciones."
         ],
@@ -71,8 +77,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Distingue información general y específica en textos de opinión y discusiones orales y escritos sobre temas conocidos. Para esto, responde a las preguntas ¿de qué trata el texto? y ¿cuál es el enunciado más importante que el autor hace acerca del tema?"
         ],
@@ -96,8 +104,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Produce mensajes escritos, tales como cartas y correos electrónicos, claros y bien estructurados teniendo en cuenta el contexto en el que tienen lugar. Para esto, utiliza el vocabulario y las estructuras de texto requeridas."
         ],
@@ -116,8 +126,10 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito acerca de temas de su interés o que le son familiares."
         ],
@@ -136,8 +148,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Sostiene conversaciones espontáneas y sencillas.",
           "Intercambia opiniones sobre situaciones de interés personal, escolar o social."
@@ -158,8 +172,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Responde preguntas e inquietudes después de hacer una exposición oral.",
           "Explica las ideas de un texto oral o escrito."
@@ -180,8 +196,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Distingue información general y específica en textos de opinión y discusiones."
         ],
@@ -199,8 +217,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Produce mensajes escritos claros y bien estructurados."
         ],
@@ -221,8 +241,10 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito."
         ],
@@ -240,8 +262,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Sostiene conversaciones espontáneas y sencillas.",
           "Intercambia opiniones sobre situaciones de interés."
@@ -259,8 +283,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito.",
           "Responde preguntas e inquietudes después de una exposición oral."
@@ -279,8 +305,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Distingue información general y específica."
         ],
@@ -298,8 +326,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Produce mensajes escritos, tales como cartas y correos electrónicos."
         ],
@@ -317,8 +347,10 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito."
         ],
@@ -336,8 +368,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Sostiene conversaciones espontáneas y sencillas.",
           "Intercambia opiniones sobre situaciones de interés."
@@ -356,8 +390,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Explica las ideas de un texto oral o escrito.",
           "Responde preguntas e inquietudes después de una exposición oral."
@@ -376,8 +412,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Distingue información general y específica."
         ],
@@ -395,8 +433,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Produce mensajes escritos claros y bien estructurados."
         ],

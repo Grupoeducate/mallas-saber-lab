@@ -50,6 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   areaSel.addEventListener('change', () => {
     resetResultados();
+    // Reset Grado, Periodo y Componente
     gradoSel.innerHTML = '<option value="">Seleccionar</option>';
     periodoSel.innerHTML = '<option value="">Seleccionar</option>';
     periodoSel.disabled = true;
@@ -65,6 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   gradoSel.addEventListener('change', () => {
     resetResultados();
+    // REINICIO OBLIGATORIO DE PERIODO Y COMPONENTE
     periodoSel.innerHTML = '<option value="">Seleccionar</option>';
     if (gradoSel.value) {
       const maxP = window.APP_CONFIG.TIPO_MALLA === "3_periodos" ? 3 : 4;
@@ -78,6 +80,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   periodoSel.addEventListener('change', async () => {
     resetResultados();
+    // REINICIO OBLIGATORIO DE COMPONENTE
+    compSel.innerHTML = '<option value="todos">Todos</option>';
+    compSel.disabled = true;
+
     if (!periodoSel.value) return;
     
     window.RenderEngine.setCargando(true);
@@ -114,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   btnProg.addEventListener('click', async () => {
+    if (!areaSel.value || !gradoSel.value) return;
     window.RenderEngine.setCargando(true);
     const g = parseInt(gradoSel.value);
     const grados = [String(g), String(g-1), String(g+1), "0", "-1", "1"];

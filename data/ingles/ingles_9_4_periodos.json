@@ -6,8 +6,10 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros. Para eso, se apoya en la estructura del texto, los títulos y subtítulos, marcadores de secuencia, conectores y el vocabulario que se repite."
         ],
@@ -30,8 +32,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas del entorno escolar y de interés general en una conversación. Para esto, se basa en los apuntes tomados después de leer o escuchar información sobre el tema tratado."
         ],
@@ -51,8 +55,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa su opinión sobre un tema discutido en clase y relacionado con su entorno académico. Para esto, cita lo que han dicho sus compañeros, otras personas o fuentes de información.",
           "Realiza exposiciones cortas sobre un tema académico de su interés. Para esto, tiene en cuenta la secuencia de las acciones, la claridad de las ideas y se asesora con sus compañeros y su profesor."
@@ -74,8 +80,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos. Para esto, tiene en cuenta el vocabulario, los conectores y sus conocimientos previos."
         ],
@@ -106,8 +114,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Explica el porqué de planes y acciones relacionadas con su entorno personal, escolar y comunitario.",
           "Estructura sus explicaciones de manera apropiada y tiene en cuenta la ortografía, la pronunciación y conectores para comunicar sus ideas.",
@@ -137,8 +147,10 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos y los comparte con sus compañeros."
         ],
@@ -159,8 +171,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas del entorno escolar y de interés general en una conversación."
         ],
@@ -180,8 +194,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa su opinión sobre un tema discutido en clase.",
           "Realiza exposiciones cortas sobre un tema académico de su interés."
@@ -203,8 +219,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce relaciones de causa y efecto en lecturas cortas sobre temas académicos."
         ],
@@ -229,8 +247,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Explica el porqué de planes y acciones.",
           "Estructura sus explicaciones de manera apropiada.",
@@ -256,8 +276,10 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos."
         ],
@@ -277,8 +299,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas del entorno escolar y de interés general."
         ],
@@ -297,8 +321,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa su opinión sobre un tema discutido en clase.",
           "Intercambia información sobre temas del entorno escolar.",
@@ -321,8 +347,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce relaciones de causa y efecto en lecturas cortas."
         ],
@@ -345,8 +373,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Resume la información que ha leído o escuchado.",
           "Explica el porqué de planes y acciones.",
@@ -373,8 +403,10 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito, las partes y tipo de textos en una lectura o audio cortos."
         ],
@@ -394,8 +426,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas del entorno escolar y de interés general."
         ],
@@ -413,8 +447,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa su opinión sobre un tema discutido en clase.",
           "Intercambia información sobre temas del entorno escolar.",
@@ -437,8 +473,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce relaciones de causa y efecto en lecturas cortas."
         ],
@@ -461,8 +499,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Resume la información que ha leído o escuchado.",
           "Explica el porqué de planes y acciones.",

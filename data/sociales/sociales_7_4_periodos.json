@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "7",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -13,7 +13,12 @@
           "Explica la importancia de los viajes de los exploradores del medioevo en la expansión del conocimiento del mundo.",
           "Relaciona la concepción y representación del mundo que se tenía en la Edad Media influenciada por la Biblia con la cultura espacial europea y señala los cambios y las continuidades más relevantes."
         ],
-        "saberes": ["Importancia de la cartografía", "Exploración en la edad media", "Expansión del conocimiento", "Representaciones de la tierra en la edad media", "Representaciones de la tierra en la modernidad", "Representaciones de la tierra en la época contemporánea", "Regiones naturales de Colombia"],
+        "saberes": [
+          "La exploración en la Edad Media y la expansión del conocimiento",
+          "Representaciones de la tierra en la Edad Media, la modernidad y la época contemporánea",
+          "Importancia de la cartografía",
+          "Regiones naturales de Colombia"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -29,7 +34,13 @@
           "Argumenta las razones que llevaron a la crisis del imperio romano, para identificar los factores que pueden incidir en la decadencia de un Estado hoy en día.",
           "Explica algunas actividades de la vida contemporánea que se inventaron en la antigua Roma (práctica de juegos públicos, el matrimonio, los gimnasios, uso de baños públicos) y cómo estas se han transformado con el paso de los siglos."
         ],
-        "saberes": ["Imperio romano", "Decadencia del imperio romano", "Influencia romana en la actualidad", "Manifestaciones artísticas", "Manifestaciones culturales", "Caracterización por épocas"],
+        "saberes": [
+          "Imperio romano y sus principales características",
+          "Caracterización por épocas",
+          "Manifestaciones artísticas y culturales",
+          "La decadencia del Imperio romano",
+          "Influencia del Imperio romano en la actualidad"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -45,7 +56,13 @@
           "Expresa una posición argumentada, a partir del estudio de casos y la norma constitucional frente a hechos o situaciones en los que se vulneran los derechos fundamentales.",
           "Identifica en qué situaciones puede usar la tutela como mecanismo para la protección y defensa de los derechos."
         ],
-        "saberes": ["Constitución política de Colombia", "Declaración de los derechos humanos", "Responsabilidad social", "Vulneración de derechos humanos", "Mecanismos de protección de los derechos humanos"],
+        "saberes": [
+          "Declaración de los derechos humanos",
+          "Constitución política de Colombia",
+          "Responsabilidad social",
+          "Vulneración de derechos humanos",
+          "Mecanismos de protección de los derechos humanos"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -83,7 +100,11 @@
           "Compara las representaciones del mundo conocido en la Edad Media y el representado hoy desde los mapas e imágenes satelitales y, describe el uso de la cartografía en la vida cotidiana de las personas.",
           "Argumenta que las representaciones del espacio son producto de las imágenes que se tienen del mundo y que se modifican con el tiempo (fotografías aéreas, imágenes de satélite)."
         ],
-        "saberes": ["Organización económica de las colonias españolas", "Organización económica de las colonias portuguesas", "Organización económica de las colonias inglesas", "Representación del mundo en la edad media", "Uso de la cartografía en la vida cotidiana"],
+        "saberes": [
+          "Caracteristitas de la organización económica de las colonias españolas, portuguesas e inglesas en América",
+          "Representación del mundo en la edad media",
+          "Uso de la cartografía en la vida cotidiana de las personas"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -130,7 +151,16 @@
           "Reconoce y promueve el cumplimiento de los derechos fundamentales de las familias en su entorno.",
           "Manifiesta desacuerdos ante el uso injusto del poder utilizando canales de comunicación pacíficos."
         ],
-        "saberes": ["Apoyar a los demás", "Derecho de la familia al trabajo", "Derecho a la salud", "Derecho a la vivienda", "Derecho a la propiedad", "Derecho a la educación", "Uso del poder y la autoridad", "La injusticia"],
+        "saberes": [
+          "Apoyar a los demás",
+          "Derecho de la familia al trabajo",
+          "Derecho a la salud",
+          "Derecho a la vivienda",
+          "Derecho a la propiedad",
+          "Derecho a la educación",
+          "Uso del poder y la autoridad",
+          "La injusticia"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -146,7 +176,13 @@
           "Reconoce y utiliza conceptos propios de la geografía urbana (desarrollo, crecimiento, conurbación, área metropolitana y planificación urbana) a partir de la observación directa de estos fenómenos en su contexto.",
           "Localiza en zonas de la ciudad o del municipio la concentración de fenómenos sociales como la pobreza, la violencia, los asentamientos informales y explica las posibles causas y consecuencias de estos."
         ],
-        "saberes": ["La geografía humana", "Fenómenos demográficos", "Fenómenos sociales en la zona urbana", "Industrialización", "Migración del campo a la ciudad en Colombia", "Problemáticas urbanas recurrentes"],
+        "saberes": [
+          "La geografía humana",
+          "Fenómenos demográfico y sociales en la zona urbana",
+          "Relacion entre la industrialización y la migración del campo a la ciudad en Colombia",
+          "Problemáticas urbanas recurrentes en las ciudades actuales",
+          "Caracteristitas de la organización económica de las colonias españolas, portuguesas e inglesas en América"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -213,7 +249,12 @@
           "Relaciona la industrialización y la migración del campo a la ciudad con los procesos de organización de las ciudades en Colombia en las últimas décadas.",
           "Compara las problemáticas urbanas más recurrentes de las ciudades actuales (contaminación, movilidad, sobrepoblación, falta de viviendas dignas, desempleo, inseguridad y migraciones internas) con algunas similares en otros períodos históricos."
         ],
-        "saberes": ["Impacto de las culturas en el encuentro Europa-América-África", "Sistemas de producción", "Demografía", "Desarrollo de centros urbanos", "Problemáticas sociales de la industrialización", "Migraciones del campo a las ciudades"],
+        "saberes": [
+          "Demografía",
+          "El impacto de las culturas involucradas en el encuentro entre europeos, américanos y áfricanos, en relacion con los sistemas de producción",
+          "Desarrollo de centros urbanos",
+          "Problemáticas sociales derivadas de la industrialización y las migraciones del campo a las ciudades"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -274,4 +315,5 @@
       }
     ]
   }
+
 }

@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "grado": 1,
+    "area": "Proyecto Socioemocional",
+    "descripcion_grado": "Planeación anual de talleres socioemocionales para estudiantes de grado primero, con enfoque vivencial y lenguaje sencillo para docentes no especialistas."
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G1-P1-T1",
+          "nombre_taller": "Reconozco lo que siento por dentro",
+          "conceptos_relacionados": [
+            "Conciencia Emocional Propia",
+            "Identificación de Señales Corporales"
+          ],
+          "proposito_experiencia": "Que los niños identifiquen y nombren sus emociones básicas, relacionándolas con las sensaciones de su cuerpo, para empezar a comprender qué les pasa por dentro en diferentes situaciones cotidianas.",
+          "recursos_eco": "Tarjetas con caras que expresen emociones básicas (alegría, tristeza, enojo, miedo, sorpresa), hojas blancas, lápices de colores, tablero o cartel grande, ambiente tranquilo donde los niños puedan moverse y expresarse sin burla.",
+          "momento_inicio_conexion": "Diga a los niños que van a jugar a ser 'detectives de emociones'. Pídales que se pongan de pie y muestren con su cara cómo se ven cuando están muy felices. Luego, pídales que cambien y muestren con su cara cómo se ven cuando están tristes, enojados o asustados. Haga que el grupo adivine en voz alta qué emoción está representando cada gesto. Refuerce diciendo: 'Hoy vamos a aprender a reconocer lo que sentimos por dentro y cómo se ve por fuera'.",
+          "momento_desarrollo_vivencia": "1) Muestre las tarjetas con las distintas emociones una por una y nombre en voz alta: alegría, tristeza, enojo, miedo, sorpresa. 2) Diga a los niños: 'Cuando sentimos una emoción, nuestro cuerpo también cambia'. Pregunte: '¿Cómo se siente tu cuerpo cuando estás bravo?', '¿Qué pasa con tu cuerpo cuando estás feliz?'. Escriba o dibuje en el tablero algunas respuestas sencillas (corazón rápido, ganas de llorar, sonrisa, cuerpo tenso). 3) Entregue a cada niño una hoja y pídales que dibujen una situación donde hayan sentido una emoción fuerte (por ejemplo, cuando ganaron un juego, cuando alguien no quiso jugar con ellos, cuando se asustaron, etc.). Indique: 'Dibujen qué pasó y cómo se sintieron en su cuerpo'. 4) Invite voluntarios a pasar al frente a mostrar su dibujo. Ayúdeles con el lenguaje: 'Yo sentí alegría cuando…', 'Mi cuerpo se puso tenso cuando…'. 5) Vaya reforzando que poner nombre a lo que sienten y notar su cuerpo les ayuda a entenderse mejor y a pedir ayuda si lo necesitan.",
+          "momento_cierre_integracion": "Guíe una breve conversación sentando al grupo en círculo. Pregunte: '¿Qué emoción conociste mejor hoy?', '¿Cómo se siente tu cuerpo cuando estás muy feliz?', '¿Cómo se siente cuando estás triste o bravo?', '¿Por qué es importante saber qué estamos sintiendo?', '¿A quién podrías contarle cómo te sientes cuando te pase algo fuerte?'. Cierre recordando que todas las emociones son válidas y que aprender a reconocerlas es el primer paso para cuidarse a sí mismos y a los demás.",
+          "revision_proposito": "Observe si los estudiantes pueden nombrar al menos una emoción que sienten con frecuencia y si logran describir algún cambio corporal asociado (por ejemplo, 'mi corazón late rápido', 'me dan ganas de llorar'). Verifique si participan respetando el turno de palabra y si se expresan sin burlarse de los compañeros. Note si usan frases sencillas como 'me siento...' para hablar de sus estados emocionales.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P1-T2",
+          "nombre_taller": "Miro las emociones de mis amigos",
+          "conceptos_relacionados": [
+            "Conciencia Emocional Ajena",
+            "Emociones"
+          ],
+          "proposito_experiencia": "Que los niños desarrollen la capacidad de observar gestos, voz y acciones de sus compañeros para inferir cómo se sienten, fortaleciendo la sensibilidad hacia las emociones de los demás.",
+          "recursos_eco": "Tarjetas o imágenes de niños con distintas expresiones emocionales, títeres simples o dibujos en papel, espacio para representar pequeñas escenas, cinta adhesiva o imanes para el tablero.",
+          "momento_inicio_conexion": "Haga que el grupo se siente en semicírculo. Muestre una imagen de un niño con cara muy triste y pregunte: '¿Cómo creen que se siente? ¿Qué cosas ven en su cara y en su cuerpo que les dan esa pista?'. Luego muestre otra imagen con una cara muy alegre y repita la pregunta. Explique con lenguaje simple: 'Así como tú sientes cosas adentro, tus amigos también sienten, y su cara y su cuerpo nos dan pistas'.",
+          "momento_desarrollo_vivencia": "1) Pegue en el tablero varias imágenes de niños con diferentes expresiones: alegría, enojo, miedo, sorpresa, vergüenza. 2) Pida voluntarios para que señalen una imagen y digan: 'Creo que se siente… porque…', completando con lo que ven (cara, ojos, postura). 3) Luego organice parejas. Diga a los niños: 'Uno va a representar una emoción con su cara y su cuerpo sin hablar, y el otro va a adivinar y decir qué emoción ve y qué le hace pensar eso'. Después de unos minutos, cambian de rol. 4) Invite a algunos pares a representar al frente sus escenas breves (por ejemplo, alguien que perdió un juguete, alguien que ganó un juego). Ayude a todo el grupo a decir la emoción observada y la posible causa. 5) Refuerce la idea de que mirar con atención ayuda a darnos cuenta de cómo se sienten los otros y a tratarlos mejor.",
+          "momento_cierre_integracion": "En círculo, pregunte: '¿Qué te ayudó hoy a darte cuenta de cómo se sentían los demás?', '¿Cómo puedes saber si un amigo está triste aunque no te lo diga?', '¿Qué puedes hacer cuando ves a alguien con cara de susto o de enojo?', '¿Por qué es importante fijarnos en las emociones de nuestros compañeros?'. Cierre enfatizando que reconocer las emociones ajenas permite ofrecer ayuda, respetar y mejorar la convivencia en el salón.",
+          "revision_proposito": "Revise si los niños logran identificar al menos dos emociones en imágenes o representaciones de sus compañeros y si pueden explicar brevemente qué pista observaron (gesto, voz, cuerpo). Observe si muestran actitudes de respeto cuando otros representan emociones y si comienzan a hablar de formas de ayudar o acompañar a quien se siente mal.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P1-T3",
+          "nombre_taller": "Mi semáforo de emociones",
+          "conceptos_relacionados": [
+            "Conciencia Emocional Propia",
+            "Conciencia Emocional Ajena",
+            "Identificación de Señales Corporales"
+          ],
+          "proposito_experiencia": "Que los niños relacionen la intensidad de sus emociones con la metáfora de un semáforo, diferenciando momentos de calma, alerta y alto, para empezar a tomar decisiones más seguras en la convivencia escolar.",
+          "recursos_eco": "Cartulina o papelógrafo con un semáforo grande (rojo, amarillo, verde), círculos pequeños de cartulina de colores para cada niño, pegante o cinta, marcadores, espacio para moverse y hacer pequeñas dramatizaciones.",
+          "momento_inicio_conexion": "Muestre el dibujo de un semáforo grande y pregunte: '¿Para qué sirve un semáforo en la calle?'. Escuche sus respuestas y luego diga: 'Así como los carros necesitan semáforo, nuestras emociones también'. Invite a los niños a decir ejemplos de cuando están tranquilos, un poco molestos o muy enojados.",
+          "momento_desarrollo_vivencia": "1) Explique el significado de cada color: verde para emociones tranquilas o agradables (alegría, calma), amarillo para cuando empezamos a molestarnos o asustarnos un poco, rojo para cuando la emoción es muy fuerte y necesitamos parar. 2) Diga a los niños varias situaciones cotidianas del aula (por ejemplo: 'Un amigo te invita a jugar un juego que te gusta', 'Te quitan un lápiz sin pedirlo', 'Ganas un juego en el recreo', 'Nadie te elige para el equipo'). Después de cada ejemplo, pídales que levanten la mano diciendo si esa situación se sentiría más como verde, amarillo o rojo, y que expliquen por qué. 3) Entregue a cada niño tres círculos de cartulina (rojo, amarillo, verde). Pídales que piensen en una situación real que hayan vivido en el colegio y que dibujen o escriban un símbolo sencillo en el círculo del color que mejor represente cómo se sintieron. 4) Invite a algunos voluntarios a pegar sus círculos en el semáforo grande y a explicar brevemente qué pasó y cómo se sintieron en el cuerpo. Acompañe con preguntas como: '¿Tu corazón iba rápido o lento?', '¿Tenías ganas de llorar o reír?'. 5) Refuerce la idea de que cuando estamos en rojo necesitamos detenernos, respirar y pedir ayuda; cuando estamos en amarillo debemos estar atentos a lo que sentimos; y cuando estamos en verde podemos seguir disfrutando y compartiendo con otros.",
+          "momento_cierre_integracion": "Cierre con unas preguntas guía: '¿Qué aprendiste hoy sobre tus emociones y el semáforo?', '¿Qué puedes hacer cuando sientes que estás en rojo?', '¿Cómo puedes darte cuenta de que un compañero está en rojo o en amarillo?', '¿A quién puedes pedir ayuda cuando tus emociones son muy fuertes?'. Invite a los niños a usar el lenguaje del semáforo durante la semana para hablar de cómo se sienten.",
+          "revision_proposito": "Observe si los estudiantes pueden asociar correctamente situaciones cotidianas con al menos dos niveles del semáforo emocional (verde, amarillo, rojo) y si describen brevemente sensaciones corporales ligadas a esas situaciones. Verifique si comienzan a proponer estrategias sencillas como respirar, pedir ayuda o hablar con un adulto cuando reconocen emociones muy intensas en sí mismos o en sus compañeros.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G1-P2-T1",
+          "nombre_taller": "Pausa antes de actuar",
+          "conceptos_relacionados": [
+            "Autocontrol",
+            "Regulación Emocional"
+          ],
+          "proposito_experiencia": "Que los niños practiquen una secuencia sencilla de autocontrol (pausa, respiración y elección de respuesta calmada) frente a situaciones comunes del aula que generan enojo o frustración.",
+          "recursos_eco": "Tarjetas con situaciones del aula (empujón accidental, no ser elegido en un juego, caída de materiales), cronómetro o conteo en voz alta para los 5 segundos de pausa, espacio libre para dramatizar, tablero para escribir los pasos de autocontrol.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces pasan cosas en el salón que nos molestan mucho y queremos gritar o empujar. Hoy vamos a aprender un truco para que nuestra emoción no nos mande'. Pida que levanten la mano quienes alguna vez han querido gritar o empujar cuando se enojan. Valide sus respuestas y explíqueles que sentir enojo es normal, pero que podemos aprender a manejarlo.",
+          "momento_desarrollo_vivencia": "1) Escriba en el tablero tres pasos simples: 1. Pauso, 2. Respiro profundo, 3. Elijo una respuesta calmada. Lea en voz alta cada paso y haga que los niños lo repitan con usted. 2) Presente una primera situación: 'Alguien te empuja sin querer en la fila'. Pida a dos estudiantes que la representen suavemente. Luego guíe al grupo: 'Todos vamos a practicar: primero PAUSO (quédense quietos 5 segundos), luego RESPIRO profundo 3 veces, y después ELIGO una respuesta calma, por ejemplo decir: \"Por favor, no me empujes\"'. 3) Repita la dinámica con otras situaciones como 'no te eligen para el juego' o 'se te cae tu cuaderno y se arruga'. Después de cada dramatización, haga que el grupo practique los tres pasos coordinados. 4) Invite a algunos niños a inventar una nueva situación del aula donde necesiten autocontrol y dramatizarla aplicando los pasos. Refuerce el elogio cuando usen lenguaje calmado y respetuoso. 5) Conecte con la idea de regulación emocional explicando que estas estrategias ayudan a que el cuerpo se calme y que no lastimen a otros ni a sí mismos.",
+          "momento_cierre_integracion": "Siéntese con el grupo en círculo y pregunte: '¿En qué parte del cuerpo sientes primero el enojo?', '¿Qué paso del autocontrol te parece más difícil: pausar, respirar o elegir la respuesta?', '¿En qué situación de tu vida podrías usar estos pasos hoy?', '¿Por qué es importante pausar antes de responder cuando estamos muy molestos?'. Invite a los niños a comentar alguna vez reciente en que lograron controlarse o en que les habría gustado hacerlo mejor.",
+          "revision_proposito": "Observe si los estudiantes recuerdan la secuencia de tres pasos y pueden repetirla sin apoyo visual. Verifique durante las dramatizaciones si son capaces de detenerse, respirar y proponer respuestas verbales respetuosas en lugar de reacciones impulsivas. Revise en los días siguientes si algunos niños comienzan a usar el lenguaje 'pauso, respiro, elijo' en situaciones reales del aula.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P2-T2",
+          "nombre_taller": "Esperar mi turno con respeto",
+          "conceptos_relacionados": [
+            "Espera de Turno",
+            "Respeto"
+          ],
+          "proposito_experiencia": "Que los niños practiquen conductas concretas para esperar su turno al hablar o usar materiales, comprendiendo que esta habilidad favorece el respeto y el orden en el grupo.",
+          "recursos_eco": "Objeto de turno (pelota blanda o marcador grueso), tarjetas con dibujos de fila, juego y círculo de conversación, algunos materiales de uso común (colores, libros), espacio amplio para hacer filas y círculos.",
+          "momento_inicio_conexion": "Diga al grupo: 'Hoy vamos a jugar a los turnos que escuchan'. Coloque a los niños en círculo y muestre el objeto de turno. Explique: 'Solo quien tiene el objeto puede hablar, los demás escuchan en silencio y esperan'. Haga una ronda rápida preguntando algo sencillo como '¿Qué te gusta hacer en el descanso?', para que practiquen la regla básica de esperar su turno.",
+          "momento_desarrollo_vivencia": "1) Después de la primera ronda, pregunte cómo se sintieron al esperar su turno y si en algún momento quisieron interrumpir. Refuerce la importancia de escuchar sin hablar encima del otro. 2) Organice a los niños en pequeñas filas simulando entrada al salón, uso del baño o entrega de trabajos. Diga instrucciones claras: 'Cuando estás en la fila, tu cuerpo está detrás del compañero, no lo empujas, no te cuelas, esperas tu turno'. Haga que practiquen avanzando lentamente mientras usted observa y corrige con amabilidad. 3) Luego, proponga una mini-actividad con material compartido (por ejemplo, un juego o un set de colores). Indique que cada mesa debe decidir un orden de turno. Observe si respetan el acuerdo y anímelos a recordar la frase: 'Ahora te toca a ti, luego a mí'. 4) Detenga la actividad y converse brevemente sobre qué pasó cuando alguien no respetó los turnos y cómo se sintieron. Ayude a los niños a encontrar soluciones como 'recordar la regla', 'volver a hacer la fila' o 'pedir ayuda a la profe'. 5) Refuerce el mensaje de que respetar el turno es una forma concreta de mostrar respeto a los demás.",
+          "momento_cierre_integracion": "En círculo, formule preguntas de reflexión: '¿Cómo te sentiste cuando te escucharon sin interrumpir?', '¿Te costó esperar tu turno? ¿Por qué?', '¿Qué ayuda a que todos se sientan respetados cuando hablamos?', '¿Qué cambia en el grupo cuando escuchamos bien y esperamos el turno?', '¿Cómo puedes mostrar respeto mañana en clase al hacer fila o usar materiales?'. Invite a que cada niño comparta al menos una acción concreta que intentará aplicar.",
+          "revision_proposito": "Observe si durante el taller los estudiantes respetan el uso del objeto de turno, mantienen su lugar en la fila y comparten materiales sin pelear. Registre si son capaces de verbalizar al menos una regla para esperar el turno y una razón por la cual esto mejora la convivencia. En días posteriores, note si disminuyen las interrupciones constantes y los reclamos por 'se coló'.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P2-T3",
+          "nombre_taller": "Buscamos soluciones juntos",
+          "conceptos_relacionados": [
+            "Resolución de Conflictos (Básico)",
+            "Valentía"
+          ],
+          "proposito_experiencia": "Que los niños ensayen pasos sencillos para resolver conflictos cotidianos hablando, pidiendo ayuda y mostrando valentía para expresar lo que sienten sin recurrir a la agresión.",
+          "recursos_eco": "Tarjetas con escenas de conflicto leve (no compartir un juguete, desacuerdo en un juego, empujón), títeres o muñecos sencillos, pizarra para escribir pasos de solución, espacio para dramatizar frente al grupo.",
+          "momento_inicio_conexion": "Empiece preguntando: '¿Alguna vez has tenido un problema con un compañero por un juego o un material?'. Escuche algunos ejemplos breves y valide que los conflictos son normales. Explique que hoy aprenderán a buscar soluciones sin pelear, usando la voz y la ayuda de un adulto cuando sea necesario.",
+          "momento_desarrollo_vivencia": "1) Presente una escena sencilla con títeres o dramatizada por usted: dos niños que quieren el mismo juguete y empiezan a gritar. Detenga la escena y pregunte al grupo qué podría pasar si siguen así. 2) Proponga tres pasos básicos en el tablero: 1. Me calmo, 2. Digo lo que siento y lo que quiero, 3. Buscamos una solución o pedimos ayuda a un adulto. Lea cada paso y comente con ejemplos. 3) Divida al curso en pequeños grupos y entrégueles una tarjeta con una situación de conflicto distinta (no ponerse de acuerdo en el juego, alguien que no respeta el turno, un empujón accidental). Diga a los niños que representen primero el problema y luego una posible solución aplicando los tres pasos. 4) Invite a cada grupo a presentar su dramatización. Después de cada una, pregunte: '¿En qué momento se calmaron?', '¿Cómo dijeron lo que sentían?', '¿Qué solución encontraron o a quién pidieron ayuda?'. 5) Haga énfasis en que se necesita valentía para hablar con calma y pedir ayuda, y que esa valentía es mejor que gritar o pegar.",
+          "momento_cierre_integracion": "En círculo, pregunte: '¿Qué paso te pareció más difícil al resolver un conflicto?', '¿Por qué es mejor hablar y buscar ayuda que pelear?', '¿En qué tipo de problema te gustaría practicar estos pasos esta semana?', '¿Cómo puedes ayudar a un compañero que está peleando a recordar estos pasos?'. Invite a los niños a mencionar una situación real del salón donde podrían usar lo aprendido.",
+          "revision_proposito": "Observe si los niños comprenden y repiten los tres pasos básicos de resolución de conflictos y si en las dramatizaciones logran pasar de la pelea a una alternativa de diálogo o búsqueda de ayuda. Durante la convivencia diaria, verifique si comienzan a llamar a un adulto o usar frases asertivas en lugar de recurrir inmediatamente a la agresión física o verbal.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G1-P3-T1",
+          "nombre_taller": "Hablamos claro y con respeto",
+          "conceptos_relacionados": [
+            "Comunicación Asertiva",
+            "Respeto"
+          ],
+          "proposito_experiencia": "Que los niños practiquen expresar lo que sienten, piensan y necesitan usando palabras claras y respetuosas, sin gritar ni insultar, aun cuando están molestos.",
+          "recursos_eco": "Tarjetas con frases modelo asertivas, tarjetas con frases agresivas o pasivas para transformar, títeres o muñecos para representaciones, tablero para escribir ejemplos, espacio para dramatizar.",
+          "momento_inicio_conexion": "Pregunte al grupo: '¿Qué pasa cuando alguien te habla gritando o usando palabras feas?'. Escuche algunas respuestas y luego pregunte: '¿Y cómo se siente cuando te hablan con respeto, diciendo \"por favor\" y \"gracias\"?'. Explique que hoy aprenderán a usar la voz para decir lo que sienten sin hacer daño.",
+          "momento_desarrollo_vivencia": "1) Escriba en el tablero algunos ejemplos de frases agresivas comunes (adaptadas al lenguaje de primer grado, sin reproducir insultos fuertes) como '¡Dame eso!' o '¡No juegues aquí!'. Pida al grupo que las transforme en frases asertivas añadiendo respeto: '¿Me prestas eso, por favor?', '¿Podemos compartir este espacio?'. 2) Muestre tarjetas con frases modelo como 'Me molesta cuando...', 'Me siento triste cuando...', 'Necesito que...', y practiquen diciendo estas frases en coro. 3) Organice parejas y entrégueles una situación sencilla (alguien toma un color sin pedirlo, alguien habla muy duro al lado). Indique que primero representen la escena con una respuesta agresiva y luego la repitan usando una frase asertiva. 4) Invite a algunas parejas a mostrar sus escenas al grupo. Después de cada una, pregunte: '¿En cuál forma de hablar se sintieron mejor?', '¿Cuál ayuda más a resolver el problema?'. 5) Refuerce constantemente el tono de voz moderado y el uso de palabras de cortesía como 'por favor', 'gracias' y 'disculpa'.",
+          "momento_cierre_integracion": "En círculo, formule preguntas de reflexión: '¿Qué diferencia hay entre gritar y hablar con respeto?', '¿Qué puedes decir cuando algo te molesta en vez de quedarte callado o pegar?', '¿En qué situación de tu vida te gustaría usar una frase como \"Me molesta cuando…\"?', '¿Cómo te sientes cuando alguien te habla con respeto aunque esté bravo?'. Invite a los niños a elegir una frase asertiva que se comprometan a usar durante la semana.",
+          "revision_proposito": "Observe si los estudiantes pueden transformar frases agresivas en enunciados más respetuosos y si usan un tono de voz moderado durante las dramatizaciones. En la convivencia diaria, registre si comienzan a usar expresiones como 'por favor', 'gracias' y 'me molesta cuando…' para manejar desacuerdos.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P3-T2",
+          "nombre_taller": "Escucho con todo mi cuerpo",
+          "conceptos_relacionados": [
+            "Escucha Activa",
+            "Respeto"
+          ],
+          "proposito_experiencia": "Que los niños identifiquen y practiquen conductas concretas de escucha activa (mirar a quien habla, no interrumpir, esperar turno, responder a lo que el otro dijo) para mejorar la comprensión y el respeto en el aula.",
+          "recursos_eco": "Cartel con dibujo de un niño escuchando (ojos mirando, boca cerrada, cuerpo quieto), objeto de turno (pelota o bastón de la palabra), pequeñas historias o instrucciones para leer en voz alta, espacio para sentarse en círculo.",
+          "momento_inicio_conexion": "Muéstreles un cartel con un niño escuchando e invite al grupo a observar los detalles. Pregunte: '¿Qué está haciendo con sus ojos, su boca y su cuerpo?'. Escriba en el tablero las respuestas y explíqueles que eso se llama 'escucha activa' y nos ayuda a entender mejor a los demás.",
+          "momento_desarrollo_vivencia": "1) Diga a los niños: 'Vamos a practicar escuchar con todo el cuerpo'. Haga una demostración exagerando la buena escucha (mirar a la persona, estar quieto, no hablar) y otra demostración de mala escucha (mirar hacia otro lado, jugar con objetos, interrumpir). Pregunte cuál de las dos se siente más respetuosa. 2) Siéntelos en círculo y entregue el objeto de turno. Lea una historia corta o dé una instrucción y pida a quien tenga el objeto que repita lo más importante de lo escuchado. Luego pasa el objeto a otro compañero. 3) Organice pequeños diálogos entre parejas, donde uno cuenta algo que le pasó en el recreo y el otro debe escuchar y luego decir: 'Escuché que tú…', resumiendo lo que entendió. Luego cambian los roles. 4) Durante las prácticas, señale y nombre las conductas positivas: 'Veo que estás mirando a tu compañero', 'Esperaste tu turno para hablar'. 5) Conecte la escucha activa con el respeto, mencionando que cuando escuchamos bien hay menos malentendidos y peleas.",
+          "momento_cierre_integracion": "Cierre con preguntas: '¿Qué haces con tu cuerpo cuando escuchas activamente?', '¿Qué se siente cuando alguien te escucha de verdad?', '¿Qué pasa en el grupo cuando muchos interrumpen al mismo tiempo?', '¿En qué momento del día podrías practicar más la escucha activa?'. Invite a los niños a elegir un momento específico (clase, instrucciones, recreo) donde se comprometan a escuchar mejor.",
+          "revision_proposito": "Observe si durante el taller los estudiantes mantienen el contacto visual, controlan la impulsividad para no interrumpir y logran repetir información básica que escucharon. En las clases siguientes, note si disminuyen las interrupciones y si comprenden mejor las instrucciones al poner en práctica la escucha activa.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P3-T3",
+          "nombre_taller": "Construimos juntos",
+          "conceptos_relacionados": [
+            "Colaboración",
+            "Empatía Básica"
+          ],
+          "proposito_experiencia": "Que los niños experimenten la colaboración en pequeños grupos, reconociendo el aporte de cada compañero y vinculando la ayuda y el respeto con el logro de una tarea común.",
+          "recursos_eco": "Material común para construir en equipo (bloques, hojas y cinta, palitos de paleta, plastilina), hojas para dibujar roles, espacio suficiente para trabajar en grupos de tres, cartel para escribir acuerdos de trabajo en equipo.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy no vamos a trabajar solos, vamos a construir algo juntos'. Pregunte: '¿Qué cosas son más fáciles cuando las hacemos en equipo?'. Escuche algunas respuestas y explique que cuando colaboramos, cada uno tiene una parte importante que hacer.",
+          "momento_desarrollo_vivencia": "1) Forme grupos de tres estudiantes y entrégueles el mismo tipo de material. Indique que el reto es construir algo en equipo (una torre, una figura, una mini-bandera), pero que primero deben decidir qué van a hacer y qué rol tendrá cada uno (por ejemplo, quien pega, quien sostiene, quien organiza las piezas). 2) Pida que conversen un momento dentro del grupo para acordar qué construirán y qué hará cada uno. Acérquese a los grupos y apoye la toma de decisiones con preguntas como: '¿Qué idea van a escoger?', '¿Qué va a hacer cada uno?'. 3) Deje que trabajen durante varios minutos, observando si se escuchan entre sí, comparten el material y ayudan a quien lo necesita. 4) Al finalizar, invite a cada grupo a mostrar su creación al resto del curso y a nombrar qué aportó cada integrante. Destaque ejemplos de colaboración y empatía, como cuando un niño espera que el otro termine o ayuda a corregir con paciencia. 5) Relacione lo vivido con la idea de que trabajar juntos se siente mejor que competir todo el tiempo y que cada aporte cuenta.",
+          "momento_cierre_integracion": "En círculo, haga preguntas guía: '¿Qué aportó cada persona del grupo?', '¿Fue fácil o difícil ponerse de acuerdo? ¿Por qué?', '¿Qué ayudó a que el trabajo saliera mejor?', '¿Cómo se siente colaborar en vez de trabajar solo?', '¿Qué podrían mejorar para la próxima actividad en equipo?'. Invite a los niños a decir el nombre de un compañero que los haya ayudado hoy y qué hizo.",
+          "revision_proposito": "Observe si los estudiantes son capaces de distribuir roles sencillos, compartir materiales sin discutir y reconocer en voz alta el aporte de sus compañeros. En actividades posteriores, note si piden ayuda con más facilidad, si escuchan ideas distintas a las propias y si muestran mayor disposición a trabajar en grupo.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G1-P4-T1",
+          "nombre_taller": "Cuidamos lo que es de todos",
+          "conceptos_relacionados": [
+            "Respeto a los Acuerdos y Normas",
+            "Responsabilidad y Cuidado"
+          ],
+          "proposito_experiencia": "Que los niños comprendan que las normas y acuerdos del salón existen para cuidar a las personas y los objetos, y practiquen conductas concretas de responsabilidad en el uso de materiales y espacios.",
+          "recursos_eco": "Cartel con normas básicas del aula, imágenes o tarjetas que muestren conductas de cuidado y descuido, contenedores para materiales (cajas, canastas), etiquetas para identificar lugares de guardado, espacio para un breve juego de roles.",
+          "momento_inicio_conexion": "Pregunte: '¿Qué pasaría si en el salón nadie recogiera sus cosas ni respetara las reglas?'. Escuche las respuestas y luego muestre el cartel con algunas normas del curso. Explique que las normas no son castigos, sino acuerdos para que todos estén seguros y cómodos.",
+          "momento_desarrollo_vivencia": "1) Lea en voz alta algunas normas del aula (por ejemplo, levantar la mano para hablar, cuidar los libros, mantener el puesto ordenado) y pida a los niños que digan por qué creen que cada una es importante. 2) Muestre imágenes de situaciones de cuidado y descuido (material tirado, pupitre ordenado, libros rayados, juguetes guardados) y pida que identifiquen cuáles muestran respeto a las normas y cuáles no. 3) Organice un juego de roles en el que unos niños representen a un grupo que no respeta las normas (tirar papeles, hablar fuerte, no guardar materiales) y luego el mismo grupo represente cómo sería si sí las cumplieran. Pregunte qué diferencias notan en el ambiente. 4) Asigne a pequeños equipos la responsabilidad de un área específica del salón (biblioteca, cajón de colores, zona de mochilas) y pídales que diseñen, con ayuda del docente, una mini-regla para cuidarla. 5) Concluya reforzando que cumplir acuerdos y normas es una forma de mostrar respeto y cuidar el colegio como un espacio común.",
+          "momento_cierre_integracion": "En círculo, pregunte: '¿Qué norma del salón te cuesta más cumplir?', '¿Cuál norma te ayuda más a estar tranquilo y aprender?', '¿Qué hiciste hoy para cuidar tus cosas y las del salón?', '¿Qué pasaría si todos decidieran no cumplir las normas?'. Invite a cada niño a elegir una norma que se comprometa a cuidar especialmente durante la semana.",
+          "revision_proposito": "Observe si los estudiantes pueden explicar con sus palabras para qué sirve al menos una norma del salón y si identifican conductas concretas de cuidado y descuido. Durante los días siguientes, registre si cumplen mejor los acuerdos establecidos para las distintas áreas del aula y si participan en el ordenamiento sin necesidad de múltiples recordatorios.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P4-T2",
+          "nombre_taller": "Reparo mis errores",
+          "conceptos_relacionados": [
+            "Asunción de Consecuencias / Reparación",
+            "Búsqueda de Mediación / Ayuda"
+          ],
+          "proposito_experiencia": "Que los niños reconozcan cuando han cometido un error que afecta a otros y practiquen una secuencia sencilla para pedir perdón y reparar, incluyendo la posibilidad de pedir ayuda a un adulto para resolver situaciones difíciles.",
+          "recursos_eco": "Tarjetas con ejemplos de errores comunes (romper algo sin querer, hablar fuerte a un compañero, no cumplir un acuerdo), cartel con los pasos para reparar, papel y lápices para escribir o dibujar disculpas, títeres o muñecos para dramatizar.",
+          "momento_inicio_conexion": "Pregunte: '¿Alguna vez has hecho algo que hizo sentir mal a alguien aunque no quisieras?'. Invite a levantar la mano sin pedir detalles. Explique que equivocarse es parte de aprender, pero que es importante hacerse responsable y reparar lo ocurrido.",
+          "momento_desarrollo_vivencia": "1) Presente y escriba en un cartel tres pasos para reparar: 1. Reconozco lo que pasó, 2. Pido perdón de forma sincera, 3. Busco una forma de reparar o pido ayuda a un adulto si no sé cómo hacerlo. 2) Dramatice con títeres una situación sencilla (empujón accidental, daño pequeño de material). Pausadamente, modele los tres pasos, diciendo frases como: 'Te empujé sin querer y te caíste, lo siento' y '¿Cómo puedo ayudarte a que te sientas mejor?'. 3) Entregue a los niños tarjetas con diferentes situaciones de error y pídales que, en parejas, inventen un pequeño diálogo usando los tres pasos. 4) Invite a varias parejas a presentar sus diálogos frente al grupo. Después de cada presentación, pregunte: '¿Reconoció lo que hizo?', '¿Pidió perdón?', '¿Cómo reparó o a quién pidió ayuda?'. 5) Ofrezca a los niños la posibilidad de escribir o dibujar en una hoja una disculpa simbólica para alguien a quien hayan hecho sentir mal recientemente (sin mencionar nombres en voz alta si no quieren) y recuérdeles que pueden hablar con la persona o con un adulto de confianza para reparar.",
+          "momento_cierre_integracion": "Cierre preguntando: '¿Qué significa para ti reparar un error?', '¿Qué te ayuda a pedir perdón cuando te cuesta?', '¿Qué sientes cuando alguien te pide perdón sinceramente?', '¿Por qué el perdón mejora la convivencia en el salón?', '¿A quién podrías pedir ayuda si tienes un problema que no puedes resolver solo?'. Invite a los niños a pensar en una situación pequeña en la que podrían aplicar estos pasos hoy o mañana.",
+          "revision_proposito": "Observe si los estudiantes son capaces de relatar al menos un ejemplo de error y una forma concreta de reparación. En la convivencia cotidiana, registre si empiezan a usar con mayor frecuencia expresiones de disculpa y si recurren a un adulto para mediar cuando el conflicto es demasiado difícil para ellos solos.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G1-P4-T3",
+          "nombre_taller": "Puedo solo, pero también pido ayuda",
+          "conceptos_relacionados": [
+            "Autonomía y Seguimiento de Instrucciones",
+            "Búsqueda de Mediación / Ayuda",
+            "Vínculo y Confianza"
+          ],
+          "proposito_experiencia": "Que los niños diferencien entre las tareas que pueden realizar de forma autónoma siguiendo instrucciones y aquellas situaciones emocionales o de conflicto en las que es mejor pedir ayuda a un adulto de confianza.",
+          "recursos_eco": "Lista visual de instrucciones simples para una tarea (por ejemplo, organizar el puesto, desarrollar una actividad breve), tarjetas con situaciones que sí pueden resolver solos y otras que requieren adulto, imágenes de adultos de confianza del colegio (docente, orientador, coordinador), espacio para trabajo individual y breve discusión en grupo.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada día haces cosas tú solo y otras en las que necesitas ayuda. Hoy vamos a descubrir cuáles puedes hacer por tu cuenta y cuándo es importante llamar a un adulto'. Pregunte: '¿Qué cosas ya sabes hacer sin que te lo recuerden?'. Listen algunas respuestas como ejemplo de autonomía.",
+          "momento_desarrollo_vivencia": "1) Presente una tarea sencilla paso a paso (por ejemplo, guardar cuadernos, organizar el puesto y preparar los materiales para la siguiente clase). Escriba o dibuje las instrucciones en el tablero. Pida a los niños que las sigan sin que usted esté repitiendo constantemente y observe quién lo logra. 2) Felicite los intentos de autonomía y pregunte cómo se sintieron al hacerlo solos. 3) Luego muestre tarjetas con distintas situaciones: 'Tu cuaderno se cae al piso', 'Un compañero no quiere jugar contigo', 'Dos niños se están empujando fuerte', 'Te sientes muy confundido y con ganas de llorar', 'No entiendes una parte de la tarea'. Pida al grupo que decida si es una situación que pueden resolver solos o si necesitan ayuda de un adulto, levantando una mano para cada opción. 4) Muestre imágenes de adultos de confianza en el colegio y refuerce que pueden acudir a ellos cuando el problema es muy grande o se sienten muy afectados. 5) Relacione la autonomía con la confianza de los adultos en ellos: seguir instrucciones sin que se las repitan, cuidar sus cosas y pedir ayuda cuando corresponde muestra que están creciendo.",
+          "momento_cierre_integracion": "En círculo, pregunte: '¿Qué tarea del colegio puedes hacer ahora más solo que antes?', '¿Qué tipo de problemas necesitas contarle a un adulto?', '¿Cómo te sientes cuando un adulto te ayuda a resolver algo difícil?', '¿Por qué crees que los adultos confían más en ti cuando sigues las instrucciones sin que te las repitan?'. Invite a los niños a elegir una tarea en la que intentarán ser más autónomos y un tipo de situación en la que prometen pedir ayuda.",
+          "revision_proposito": "Observe si los estudiantes siguen instrucciones simples de manera más independiente y si pueden clasificar verbalmente ejemplos de situaciones que requieren ayuda adulta. En los días siguientes, note si aumentan las conductas de orden y autoorganización y si buscan a un adulto de manera oportuna cuando enfrentan conflictos o emociones muy intensas.",
+          "tiempo_aplicacion": "30 a 40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

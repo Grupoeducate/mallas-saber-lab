@@ -1,0 +1,447 @@
+{
+  "area": "Inglés",
+  "grado": "5",
+  "nombre_archivo": "t_ingles_5_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Secret Identity Agency",
+            "un_reto_sugerido": "Identificar a un 'agente secreto' basándose únicamente en la información personal que describe el profesor.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de '¿Quién soy?': escuchar pistas sobre nacionalidad y edad para adivinar el personaje famoso.",
+              "visual": "Crear un tablero de sospechosos con fotos y espacios para completar datos auditivos.",
+              "produccion": "Llenar un formulario de registro civil tras escuchar una entrevista corta en audio."
+            },
+            "para_pensar": [
+              "¿Por qué es importante entender la nacionalidad de alguien al conocerlo?",
+              "¿Cómo nos ayuda escuchar con atención a evitar malentendidos sobre la edad de alguien?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia números de dos cifras al escuchar edades.",
+              "Escribe correctamente el nombre y nacionalidad dictada."
+            ],
+            "un_refuerzo": "Uso de audios cortos con acentos variados para familiarizarse con diferentes pronunciaciones."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Youth Summit",
+            "un_reto_sugerido": "Representar a un delegado internacional compartiendo gustos y preferencias de su país.",
+            "ruta_de_exploracion": {
+              "explorar": "Simular saludos de diferentes partes del mundo según la hora del día (Morning, Afternoon, Evening).",
+              "visual": "Diseñar un 'Interest Map' con dibujos de comidas y actividades favoritas del grupo.",
+              "produccion": "Conversar en parejas intercambiando opiniones sobre qué comida es mejor: 'I like pizza because it is delicious'."
+            },
+            "para_pensar": [
+              "¿Cómo cambia el respeto en una conversación según el saludo que usemos?",
+              "¿Por qué es valioso conocer los gustos de personas de otros países?"
+            ],
+            "pistas_del_exito": [
+              "Mantiene una conversación de al menos 4 turnos sin detenerse.",
+              "Usa saludos formales e informales de manera contextualizada."
+            ],
+            "un_refuerzo": "Flashcards con estructuras de preguntas y respuestas cortas para guiar el diálogo."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Numbers Olympics",
+            "un_reto_sugerido": "Presentar un monólogo sobre récords mundiales usando números hasta el 1000 y deletreo técnico.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Spelling Bee' (concurso de deletreo) con palabras relacionadas con emociones y rutinas.",
+              "visual": "Hacer un gráfico de barras con cantidades grandes de objetos recolectados en el salón.",
+              "produccion": "Exponer una rutina diaria cronometrada: 'I wake up at six. That is S-I-X o'clock'."
+            },
+            "para_pensar": [
+              "¿En qué situaciones reales necesitamos deletrear nuestro nombre o dirección?",
+              "¿Por qué los números son un lenguaje que todos entendemos, sin importar el país?"
+            ],
+            "pistas_del_exito": [
+              "Dice números de tres cifras sin errores fonéticos.",
+              "Deletrea palabras de 6 letras con velocidad media."
+            ],
+            "un_refuerzo": "Dictado de números en parejas para practicar la relación número-nombre."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Narrative Detectives",
+            "un_reto_sugerido": "Resolver el misterio de una historia corta identificando el Quién, Cuándo y Dónde.",
+            "ruta_de_exploracion": {
+              "explorar": "Predecir el final de una historia a partir de una secuencia de dibujos culturales.",
+              "visual": "Crear un 'Story Map' (Mapa de la historia) separando lugares, momentos y personajes.",
+              "produccion": "Asociar párrafos descriptivos de tradiciones (Navidad, Cumpleaños) con sus imágenes correspondientes."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los conectores de tiempo a entender el orden de una historia?",
+              "¿Qué elementos hacen que una tradición sea única en un texto narrativo?"
+            ],
+            "pistas_del_exito": [
+              "Ubica en el texto el lugar exacto donde ocurre la acción.",
+              "Identifica la secuencia lógica de eventos en una rutina leída."
+            ],
+            "un_refuerzo": "Subrayado de palabras clave de tiempo (First, Then, After) en colores vivos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Comic Strip Author",
+            "un_reto_sugerido": "Escribir una historia de 4 viñetas sobre una anécdota personal usando conectores de adición.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas sobre conectores: 'And', 'Also', 'But' pegados en globos de texto.",
+              "visual": "Dibujar una secuencia de ilustraciones que representen un estado de ánimo cambiante.",
+              "produccion": "Redactar un texto descriptivo usando la estructura: 'First I was sad, but then I felt happy'."
+            },
+            "para_pensar": [
+              "¿Cómo cambia el sentido de un texto si olvidamos usar conectores?",
+              "¿Por qué es importante verificar la ortografía antes de entregar un trabajo escrito?"
+            ],
+            "pistas_del_exito": [
+              "Escribe oraciones cortas con ortografía correcta en palabras frecuentes.",
+              "Utiliza al menos tres conectores de secuencia diferentes."
+            ],
+            "un_refuerzo": "Guía de revisión por pares: intercambiar el texto con un compañero para detectar errores."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "Eavesdropping on Tourists",
+            "un_reto_sugerido": "Escuchar conversaciones entre turistas y completar sus fichas de migración.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar ruidos de aeropuertos y estaciones para identificar el contexto.",
+              "visual": "Completar un mapa mundi con datos de procedencia escuchados en clase.",
+              "produccion": "Responder un cuestionario de opción múltiple sobre la información personal de un audio."
+            },
+            "para_pensar": [
+              "¿Qué pistas auditivas nos dicen que alguien está pidiendo disculpas?",
+              "¿Por qué es vital entender la dirección en una lengua extranjera?"
+            ],
+            "pistas_del_exito": [
+              "Captura datos específicos como nombres y direcciones en un audio fluido.",
+              "Muestra comprensión global de un diálogo sobre viajes."
+            ],
+            "un_refuerzo": "Ejercicios de discriminación auditiva entre palabras que suenan parecido (minimal pairs)."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Polite Guest",
+            "un_reto_sugerido": "Simular una visita a una casa extranjera practicando disculpas, saludos y descripciones de objetos.",
+            "ruta_de_exploracion": {
+              "explorar": "Dramatizar situaciones de error (romper algo) para usar 'I am sorry' o 'Excuse me'.",
+              "visual": "Etiquetar objetos del salón con sus características físicas (color, forma, tamaño).",
+              "produccion": "Realizar un diálogo pidiendo permiso para ver un objeto: 'Can I see the big red ball?'."
+            },
+            "para_pensar": [
+              "¿Por qué pedir disculpas mejora nuestras relaciones con los demás?",
+              "¿Cómo nos ayuda describir objetos a que otros nos entiendan mejor?"
+            ],
+            "pistas_del_exito": [
+              "Usa adjetivos de tamaño y color en el orden correcto.",
+              "Acepta disculpas usando frases como 'Don't worry' o 'That's okay'."
+            ],
+            "un_refuerzo": "Uso de dados con adjetivos para armar frases descriptivas al azar."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Celebrity Profile",
+            "un_reto_sugerido": "Hacer una presentación oral de un personaje famoso describiendo su edad y rasgos físicos.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Adivina quién' versión gigante con fotos de celebridades.",
+              "visual": "Hacer un póster comparativo entre un niño y un adulto usando adjetivos de edad.",
+              "produccion": "Grabar un video corto: 'She is thirty years old. She has blue eyes. She is tall'."
+            },
+            "para_pensar": [
+              "¿Qué palabras usamos para hablar de alguien joven vs alguien mayor?",
+              "¿Cómo nos sentimos cuando describimos a alguien de forma positiva?"
+            ],
+            "pistas_del_exito": [
+              "Emplea correctamente el verbo 'Have' y 'Is' en descripciones.",
+              "Nombra números hasta el 1000 al hablar de poblaciones o datos."
+            ],
+            "un_refuerzo": "Uso de espejos para practicar la descripción de rasgos propios antes de pasar a otros."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Tradition Travelers",
+            "un_reto_sugerido": "Identificar las causas y consecuencias de una celebración cultural en un texto informativo.",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar imágenes de la Navidad en diferentes países y leer epígrafes cortos.",
+              "visual": "Hacer un diagrama de flujo: 'Porque es Navidad (Causa) -> Comemos pavo (Consecuencia)'.",
+              "produccion": "Responder preguntas abiertas sobre el propósito de una tradición cultural leída."
+            },
+            "para_pensar": [
+              "¿Por qué cambian las tradiciones según el lugar donde vivimos?",
+              "¿Qué partes de un texto narrativo nos dicen cómo se sienten los personajes?"
+            ],
+            "pistas_del_exito": [
+              "Asocia descripciones físicas de personajes en el texto con ilustraciones.",
+              "Localiza el tiempo y lugar de la narración rápidamente."
+            ],
+            "un_refuerzo": "Lectura en parejas de textos auténticos (invitaciones, menús festivos)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Character Designer",
+            "un_reto_sugerido": "Escribir un perfil de un personaje para un videojuego detallando rasgos, estado de ánimo y gustos.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas de adjetivos de personalidad (Brave, Shy, Funny).",
+              "visual": "Crear el avatar del personaje y rodearlo de palabras que describan su estado de ánimo.",
+              "produccion": "Redactar un párrafo descriptivo coherente: 'He is brave. He likes pizza. He feels happy today'."
+            },
+            "para_pensar": [
+              "¿Cómo ayudan los detalles escritos a que el jugador entienda al personaje?",
+              "¿Qué importancia tiene el uso de las mayúsculas en los nombres propios de los personajes?"
+            ],
+            "pistas_del_exito": [
+              "Usa puntos y comas de forma básica para separar ideas.",
+              "Describe rasgos personales usando modelos gramaticales del presente simple."
+            ],
+            "un_refuerzo": "Plantilla de 'Ficha de personaje' con espacios en blanco para guiar la escritura."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Routine Radio",
+            "un_reto_sugerido": "Organizar la agenda de un personaje famoso tras escuchar su entrevista matutina.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar sonidos de relojes y alarmas para predecir horarios en inglés.",
+              "visual": "Completar un horario semanal con dibujos de acciones de rutina escuchadas.",
+              "produccion": "Señalar en un mapa de la escuela los lugares mencionados en un relato auditivo de un compañero."
+            },
+            "para_pensar": [
+              "¿Qué palabras de tiempo (First, then) nos ayudan a no perdernos en un audio?",
+              "¿Cómo cambia nuestra atención cuando escuchamos la rutina de un amigo vs un desconocido?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la secuencia lógica de una rutina en un audio corto.",
+              "Reconoce nombres de compañeros y datos personales en diálogos fluidos."
+            ],
+            "un_refuerzo": "Uso de grabaciones de los propios estudiantes para practicar la escucha entre pares."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Classroom Talk Show",
+            "un_reto_sugerido": "Realizar una entrevista en vivo a un compañero sobre su vida diaria y familia.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de la 'Pelota Preguntona': responder 'Where do you live?' al atraparla.",
+              "visual": "Hacer un guion de entrevista con dibujos para no olvidar las preguntas clave.",
+              "produccion": "Entrevistar a 3 compañeros y anotar sus respuestas sobre nacionalidad y dirección."
+            },
+            "para_pensar": [
+              "¿Por qué es importante mantener el contacto visual durante una conversación en inglés?",
+              "¿Cómo podemos pedir que nos repitan una frase sin ser descorteses?"
+            ],
+            "pistas_del_exito": [
+              "Responde preguntas personales con apoyo mínimo de repetición.",
+              "Usa saludos adecuados al rango de su interlocutor (Teacher vs Friend)."
+            ],
+            "un_refuerzo": "Role-play con micrófonos de juguete para aumentar la confianza al hablar."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Digital Storyteller",
+            "un_reto_sugerido": "Grabar un podcast corto describiéndose a sí mismo y sus actividades habituales.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de 5 actividades que hacen todos los días y decirlas en voz alta.",
+              "visual": "Dibujar un 'Círculo de la Vida' con las rutinas de la mañana, tarde y noche.",
+              "produccion": "Monólogo de 1 minuto: 'I am Juan. I am ten. I study at school. My favorite number is five hundred'."
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre hablar de lo que hago siempre y de lo que soy?",
+              "¿Por qué deletrear palabras difíciles ayuda a que el oyente nos entienda?"
+            ],
+            "pistas_del_exito": [
+              "Habla de actividades habituales usando correctamente el presente simple.",
+              "Deletrea su propio nombre y dirección con fluidez."
+            ],
+            "un_refuerzo": "Práctica de pronunciación de números grandes (hundreds) mediante un bingo numérico."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Archive",
+            "un_reto_sugerido": "Investigar festividades mundiales en textos cortos y clasificar la información por Quién, Cuándo y Dónde.",
+            "ruta_de_exploracion": {
+              "explorar": "Mirar folletos turísticos y subrayar palabras conocidas en inglés.",
+              "visual": "Crear una línea de tiempo con las tradiciones culturales leídas en el texto.",
+              "produccion": "Resolver un taller de apareamiento entre descripciones de lugares y sus nombres."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los subtítulos en los dibujos a entender la lectura?",
+              "¿Qué importancia tiene el lugar en el desarrollo de una tradición?"
+            ],
+            "pistas_del_exito": [
+              "Identifica acciones en una secuencia corta de eventos leídos.",
+              "Ubica en un mapa los lugares mencionados en la lectura."
+            ],
+            "un_refuerzo": "Lectura compartida de cuentos tradicionales con apoyo de pictogramas."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Community Journalist",
+            "un_reto_sugerido": "Redactar una noticia breve sobre un evento escolar usando conectores de secuencia.",
+            "ruta_de_exploracion": {
+              "explorar": "Ordenar una historia de noticias desordenada basándose en conectores (First, Next, Finally).",
+              "visual": "Hacer un esquema de 'Pirámide Invertida' para organizar los datos de la noticia.",
+              "produccion": "Escribir un párrafo narrativo: 'Last Monday we had a party. First, we sang. Next, we ate cake'."
+            },
+            "para_pensar": [
+              "¿Cómo hacen los conectores que el lector sepa qué pasó primero?",
+              "¿Por qué los rasgos personales son importantes en una noticia sobre personas?"
+            ],
+            "pistas_del_exito": [
+              "Enlaza oraciones usando conectores de adición y secuencia correctamente.",
+              "Verifica y corrige la ortografía de palabras frecuentes en su escrito."
+            ],
+            "un_refuerzo": "Uso de plantillas de redacción con 'conectores guía' al inicio de cada línea."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Routine Riddler",
+            "un_reto_sugerido": "Resolver adivinanzas auditivas sobre las actividades de un personaje secreto.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de canciones sobre rutinas y adivinar la acción (brush teeth, go to bed).",
+              "visual": "Dibujar los momentos del día (Morning, Noon, Night) y pegar stickers de acciones según se escuchen.",
+              "produccion": "Escuchar la descripción de un compañero y dibujar su rutina exacta en un panel de 4 cuadros."
+            },
+            "para_pensar": [
+              "¿Por qué es más fácil entender una rutina si nos mencionan la hora?",
+              "¿Qué sonidos nos ayudan a identificar que alguien está hablando de su información personal?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la secuencia de acciones y las asocia con el momento del día.",
+              "Captura información personal de sus compañeros con precisión auditiva."
+            ],
+            "un_refuerzo": "Dictado de dibujos: el profesor describe una rutina y los niños la dibujan paso a paso."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Party Planner",
+            "un_reto_sugerido": "Planear una fiesta de fin de año discutiendo gustos, preferencias y saludos adecuados.",
+            "ruta_de_exploracion": {
+              "explorar": "Votar por 'Like' o 'Dislike' sobre diferentes tipos de música y comida para la fiesta.",
+              "visual": "Crear un menú visual para la fiesta con precios y nombres en inglés.",
+              "produccion": "Conversar en grupos: 'I like pop music, let's play it. I don't like cake, I prefer cookies'."
+            },
+            "para_pensar": [
+              "¿Cómo llegamos a acuerdos cuando nuestros gustos son diferentes a los de nuestros amigos?",
+              "¿Por qué es importante usar un lenguaje cortés al organizar algo en grupo?"
+            ],
+            "pistas_del_exito": [
+              "Responde preguntas sobre gustos y preferencias con fluidez.",
+              "Usa saludos y despedidas apropiadas durante la planeación grupal."
+            ],
+            "un_refuerzo": "Uso de 'Conversation Starters' pegados en las mesas para incentivar el diálogo."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Super Talent Casting",
+            "un_reto_sugerido": "Realizar una audición para un show de talentos mencionando habilidades (Can/Can't) y estados de ánimo.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de 3 cosas que pueden hacer (jump, sing, draw) y 3 que no (fly, swim, cook).",
+              "visual": "Hacer un cartel de 'Audition Card' con el nombre, edad, sentimientos y talentos.",
+              "produccion": "Presentación oral: 'I can play guitar, but I can't sing. I feel nervous but happy. G-U-I-T-A-R'."
+            },
+            "para_pensar": [
+              "¿Por qué es valioso reconocer las cosas que no podemos hacer todavía?",
+              "¿Cómo cambia nuestro estado de ánimo cuando hablamos de nuestros talentos?"
+            ],
+            "pistas_del_exito": [
+              "Usa oraciones cortas con 'Can' y 'Can't' correctamente.",
+              "Deletrea palabras relacionadas con sus talentos sin errores."
+            ],
+            "un_refuerzo": "Video de talentos infantiles en inglés para imitar la estructura de presentación."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Global Festivity Map",
+            "un_reto_sugerido": "Analizar invitaciones y textos de tradiciones mundiales para completar un pasaporte cultural.",
+            "ruta_de_exploracion": {
+              "explorar": "Mirar invitaciones reales de cumpleaños y bodas en inglés y marcar las fechas.",
+              "visual": "Diseñar un 'Pasaporte' donde cada sello sea una festividad leída con su Qué, Quién y Dónde.",
+              "produccion": "Completar un cuadro comparativo entre una tradición extranjera y una local basada en la lectura."
+            },
+            "para_pensar": [
+              "¿Qué información no puede faltar en una invitación escrita?",
+              "¿Cómo nos ayudan los dibujos en un texto narrativo a saber quién es el protagonista?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el Quién, Qué, Cuándo y Dónde en un texto narrativo corto.",
+              "Relaciona descripciones de lugares con sus nombres correctos en inglés."
+            ],
+            "un_refuerzo": "Juego de 'Caza de Datos': encontrar información específica en el texto en menos de 1 minuto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Invitation Designer",
+            "un_reto_sugerido": "Crear una tarjeta de invitación formal para una celebración tradicional usando estructuras de invitación.",
+            "ruta_de_exploracion": {
+              "explorar": "Escribir palabras de felicitación (Happy birthday, Congrats, Welcome) en tarjetas decoradas.",
+              "visual": "Hacer un borrador de la invitación organizando los datos: Event, Place, Time, From/To.",
+              "produccion": "Escribir el texto final de la invitación: 'Please come to my party at school. It is on Friday at ten'."
+            },
+            "para_pensar": [
+              "¿Por qué es importante ser precisos con el 'Cuándo' y el 'Dónde' en una invitación?",
+              "¿Cómo ayuda una buena ortografía a que los invitados confíen en nuestra invitación?"
+            ],
+            "pistas_del_exito": [
+              "Redacta tarjetas con mensajes cortos y claros de invitación.",
+              "Aplica patrones gramaticales de tiempo y lugar vistos en clase."
+            ],
+            "un_refuerzo": "Uso de diccionarios ilustrados para verificar la ortografía de palabras nuevas."
+          }
+        }
+      ]
+    }
+  ]
+}

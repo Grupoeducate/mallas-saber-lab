@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 9,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G9-P1-T1",
+          "nombre_taller": "Mi Brújula Interna: Valores, Emociones y Constancia",
+          "conceptos_relacionados": [
+            "Identidad Personal (Nivel 1: Valores)",
+            "Claridad Emocional (Nivel 1: Motivación)",
+            "Voluntad (Nivel 1: Constancia)"
+          ],
+          "proposito_experiencia": "Definir la identidad a través de valores, comprender emociones que impulsan y mantener la constancia en los propósitos.",
+          "recursos_eco": "Listado de valores, diario de reflexión, hojas para planificar metas semanales.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Nuestros valores son como las estrellas que nos guían. Hoy, vamos a definir esas estrellas, entender qué emociones nos dan energía y cómo mantenernos firmes en nuestro camino'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre la 'Identidad Personal' definiendo sus valores clave y cómo estos influyen en sus decisiones. Luego, se enfocan en la 'Claridad Emocional', identificando con precisión qué emociones los impulsan en situaciones específicas. Se cierra con el concepto de 'Voluntad', estableciendo pequeños compromisos para mantenerse firmes en sus decisiones, practicando la constancia. Use el ejemplo: 'Decidí que la honestidad es un valor clave para mí, así que siempre intento decir la verdad'. 'Identifiqué que el miedo a equivocarme me motivaba a estudiar más a fondo'. 'Seguí entrenando para el torneo aunque estaba cansado, demostrando mi constancia'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué valor personal te define más?' y '¿Cómo influye la constancia en alcanzar tus metas personales?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para definir sus valores, identificar sus emociones motivadoras y establecer compromisos de constancia.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P1-T2",
+          "nombre_taller": "Navegando Mis Reacciones: Autorregulación y Resiliencia",
+          "conceptos_relacionados": [
+            "Autorregulación (Nivel 1: Gestión de Presión)",
+            "Resiliencia Social (Nivel 1: Superación)",
+            "Claridad Emocional (Nivel 1: Motivación)"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad de mantener la calma y reorganizarse bajo presión, transformar fracasos en aprendizajes y comprender el motor de las emociones.",
+          "recursos_eco": "Situaciones de presión escolar (exámenes, trabajos en grupo), casos de no ser elegido o fracaso (ficticios o reales).",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'La vida a veces nos pone a prueba, pero dentro de nosotros tenemos la fuerza para mantener la calma y levantarnos más fuertes. Hoy vamos a encontrar esa fuerza'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 1: Comprender mis reacciones emocionales y su impacto'. Analizan una situación reciente de reacción intensa, identificando la emoción predominante, pensamientos y consecuencias. Se enfatiza la 'Autorregulación (Nivel 1: Gestión de Presión)' para mantener la calma y reorganizarse. Luego, se trabaja la 'Resiliencia Social (Nivel 1: Superación)', transformando fracasos en oportunidades de aprendizaje. Se conecta con la 'Claridad Emocional' para entender la motivación detrás de sus reacciones. Use el ejemplo: 'Cuando sentí que tenía demasiadas tareas, hice una pausa para reorganizarme y priorizar'. 'No fui elegido para el equipo, pero en lugar de deprimirme, decidí practicar más y unirme a otro club'. 'Identifiqué que el miedo a equivocarme me impulsaba a estudiar, no a paralizarme'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué estrategia de autorregulación habrías usado en esa situación?' y '¿Qué aprendizaje te dejó esa experiencia para situaciones futuras?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autorregularse, mostrar resiliencia y comprender la claridad emocional en sus reacciones.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P1-T3",
+          "nombre_taller": "El Constructor de Acuerdos: Asertividad y Cooperación",
+          "conceptos_relacionados": [
+            "Asertividad Madura (Nivel 1: Criterio)",
+            "Responsabilidad Relacional (Nivel 1: Ética)",
+            "Cooperación Consciente (Nivel 1: Solidaridad)"
+          ],
+          "proposito_experiencia": "Expresar posturas firmes y defender derechos, hacerse cargo del impacto de acciones y trabajar con otros respetando ritmos.",
+          "recursos_eco": "Casos de presión de grupo o desacuerdos (Actividad 2), proyectos grupales.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Construir buenas relaciones es como construir un puente. Necesitamos decir lo que pensamos con firmeza, asumir nuestras responsabilidades y ayudar a los demás a cruzar al otro lado'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 2: Relaciones, límites y comunicación consciente'. A partir de un caso, reflexionan sobre su forma de comunicarse, practicando la 'Asertividad Madura (Nivel 1: Criterio)'. Se refuerza la 'Responsabilidad Relacional (Nivel 1: Ética)' al analizar el impacto de sus acciones en los demás. Finalmente, se trabaja la 'Cooperación Consciente (Nivel 1: Solidaridad)' al proponer formas de trabajar con otros, respetando ritmos y aportando mutuamente. Use el ejemplo: 'Logré decir que no estaba de acuerdo con la burla que un compañero hacía, defendiendo mi derecho a la opinión'. 'Le pedí una disculpa sincera a mi compañero porque entendí que mis palabras le habían afectado'. 'Me ofrecí a ayudar a mi compañero con la parte difícil del trabajo grupal, mostrando solidaridad'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo lograste expresar tus ideas con claridad y respeto?' y '¿Qué aspecto de tu comunicación puedes fortalecer en el futuro?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para expresarse asertivamente, asumir responsabilidad relacional y cooperar con solidaridad.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G9-P2-T1",
+          "nombre_taller": "Mi Plan de Vuelo: Propósito, Contribución y Voluntad",
+          "conceptos_relacionados": [
+            "Propósito Personal (Nivel 1: Proyección)",
+            "Propósito Personal (Nivel 2: Contribución Social)",
+            "Voluntad (Nivel 2: Coherencia de Vida)"
+          ],
+          "proposito_experiencia": "Visualizar el futuro y definir metas, entender cómo el proyecto de vida contribuye socialmente y alinear acciones diarias con el propósito.",
+          "recursos_eco": "Guías para la creación de un 'mapa de sueños' o 'plan de vida', situaciones de elección personal.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Cada uno de ustedes tiene un propósito único en la vida, como un plan de vuelo. Hoy vamos a trazar ese plan, pensando en cómo nuestro vuelo puede beneficiar a los demás y cómo mantener la ruta cada día'.",
+          "momento_desarrollo_vivencia": "Los estudiantes trabajan en el 'Propósito Personal (Nivel 1: Proyección)', visualizando su futuro y definiendo metas a largo plazo. Luego, reflexionan sobre el 'Propósito Personal (Nivel 2: Contribución Social)', entendiendo cómo su proyecto de vida puede ir más allá de lo individual para aportar a la sociedad. Se finaliza con el concepto de 'Voluntad (Nivel 2: Coherencia de Vida)', alineando sus acciones diarias con sus propósitos. Use el ejemplo: 'Estoy esforzándome en matemáticas no solo por la nota, sino porque sé que es clave para mi sueño de ser ingeniero'. 'Quiero ser médico no solo para ganar dinero, sino para ayudar a la gente en mi comunidad'. 'Dejé de perder tiempo en redes sociales porque entendí que no era coherente con mi meta de ser un atleta profesional'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo influye esta decisión en tu proyecto personal?' y '¿Qué versión de ti mismo quieres fortalecer con esta decisión?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para proyectar su propósito personal, comprender su contribución social y alinear su voluntad con sus metas.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P2-T2",
+          "nombre_taller": "Mi Autoevaluación Consciente: Sensatez y Aprendizaje del Error",
+          "conceptos_relacionados": [
+            "Autoevaluación Consciente (Nivel 1: Reflexión)",
+            "Autorregulación (Nivel 1: Gestión de Presión)",
+            "Claridad Emocional (Nivel 1: Motivación)"
+          ],
+          "proposito_experiencia": "Analizar resultados y errores sin juzgar, gestionar la presión y comprender la motivación emocional para mejorar.",
+          "recursos_eco": "Experiencias académicas o personales con resultados no esperados (Actividad 3), diario de reflexión.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Los errores no son fracasos, son maestros. Hoy vamos a aprender a evaluarnos con bondad, a manejar la presión y a entender qué emociones nos impulsan a mejorar'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 3: Evaluarme sin juzgarme'. Revisan una experiencia académica o personal con un resultado no esperado, analizando su respuesta emocional y cognitiva. Se enfoca en la 'Autoevaluación Consciente (Nivel 1: Reflexión)' para aprender del error sin atacarse. Se aplica la 'Autorregulación (Nivel 1: Gestión de Presión)' al identificar estrategias para manejar la reacción emocional. Se conecta con la 'Claridad Emocional' para comprender la motivación detrás de sus emociones. Use el ejemplo: 'Revisé por qué fallé en el proyecto y me di cuenta de que no había planificado bien, lo que me permite mejorar'. 'Cuando sentí que tenía demasiadas tareas, hice una pausa para reorganizarme y priorizar'. 'Identifiqué que el miedo a equivocarme me motivaba a estudiar más a fondo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa para ti aprender del error?' y '¿Qué estrategia de autorregulación habrías usado para esa situación?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autoevaluarse conscientemente, gestionar la presión y comprender la claridad emocional en sus procesos de mejora.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P2-T3",
+          "nombre_taller": "El Tejido Social: Responsabilidad y Resiliencia Colectiva",
+          "conceptos_relacionados": [
+            "Responsabilidad Relacional (Nivel 1: Ética)",
+            "Resiliencia Social (Nivel 1: Superación)",
+            "Cooperación Consciente (Nivel 1: Solidaridad)"
+          ],
+          "proposito_experiencia": "Hacerse cargo del impacto de acciones en los demás, transformar fracasos en aprendizaje colectivo y trabajar con otros de forma solidaria.",
+          "recursos_eco": "Casos de conflictos grupales, situaciones de fracaso o decepción en equipo.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Somos parte de un gran tejido social. Hoy aprenderemos a hacernos responsables de nuestras acciones, a levantarnos juntos después de una caída y a cooperar para que nuestro tejido sea cada vez más fuerte'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre la 'Responsabilidad Relacional (Nivel 1: Ética)' al analizar el impacto de sus acciones en los demás. Se trabaja la 'Resiliencia Social (Nivel 1: Superación)', transformando fracasos grupales o decepciones en oportunidades de aprendizaje colectivo. Se cierra con la 'Cooperación Consciente (Nivel 1: Solidaridad)', identificando formas de trabajar respetando ritmos y aportando para el bienestar común. Use el ejemplo: 'Le pedí una disculpa sincera a mi compañero porque entendí que mis palabras le habían afectado'. 'No fuimos elegidos para el proyecto final, pero en lugar de deprimirnos, analizamos qué mejorar y nos preparamos para la próxima oportunidad'. 'Me ofrecí a ayudar a mi compañero con la parte difícil del trabajo grupal, mostrando solidaridad'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo una falla colectiva puede fortalecer al grupo?' y '¿Qué significa para ti la solidaridad en el trabajo en equipo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para asumir responsabilidad relacional, demostrar resiliencia social y cooperar conscientemente.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G9-P3-T1",
+          "nombre_taller": "Mi Identidad en Acción: Voluntad y Proyección",
+          "conceptos_relacionados": [
+            "Voluntad (Nivel 1: Constancia)",
+            "Identidad Personal (Nivel 1: Valores)",
+            "Propósito Personal (Nivel 1: Proyección)"
+          ],
+          "proposito_experiencia": "Fortalecer la voluntad y constancia en propósitos, alinear acciones con valores personales y proyectar metas a largo plazo para la identidad.",
+          "recursos_eco": "Metas personales a corto y largo plazo, listado de valores personales, diario de seguimiento.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Nuestra identidad se construye con cada decisión y cada esfuerzo. Hoy, vamos a conectar nuestra voluntad con nuestros valores más profundos y a proyectar quiénes queremos ser'.",
+          "momento_desarrollo_vivencia": "Los estudiantes definen una meta personal (académica, social o personal) y establecen acciones semanales, practicando la 'Voluntad (Nivel 1: Constancia)'. Conectan esta meta con sus 'Identidad Personal (Nivel 1: Valores)'. Finalmente, visualizan cómo esta meta contribuye a su 'Propósito Personal (Nivel 1: Proyección)'. Use el ejemplo: 'Seguí entrenando para el torneo aunque estaba cansado'. 'Decidí que la honestidad es un valor clave para mí, así que siempre intento decir la verdad'. 'Estoy esforzándome en matemáticas no solo por la nota, sino porque sé que es clave para mi sueño de ser ingeniero'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué obstáculos podrían aparecer y cómo podrías afrontarlos?' y '¿Qué versión de ti mismo quieres fortalecer con esta decisión?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para mantener la voluntad, alinear acciones con sus valores y proyectar su identidad personal.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P3-T2",
+          "nombre_taller": "El Aprendiz Consciente: Autoevaluación y Resiliencia",
+          "conceptos_relacionados": [
+            "Autoevaluación Consciente (Nivel 1: Reflexión)",
+            "Resiliencia Social (Nivel 1: Superación)",
+            "Autorregulación (Nivel 1: Gestión de Presión)"
+          ],
+          "proposito_experiencia": "Analizar resultados y errores sin juzgar, transformar fracasos en aprendizaje y gestionar la presión de forma efectiva.",
+          "recursos_eco": "Situaciones de aprendizaje difíciles, casos de fracaso en equipos, estrategias de autorregulación.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'La mejor forma de aprender es mirar nuestros pasos con honestidad y levantarnos con más fuerza. Hoy, seremos aprendices conscientes y resilientes'.",
+          "momento_desarrollo_vivencia": "Los estudiantes aplican la 'Autoevaluación Consciente (Nivel 1: Reflexión)' al revisar un error o resultado no esperado, analizando su respuesta emocional y cognitiva. Conectan con la 'Resiliencia Social (Nivel 1: Superación)' al transformar esos desafíos en aprendizajes significativos. Integran la 'Autorregulación (Nivel 1: Gestión de Presión)' para manejar la calma ante la frustración. Use el ejemplo: 'Revisé por qué fallé en el proyecto y me di cuenta de que no había planificado bien'. 'No fui elegido para el equipo, pero en lugar de deprimirme, decidí practicar más'. 'Cuando sentí que tenía demasiadas tareas, hice una pausa para reorganizarme y priorizar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué decisiones puedes tomar para mejorar sin atacarte?' y '¿Qué estrategia de autorregulación habrías usado para esa situación?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autoevaluarse, mostrar resiliencia y autorregularse en procesos de aprendizaje.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P3-T3",
+          "nombre_taller": "Conexiones Conscientes: Asertividad y Responsabilidad",
+          "conceptos_relacionados": [
+            "Asertividad Madura (Nivel 1: Criterio)",
+            "Responsabilidad Relacional (Nivel 1: Ética)",
+            "Claridad Emocional (Nivel 1: Motivación)"
+          ],
+          "proposito_experiencia": "Expresar posturas firmes, defender derechos, hacerse cargo del impacto de acciones y comprender emociones que impulsan relaciones.",
+          "recursos_eco": "Casos de dilemas éticos en relaciones, situaciones de desacuerdo con amigos o familiares.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Nuestras relaciones son más fuertes cuando hablamos con respeto, asumimos nuestras responsabilidades y entendemos las emociones que nos mueven'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Asertividad Madura (Nivel 1: Criterio)' en situaciones que requieren expresar una postura firme. Analizan la 'Responsabilidad Relacional (Nivel 1: Ética)' al considerar el impacto ético de sus acciones en los demás. Finalmente, conectan con la 'Claridad Emocional (Nivel 1: Motivación)' para comprender qué emociones impulsan sus reacciones en las relaciones. Use el ejemplo: 'Logré decir que no estaba de acuerdo con la burla que un compañero hacía'. 'Le pedí una disculpa sincera a mi compañero porque entendí que mis palabras le habían afectado'. 'Identifiqué que el miedo a perder la amistad me motivaba a veces a no expresar mi opinión'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué postura adoptaste frente a la situación?' y '¿Cómo influyó tu estado emocional en la forma en que actuaste en esa relación?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para ser asertivos, asumir responsabilidad relacional y comprender la claridad emocional en sus interacciones.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G9-P4-T1",
+          "nombre_taller": "Mi Proyecto de Vida en el Mundo: Contribución y Coherencia",
+          "conceptos_relacionados": [
+            "Propósito Personal (Nivel 2: Contribución Social)",
+            "Voluntad (Nivel 2: Coherencia de Vida)",
+            "Cooperación Consciente (Nivel 1: Solidaridad)"
+          ],
+          "proposito_experiencia": "Entender cómo el proyecto de vida contribuye socialmente, alinear acciones diarias con el propósito y trabajar con otros de forma solidaria.",
+          "recursos_eco": "Proyectos de impacto social (ficticios o reales), situaciones de toma de decisiones éticas, planificadores personales.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Nuestro propósito personal no es solo para nosotros, sino también para el mundo. Hoy, vamos a ver cómo nuestro proyecto de vida puede dejar una huella positiva, cómo vivir en coherencia y cómo construir un futuro juntos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes profundizan en el 'Propósito Personal (Nivel 2: Contribución Social)', explorando cómo su proyecto de vida puede generar un impacto positivo en la comunidad. Aplican la 'Voluntad (Nivel 2: Coherencia de Vida)' al reflexionar sobre cómo alinear sus acciones diarias con sus valores y propósito a largo plazo. Integran la 'Cooperación Consciente (Nivel 1: Solidaridad)' al identificar formas de colaborar en proyectos que buscan el bienestar común. Use el ejemplo: 'Quiero ser médico no solo para ganar dinero, sino para ayudar a la gente en mi comunidad y contribuir a su salud'. 'Dejé de perder tiempo en redes sociales porque entendí que no era coherente con mi meta de ser un atleta profesional'. 'Me ofrecí a ayudar a mi compañero con la parte difícil del trabajo grupal, mostrando solidaridad para lograr un objetivo común'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo crees que tu proyecto de vida puede beneficiar a otros?' y '¿Qué significa para ti vivir en coherencia con tus valores y propósito?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para proyectar su contribución social, mantener la coherencia de vida y cooperar solidariamente.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P4-T2",
+          "nombre_taller": "Límites, Respeto y Autoprotección",
+          "conceptos_relacionados": [
+            "Asertividad Madura (Nivel 1: Criterio)",
+            "Responsabilidad Relacional (Nivel 1: Ética)",
+            "Autorregulación (Nivel 1: Gestión de Presión)"
+          ],
+          "proposito_experiencia": "Expresar posturas firmes, defender derechos con criterio, hacerse cargo del impacto de acciones y gestionar la presión emocional.",
+          "recursos_eco": "Casos de situaciones donde se deben establecer límites (presión de grupo, conflictos), dilemas éticos, estrategias de autorregulación.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Nuestras relaciones son más sanas cuando sabemos poner límites con respeto y asumir las consecuencias de lo que hacemos. Hoy vamos a fortalecer esa habilidad'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Asertividad Madura (Nivel 1: Criterio)' en situaciones que requieren expresar una postura firme y defender sus derechos. Analizan la 'Responsabilidad Relacional (Nivel 1: Ética)' al considerar el impacto de sus acciones en los demás y cómo reparar si es necesario. Integran la 'Autorregulación (Nivel 1: Gestión de Presión)' para mantener la calma al enfrentar situaciones de presión o conflicto. Use el ejemplo: 'Logré decir que no estaba de acuerdo con la burla que un compañero hacía, defendiendo mi derecho a la opinión'. 'Le pedí una disculpa sincera a mi compañero porque entendí que mis palabras le habían afectado'. 'Cuando sentí que tenía demasiadas tareas, hice una pausa para reorganizarme y priorizar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Dónde fue necesario poner límites y cómo lo hiciste?' y '¿Qué estrategia de autorregulación te ayuda a manejar el enojo o la frustración en una discusión?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar asertividad madura, asumir responsabilidad relacional y gestionar la presión mediante la autorregulación.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G9-P4-T3",
+          "nombre_taller": "Mi Crecimiento Integral: Autoevaluación y Voluntad para el Futuro",
+          "conceptos_relacionados": [
+            "Autoevaluación Consciente (Nivel 1: Reflexión)",
+            "Voluntad (Nivel 1: Constancia)",
+            "Claridad Emocional (Nivel 1: Motivación)"
+          ],
+          "proposito_experiencia": "Analizar resultados y errores para aprender, mantener la constancia en propósitos y comprender las emociones que impulsan el crecimiento personal.",
+          "recursos_eco": "Diario de autoevaluación, planificador de metas, listado de emociones y sus motivaciones.",
+          "momento_inicio_conexion": "Diga a los estudiantes: 'Al final de un viaje, miramos hacia atrás para ver cuánto hemos avanzado y hacia adelante para soñar con el próximo destino. Hoy, haremos una autoevaluación para proyectar nuestro crecimiento'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan una 'Autoevaluación Consciente (Nivel 1: Reflexión)' del año, analizando sus logros y desafíos. Conectan con la 'Voluntad (Nivel 1: Constancia)' al establecer metas para el próximo año y comprometerse a mantener el esfuerzo. Integran la 'Claridad Emocional (Nivel 1: Motivación)' al comprender qué emociones los motivan a seguir creciendo. Use el ejemplo: 'Revisé por qué fallé en el proyecto y me di cuenta de que no había planificado bien, lo que me permite mejorar en el futuro'. 'Seguí entrenando para el torneo aunque estaba cansado, demostrando mi constancia para lograr mis metas deportivas'. 'Identifiqué que el entusiasmo por aprender cosas nuevas me motivaba a investigar más allá de lo que se pedía en clase'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué decisiones puedes tomar para mejorar sin atacarte?' y '¿Cómo puedes mantener tu voluntad y constancia para tus metas del próximo año?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autoevaluarse, mantener la voluntad y comprender la claridad emocional en su plan de crecimiento.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

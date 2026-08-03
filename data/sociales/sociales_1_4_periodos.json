@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "1",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -27,7 +27,13 @@
           "Nombra ordenadamente los días de la semana y los meses del año.",
           "Diferencia el ayer, el hoy y el mañana desde las actividades cotidianas que realiza y la duración de estas en horas y minutos mediante la lectura del reloj."
         ],
-        "saberes": ["El tiempo", "Días de la semana", "Meses del año", "Diferencia entre ayer y hoy", "Actividades cotidianas"],
+        "saberes": [
+          "Las actividades cotidianas",
+          "El tiempo: horas, días, meses, años.",
+          "Diferencia entre ayer y hoy y las actividades cotidianas.",
+          "Los dias de la semana",
+          "Los meses de año"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -103,7 +109,16 @@
           "Describe aquellas organizaciones sociales a las que pertenece en su comunidad: familia, colegio y vecindario.",
           "Plantea preguntas acerca de sucesos destacados que han tenido lugar en su comunidad."
         ],
-        "saberes": ["La familia", "El colegio", "El barrio", "La vereda", "El corregimiento", "Resguardo", "Territorios afrocolombianos", "Sucesos destacados de la comunidad"],
+        "saberes": [
+          "La familia",
+          "El colegio",
+          "El barrio",
+          "La vereda",
+          "El corregimiento",
+          "Resguardo",
+          "Territorios afrocolombianos",
+          "Sucesos destacados de la comunidad"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -140,7 +155,14 @@
           "Identifica aquellas obras de infraestructura que se han realizado en su comunidad y expresa las ventajas que estas traen.",
           "Representa de diferentes maneras, aquellos problemas ambientales que afectan el entorno de la comunidad en el contexto del barrio, vereda o lugar donde vive."
         ],
-        "saberes": ["Paisaje geográfico", "Relieve colombiano", "Estados del tiempo atmosférico", "Infraestructura comunitaria", "Problemas ambientales"],
+        "saberes": [
+          "Paisaje geográfico",
+          "Relieve colombiano",
+          "Estados del tiempo atmosférico",
+          "Infraestructura comunitaria",
+          "Problemas ambientales",
+          "Paisajes rurales y urbanos"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -154,7 +176,11 @@
           "Expresa algunas características físicas y emocionales que lo hacen un ser único.",
           "Compara similitudes y diferencias entre sus gustos, costumbres y formas de comunicarse, con los demás integrantes del salón de clase."
         ],
-        "saberes": ["Ser único e irrepetible", "Características individuales"],
+        "saberes": [
+          "Mis cualidades",
+          "Soy un individuo que pertenece a una comunidad",
+          "Las costumbres y tradiciones culturales de mi comunidad"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -170,7 +196,13 @@
           "Plantea alternativas de solución frente a situaciones conflictivas en su familia y salón de clase.",
           "Reconoce la importancia del trabajo en equipo para el logro de las metas comunes."
         ],
-        "saberes": ["Normas de convivencia", "Acuerdos", "Mis ideas y sentimientos", "Opinión personal", "Trabajo en equipo"],
+        "saberes": [
+          "El valor de sí mismo y de los demás",
+          "Todos debemos cumplir unas funciones",
+          "La sana convivencia",
+          "Tenemos unos derechos",
+          "El maltrato infantil"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -259,4 +291,5 @@
       }
     ]
   }
+
 }

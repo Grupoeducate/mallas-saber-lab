@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "grado": 3,
+    "area": "Proyecto Socioemocional",
+    "descripcion_grado": "Planeación anual de talleres socioemocionales para estudiantes de grado tercero, enfocada en el fortalecimiento de la identidad, la resolución de conflictos, la justicia y la responsabilidad ciudadana."
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G3-P1-T1",
+          "nombre_taller": "Mi Huella de Identidad",
+          "conceptos_relacionados": [
+            "Identidad",
+            "Autocontrol",
+            "Conciencia Emocional"
+          ],
+          "proposito_experiencia": "Explorar y celebrar la identidad personal, reconociendo emociones y desarrollando el autocontrol.",
+          "recursos_eco": "Tarjetas divididas en tres partes, crayones, espacio para compartir en parejas.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada uno de nosotros es único y especial. Hoy vamos a descubrir lo que nos hace ser nosotros mismos'.",
+          "momento_desarrollo_vivencia": "Cada estudiante completa una tarjeta con 'Soy bueno en...', 'Me siento orgulloso de...' y 'Algo que estoy aprendiendo es...'. Luego, en parejas, comparten solo lo que quieran. Se refuerza que la identidad es diversa y en crecimiento. Al compartir, se pide que practiquen el autocontrol al escuchar. Use el ejemplo 'Fortalezco mi identidad cuando digo con orgullo que me gusta mi nombre'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué parte de tu identidad descubriste hoy?' y '¿Qué cosas te hacen sentir orgullo de ti mismo?'.",
+          "revision_proposito": "Observar la capacidad de los niños para expresar aspectos de su identidad y aplicar el autocontrol al escuchar a otros.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P1-T2",
+          "nombre_taller": "El Semáforo de mis Emociones",
+          "conceptos_relacionados": [
+            "Identificación de Emociones",
+            "Causas y Consecuencias",
+            "Influencia de Emociones"
+          ],
+          "proposito_experiencia": "Identificar emociones, comprender sus causas y la influencia en las decisiones, y reconocer cuándo pedir ayuda.",
+          "recursos_eco": "Tarjetas con diferentes emociones (felicidad, tristeza, enojo, miedo), semáforo de papel (rojo, amarillo, verde).",
+          "momento_inicio_conexion": "Muestre las tarjetas de emociones y pregunte: '¿Alguna vez te has sentido así? ¿Qué te hizo sentirlo?'.",
+          "momento_desarrollo_vivencia": "Los estudiantes identifican emociones y explican sus causas, usando el semáforo para decidir cómo actuar. 'Puedo explicar por qué me siento de cierta manera'. 'Sé que mis emociones me hacen tomar una decisión rápida que no fue buena'. Se enfatiza la importancia de la 'Petición de Ayuda' cuando las emociones son difíciles de manejar. 'Reconozco que el miedo y el nerviosismo se sienten juntos'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emoción te cuesta más identificar?' y '¿Cuándo crees que es importante pedir ayuda?'.",
+          "revision_proposito": "Evaluar la capacidad del niño para identificar emociones, relacionarlas con causas y considerar pedir ayuda.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P1-T3",
+          "nombre_taller": "Palabras Amables, Corazones Contentos",
+          "conceptos_relacionados": [
+            "Amabilidad",
+            "Respeto por la Diferencia",
+            "Petición de Ayuda"
+          ],
+          "proposito_experiencia": "Fomentar la amabilidad, el respeto por las diferencias y la disposición a pedir ayuda de manera efectiva.",
+          "recursos_eco": "Tarjetas con dibujos de niños en diversas situaciones (alguien con muletas, alguien con gafas, alguien que habla otro idioma), hojas de papel, crayones.",
+          "momento_inicio_conexion": "Diga a los niños: 'Todos somos diferentes y eso nos hace especiales. ¿Cómo podemos ser amables con todos, sin importar cómo somos?'",
+          "momento_desarrollo_vivencia": "El docente presenta tarjetas con diferencias. En grupos pequeños discuten: '¿Cómo podríamos convivir con esta diferencia?' y '¿Qué acciones muestran respeto en esa situación?'. Luego elaboran una frase grupal que empiece con: 'Respetamos la diferencia cuando...'. Se promueve la 'Amabilidad' y la 'Petición de Ayuda para' decir lo que necesitan. 'Fui amable cuando ayudé a recoger los cuadernos'. 'Mostré respeto por la diferencia cuando dejé que mi compañero explicara su juego'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué diferencia te llamó más la atención?' y '¿Cómo te sientes cuando alguien respeta tus ideas?'.",
+          "revision_proposito": "Observar la capacidad de los niños para identificar y expresar amabilidad y respeto por las diferencias, y para pedir ayuda.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G3-P2-T1",
+          "nombre_taller": "La Carrera de la Perseverancia",
+          "conceptos_relacionados": [
+            "Perseverancia",
+            "Autorrespeto",
+            "Control Emocional"
+          ],
+          "proposito_experiencia": "Fortalecer la perseverancia y el autorrespeto, gestionando emociones para superar desafíos.",
+          "recursos_eco": "Retos cortos (rompecabezas, nudos, secuencias numéricas), hojas para registrar intentos.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces las cosas no salen a la primera, pero lo importante es seguir intentando y tratarnos bien'.",
+          "momento_desarrollo_vivencia": "El docente propone un reto breve que requiere varios intentos. Cada estudiante marca cuántos intentos necesitó y qué le ayudó a seguir. Se introduce el 'Autorrespeto' con situaciones cortas: 'Un compañero te empuja', 'Alguien se burla de tu dibujo'. Los estudiantes deben formular una respuesta con autorrespeto. 'Usé perseverancia cuando seguí practicando multiplicaciones'. 'Hablé autorrespeto cuando dije 'no me gusta que me insulten''. 'Reconozco cuándo mi enojo me hace perder el control y decido hacer una pausa'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cuántos intentos hiciste?' y '¿Cómo te sientes cuando pones un límite?'.",
+          "revision_proposito": "Evaluar la tenacidad de los niños ante los retos y la habilidad para expresar límites con respeto.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P2-T2",
+          "nombre_taller": "El Constructor de Soluciones",
+          "conceptos_relacionados": [
+            "Diálogo para Resolver",
+            "Empatía y Perdón",
+            "Manejo de Emociones"
+          ],
+          "proposito_experiencia": "Desarrollar habilidades de diálogo, empatía y perdón para resolver conflictos de manera constructiva.",
+          "recursos_eco": "Tarjetas con conflictos sencillos (ej. 'dos quieren el mismo juego', 'alguien rompió algo sin querer'), títere mediador.",
+          "momento_inicio_conexion": "Presente al títere y diga: 'Este amigo nos ayudará a hablar cuando tengamos un problema, para encontrar la mejor solución'.",
+          "momento_desarrollo_vivencia": "En grupos, los estudiantes leen tarjetas de conflicto y, con la guía del docente, usan el 'Diálogo para Resolver' y practican la 'Empatía y Perdón en'. 'Uso el diálogo para resolver un conflicto con un compañero'. 'Reconozco que me equivoqué y pido disculpas a mi compañero'. Se reflexiona sobre cómo el 'Manejo de Emociones en' un conflicto cambia el resultado. 'Reconozco cómo mi miedo me hizo querer huir durante un conflicto'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a hablar después de una pelea?' y '¿Qué significa reparar cuando lastimamos a alguien?'.",
+          "revision_proposito": "Observar la capacidad de los niños para participar en el diálogo, mostrar empatía y proponer soluciones que incluyan el perdón.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P2-T3",
+          "nombre_taller": "Mi Equipo, Mi Apoyo",
+          "conceptos_relacionados": [
+            "Colaboración",
+            "Petición de Ayuda",
+            "Respeto por la Diferencia"
+          ],
+          "proposito_experiencia": "Fortalecer la colaboración en equipo, promoviendo la ayuda mutua y el respeto por las diversas formas de contribuir.",
+          "recursos_eco": "Juegos de construcción en equipo (legos, rompecabezas grandes), roles asignados en tarjetas.",
+          "momento_inicio_conexion": "Diga a los niños: 'Un buen equipo es como una orquesta, donde cada uno tiene un instrumento especial y juntos suena hermoso'.",
+          "momento_desarrollo_vivencia": "En equipos de cuatro, deben resolver una tarea sencilla (hacer un cartel, clasificar tarjetas, crear un ejemplo matemático) donde cada integrante tiene un rol asignado. Al final evalúan: '¿Qué hicimos bien para trabajar juntos?' y '¿Qué podemos mejorar?'. Se fomenta la 'Petición de Ayuda para' cuando la necesiten y el 'Respeto por la Diferencia' en las ideas. 'Colaboré cuando ayudé a mi grupo a repartir materiales para el cartel'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué rol cumpliste en tu equipo?' y '¿Cómo se siente cuando todos colaboran?'.",
+          "revision_proposito": "Evaluar la participación activa en la colaboración, la solicitud de ayuda y el respeto por las contribuciones de los compañeros.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G3-P3-T1",
+          "nombre_taller": "El Escudo de la Comunicación Asertiva",
+          "conceptos_relacionados": [
+            "Comunicación Respetuosa",
+            "Escucha Activa",
+            "Autocontrol"
+          ],
+          "proposito_experiencia": "Desarrollar la comunicación asertiva, la escucha activa y el autocontrol para interactuar de forma respetuosa.",
+          "recursos_eco": "Tarjetas con situaciones cotidianas de comunicación (ej. 'alguien interrumpe', 'alguien no te mira al hablar'), dibujos de escudos para decorar.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestras palabras son poderosas. Hoy aprenderemos a usarlas con un escudo de respeto'.",
+          "momento_desarrollo_vivencia": "El docente presenta situaciones de comunicación. Los estudiantes, en parejas, practican respuestas asertivas, utilizando 'Comunicación Respetuosa y' y 'Escucha Activa y Valoración'. Se refuerza la 'Pausa de 5 segundos' para el 'Autocontrol' antes de responder. 'Expreso mis ideas con respeto, incluso si no estoy de acuerdo'. 'Escucho atentamente antes de responder a mi maestro'. 'Mostré autocontrol cuando respiré antes de contestar enojado'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué cambia cuando decimos las cosas con respeto?' y '¿Qué parte del ejercicio de autocontrol te ayudó más?'.",
+          "revision_proposito": "Observar la capacidad de los niños para comunicarse asertivamente y practicar la escucha activa, así como el uso del autocontrol.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P3-T2",
+          "nombre_taller": "El Hilo de la Justicia",
+          "conceptos_relacionados": [
+            "Justicia",
+            "Búsqueda de Acuerdos",
+            "Empatía y Perdón"
+          ],
+          "proposito_experiencia": "Comprender y aplicar el concepto de justicia, buscando acuerdos y fomentando la empatía para resolver conflictos equitativamente.",
+          "recursos_eco": "Hilos de lana de colores, escenarios de injusticia (en juegos, turnos, distribución de materiales).",
+          "momento_inicio_conexion": "Diga a los niños: 'La justicia es como un hilo fuerte que nos une, asegurando que las cosas sean correctas para todos'.",
+          "momento_desarrollo_vivencia": "Presente tres escenarios de injusticia. Los estudiantes deben proponer una solución 'justa' y explicar por qué, buscando 'Acuerdos y'. 'Apliqué justicia cuando dije que debíamos tener el mismo número de juguetes'. Se enlaza con la 'Empatía y Perdón en' al considerar cómo afecta la injusticia a los demás. 'Busco acuerdos con mis compañeros cuando tenemos diferencias'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa para ti que algo sea 'justo'?' y '¿Por qué es importante seguir reglas que favorecen a todos?'.",
+          "revision_proposito": "Evaluar la comprensión de la justicia, la capacidad de proponer soluciones equitativas y la aplicación de la empatía.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P3-T3",
+          "nombre_taller": "El Árbol de la Responsabilidad",
+          "conceptos_relacionados": [
+            "Responsabilidad",
+            "Cumplimiento de Compromisos",
+            "Autocontrol"
+          ],
+          "proposito_experiencia": "Fomentar la responsabilidad personal y el cumplimiento de compromisos, utilizando el autocontrol para actuar de forma consciente.",
+          "recursos_eco": "Dibujo grande de un árbol con ramas vacías, hojas de papel con 'frutos' (acciones responsables).",
+          "momento_inicio_conexion": "Diga a los niños: 'Un árbol fuerte da muchos frutos. Nosotros, con nuestras responsabilidades, hacemos crecer nuestro propio árbol'.",
+          "momento_desarrollo_vivencia": "En parejas, analizan situaciones donde las palabras lastiman o ayudan, decidiendo qué opción muestra mayor 'Responsabilidad emocional'. Cada estudiante piensa en una acción responsable que va a cumplir. Se practica el 'Autocontrol' al elegir la respuesta. 'Mostré responsabilidad cuando pedí disculpas por mis palabras'. 'Cumplo mis compromisos sin que la maestra me lo recuerde'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué frase o acción viste hoy que tenía responsabilidad emocional?' y '¿Qué puedes hacer mañana para ser más responsable emocionalmente?'.",
+          "revision_proposito": "Observar la capacidad de los niños para identificar acciones responsables, comprometerse a cumplirlas y aplicar el autocontrol.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G3-P4-T1",
+          "nombre_taller": "Mi Autoaceptación, Mi Superpoder",
+          "conceptos_relacionados": [
+            "Autoaceptación",
+            "Orgullo por el Buen Hacer",
+            "Perseverancia"
+          ],
+          "proposito_experiencia": "Cultivar la autoaceptación y el orgullo por los logros personales, reconociendo el valor de la perseverancia.",
+          "recursos_eco": "Hojas de papel, lápices de colores, espacio para compartir en pequeños grupos.",
+          "momento_inicio_conexion": "Diga a los niños: 'Todos somos únicos y valiosos, y está bien ir a nuestro propio ritmo. Hoy vamos a celebrar lo que somos y lo que logramos'.",
+          "momento_desarrollo_vivencia": "Cada estudiante completa dos frases: 'Algo en lo que soy bueno es...' y 'Algo que estoy aprendiendo y está bien ir lento es...'. Luego comparten en pequeños grupos. Se fomenta el 'Orgullo por el Buen Hacer' y la 'Perseverancia' al reconocer que los logros toman tiempo. 'Practiqué autoaceptación cuando entendí que aprendo a mi propio ritmo'. 'Me siento orgulloso de hacer bien mi trabajo en clase'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué parte de ti aprendiste a aceptar mejor?' y '¿Qué sientes cuando avanzas a tu propio ritmo?'.",
+          "revision_proposito": "Evaluar la capacidad de los niños para expresar autoaceptación, reconocer sus logros y valorar su proceso de aprendizaje.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P4-T2",
+          "nombre_taller": "Cuidando Nuestro Mundo (Colegio)",
+          "conceptos_relacionados": [
+            "Cuidado del Entorno",
+            "Promoción de la Convivencia",
+            "Responsabilidad"
+          ],
+          "proposito_experiencia": "Promover el cuidado del entorno escolar y la buena convivencia, asumiendo responsabilidad compartida.",
+          "recursos_eco": "Imágenes de un colegio limpio/sucio, materiales de limpieza pequeños (trapos, cepillos de juguete).",
+          "momento_inicio_conexion": "Muestre las imágenes del colegio y diga: 'Nuestro colegio es como nuestra segunda casa. ¿Cómo lo cuidamos para que todos nos sintamos bien aquí?'",
+          "momento_desarrollo_vivencia": "En grupos, los niños identifican acciones para el 'Cuidado del Entorno y' y la 'Promoción de la Convivencia'. Luego, cada grupo realiza una pequeña acción para mejorar el aula o un área común. Se refuerza la 'Responsabilidad' individual y colectiva. 'Cuido el colegio como un lugar que es de todos, no rayando las paredes'. 'Trato de resolver los problemas con diálogo y respeto en el salón'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa cuidar nuestro entorno?' y '¿Cómo podemos hacer que nuestro colegio sea un lugar mejor para todos?'.",
+          "revision_proposito": "Observar la participación en el cuidado del entorno y la comprensión del impacto de sus acciones en la convivencia.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G3-P4-T3",
+          "nombre_taller": "La Fiesta del Orgullo Colectivo",
+          "conceptos_relacionados": [
+            "Orgullo por el Buen Hacer",
+            "Colaboración",
+            "Amabilidad"
+          ],
+          "proposito_experiencia": "Celebrar los logros colectivos y personales, fomentando el orgullo por el buen hacer, la colaboración y la amabilidad.",
+          "recursos_eco": "Música festiva, diplomas o medallas de cartulina, lista de logros del año (académicos, sociales).",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy es un día para celebrar todo lo bueno que hicimos juntos y cada uno de ustedes. ¡Sientan orgullo por su esfuerzo!'",
+          "momento_desarrollo_vivencia": "Se realiza una 'Fiesta del Orgullo'. Cada niño comparte algo de lo que se siente 'Orgullo por el Buen Hacer' que logró durante el año. Luego, el docente resalta los logros del grupo, conectándolos con la 'Colaboración' y la 'Amabilidad'. Se entregan 'diplomas' simbólicos por diferentes aspectos. 'Me siento orgulloso de hacer bien mi trabajo en clase'. 'Colaboré cuando ayudé a mi grupo'. 'Fui amable cuando ayudé a recoger los cuadernos'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué fue lo que más te gustó de trabajar con tus compañeros este año?' y '¿Qué puedes hacer para seguir siendo un buen compañero el próximo año?'.",
+          "revision_proposito": "Evaluar la capacidad de los niños para expresar orgullo por sus logros y por el trabajo colectivo, y la comprensión del valor de la colaboración y la amabilidad.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

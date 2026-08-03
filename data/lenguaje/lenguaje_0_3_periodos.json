@@ -1,0 +1,72 @@
+{
+  "area": "Lenguaje",
+  "grado": "0",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Habilidades comunicativas",
+        "estandar": "Prop. 1: Las niñas y los niños construyen su identidad en relación con los otros; se sienten queridos, y valoran positivamente pertenecer a una familia, cultura y mundo. Prop. 2: Las niñas y los niños son comunicadores activos de sus ideas, sentimientos y emociones; expresan, imaginan y representan su realidad.",
+        "dba": [
+          "(Habilidades comunicativas) DBA-0-Prop.2-7: Expresa y representa lo que observa, siente, piensa e imagina, a través del juego, la música, el dibujo y la expresión corporal."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.2-7-EV-4: Expresa libremente sus pensamientos y emociones a través de dibujos, pinturas, figuras modeladas o fotografías."
+        ],
+        "saberes": [
+          "Oralidad: Expresión de la identidad, emociones.",
+          "Gráfico: Madurez de trazo, control de pinza."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Habilidades comunicativas",
+        "estandar": "Prop. 2: Las niñas y los niños son comunicadores activos de sus ideas, sentimientos y emociones; expresan, imaginan y representan su realidad. Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para comprenderlo y construirlo.",
+        "dba": [
+          "(Habilidades comunicativas) DBA-0-Prop.2-8: Identifica las relaciones sonoras en el lenguaje oral.",
+          "(Habilidades comunicativas) DBA-0-Prop.2-10: Expresa ideas, intereses y emociones a través de sus propias grafías y formas semejantes a las letras convencionales en formatos con diferentes intenciones comunicativas."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.2-8-EV-2: Sigue y construye juegos de segmentación de palabras orales a través de las palmas, el zapateo, y otras estrategias.",
+          "DBA-0-Prop.2-8-EV-1: Identifica palabras que riman en juegos con la música, las rondas, la poesía, juegos corporales, entre otros.",
+          "DBA-0-Prop.2-10-EV-2: Identifica y asocia los sonidos de las letras que escucha en las lecturas y los vincula con sus propias grafías o pseudo-letras para escribir lo que quiere o necesita expresar.",
+          "DBA-0-Prop.2-10-EV-1: Se interesa por saber cómo se escriben las palabras que escucha."
+        ],
+        "saberes": [
+          "Fonología: Segmentación silábica (unidades sonoras).",
+          "Reconocimiento y asociación sonido-grafía de las vocales (Conciencia Fonológica).",
+          "Fonología: Fonemas consonánticos de alta frecuencia (M, P, S, L).",
+          "Gráfico: Trazo dirigido y control del renglón grande."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Habilidades comunicativas",
+        "estandar": "Prop. 2: Las niñas y los niños son comunicadores activos de sus ideas, sentimientos y emociones; expresan, imaginan y representan su realidad. Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para comprenderlo y construirlo.",
+        "dba": [
+          "(Habilidades comunicativas) DBA-0-Prop.2-9: Establece relaciones e interpreta imágenes, letras, objetos, personajes que encuentra en distintos tipos de textos."
+        ],
+        "evidencias": [
+          "DBA-0-Prop.2-9-EV-1: Lee imágenes, hace preguntas, formula ideas y crea historias a propósito de lo que percibe en diferentes registros (textos escritos, pinturas, aplicaciones, páginas web, entre otros).",
+          "DBA-0-Prop.2-10-EV-3: Escribe su nombre propio con las letras que conoce."
+        ],
+        "saberes": [
+          "Síntesis: Uso funcional del código.",
+          "Narración: Relato secuencial y elaboración de hipótesis."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ]
+  }
+}

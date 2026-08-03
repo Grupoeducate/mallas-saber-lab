@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "2",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -15,7 +15,14 @@
           "Mide distancias reales entre varios lugares, con pasos y otras medidas que pueden inventarse en el grupo, identificando la distancia -cerca o lejos- entre dichos lugares.",
           "Da orientaciones espaciales verbalmente o de otras formas para llegar a un lugar específico, utilizando expresiones de lateralidad (izquierda, derecha, adelante, atrás) y los puntos cardinales."
         ],
-        "saberes": ["Paisaje natural", "Paisaje cultural", "Puntos cardinales", "Ruta a la escuela", "Los croquis", "Medición de distancias", "Orientaciones espaciales"],
+        "saberes": [
+          "Paisaje natural y cultural",
+          "Las orientaciones",
+          "Puntos cardinales",
+          "Ruta a la escuela",
+          "Los croquis",
+          "Medición de distancias"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -29,7 +36,12 @@
           "Describe las características de la conformación de su familia antes de su nacimiento.",
           "Reconoce las procedencias y los recorridos de los integrantes de su núcleo familiar antes de llegar al municipio donde viven actualmente, a través de relatos."
         ],
-        "saberes": ["Mi familia", "Mi origen", "Identidad personal", "Procedencia familiar"],
+        "saberes": [
+          "¿Quien soy?",
+          "Mi familia",
+          "¿De donde vengo?",
+          "Mi origen"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -161,7 +173,12 @@
           "Propone acciones para mejorar la convivencia y el respeto a la diferencia en el grupo.",
           "Establece semejanzas y diferencias en las preferencias culturales (alimentos, juegos) de sus compañeros."
         ],
-        "saberes": ["Características de grupos humanos", "Exclusión", "Discriminación", "Inmigrantes y tradiciones"],
+        "saberes": [
+          "Los inmigrantes y tradiciones",
+          "Características de grupos humanos",
+          "Exclusión",
+          "Discriminación"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -211,7 +228,12 @@
           "Describe el transporte que más utiliza exponiendo sus ventajas y desventajas.",
           "Representa gráficamente la movilidad en su comunidad."
         ],
-        "saberes": ["Medición del tiempo", "Medios de transporte (pasado y presente)", "Movilidad urbana y rural"],
+        "saberes": [
+          "Medición del tiempo",
+          "Los medios de transporte que usamos todos los días",
+          "Medios de transporte (pasado y presente)",
+          "Movilidad urbana y rural"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -266,4 +288,5 @@
       }
     ]
   }
+
 }

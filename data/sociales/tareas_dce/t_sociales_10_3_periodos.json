@@ -1,0 +1,275 @@
+
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "10",
+  "nombre_archivo": "t_sociales_10_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Misión: El Oro Azul",
+            "un_reto_sugerido": "¿Cómo los conflictos políticos y económicos ponen en riesgo el acceso al agua en las regiones de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un mapeo de las fuentes hídricas cercanas a la comunidad y debatir sobre quién tiene el control real sobre ellas.",
+              "visual": "Simulación de contaminación por escorrentía: Usar una bandeja con tierra, colorantes y agua para observar cómo los desechos industriales afectan las cuencas bajas.",
+              "produccion": "Diseño de un decálogo de políticas públicas locales orientadas a la sostenibilidad hídrica y la conciencia ecológica ciudadana."
+            },
+            "para_pensar": [
+              "¿Es el agua un derecho humano o una mercancía en el contexto del desarrollo industrial?",
+              "¿Cómo la inestabilidad política de una región afecta la gestión de sus recursos naturales?"
+            ],
+            "pistas_del_exito": [
+              "Explica la disponibilidad del recurso hídrico en Colombia y los conflictos asociados a su uso.",
+              "Diferencia tipos de contaminación y propone acciones de sostenibilidad ambiental."
+            ],
+            "un_refuerzo": "Investigar el concepto de 'Huella Hídrica' y calcular el consumo de agua de la familia durante una semana."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Memorias del Bipartidismo",
+            "un_reto_sugerido": "¿De qué manera la violencia del siglo XX configuró las formas actuales de convivencia en Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de titulares de prensa del 9 de abril de 1948 (El Bogotazo) para identificar los discursos de odio de la época.",
+              "visual": "Museo de la Memoria en el Aula: Recolectar relatos u objetos que representen el periodo del Frente Nacional y la dictadura de Rojas Pinilla.",
+              "produccion": "Cuadro comparativo entre la violencia directa, estructural y cultural, analizando su impacto en la sociedad colombiana contemporánea."
+            },
+            "para_pensar": [
+              "¿Por qué el bipartidismo llevó al país a un ciclo de violencia que aún no termina?",
+              "¿Qué elementos del Frente Nacional impidieron una verdadera democratización del país?"
+            ],
+            "pistas_del_exito": [
+              "Establece semejanzas entre los conflictos sociales históricos y los actuales.",
+              "Compara tipos de violencia y sus repercusiones en la vida nacional."
+            ],
+            "un_refuerzo": "Realizar una entrevista a una persona mayor sobre cómo se vivía la política durante el periodo del Frente Nacional."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Diálogos por la Paz",
+            "un_reto_sugerido": "¿Cómo han evolucionado los intentos de paz en Colombia frente al surgimiento de nuevos actores armados?",
+            "ruta_de_exploracion": {
+              "explorar": "Línea de tiempo interactiva sobre el origen de las guerrillas, el paramilitarismo y el narcotráfico en Colombia.",
+              "visual": "Simulacro de mesa de negociación: Representar los diálogos del Caguán o de Belisario Betancur para identificar por qué fallaron.",
+              "produccion": "Propuesta de una estrategia de mediación comunitaria para resolver conflictos locales basada en las lecciones de los procesos de paz históricos."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre un grupo guerrillero con ideología y una banda criminal (Bacrim)?",
+              "¿Por qué el narcotráfico se convirtió en el combustible del conflicto armado colombiano?"
+            ],
+            "pistas_del_exito": [
+              "Explica las características de la violencia en el conflicto armado y su afectación cultural.",
+              "Propone estrategias de diálogo como recurso mediador en la solución de conflictos."
+            ],
+            "un_refuerzo": "Investigar qué fue la Unión Patriótica y las consecuencias de su exterminio para la democracia."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Auditores de la Ley",
+            "un_reto_sugerido": "¿Cómo el Derecho Internacional Humanitario protege a la población civil en medio del conflicto colombiano?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de casos hipotéticos donde se debe decidir si una acción militar respeta o vulnera el DIH.",
+              "visual": "Debate de control ciudadano: Analizar el sentido de una ley actual y proponer transformaciones para que sea más justa e igualitaria.",
+              "produccion": "Ensayo argumentativo sobre cómo el cumplimiento de la ley y el DIH impacta directamente en el proyecto de vida de los jóvenes."
+            },
+            "para_pensar": [
+              "¿Por qué incluso en la guerra existen reglas que deben cumplirse?",
+              "¿Cómo puede un ciudadano participar en la transformación de una ley que considera injusta?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los principios del Estado de Derecho y el marco básico del DIH.",
+              "Debate con argumentos sólidos sobre las consecuencias de hechos históricos en la justicia social."
+            ],
+            "un_refuerzo": "Crear una infografía que explique la diferencia entre Derechos Humanos y Derecho Internacional Humanitario."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cicatrices de la Tierra",
+            "un_reto_sugerido": "¿Es posible una minería que no destruya la seguridad alimentaria y la biodiversidad de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de imágenes satelitales de zonas mineras (Chocó o Guajira) para identificar procesos de deforestación y desertización.",
+              "visual": "Experimento de lixiviación: Usar arena, agua y colorante para observar cómo los químicos de la minería se filtran hasta las fuentes subterráneas.",
+              "produccion": "Informe crítico sobre el papel de las Corporaciones Autónomas Regionales (CAR) frente a la minería ilegal y los productos transgénicos."
+            },
+            "para_pensar": [
+              "¿Por qué la minería ilegal es un problema tanto ambiental como de soberanía nacional?",
+              "¿Cómo afectan los cultivos transgénicos el derecho a una alimentación sana y suficiente?"
+            ],
+            "pistas_del_exito": [
+              "Describe el impacto ambiental y social de la minería a partir de estudios de caso.",
+              "Argumenta la pérdida de biodiversidad basándose en informes oficiales de entidades ambientales."
+            ],
+            "un_refuerzo": "Investigar el caso de la mina 'El Cerrejón' y sus impactos en la comunidad Wayúu."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Trincheras de la Humanidad",
+            "un_reto_sugerido": "¿Cómo los avances científicos de las Guerras Mundiales cambiaron la vida cotidiana para siempre?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de objetos cotidianos que nacieron en la guerra (latas de conserva, GPS, penicilina, internet) y su uso actual.",
+              "visual": "Cartografía de la Gran Guerra: Dibujar los cambios geopolíticos de Europa antes y después de 1918, identificando nuevos estados.",
+              "produccion": "Podcast histórico sobre las consecuencias sociales de la Primera Guerra Mundial y su incidencia en la vida de las mujeres y trabajadores."
+            },
+            "para_pensar": [
+              "¿Por qué la tecnología avanza más rápido durante los conflictos bélicos?",
+              "¿Qué lecciones dejó la Primera Guerra Mundial que la humanidad ignoró en la Segunda?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los avances militares y científicos de las potencias en el siglo XX.",
+              "Describe el desarrollo histórico de las guerras mundiales y sus consecuencias sociales."
+            ],
+            "un_refuerzo": "Escribir una 'carta desde el frente' imaginaria, describiendo las condiciones de vida de un soldado en las trincheras."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "El Mundo Globalizado",
+            "un_reto_sugerido": "¿Qué gana y qué pierde Colombia al pertenecer a organismos como la ONU, la OEA o la OCDE?",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de noticias sobre intervenciones de organismos internacionales en conflictos actuales o crisis ambientales.",
+              "visual": "Debate: 'Globalización: ¿Unión o Uniformidad?'. Analizar cómo la sociedad de la información afecta las culturas locales.",
+              "produccion": "Matriz de ventajas y desventajas de los tratados de cooperación internacional firmados por Colombia en la última década."
+            },
+            "para_pensar": [
+              "¿Siguen siendo soberanos los países en un mundo dominado por organismos multilaterales?",
+              "¿Cómo influye la globalización en tu identidad cultural y tus hábitos de consumo?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta el papel de los organismos internacionales como alianzas entre Estados.",
+              "Argumenta el papel de las instituciones nacionales e internacionales en el mantenimiento de la paz."
+            ],
+            "un_refuerzo": "Diseñar un logo y una misión para un nuevo organismo internacional que resuelva un problema actual de los jóvenes."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Activistas por los Derechos",
+            "un_reto_sugerido": "¿Cómo podemos denunciar la vulneración de derechos humanos de forma creativa y pacífica?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de la situación de los DD.HH. en Colombia mediante el estudio de informes de la Defensoría del Pueblo.",
+              "visual": "Campaña de expresión artística (mural, video, canción) para promover la defensa de un derecho humano específico en el colegio.",
+              "produccion": "Propuesta de una ruta de negociación pacífica para conflictos entre grupos al margen de la ley y la sociedad civil."
+            },
+            "para_pensar": [
+              "¿Por qué la indignación debe transformarse en acciones pacíficas y no en más violencia?",
+              "¿Cuál es el valor de las normas constitucionales en un país con un conflicto armado activo?"
+            ],
+            "pistas_del_exito": [
+              "Identifica mecanismos constitucionales para la resolución de conflictos.",
+              "Utiliza medios de expresión para defender los derechos humanos de forma crítica."
+            ],
+            "un_refuerzo": "Investigar la labor de un líder social asesinado en Colombia y realizar un homenaje a su legado."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Tablero Económico",
+            "un_reto_sugerido": "¿Cuál de los modelos de desarrollo económico (Capitalismo, Socialismo, Neoliberalismo) responde mejor a las necesidades de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de mercado: Experimentar con la oferta y la demanda para entender la microeconomía y la macroeconomía básica.",
+              "visual": "Mapa conceptual interactivo sobre la apertura económica en Colombia y sus efectos en la industria nacional y la agricultura.",
+              "produccion": "Ensayo comparativo sobre los postulados del marxismo, el liberalismo clásico y el neoliberalismo en la sociedad actual."
+            },
+            "para_pensar": [
+              "¿Es posible un modelo económico que priorice el bienestar social sobre la acumulación de capital?",
+              "¿Cómo afecta la integración económica global a los pequeños productores de tu región?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia conceptos como capitalismo, socialismo y neoliberalismo.",
+              "Comprende el impacto de los modelos de desarrollo económico en la actualidad colombiana."
+            ],
+            "un_refuerzo": "Realizar una encuesta en el barrio sobre cómo la apertura económica ha cambiado los negocios locales."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Colapso de los Muros",
+            "un_reto_sugerido": "¿Cómo las transformaciones geopolíticas de la Segunda Guerra Mundial definieron el orden del mundo hoy?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de mapas temáticos que muestran la división del mundo durante la Guerra Fría y tras la caída del Muro de Berlín.",
+              "visual": "Línea de tiempo de la Segunda Guerra Mundial destacando los hitos tecnológicos (bomba atómica, códigos secretos) y sus dilemas éticos.",
+              "produccion": "Exposición sobre las causas directas e indirectas que determinaron los conflictos bélicos del siglo XX y su impacto en los derechos humanos."
+            },
+            "para_pensar": [
+              "¿Por qué el fin de una guerra suele ser el inicio de nuevas tensiones geopolíticas?",
+              "¿Cómo influyó la Segunda Guerra Mundial en la creación de la Declaración Universal de los Derechos Humanos?"
+            ],
+            "pistas_del_exito": [
+              "Explica las transformaciones geopolíticas mundiales tras las guerras mundiales.",
+              "Argumenta sobre las causas y consecuencias sociales de los conflictos bélicos contemporáneos."
+            ],
+            "un_refuerzo": "Ver un documental sobre el Holocausto y reflexionar sobre la importancia de la memoria histórica para no repetir el pasado."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Mosaico de Identidades",
+            "un_reto_sugerido": "¿Cómo pasar de la simple tolerancia a una verdadera interculturalidad que elimine la exclusión?",
+            "ruta_de_exploracion": {
+              "explorar": "Test de prejuicios: Identificar formas de discriminación social (racismo, xenofobia, clasismo) presentes en el entorno cotidiano.",
+              "visual": "Taller de mecanismos de protección: Simular el uso de una Acción de Tutela o una Acción Popular ante un caso de discriminación étnica.",
+              "produccion": "Manifiesto por el multiculturalismo, argumentando por qué la diversidad es una riqueza y no una amenaza para la comunidad."
+            },
+            "para_pensar": [
+              "¿Por qué el respeto por la diferencia tiene como límite los derechos humanos?",
+              "¿Cuál es la diferencia entre vivir en una sociedad multicultural y una sociedad intercultural?"
+            ],
+            "pistas_del_exito": [
+              "Identifica formas de discriminación social, su origen y consecuencias.",
+              "Compara mecanismos de protección de DDHH (Tutela, Acciones Populares, Conciliación)."
+            ],
+            "un_refuerzo": "Investigar una expresión cultural de una minoría étnica colombiana y presentarla al grupo como patrimonio nacional."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Escudo contra la Exclusión",
+            "un_reto_sugerido": "¿Cómo nuestras relaciones desiguales fomentan la discriminación global y qué podemos hacer desde el colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis histórico de situaciones de exclusión aguda (Apartheid, Segregación en EE.UU., Desplazamiento en Colombia).",
+              "visual": "Debate crítico: 'Relaciones desiguales entre naciones y su impacto en la migración y la discriminación'.",
+              "produccion": "Construcción de una postura ética grupal que defienda el respeto por la diferencia sin vulnerar las normas constitucionales."
+            },
+            "para_pensar": [
+              "¿Se puede ser neutral ante una situación de discriminación o la neutralidad es una forma de apoyo?",
+              "¿Cómo las raíces históricas de la exclusión siguen afectando las oportunidades de las personas hoy?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las raíces históricas y sociales de la exclusión en el contexto nacional.",
+              "Construye una postura ética que defienda los derechos humanos frente a la discriminación."
+            ],
+            "un_refuerzo": "Escribir un ensayo breve sobre el concepto de 'Interseccionalidad' (cómo se cruzan diferentes formas de discriminación)."
+          }
+        }
+      ]
+    }
+  ]
+
+}

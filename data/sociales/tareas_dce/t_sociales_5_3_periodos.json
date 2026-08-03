@@ -1,0 +1,276 @@
+{
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "5",
+  "nombre_archivo": "t_sociales_5_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "La Escalera de los Pisos Térmicos",
+            "un_reto_sugerido": "¿Por qué la comida y la ropa cambian según la altura de la montaña donde vivimos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una canasta de mercado con productos como café, papa, banano y coco, intentando adivinar en qué clima crece cada uno.",
+              "visual": "Construcción de una pirámide de cartón que represente los pisos térmicos, pegando muestras reales o dibujos de productos y vestimenta típica de cada nivel.",
+              "produccion": "Elaboración de un mapa temático de las regiones de Colombia, clasificando los distritos (turísticos, portuarios, biodiversos) y su importancia económica."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el cambio climático a la producción de alimentos en los diferentes pisos térmicos?",
+              "¿Qué diferencia a un Distrito Especial de un municipio común en su organización?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona los recursos naturales con los pisos térmicos y la diversidad de cultivos.",
+              "Diferencia claramente las formas de división territorial como corregimientos, municipios y resguardos."
+            ],
+            "un_refuerzo": "Investigar qué piso térmico predomina en su departamento y qué producto es el más famoso de esa zona."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "De la Encomienda al Teletrabajo",
+            "un_reto_sugerido": "¿Cómo han cambiado las formas de trabajar y comunicarnos desde la época de la Colonia hasta hoy?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar una carta escrita a mano (estilo colonial) con un mensaje de texto instantáneo, analizando el tiempo de espera y el esfuerzo.",
+              "visual": "Juego de roles sobre las instituciones coloniales (Mita, Encomienda, Resguardo) para entender cómo se organizaba el trabajo forzado y la estratificación social.",
+              "produccion": "Cuadro comparativo entre las organizaciones políticas coloniales (Virreinato, Real Audiencia) y las instituciones actuales de la República de Colombia."
+            },
+            "para_pensar": [
+              "¿Por qué la estratificación social de la Colonia aún influye en la desigualdad de hoy?",
+              "¿Cómo el acceso a la tecnología hace que el aprendizaje sea más fácil que en el siglo XVIII?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las formas organizativas del trabajo colonial y sus transformaciones actuales.",
+              "Argumenta cómo los avances tecnológicos han transformado las relaciones sociales."
+            ],
+            "un_refuerzo": "Dibujar una pirámide social de la Nueva Granada y explicar quiénes tenían más derechos y por qué."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Escuadrón de Derechos Humanos",
+            "un_reto_sugerido": "¿Cómo funcionan las instituciones que nos defienden cuando alguien vulnera nuestros derechos?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un titular de noticia donde se mencione la labor de la Defensoría del Pueblo o la Personería.",
+              "visual": "Creación de un 'Directorio de Protección' en el salón, con mapas de ubicación de las oficinas de derechos humanos más cercanas y sus funciones.",
+              "produccion": "Diseño y ejecución de un proyecto de Gobierno Escolar que promueva la solidaridad y el bien común dentro de la institución."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que existan organizaciones sociales independientes para vigilar los Derechos Humanos?",
+              "¿Cómo tu participación en el Gobierno Escolar ayuda a los demás?"
+            ],
+            "pistas_del_exito": [
+              "Describe el funcionamiento de la Personería y la Defensoría del Pueblo.",
+              "Participa activamente en proyectos colectivos orientados al bien común."
+            ],
+            "un_refuerzo": "Escribir un decálogo de convivencia basado en la Constitución Política para aplicar en el hogar."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Timón de la Autorregulación",
+            "un_reto_sugerido": "¿Cómo puedo mantener la calma para tomar mejores decisiones cuando trabajo en equipo?",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de una discusión grupal sobre un tema polémico, observando las reacciones físicas de la rabia o el temor.",
+              "visual": "Taller de 'Fórmulas Secretas para la Calma': Crear un diario de estrategias de respiración y pensamiento positivo para usar en debates.",
+              "produccion": "Desarrollo de un proyecto solidario de aula donde se apliquen técnicas de cooperación y trabajo constructivo en equipo."
+            },
+            "para_pensar": [
+              "¿Por qué la rabia puede hacernos tomar decisiones que dañan al grupo?",
+              "¿Qué significa ser solidario en un proyecto escolar?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la importancia de la autorregulación emocional en la toma de decisiones.",
+              "Ejecuta acciones de cooperación y solidaridad en proyectos colectivos."
+            ],
+            "un_refuerzo": "Realizar una cartelera sobre el valor del trabajo en equipo y la escucha activa."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Colombia: Esquina del Mundo",
+            "un_reto_sugerido": "¿Por qué la ubicación de Colombia es considerada un 'tesoro' para la economía y las comunicaciones?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un globo terráqueo y trazar las líneas de Latitud y Longitud para encontrar las coordenadas exactas de su municipio.",
+              "visual": "Maqueta de la Órbita Geoestacionaria: Usar un balón y un hilo con un pequeño satélite para entender por qué la posición de Colombia es clave para el internet y la TV.",
+              "produccion": "Mapa de fronteras terrestres y marítimas de Colombia, explicando cómo la proximidad a dos océanos afecta el clima y el comercio."
+            },
+            "para_pensar": [
+              "¿Qué ventajas tiene Colombia al tener costas en dos océanos diferentes?",
+              "¿Cómo influye la altitud en que en Colombia no tengamos estaciones como en otros países?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la posición astronómica de Colombia y la extensión de sus fronteras.",
+              "Relaciona la latitud y la altitud con la diversidad climática del país."
+            ],
+            "un_refuerzo": "Investigar qué países limitan con Colombia y dibujar sus banderas alrededor del mapa nacional."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Rompecabezas de la República",
+            "un_reto_sugerido": "¿Por qué Colombia cambió tantas veces de nombre y de mapa durante el siglo XIX?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar el mapa de la Gran Colombia con el mapa actual, identificando los países que se separaron.",
+              "visual": "Línea de tiempo ilustrada sobre los antecedentes de la Independencia (Comuneros, Revolución Francesa) y la creación de los partidos Liberal y Conservador.",
+              "produccion": "Ensayo o exposición sobre cómo el nacimiento de la República cambió la vida social de los esclavizados y los indígenas."
+            },
+            "para_pensar": [
+              "¿Por qué peleaban tanto los líderes políticos en el siglo XIX?",
+              "¿Cómo influyó la Revolución de los Comuneros en el deseo de independencia?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce los cambios de fronteras desde la Gran Colombia hasta la actualidad.",
+              "Explica la relación entre los partidos políticos y las luchas ideológicas del siglo XIX."
+            ],
+            "un_refuerzo": "Crear un cuadro comparativo con las ideas principales de los primeros liberales y conservadores."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Ciudadanos en Acción Comunal",
+            "un_reto_sugerido": "¿Cómo pueden los vecinos organizarse para mejorar su barrio o vereda?",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a un líder de la Junta de Acción Comunal (JAC) o investigar qué proyectos han hecho en su barrio.",
+              "visual": "Diagrama de flujo sobre los mecanismos de participación ciudadana estipulados en la Constitución para proteger derechos colectivos.",
+              "produccion": "Propuesta de un proyecto comunitario (limpieza de parques, seguridad, huertas) para ser presentado a una Junta Administradora Local (JAL)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante el trabajo voluntario en las Juntas de Acción Comunal?",
+              "¿Qué derechos colectivos consideras que necesitan más protección en tu comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Explica la función de instituciones como Cabildos y Juntas de Acción Comunal.",
+              "Reconoce la importancia de proteger derechos colectivos a través de la Constitución."
+            ],
+            "un_refuerzo": "Hacer un dibujo de una reunión comunitaria donde se resuelva un problema del barrio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Botiquín de la Empatía",
+            "un_reto_sugerido": "¿Qué podemos hacer cuando vemos que alguien está siendo agredido o sus derechos son vulnerados?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de situaciones de exclusión en el patio de recreo y debate sobre cómo se sienten las víctimas.",
+              "visual": "Mapa de 'Rutas de Apoyo': Crear un cartel con los pasos a seguir y los teléfonos de autoridades locales para denunciar maltrato infantil.",
+              "produccion": "Campaña de hábitos saludables y cuidado personal, explicando cómo el bienestar propio mejora las relaciones con los demás."
+            },
+            "para_pensar": [
+              "¿Por qué el silencio ante una injusticia puede ser tan dañino como la agresión misma?",
+              "¿Cómo ayuda el autocuidado a prevenir situaciones de riesgo?"
+            ],
+            "pistas_del_exito": [
+              "Identifica rutas de apoyo y autoridades para la protección de la infancia.",
+              "Propone formas de actuar solidariamente ante la vulneración de derechos."
+            ],
+            "un_refuerzo": "Elaborar una tarjeta con los números de emergencia (ICBF, Policía) para llevar en la maleta."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Nuestras Dos Ventanas al Mundo",
+            "un_reto_sugerido": "¿Cómo los dos océanos transforman la economía y la vida de los colombianos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar etiquetas de productos importados y rastrear por qué puerto (Buenaventura o Cartagena) pudieron haber llegado.",
+              "visual": "Simulacro de comercio marítimo: Usar barcos de papel para representar rutas de exportación de café y flores hacia otros continentes.",
+              "produccion": "Informe sobre las organizaciones que resuelven necesidades básicas (vías, servicios) y su impacto en el desarrollo económico nacional."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con la economía de Colombia si no tuviéramos acceso al mar?",
+              "¿Cómo se conectan los servicios públicos con el desarrollo de una ciudad?"
+            ],
+            "pistas_del_exito": [
+              "Plantea preguntas sobre la importancia económica de contar con dos océanos.",
+              "Identifica organizaciones que resuelven necesidades básicas en la población."
+            ],
+            "un_refuerzo": "Dibujar los principales puertos marítimos de Colombia en un mapa mudo."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Siglo de las Grandes Transformaciones",
+            "un_reto_sugerido": "¿Cómo cambió Colombia con la llegada del ferrocarril, la radio y la industria?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar grabaciones antiguas de radio o ver fotos de las primeras fábricas textiles y compararlas con la tecnología actual.",
+              "visual": "Mural histórico sobre los conflictos del siglo XX: La Guerra de los Mil Días, la Masacre de las Bananeras y el Bogotazo.",
+              "produccion": "Debate grupal sobre las consecuencias de la violencia partidista y propuestas para construir una cultura de paz hoy."
+            },
+            "para_pensar": [
+              "¿Cómo influyó el ferrocarril en que el café llegara a todo el mundo?",
+              "¿Por qué la Masacre de las Bananeras es un evento clave para los derechos de los trabajadores?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las consecuencias de conflictos como la Guerra de los Mil Días y la violencia partidista.",
+              "Explica la incidencia de tecnologías (radio, telares) en la reconfiguración económica."
+            ],
+            "un_refuerzo": "Realizar una historieta sobre la llegada de la radio a un pueblo colombiano en 1930."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "La Brújula de la Constitución de 1991",
+            "un_reto_sugerido": "¿Por qué se dice que Colombia es un Estado Social de Derecho y qué significa eso para ti?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de los Derechos Fundamentales en la Constitución y análisis de casos donde se aplican (salud, educación, libertad de expresión).",
+              "visual": "Taller de 'Mecanismos de Defensa': Crear una guía visual sobre cómo hacer un Derecho de Petición o una Acción de Tutela.",
+              "produccion": "Comparación entre el Manual de Convivencia escolar y la Constitución de 1991, destacando derechos y deberes comunes."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre un derecho y un deber?",
+              "¿Por qué la Constitución de 1991 es considerada la 'Constitución de los Derechos'?"
+            ],
+            "pistas_del_exito": [
+              "Identifica derechos fundamentales y su aplicabilidad en la vida diaria.",
+              "Explica el valor de conocer los mecanismos constitucionales para reclamar derechos."
+            ],
+            "un_refuerzo": "Simulacro de votación para un cargo público, explicando las responsabilidades de quien sea elegido."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Embajadores de la Inclusión",
+            "un_reto_sugerido": "¿Cómo podemos transformar la discriminación en empatía y respeto en nuestro colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Espejo de las Emociones': Expresar cómo se siente ser excluido por características físicas o culturales.",
+              "visual": "Creación de un 'Mosaico de la Diversidad' donde cada estudiante aporte un rasgo de su cultura o etnia que lo haga sentir orgulloso.",
+              "produccion": "Liderar una campaña de inclusión en el grado, proponiendo acciones para valorar la diversidad de género y etnia."
+            },
+            "para_pensar": [
+              "¿Qué consecuencias tiene la discriminación en la autoestima de una persona?",
+              "¿Cómo la diversidad hace que un salón de clases sea más interesante y divertido?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el impacto negativo de la discriminación en el tejido social.",
+              "Propone y lidera acciones de inclusión que valoren la diversidad."
+            ],
+            "un_refuerzo": "Escribir una carta de compromiso personal para ser un defensor de la inclusión en el colegio."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

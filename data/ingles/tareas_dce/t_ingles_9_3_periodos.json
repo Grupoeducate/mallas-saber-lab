@@ -1,0 +1,277 @@
+
+{
+  "area": "Inglés",
+  "grado": 9,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Ethical Lab: Safety Protocols",
+            "un_reto_sugerido": "¿Cómo distinguir entre una sugerencia técnica y un protocolo de seguridad obligatorio en un laboratorio científico?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una serie de instrucciones de seguridad en un laboratorio (reales o simuladas) e identificar el tono de urgencia del hablante.",
+              "visual": "Crear un 'Panel de Protocolos' usando señales visuales donde clasifiquen las instrucciones escuchadas en: Obligation (Must), Necessity (Have to) y Advice (Should).",
+              "produccion": "Inferir información específica de un audio académico sobre normas ambientales, identificando el propósito del texto y el vocabulario técnico repetido."
+            },
+            "para_pensar": [
+              "¿Por qué el lenguaje preciso es fundamental para prevenir desastres biológicos o químicos?",
+              "¿Cómo influyen las normas de seguridad en el avance de la tecnología médica? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica el propósito y tipo de texto en audios sobre obligaciones y consejos.",
+              "Reconoce vocabulario relacionado con planes a futuro y responsabilidades sociales."
+            ],
+            "un_refuerzo": "Escuchar el audio con una guía de 'palabras clave' (keywords) que ayuden a identificar la estructura de los verbos modales."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Future Scientist Forum",
+            "un_reto_sugerido": "¿Cómo defenderías tu proyecto de vida ante una comunidad académica usando argumentos basados en hechos y opiniones?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una charla TED breve sobre ciencia y anotar cómo el expositor utiliza su voz para enfatizar sus preferencias y planes.",
+              "visual": "Realizar un 'Simposio de Ideas': los estudiantes exponen sus planes futuros citando fuentes o lo dicho por sus compañeros para validar sus opiniones.",
+              "produccion": "Sostener una conversación fluida sobre experiencias pasadas y planes futuros, monitoreando la pronunciación y el uso correcto de tiempos verbales."
+            },
+            "para_pensar": [
+              "¿Qué valor tiene citar a otros para fortalecer nuestra propia opinión?",
+              "¿Cómo la comunicación asertiva puede ayudar a resolver crisis ambientales globales?"
+            ],
+            "pistas_del_exito": [
+              "Expresa opiniones y justifica planes futuros usando argumentos y ejemplos claros.",
+              "Participa en conversaciones académicas respetando los turnos y citando fuentes."
+            ],
+            "un_refuerzo": "Utilizar un organizador de 'Opinión-Razón-Ejemplo' (ORE) para estructurar el discurso antes de la exposición."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Logical Investigator",
+            "un_reto_sugerido": "¿Cómo identificar las conexiones ocultas de causa y efecto en un artículo sobre el cambio climático?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Skimming' de un texto científico corto para identificar marcadores de secuencia y conectores de causa-efecto (because, therefore).",
+              "visual": "Diseñar un 'Mapa de Relaciones' donde se conecten las tesis del autor con sus argumentos a favor y en contra encontrados en la lectura.",
+              "produccion": "Diferenciar la estructura organizativa de textos descriptivos y argumentativos, reconociendo la intención persuasiva del autor."
+            },
+            "para_pensar": [
+              "¿Por qué es importante leer críticamente antes de aceptar una teoría como verdadera?",
+              "¿Cómo la comprensión de causa-efecto en la lectura mejora nuestra capacidad de resolver problemas técnicos? (Relación con la Física)"
+            ],
+            "pistas_del_exito": [
+              "Reconoce relaciones de causa y efecto en lecturas académicas cortas.",
+              "Identifica puntos a favor y en contra en textos argumentativos de mediana extensión."
+            ],
+            "un_refuerzo": "Subrayar con colores distintos la Tesis (Rojo), los Argumentos (Azul) y las Conclusiones (Verde) en el texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Academic Editor's Workshop",
+            "un_reto_sugerido": "¿Cómo transformar un conjunto de ideas dispersas en un párrafo académico coherente y profesional?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar párrafos desordenados sobre temas de interés y tratar de identificar la 'Topic Sentence' (oración temática).",
+              "visual": "Construir 'Párrafos Sándwich': usar fichas de colores para la oración temática, las oraciones de apoyo y la oración de cierre.",
+              "produccion": "Redactar un texto de mediana longitud realizando recomendaciones sobre una situación social, usando conectores de contraste y adición."
+            },
+            "para_pensar": [
+              "¿Por qué la edición y revisión constante son esenciales en la producción de textos científicos?",
+              "¿Cómo la ortografía y puntuación correctas afectan la transmisión de una idea innovadora?"
+            ],
+            "pistas_del_exito": [
+              "Escribe párrafos coherentes con oración temática, apoyo y cierre.",
+              "Parafrasea información académica manteniendo el sentido original y la cohesión."
+            ],
+            "un_refuerzo": "Utilizar una lista de chequeo de edición (Peer-Editing Checklist) para revisar el trabajo de un compañero."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Social Anthropologist",
+            "un_reto_sugerido": "¿Podemos identificar los valores de una 'tribu urbana' solo escuchando sus narrativas y descripciones de grupo?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar entrevistas a jóvenes de diferentes grupos sociales e identificar palabras clave sobre sus costumbres e intereses.",
+              "visual": "Crear un 'Mosaico de Diversidad': clasificar audios según describan valores, prejuicios o estereotipos comunes en la sociedad.",
+              "produccion": "Interpretar información específica sobre celebraciones y carnavales del mundo, reconociendo el tema principal y detalles relevantes."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los estereotipos en la forma en que la ciencia estudia a los grupos humanos?",
+              "¿De qué manera la tolerancia contribuye a un ambiente de investigación más productivo? (Enfoque Socioemocional)"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario sobre grupos sociales, estereotipos y valores en audios.",
+              "Infiere información específica sobre diversidad cultural a partir de textos orales."
+            ],
+            "un_refuerzo": "Asociar imágenes de diferentes culturas con fragmentos de audio antes de realizar la escucha profunda."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Diversity Roundtable",
+            "un_reto_sugerido": "¿Cómo debatir sobre prejuicios sociales manteniendo el respeto y usando evidencia para desmentirlos?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar anuncios publicitarios que utilicen generalizaciones y discutir en grupos pequeños por qué pueden ser dañinos.",
+              "visual": "Realizar un 'Debate de Roles': los estudiantes defienden la importancia de la diversidad cultural frente a situaciones de discriminación simuladas.",
+              "produccion": "Describir oralmente diferentes grupos sociales y sus costumbres, expresando opiniones críticas sobre el impacto de los estereotipos."
+            },
+            "para_pensar": [
+              "¿Por qué la diversidad genética y cultural es necesaria para la supervivencia de nuestra especie? (Relación con Biología)",
+              "¿Cómo la tecnología puede ayudar a combatir o a propagar los prejuicios sociales?"
+            ],
+            "pistas_del_exito": [
+              "Participa en conversaciones sobre diversidad cultural expresando opiniones con respeto.",
+              "Identifica y argumenta contra estereotipos en diferentes contextos comunicativos."
+            ],
+            "un_refuerzo": "Usar 'Sentence Starters' para el debate: 'I disagree with that stereotype because...', 'In my experience...'."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Stereotype Decoder",
+            "un_reto_sugerido": "¿Qué estrategias usan los autores para convencernos de una idea y cómo podemos identificar sus prejuicios ocultos?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer perfiles cortos de diferentes culturas y marcar con un círculo las palabras que parecen generalizaciones injustas.",
+              "visual": "Crear un 'Diagrama de Consecuencias': mapear en un cartel cómo un estereotipo leído en un texto puede afectar a una comunidad real.",
+              "produccion": "Interpretar información sobre grupos sociales, emitiendo una opinión crítica sobre el impacto de la discriminación en la sociedad."
+            },
+            "para_pensar": [
+              "¿Cómo la lectura de diversas fuentes nos ayuda a ser ciudadanos más empáticos?",
+              "¿Qué relación existe entre la cultura y la forma en que una sociedad desarrolla su tecnología? (CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario relacionado con la diversidad cultural y estilos de vida.",
+              "Analiza las causas y consecuencias de los estereotipos en textos de mediana extensión."
+            ],
+            "un_refuerzo": "Proporcionar un glosario de términos sobre valores (respect, tolerance, empathy) para facilitar la comprensión crítica."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Citizen Manifesto",
+            "un_reto_sugerido": "¿Cómo redactar un manifiesto que proponga soluciones reales contra la discriminación en tu escuela?",
+            "ruta_de_exploracion": {
+              "explorar": "Listar situaciones de conflicto por diferencias culturales y proponer palabras clave para resolverlas.",
+              "visual": "Diseñar un 'Plan de Acción Escrito': organizar un ensayo argumentativo con tesis, argumentos a favor y una conclusión sólida.",
+              "produccion": "Escribir textos argumentativos cortos usando estructuras para expresar acuerdos y desacuerdos de manera clara y respetuosa."
+            },
+            "para_pensar": [
+              "¿Qué poder tiene la palabra escrita para cambiar leyes o comportamientos sociales?",
+              "¿Cómo la planificación de un ensayo se parece al diseño de un experimento científico?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos argumentativos cortos con tesis, argumentos y conclusión.",
+              "Usa conectores de contraste y causa-efecto para mejorar la cohesión del manifiesto."
+            ],
+            "un_refuerzo": "Utilizar una plantilla de ensayo argumentativo con conectores pre-insertados (First, However, In conclusion)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The 2030 Time Capsule",
+            "un_reto_sugerido": "¿Cómo serán las profesiones del futuro y qué habilidades científicas necesitaremos para tener éxito en ellas?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar anuncios de empleos futuristas (ej. astrobiólogo, ingeniero de energías limpias) e identificar las habilidades requeridas.",
+              "visual": "Crear una 'Línea de Tiempo de Aspiraciones': escuchar audios sobre planes futuros y ubicar las acciones en el tiempo (Will vs. Going to).",
+              "produccion": "Interpretar información específica sobre eventos futuros y retos al terminar la secundaria, identificando detalles relevantes."
+            },
+            "para_pensar": [
+              "¿Cómo la automatización y la IA cambiarán nuestras metas profesionales?",
+              "¿Qué impacto ambiental tendrán las nuevas profesiones tecnológicas? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Reconoce estructuras gramaticales para hablar del futuro (Will, Going to, Present Continuous).",
+              "Identifica y se prepara ante los retos que supone terminar la educación secundaria."
+            ],
+            "un_refuerzo": "Escuchar fragmentos de biografías de personas exitosas y completar un cuadro de 'Habilidades vs. Logros'."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Career Fair Pitch",
+            "un_reto_sugerido": "¿Cómo presentarías tu talento único ante una universidad internacional para asegurar tu futuro profesional?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un inventario de talentos personales y buscar sus equivalentes en inglés (skills, strengths, weaknesses).",
+              "visual": "Simular una 'Feria de Carreras': los estudiantes rotan por estaciones describiendo sus planes, aspiraciones y predicciones para el futuro.",
+              "produccion": "Monitorear la toma de turnos en discusiones preparadas sobre temas de interés general, usando estructuras de futuro con fluidez."
+            },
+            "para_pensar": [
+              "¿Por qué es importante planificar el futuro sin perder la flexibilidad ante el cambio?",
+              "¿Cómo el desarrollo de talentos individuales beneficia al progreso científico de un país?"
+            ],
+            "pistas_del_exito": [
+              "Describe oralmente planes, aspiraciones y predicciones para el futuro con fluidez.",
+              "Usa diferentes estructuras de futuro de forma apropiada según el contexto comunicativo."
+            ],
+            "un_refuerzo": "Grabar un video corto de 1 minuto (Elevator Pitch) sobre sus metas y escucharlo para autoevaluar la pronunciación."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Future Trends Analyst",
+            "un_reto_sugerido": "¿Qué cambios sociales y tecnológicos podemos predecir analizando las tendencias actuales en la lectura?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer artículos cortos sobre innovaciones tecnológicas y marcar con un círculo las predicciones que parecen más probables.",
+              "visual": "Crear un 'Mapa de Transformación Social': extraer información de textos sobre el futuro y representarla en diagramas de causa-efecto.",
+              "produccion": "Comparar y contrastar diferentes visiones del futuro, expresando una opinión argumentada sobre los desafíos que vendrán."
+            },
+            "para_pensar": [
+              "¿Es posible que la tecnología resuelva todos los problemas de la humanidad?",
+              "¿Cómo el concepto de 'cambio' en la sociedad se relaciona con la evolución biológica? (Relación con Ciencias Naturales)"
+            ],
+            "pistas_del_exito": [
+              "Extrae información específica de textos sobre el futuro para apoyar sus propios argumentos.",
+              "Identifica vocabulario relacionado con tecnología, profesiones y cambios sociales."
+            ],
+            "un_refuerzo": "Utilizar organizadores gráficos de 'Antes y Después' para analizar los cambios descritos en los textos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Legacy Architect",
+            "un_reto_sugerido": "¿Cómo escribirías tu propia biografía futura imaginando que ya has logrado tus metas científicas o sociales?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar biografías de personajes famosos y listar los conectores de secuencia que marcan los hitos de su vida.",
+              "visual": "Diseñar una 'Infografía de Vida': usar mapas o diagramas para planificar un escrito sobre sus logros futuros y contribuciones a la sociedad.",
+              "produccion": "Escribir una biografía o anécdota futura con coherencia y cohesión, utilizando vocabulario variado y reglas ortográficas correctas."
+            },
+            "para_pensar": [
+              "¿Qué importancia tiene dejar un legado positivo en el mundo a través de nuestra profesión?",
+              "¿Cómo la escritura de metas personales influye en la probabilidad de alcanzarlas? (Psicología del éxito)"
+            ],
+            "pistas_del_exito": [
+              "Resume información leída o escuchada a través de escritos estructurados y claros.",
+              "Escribe biografías y narraciones futuras usando planes representados en diagramas."
+            ],
+            "un_refuerzo": "Proporcionar un banco de verbos en futuro y conectores de tiempo (By the year..., Eventually, Soon) para enriquecer el texto."
+          }
+        }
+      ]
+    }
+  ]
+
+}

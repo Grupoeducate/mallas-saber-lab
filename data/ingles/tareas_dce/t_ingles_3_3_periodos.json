@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 3,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Classroom Command Center",
+            "un_reto_sugerido": "¿Cómo puedo liderar misiones en el aula siguiendo instrucciones precisas y reconociendo a mis compañeros?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Radio Operador': El docente da instrucciones complejas (ej. 'Open the book and go to page 10') y los estudiantes deben ejecutarlas en cadena.",
+              "visual": "Laboratorio de Identidad: Los estudiantes crean un 'Avatar' de un compañero basado solo en pistas auditivas sobre su edad, procedencia y rasgos físicos.",
+              "produccion": "Formalización del código: El estudiante responde a un comando auditivo y justifica su acción usando 'I am... because...' para expresar un sentimiento."
+            },
+            "para_pensar": [
+              "¿Por qué es importante escuchar con atención antes de actuar en una comunidad?",
+              "¿Cómo cambian nuestras reacciones cuando nos sentimos 'hungry' o 'tired' en el colegio?"
+            ],
+            "pistas_del_exito": [
+              "Sigue instrucciones de dos pasos relacionadas con actividades de clase.",
+              "Identifica información personal básica en diálogos cortos."
+            ],
+            "un_refuerzo": "Uso de pictogramas de comandos escolares para asociar la palabra hablada con la acción visual inmediata."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Emotion & Opinion Forum",
+            "un_reto_sugerido": "¿Cómo puedo expresar mis preferencias y entender las de los demás de manera respetuosa?",
+            "ruta_de_exploracion": {
+              "explorar": "Uso de un 'Termómetro de Sentimientos' gigante en el salón donde cada niño ubica su nombre según cómo se siente hoy.",
+              "visual": "Debate de 'Likes & Dislikes': Usar tarjetas de comida y actividades para que los estudiantes se agrupen según sus gustos y expliquen el porqué con gestos.",
+              "produccion": "Role-play: Entrevista de opinión donde el estudiante justifica por qué le gusta o no una actividad escolar usando 'I like... because it is interesting'."
+            },
+            "para_pensar": [
+              "¿Está bien que todos tengamos opiniones diferentes sobre lo que nos gusta?",
+              "¿Cómo podemos ayudar a un compañero que se siente 'sad' o 'tired'?"
+            ],
+            "pistas_del_exito": [
+              "Expresa necesidades básicas y sentimientos usando vocabulario aprendido.",
+              "Compara sus percepciones con las de sus pares usando frases sencillas."
+            ],
+            "un_refuerzo": "Tarjetas de 'Sentence Starters' (I feel..., I like...) para facilitar la estructura de la oración al hablar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Routine Detective Agency",
+            "un_reto_sugerido": "¿Puedo descubrir qué está haciendo una persona ahora mismo frente a lo que hace todos los días?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de una serie de fotografías de personas en diferentes momentos (desayunando vs. corriendo en el parque).",
+              "visual": "Reloj Comparativo: Crear un reloj doble donde un lado muestra 'Every day' (Present Simple) y el otro 'Right now' (Present Continuous) con dibujos.",
+              "produccion": "Lectura de párrafos cortos: El estudiante subraya con diferentes colores las acciones de rutina y las acciones que ocurren al momento de hablar."
+            },
+            "para_pensar": [
+              "¿Cómo cambian nuestras rutinas cuando estamos en vacaciones frente a cuando estamos en el colegio?",
+              "¿Por qué es importante organizar nuestro tiempo diario?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia entre Presente Simple y Continuo en textos cortos.",
+              "Identifica detalles específicos en descripciones de rutinas diarias."
+            ],
+            "un_refuerzo": "Juego de emparejamiento de verbos (Eat vs. Eating) con imágenes de acciones en progreso y acciones habituales."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Community Postcard Project",
+            "un_reto_sugerido": "¿Cómo puedo describir mi comunidad y a las personas que la integran usando adjetivos precisos?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata de observación por la escuela o el barrio para identificar lugares 'huge', 'tiny', 'far' o 'close'.",
+              "visual": "Mapa de Adjetivos: Dibujar un mapa de la comunidad y etiquetar cada lugar con un adjetivo descriptivo (ej. 'The park is interesting').",
+              "produccion": "Redacción de una postal: El estudiante escribe una descripción de un miembro de su comunidad y su lugar de trabajo usando preposiciones de lugar."
+            },
+            "para_pensar": [
+              "¿Qué hace que una comunidad sea 'interesting' o 'easy going'?",
+              "¿Cómo ayudan las preposiciones a dar instrucciones claras para llegar a un lugar?"
+            ],
+            "pistas_del_exito": [
+              "Usa adjetivos y preposiciones de lugar correctamente en descripciones escritas.",
+              "Escribe oraciones simples para describir personas y objetos de su entorno."
+            ],
+            "un_refuerzo": "Uso de una 'Paleta de Adjetivos' (banco de palabras visual) para enriquecer sus descripciones escritas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Story Box: Fables & Tales",
+            "un_reto_sugerido": "¿Puedo identificar las partes de una historia y su enseñanza solo con escucharla?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha de un audio-cuento con efectos de sonido para identificar el inicio ('Once upon a time') y el final.",
+              "visual": "Caja de la Narrativa: Sacar objetos de una caja que representen el inicio, nudo y desenlace de la historia escuchada.",
+              "produccion": "Mapa de la historia: El estudiante dibuja la secuencia de la historia y explica oralmente la moraleja (moral)."
+            },
+            "para_pensar": [
+              "¿Por qué las historias tienen una moraleja o enseñanza?",
+              "¿Cómo nos ayudan los sonidos a entender mejor lo que pasa en un cuento?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce elementos de la narrativa (beginning, ending) en historias cortas.",
+              "Expresa una opinión sencilla sobre la trama de un cuento."
+            ],
+            "un_refuerzo": "Uso de tarjetas de secuencia ilustradas para organizar la historia mientras se escucha de nuevo."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Storyteller's Circle",
+            "un_reto_sugerido": "¿Cómo puedo contar los detalles de una historia y describir a sus personajes?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Cadena de Historias': Cada estudiante añade una frase para construir una narrativa grupal.",
+              "visual": "Dados de Personajes: Lanzar dados con imágenes de personajes y lugares para crear y describir una escena al instante.",
+              "produccion": "Presentación oral: El estudiante cuenta un resumen de su historia favorita describiendo qué están haciendo los personajes en la ilustración."
+            },
+            "para_pensar": [
+              "¿Qué hace que un personaje sea interesante en una historia?",
+              "¿Cómo podemos usar nuestra voz y gestos para que una historia sea más emocionante?"
+            ],
+            "pistas_del_exito": [
+              "Describe detalles de una historia usando frases ensayadas.",
+              "Usa expresiones para indicar necesidades o acciones en el contexto de una narración."
+            ],
+            "un_refuerzo": "Uso de títeres para representar la historia y facilitar la fluidez oral."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Hobby & Preference Fair",
+            "un_reto_sugerido": "¿Cómo puedo identificar los pasatiempos de los demás y compararlos con los míos en un texto?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de perfiles de niños de diferentes países y sus hobbies (cooking, play soccer, listen to music).",
+              "visual": "Gráfico de Hobbies: Los estudiantes leen una lista de actividades y marcan con stickers sus preferencias, analizando la tendencia del grupo.",
+              "produccion": "Comprensión de lectura: El estudiante responde preguntas sobre un texto que describe lo que varias personas están haciendo en su tiempo libre."
+            },
+            "para_pensar": [
+              "¿Por qué es importante tener pasatiempos para nuestra salud mental?",
+              "¿Cómo influyen nuestros gustos en las amistades que elegimos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de hobbies y preferencias en textos escritos.",
+              "Relaciona ilustraciones con oraciones que describen acciones en progreso."
+            ],
+            "un_refuerzo": "Sopa de letras de hobbies donde deben asociar la palabra encontrada con un dibujo."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Sequence Master: Step by Step",
+            "un_reto_sugerido": "¿Cómo puedo organizar mis actividades diarias usando conectores de tiempo y adverbios?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de un video de una receta o manualidad para notar palabras como 'First', 'Next' y 'Finally'.",
+              "visual": "Taller de 'Slow & Quick': Realizar acciones (escribir, caminar) de forma 'slowly' o 'quickly' y escribir la experiencia.",
+              "produccion": "Escritura de rutina: Redactar un párrafo sobre su rutina diaria usando conectores de secuencia y al menos dos adverbios de modo."
+            },
+            "para_pensar": [
+              "¿Por qué es necesario seguir un orden (secuencia) al realizar una tarea importante?",
+              "¿En qué situaciones de la vida debemos actuar 'carefully' (cuidadosamente)?"
+            ],
+            "pistas_del_exito": [
+              "Usa conectores de secuencia (first, then, finally) en sus escritos.",
+              "Aplica adverbios de modo para describir cómo se realizan las acciones."
+            ],
+            "un_refuerzo": "Plantilla de escritura con los conectores ya impresos para que el estudiante complete las acciones intermedias."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Wild Habitat Expedition",
+            "un_reto_sugerido": "¿Puedo identificar animales y sus hábitats a través de sonidos y descripciones auditivas?",
+            "ruta_de_exploracion": {
+              "explorar": "Inmersión sonora: Escuchar sonidos de la selva, el océano y el bosque para identificar qué animales viven allí.",
+              "visual": "Bingo de Hábitats: Escuchar descripciones (ej. 'It is big and lives in the ocean') y marcar el animal y hábitat correcto en el tablero.",
+              "produccion": "Opinión auditiva: El estudiante escucha un mensaje sobre la protección animal y expresa si está de acuerdo usando frases simples."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con los animales si su hábitat (casa) desaparece?",
+              "¿Por qué es importante respetar el espacio de los animales salvajes?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de animales y hábitats al escucharlo.",
+              "Comprende la idea principal de un mensaje sobre la importancia de proteger la naturaleza."
+            ],
+            "un_refuerzo": "Uso de flashcards con texturas que representen el hábitat (arena para desierto, algodón para nubes/clima frío)."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Animal Expert Talk",
+            "un_reto_sugerido": "¿Cómo puedo describir a un animal y convencer a otros de la importancia de su hábitat?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de láminas de animales con características extremas (cuellos largos, colmillos, aletas).",
+              "visual": "Creación de un 'Animal Fantástico': Dibujar un animal que combine partes de otros y describir sus habilidades y hábitat ideal.",
+              "produccion": "Presentación oral: El estudiante describe un animal real usando adjetivos y explica: 'The lion lives in the savannah. It can run fast'."
+            },
+            "para_pensar": [
+              "¿Cuál es tu animal favorito y qué habilidad especial tiene que tú no tengas?",
+              "¿Cómo podemos cuidar el medio ambiente desde nuestro salón de clase?"
+            ],
+            "pistas_del_exito": [
+              "Describe animales y hábitats usando adjetivos y estructuras de 'can/can't'.",
+              "Usa expresiones cotidianas para pedir ayuda o clarificación durante su charla."
+            ],
+            "un_refuerzo": "Máscaras de animales para que el estudiante hable en primera persona ('I am an elephant, I live in...')."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Weather & Seasons Suitcase",
+            "un_reto_sugerido": "¿Cómo influye el clima y las estaciones en lo que usamos y en la cantidad de cosas que tenemos?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de un reporte del clima de diferentes ciudades del mundo en tiempo real.",
+              "visual": "Maleta de Estaciones: Clasificar prendas de vestir y objetos usando expresiones de cantidad (a lot of shirts, a few boots, some hats).",
+              "produccion": "Lectura de infografía: El estudiante lee sobre las estaciones del año y completa una tabla relacionando clima, ropa y actividades."
+            },
+            "para_pensar": [
+              "¿Por qué en algunos países hay estaciones y en otros (como Colombia) solo hay épocas de lluvia y sol?",
+              "¿Cómo afecta el clima extremo a la vida de las personas y los animales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de clima y estaciones en textos informativos.",
+              "Usa expresiones de cantidad (some, any, a lot of) correctamente al leer descripciones."
+            ],
+            "un_refuerzo": "Calendario circular de estaciones con dibujos de la vestimenta adecuada para cada una."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Talent Show Wall",
+            "un_reto_sugerido": "¿Cómo puedo documentar mis habilidades y las de mis compañeros para organizar un show de talentos?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Talent Scouter': Observar a los compañeros realizar acciones (jump, sing, draw) y tomar notas.",
+              "visual": "Muro de Habilidades: Crear un collage con fotos o dibujos de los estudiantes y escribir debajo sus capacidades usando 'Can' y 'Can't'.",
+              "produccion": "Redacción comparativa: El estudiante escribe un texto corto comparando sus habilidades con las de un amigo: 'I can swim, but he can't. He can play soccer very well'."
+            },
+            "para_pensar": [
+              "¿Por qué es valioso que cada persona tenga talentos diferentes en un equipo?",
+              "¿Qué habilidad te gustaría aprender este año y qué debes hacer para lograrlo?"
+            ],
+            "pistas_del_exito": [
+              "Escribe oraciones claras usando 'can' y 'can't' para describir habilidades.",
+              "Describe personas y comunidades usando oraciones simples y estructuras gramaticales vistas."
+            ],
+            "un_refuerzo": "Lista de chequeo de habilidades con verbos de acción para facilitar la construcción de oraciones."
+          }
+        }
+      ]
+    }
+  ]
+}

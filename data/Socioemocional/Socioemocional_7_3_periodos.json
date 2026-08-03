@@ -1,0 +1,79 @@
+{
+  "area": "Proyecto Socioemocional",
+  "grado": "7",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "competencia_anual": "Identidad, empatía y convivencia",
+        "estandar": "Identifico empatía y sus señales en interacciones escolares cotidianas",
+        "competencia": "Conciencia emocional",
+        "eje_central": "Descubro quien soy",
+        "Habilidades": [
+          "Reconocimiento de Intereses y Preferencias: Identifica y nombra sus gustos, valores y preferencias personales",
+          "Identificación de Fortalezas Personales: Reconoce sus cualidades y fortalezas para construir su autoconcepto",
+          "Afirmación de la Identidad Única: Describe positivamente lo que lo hace único y diferente de los demás"
+        ],
+        "evidencias_de_desempeno": [
+          "Reconoce cuando un compañero está triste por lenguaje corporal o tono",
+          "Nombra situaciones donde siente empatía en clase o recreo"
+        ],
+        "orientacion_bateria": "Identidad y auto conocimiento"
+      }
+    ],
+    "2": [
+      {
+        "competencia_anual": "Identidad, empatía y convivencia",
+        "estandar": "Expreso empatía verbalmente ante emociones ajenas en el aula",
+        "competencia": "Cultura del autocuidado",
+        "eje_central": "Convivo en la diversidad",
+        "Habilidades": [
+          "Valoración de la Diversidad: Valora positivamente las diferencias de pensamiento y cultura",
+          "Escucha Activa y Tolerancia: Escucha atentamente y respeta las ideas distintas de sus pares",
+          "Conducta Respetuosa e Inclusiva: Interacta con respeto e inclusión, sin importar las características"
+        ],
+        "evidencias_de_desempeno": [
+          "Dice 'veo que estás triste, ¿qué pasó?' a un compañero",
+          "Ofrece ayuda concreta cuando percibe frustración en otros"
+        ],
+        "orientacion_bateria": "Empatía y respeto"
+      }
+    ],
+    "3": [
+      {
+        "competencia_anual": "Identidad, empatía y convivencia",
+        "estandar": [
+          "Regulo mi empatía para responder adecuadamente en grupo",
+          "Identifico y activo mi empatía con autonomía en la escuela, fortaleciendo relaciones y convivencia pacífica"
+        ],
+        "competencia": [
+          "Regulación emocional",
+          "Habilidades sociales"
+        ],
+        "eje_central": [
+          "Me cuido en el mundo digital",
+          "Elijo con valentía"
+        ],
+        "Habilidades": [
+          "Gestión de la Privacidad Digital: Protege su información personal en el uso de plataformas virtuales",
+          "Conducta Responsable en Redes: Reflexiona antes de publicar y evita el ciberacoso hacia otros",
+          "Búsqueda de Ayuda ante Riesgos: Identifica a quién acudir si experimenta acoso o molestias en línea",
+          "Resistencia a la Presión de Grupo: Se niega a participar en conductas negativas por presión social",
+          "Autonomía en la Toma de Decisiones: Mantiene sus decisiones, aunque difieran de la opinión del grupo",
+          "Reflexión Ética de las Acciones: Evalúa las consecuencias antes de actuar bajo influencia externa"
+        ],
+        "evidencias_de_desempeno": [
+          "Escucha activamente sin interrumpir emociones compartidas",
+          "Propone soluciones conjuntas ante problemas emocionales grupales",
+          "Ajusta su respuesta empática según el contexto escolar",
+          "Reflexiona cómo su empatía mejora el trabajo en equipo"
+        ],
+        "orientacion_bateria": [
+          "Regulación emocional y comunicación asertiva",
+          "Convivencia y resolución pacífica de conflictos"
+        ]
+      }
+    ]
+  }
+}

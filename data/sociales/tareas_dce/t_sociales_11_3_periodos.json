@@ -1,0 +1,276 @@
+{
+"area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "11",
+  "nombre_archivo": "t_sociales_11_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Mapa de mi Consumo Global",
+            "un_reto_sugerido": "¿Cómo un producto fabricado al otro lado del mundo redefine nuestro territorio y economía local?",
+            "ruta_de_exploracion": {
+              "explorar": "Auditoría de etiquetas: Los estudiantes revisan el origen de sus zapatos, celulares y ropa para mapear la procedencia de su consumo diario.",
+              "visual": "Simulación de 'Tratado de Libre Comercio': Usar dulces o materiales escolares para representar recursos y negociar bajo reglas de aranceles y monopolios.",
+              "produccion": "Ensayo crítico sobre las tensiones entre la identidad local y el mercado global, analizando las ventajas y desventajas del Neoliberalismo en Colombia."
+            },
+            "para_pensar": [
+              "¿Es posible una globalización que respete la soberanía alimentaria de los países en desarrollo?",
+              "¿Cómo influyen los oligopolios internacionales en el precio de los productos básicos en tu barrio?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las características de la globalización y las tensiones que genera en la comunidad nacional.",
+              "Explica las consecuencias de los bloques económicos y tratados de integración para Colombia."
+            ],
+            "un_refuerzo": "Investigar qué es el 'Comercio Justo' y cómo se diferencia del modelo de apertura económica tradicional."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Tablero de Ajedrez Geopolítico",
+            "un_reto_sugerido": "¿Por qué los recursos naturales y las ideologías siguen provocando guerras y desplazamientos masivos en el siglo XXI?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de noticias internacionales sobre refugiados y diásporas actuales, identificando las causas (religión, economía, territorio).",
+              "visual": "Cartografía de Conflictos: Crear un mapa interactivo con hilos de colores que conecten las potencias mundiales con las zonas de conflicto actual (Medio Oriente, Ucrania, etc.).",
+              "produccion": "Debate argumentativo sobre las consecuencias sociales del genocidio y el desplazamiento forzado a nivel mundial."
+            },
+            "para_pensar": [
+              "¿Por qué los intereses de las grandes potencias suelen chocar con los derechos humanos de las poblaciones fronterizas?",
+              "¿Qué papel juega la religión en los conflictos geopolíticos contemporáneos?"
+            ],
+            "pistas_del_exito": [
+              "Caracteriza conflictos geopolíticos contemporáneos por disputa de recursos e ideologías.",
+              "Argumenta las consecuencias sociales del desplazamiento y el genocidio de naciones."
+            ],
+            "un_refuerzo": "Realizar una semblanza sobre la Primavera Árabe y sus repercusiones en la democracia mundial."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Cumbre por la Supervivencia",
+            "un_reto_sugerido": "¿Por qué los países más industrializados son los que más se resisten a cumplir los protocolos ambientales?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de datos de emisiones de CO2 por país y comparación con los compromisos firmados en la Agenda 2030.",
+              "visual": "Simulacro de 'Cumbre de la Tierra': Los estudiantes representan a diferentes naciones (potencias vs. países en desarrollo) para negociar límites de emisión.",
+              "produccion": "Propuesta técnica de acciones locales para disminuir el efecto invernadero, alineada con las sugerencias de organizaciones ambientales colombianas."
+            },
+            "para_pensar": [
+              "¿Es justo que los países en desarrollo limiten su crecimiento industrial para salvar el planeta si las potencias no lo hacen?",
+              "¿Cómo afecta el calentamiento global la demografía y las migraciones en el mundo actual?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las propuestas de la ONU y los protocolos ambientales para frenar el cambio climático.",
+              "Explica las razones políticas y económicas que dificultan el cambio de prácticas industriales."
+            ],
+            "un_refuerzo": "Crear un podcast breve sobre el impacto del efecto invernadero en los glaciares colombianos."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Auditores del Bien Público",
+            "un_reto_sugerido": "¿Cómo la corrupción y el mal uso de los bienes públicos destruyen la confianza en la democracia?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en el colegio o barrio un 'bien público' (parque, biblioteca, pupitres) y evaluar su estado actual de conservación.",
+              "visual": "Taller de 'Vigilancia Ciudadana': Crear un formato de seguimiento para monitorear la gestión de los representantes escolares o locales.",
+              "produccion": "Diseño de una campaña de transparencia y honestidad para prevenir actos de corrupción en la institución educativa."
+            },
+            "para_pensar": [
+              "¿Por qué el daño a un bien público nos afecta a todos económicamente?",
+              "¿Cómo la empatía hacia los grupos vulnerables puede motivar la participación política pacífica?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los principios de empatía y solidaridad como base de la convivencia.",
+              "Diseña estrategias de vigilancia del uso de bienes públicos para prevenir la corrupción."
+            ],
+            "un_refuerzo": "Investigar un caso de corrupción famoso en Colombia y proponer qué mecanismos ciudadanos pudieron haberlo evitado."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Soberanía en el Plato",
+            "un_reto_sugerido": "¿Qué riesgos corremos como humanidad al depender de productos transgénicos y monocultivos?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de etiquetas de alimentos procesados para identificar derivados de maíz o soya transgénica y debatir sobre la desertización del suelo.",
+              "visual": "Laboratorio de Desarrollo Sostenible: Crear un modelo de huerta vertical o sistema de compostaje para proponer alternativas al uso intensivo de la tierra.",
+              "produccion": "Plan de acción institucional para mitigar los efectos del calentamiento global desde el consumo responsable de alimentos."
+            },
+            "para_pensar": [
+              "¿Es el desarrollo sostenible una realidad posible o una utopía económica?",
+              "¿Cómo afecta la desertización el derecho humano a una alimentación suficiente?"
+            ],
+            "pistas_del_exito": [
+              "Propone acciones para disminuir las causas y efectos del calentamiento global.",
+              "Analiza críticamente los factores que ponen en riesgo la alimentación sana."
+            ],
+            "un_refuerzo": "Investigar la diferencia entre seguridad alimentaria y soberanía alimentaria."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Cortina de Hierro en los Andes",
+            "un_reto_sugerido": "¿Cómo la rivalidad entre EE.UU. y la URSS definió las dictaduras y revoluciones en América Latina?",
+            "ruta_de_exploracion": {
+              "explorar": "Visualización de propaganda de la Guerra Fría (Capitalista vs. Comunista) y análisis de sus mensajes ideológicos.",
+              "visual": "Línea de tiempo comparativa: Relacionar hitos de la Guerra Fría mundial con eventos en Latinoamérica (Revolución Cubana, Plan Cóndor).",
+              "produccion": "Análisis sobre las implicaciones de la amenaza nuclear en la vida cotidiana de los pueblos durante el siglo XX."
+            },
+            "para_pensar": [
+              "¿Por qué América Latina se convirtió en un escenario de guerra por delegación (proxy wars) durante el siglo XX?",
+              "¿Qué herencias ideológicas de la Guerra Fría persisten en la política colombiana actual?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce las características de los bloques hegemónicos (Capitalista-Comunista).",
+              "Explica las implicaciones de pertenecer a un bloque en la vida cotidiana de los pueblos."
+            ],
+            "un_refuerzo": "Ver un documental sobre la crisis de los misiles y reflexionar sobre la fragilidad de la paz mundial."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Dictaduras y Democracia",
+            "un_reto_sugerido": "¿Cómo el intervencionismo extranjero afectó la construcción de la democracia en nuestro continente?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de testimonios de víctimas de dictaduras latinoamericanas para identificar patrones de violación de derechos humanos.",
+              "visual": "Mapa del Intervencionismo: Ubicar los países que sufrieron golpes de Estado apoyados por potencias extranjeras y sus consecuencias económicas.",
+              "produccion": "Ensayo argumentativo sobre las tensiones mundiales actuales derivadas de la posesión de armas de destrucción masiva."
+            },
+            "para_pensar": [
+              "¿Es justificable el intervencionismo de una potencia para 'proteger' la democracia de otro país?",
+              "¿Qué diferencia hay entre una revolución popular y un golpe de Estado militar?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta las repercusiones de la Guerra Fría en Latinoamérica (dictaduras, guerrillas).",
+              "Plantea argumentos sobre las amenazas actuales de armas de destrucción masiva."
+            ],
+            "un_refuerzo": "Investigar qué fue la 'Doctrina de Seguridad Nacional' y su impacto en las libertades civiles."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Laboratorio de Justicia y Paz",
+            "un_reto_sugerido": "¿Cómo resolver dilemas donde el bien general choca con el interés particular de un ciudadano?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos de 'Justicia de Paz' en comunidades rurales colombianas para entender la resolución alternativa de conflictos.",
+              "visual": "Simulacro de Mediación: Representar un conflicto vecinal o escolar y usar centros de conciliación o jueces de paz para resolverlo.",
+              "produccion": "Manual de resolución pacífica de conflictos para el colegio, integrando mecanismos jurídicos ordinarios y alternativos."
+            },
+            "para_pensar": [
+              "¿Por qué el Estado debe tener el monopolio del uso de la fuerza y la administración de justicia?",
+              "¿Qué sucede cuando la sociedad civil deja de hacer seguimiento crítico a los abusos de autoridad?"
+            ],
+            "pistas_del_exito": [
+              "Identifica funciones de comisarías de familia, jueces de paz y centros de conciliación.",
+              "Analiza dilemas éticos proponiendo soluciones que equilibren el bien común y el particular."
+            ],
+            "un_refuerzo": "Visitar virtualmente una Casa de Justicia para conocer los servicios de mediación gratuita."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cinturones de Realidad",
+            "un_reto_sugerido": "¿Por qué el crecimiento económico desigual genera 'cinturones de miseria' en las ciudades colombianas?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis demográfico de las ciudades con mayor índice de recepción de desplazados en Colombia y su impacto urbano.",
+              "visual": "Gráfica de Desigualdad: Comparar indicadores de IDH (salud, educación) entre las regiones más ricas y las más pobres del país.",
+              "produccion": "Propuesta de desarrollo regional para una zona con bajo IDH, justificando acciones de inversión pública y social."
+            },
+            "para_pensar": [
+              "¿Cómo el abandono del campo afecta la seguridad alimentaria de las ciudades?",
+              "¿Qué acciones pueden cerrar la brecha de desigualdad entre el centro y la periferia del país?"
+            ],
+            "pistas_del_exito": [
+              "Compara características de zonas con alto crecimiento económico frente a las de menor desarrollo.",
+              "Explica el impacto social de la concentración de población en centros urbanos."
+            ],
+            "un_refuerzo": "Realizar una cartografía social del barrio identificando zonas de vulnerabilidad económica."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Dilemas de la Diversidad",
+            "un_reto_sugerido": "¿Cómo podemos superar los prejuicios históricos para lograr una verdadera inclusión social?",
+            "ruta_de_exploracion": {
+              "explorar": "Test de prejuicios implícitos: Identificar estereotipos sobre grupos étnicos, mujeres o comunidad LGBTI en medios de comunicación.",
+              "visual": "Taller de Interculturalidad: Crear un 'Mosaico de Identidades' donde se reconozcan las luchas históricas de los grupos étnicos en Colombia.",
+              "produccion": "Debate sobre dilemas culturales donde los valores de diferentes grupos entran en conflicto, buscando argumentos de respeto universal."
+            },
+            "para_pensar": [
+              "¿Por qué la empatía es una herramienta política contra la discriminación?",
+              "¿Cuál es la diferencia entre multiculturalismo (vivir juntos) e interculturalidad (aprender juntos)?"
+            ],
+            "pistas_del_exito": [
+              "Identifica prejuicios y estereotipos que dificultan la empatía hacia otros grupos.",
+              "Usa mecanismos democráticos para rechazar toda forma de exclusión social."
+            ],
+            "un_refuerzo": "Investigar la historia del voto femenino en Colombia y su impacto en el desarrollo político."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de la Verdad y la Paz",
+            "un_reto_sugerido": "¿Por qué la justicia restaurativa (JEP) es más efectiva que la justicia tradicional para cerrar un conflicto armado?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de los diálogos de La Habana y los pilares del Sistema Integral de Verdad, Justicia, Reparación y No Repetición.",
+              "visual": "Simulacro de audiencia de la JEP: Representar el proceso donde se prioriza la verdad de las víctimas y la reparación del daño.",
+              "produccion": "Manifiesto por la Paz como deber ético y constitucional, explicando la estructura de las ramas del poder y organismos de control."
+            },
+            "para_pensar": [
+              "¿Es posible el perdón social sin una reparación material a las víctimas?",
+              "¿Por qué conocer las funciones de la Procuraduría y la Defensoría es vital para un ciudadano en paz?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa la importancia de la solución negociada de conflictos para la búsqueda de la paz.",
+              "Describe las implicaciones de la justicia, la verdad y el perdón en los procesos de paz."
+            ],
+            "un_refuerzo": "Ver un fragmento de un testimonio ante la Comisión de la Verdad y reflexionar sobre el valor de la memoria."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Debate de Valores en Conflicto",
+            "un_reto_sugerido": "¿Cómo defender mis argumentos sin invalidar la dignidad de quienes piensan diferente?",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar dilemas sociales actuales (ej. eutanasia, medio ambiente vs. empleo) y analizar las posturas éticas de cada bando.",
+              "visual": "Círculo de Diálogo: Practicar la escucha empática ante propuestas políticas opuestas a las propias, identificando puntos de encuentro.",
+              "produccion": "Ensayo sobre la superación de estereotipos culturales para fortalecer la convivencia en una sociedad pluriétnica."
+            },
+            "para_pensar": [
+              "¿Por qué es legítimo disentir en una democracia y cómo hacerlo sin violencia?",
+              "¿Qué emociones te impiden sentir empatía por ciertos grupos sociales y cómo superarlas?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce prejuicios históricos que han afectado a grupos sociales en Colombia.",
+              "Participa en debates valorando los mejores argumentos aunque no coincidan con los propios."
+            ],
+            "un_refuerzo": "Crear una campaña digital de 'Cero Estereotipos' para las redes sociales del colegio."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

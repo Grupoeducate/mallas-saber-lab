@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "3",
+  "nombre_archivo": "t_ciencias_sociales_3_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Capitanes del Gran Azul",
+            "un_reto_sugerido": "Crear un 'Mapa de Navegación' que ubique los continentes y explique por qué los puertos son importantes para que lleguen productos a nuestra mesa.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un juego de 'Barcos y Puertos' donde los estudiantes deban transportar fichas (productos) de un lado a otro del salón evitando obstáculos.",
+              "visual": "Dibujar un mapamundi coloreando los cinco océanos y señalando con íconos las actividades de las zonas costeras (pesca, turismo, barcos).",
+              "produccion": "Construir una maqueta sencilla de un puerto marítimo usando materiales reciclados, destacando los límites entre mar y tierra."
+            },
+            "para_pensar": [
+              "¿Qué cosas de las que usamos todos los días llegaron a nosotros cruzando los océanos?",
+              "¿Por qué los países necesitan ponerse de acuerdo sobre dónde termina su pedazo de mar?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente los nombres de los continentes y océanos.",
+              "Explica la diferencia básica entre un mar y un océano."
+            ],
+            "un_refuerzo": "Video corto sobre la vida de los pescadores artesanales y cómo cuidan el mar."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Cofre de los Recuerdos Regionales",
+            "un_reto_sugerido": "Organizar una 'Feria de Tradiciones' donde se rescaten las recetas y fiestas más importantes de nuestro departamento.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un relato grabado de un abuelo sobre cómo era el municipio hace muchos años y qué herramientas usaban.",
+              "visual": "Crear un álbum de 'Postales de Mi Tierra' con dibujos de las fiestas típicas y los platos de comida regional.",
+              "produccion": "Realizar una demostración de una costumbre familiar (canción, receta o dicho) frente a sus compañeros."
+            },
+            "para_pensar": [
+              "¿Por qué las fiestas de nuestro municipio son diferentes a las de otros lugares?",
+              "¿Qué pasaría con la historia de nuestro pueblo si no escucháramos los relatos de los abuelos?"
+            ],
+            "pistas_del_exito": [
+              "Describe al menos dos costumbres que lo identifican con su región.",
+              "Compara el propósito de dos fiestas diferentes de su departamento."
+            ],
+            "un_refuerzo": "Lectura dirigida de un mito o leyenda tradicional de la región."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Escuela de Pequeños Gobernantes",
+            "un_reto_sugerido": "Diseñar una campaña electoral creativa para el cargo de Personero Estudiantil con propuestas reales para mejorar el recreo.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una lluvia de ideas sobre qué cosas les gustaría cambiar o mejorar en su escuela hoy mismo.",
+              "visual": "Elaborar un cuadro comparativo con las propuestas de los candidatos actuales o anteriores al gobierno escolar.",
+              "produccion": "Simulacro de votación con tarjetones diseñados por ellos, siguiendo todos los pasos de una elección democrática."
+            },
+            "para_pensar": [
+              "¿Por qué es importante votar por las mejores ideas y no solo por nuestros amigos?",
+              "¿Qué hace un Personero Estudiantil por nosotros durante todo el año?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el papel de los representantes y del consejo estudiantil.",
+              "Explica cómo se organiza el consejo directivo de su escuela."
+            ],
+            "un_refuerzo": "Invitar al personero actual del colegio para que cuente su experiencia de liderazgo."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Taller de Reparación de Acuerdos",
+            "un_reto_sugerido": "Crear un 'Manual de Acciones Reparadoras' para solucionar problemas de convivencia en el salón de forma creativa.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar situaciones donde alguien rompió una regla (ej: rayar un pupitre) y pensar cómo se puede arreglar el daño sin castigos.",
+              "visual": "Crear el 'Mural de la Cooperación' donde cada mano dibujada represente una norma que nos ayuda a cumplir metas.",
+              "produccion": "Dramatización de un conflicto donde las partes logran un acuerdo reparador que beneficia a todos."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando logras enmendar un error que cometiste con un amigo?",
+              "¿Por qué trabajar en equipo nos ayuda a terminar las tareas más rápido y mejor?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el sentido de una acción reparadora frente a una falta.",
+              "Colabora activamente en el logro de metas comunes del salón."
+            ],
+            "un_refuerzo": "Juego de mesa cooperativo donde se necesite cumplir normas para que todos ganen."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Costa",
+            "un_reto_sugerido": "Diseñar un plan de emergencia para proteger a las poblaciones costeras de un problema ambiental como la contaminación por plásticos.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un experimento sencillo de 'petróleo en el agua' (usando aceite y agua) para ver qué tan difícil es limpiar el mar.",
+              "visual": "Mapa de Colombia resaltando los departamentos que tienen costa y aquellos que no la tienen, como el propio.",
+              "produccion": "Cartelera informativa con tres ventajas y tres desventajas de vivir cerca del océano."
+            },
+            "para_pensar": [
+              "¿Qué le pasa a la comida de mar si los océanos están muy contaminados?",
+              "¿Cómo afecta el clima de nuestro municipio el hecho de estar lejos o cerca del mar?"
+            ],
+            "pistas_del_exito": [
+              "Plantea preguntas críticas sobre problemas ambientales marinos.",
+              "Reconoce si su departamento tiene salida al mar o no."
+            ],
+            "un_refuerzo": "Documental breve sobre los arrecifes de coral y su importancia."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Mi Agenda de Súper-Tiempo",
+            "un_reto_sugerido": "Crear un 'Reloj de Actividades' que organice el tiempo de estudio, juego y familia de manera equilibrada.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer un listado de lo que hicieron ayer desde que se levantaron hasta que se durmieron y ver en qué gastaron más tiempo.",
+              "visual": "Diseñar un calendario creativo del mes actual marcando las fechas especiales de la familia y el colegio.",
+              "produccion": "Elaborar un esquema del 'Tiempo de un Producto' (ej: cuánto tarda en crecer un tomate y llegar al mercado)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante tener un horario para estudiar y otro para jugar?",
+              "¿En qué se diferencia el uso de tu tiempo este año comparado con el año pasado?"
+            ],
+            "pistas_del_exito": [
+              "Organiza actividades familiares y personales usando el calendario.",
+              "Describe la distribución del tiempo en una actividad económica regional."
+            ],
+            "un_refuerzo": "Taller de 'Agenda Infantil' con colores para organizar las tareas de la semana."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Expedición por la Gobernación",
+            "un_reto_sugerido": "Mapear los servicios que ofrece la Gobernación (salud, carreteras, parques) y cómo benefician a los niños del departamento.",
+            "ruta_de_exploracion": {
+              "explorar": "Buscar fotos de la alcaldía del municipio y de la gobernación del departamento e identificar sus diferencias.",
+              "visual": "Diagrama de cargos: Gobernador (Departamento) vs Alcalde (Municipio), con sus funciones principales.",
+              "produccion": "Escribir una carta al Gobernador sugiriendo una mejora para los parques o escuelas de su zona."
+            },
+            "para_pensar": [
+              "¿Quién se encarga de arreglar las carreteras que unen a dos ciudades diferentes?",
+              "¿Por qué el Gobernador necesita a los Diputados para tomar decisiones?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las funciones del poder departamental del municipal.",
+              "Explica la importancia del gobierno departamental en la educación y salud."
+            ],
+            "un_refuerzo": "Sopa de letras con los términos: Gobernador, Asamblea, Diputado y Ordenanza."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Escudo del Buen Trato",
+            "un_reto_sugerido": "Crear un 'Semáforo del Diálogo' para identificar cuándo estamos escuchando bien y cuándo necesitamos detenernos para respirar.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego del 'Teléfono Roto' para ver qué pasa cuando no respetamos la palabra de los demás al hablar.",
+              "visual": "Dibujar el 'Árbol de la Empatía': las raíces son el buen trato y los frutos son amigos felices.",
+              "produccion": "Acuerdo de convivencia para el recreo donde se utilicen reglas básicas de escucha activa."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien te interrumpe cuando estás contando algo importante?",
+              "¿Qué palabras mágicas pueden detener un maltrato durante un juego?"
+            ],
+            "pistas_del_exito": [
+              "Aplica normas de buen trato en juegos escolares.",
+              "Utiliza la escucha activa en situaciones de desacuerdo cotidiano."
+            ],
+            "un_refuerzo": "Lectura de un cuento sobre la importancia de ponerse en el lugar del otro."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mercado de Sabores y Climas",
+            "un_reto_sugerido": "Investigar qué productos se cultivan en su municipio y explicar cómo el clima ayuda a que crezcan.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una 'Cata de Frutas' local identificando cuáles se dan en tierra caliente y cuáles en tierra fría.",
+              "visual": "Mapa de recursos naturales de la región usando dibujos (vacas para ganadería, plantas para agricultura).",
+              "produccion": "Diseñar un cartel que valore el trabajo de los campesinos que producen los alimentos que no se dan en nuestro clima."
+            },
+            "para_pensar": [
+              "¿Por qué en los lugares muy fríos no se pueden sembrar bananos?",
+              "¿Qué organizaciones ayudan a que los recursos naturales no se acaben en nuestro departamento?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los recursos naturales (suelo, agua, fauna) de su región.",
+              "Describe una forma de organización económica para explotar recursos (empresa o asociación)."
+            ],
+            "un_refuerzo": "Visita virtual o real a una finca o huerta escolar cercana."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Gente de Muchos Colores",
+            "un_reto_sugerido": "Crear un mural con las expresiones culturales (bailes, trajes, palabras) de los grupos humanos que viven en el departamento.",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en el grupo si hay compañeros que vienen de otras regiones o grupos étnicos y escuchar sus historias.",
+              "visual": "Dibujar personajes que representen la diversidad: afrodescendientes, indígenas, mestizos y blancos de la región.",
+              "produccion": "Presentar un objeto o prenda que represente a un grupo étnico estudiado y explicar su significado."
+            },
+            "para_pensar": [
+              "¿Cómo se saludan o qué comen los diferentes grupos humanos que viven cerca de nosotros?",
+              "¿Por qué es importante respetar los rasgos físicos y culturales de todas las personas?"
+            ],
+            "pistas_del_exito": [
+              "Caracteriza al menos tres grupos humanos que habitan en su región.",
+              "Describe expresiones culturales propias de su municipio o resguardo."
+            ],
+            "un_refuerzo": "Escuchar música tradicional de diferentes grupos étnicos de Colombia."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Observadores de Elecciones",
+            "un_reto_sugerido": "Escribir un reporte sobre cómo se eligen los líderes en el departamento y qué problemas pueden ocurrir si no se hace honestamente.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a los padres sobre qué tienen en cuenta ellos para elegir a un representante político.",
+              "visual": "Collage con recortes de periódicos sobre elecciones y problemáticas sociales actuales.",
+              "produccion": "Debate escolar: '¿Qué pasaría si solo una persona eligiera a todos los gobernantes del departamento?'."
+            },
+            "para_pensar": [
+              "¿Por qué es un deber ciudadano informarse bien antes de las elecciones?",
+              "¿Qué problemas sociales ves en tu barrio que el gobierno debería intentar resolver?"
+            ],
+            "pistas_del_exito": [
+              "Emite opiniones argumentadas sobre los procesos de elección regional.",
+              "Identifica al menos una problemática social de su entorno cercano."
+            ],
+            "un_refuerzo": "Juego de rol: 'Candidatos por un día', presentando propuestas para resolver un problema del barrio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Campaña: 'Todos Somos Parte'",
+            "un_reto_sugerido": "Diseñar un cartel publicitario que invite a la inclusión y prohíba la discriminación en el salón de clases.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica 'El círculo de exclusión': experimentar brevemente cómo se siente ser dejado fuera de un juego y luego ser aceptado.",
+              "visual": "Cuadro de sentimientos: 'Cómo me siento cuando me discriminan' vs 'Cómo me siento cuando me aceptan'.",
+              "produccion": "Creación de un 'Decálogo de Inclusión' con reglas para que todos se sientan bienvenidos en el grupo."
+            },
+            "para_pensar": [
+              "¿Por qué a veces nos cuesta aceptar a personas que son diferentes a nosotros?",
+              "¿Qué palabras respetuosas puedes usar para decirle a alguien que no debe excluir a otros?"
+            ],
+            "pistas_del_exito": [
+              "Manifiesta desagrado ante actos de exclusión de forma respetuosa.",
+              "Participa activamente en campañas escolares contra la discriminación."
+            ],
+            "un_refuerzo": "Video pedagógico sobre la igualdad de derechos para todos los niños del mundo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Detectives del Territorio en Transformación",
+            "un_reto_sugerido": "Realizar una comparación fotográfica o de dibujos de cómo era la plaza del pueblo hace 20 años y cómo es hoy con las nuevas obras.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer un listado de las obras públicas nuevas (puentes, parques, escuelas) que han visto en su municipio últimamente.",
+              "visual": "Dibujar un mapa del barrio señalando dónde han ocurrido cambios debido a la construcción de edificios o carreteras.",
+              "produccion": "Exposición sobre cómo el aumento de personas en el municipio ha afectado el uso de los recursos naturales (agua, bosques)."
+            },
+            "para_pensar": [
+              "¿Las carreteras nuevas siempre son buenas para la naturaleza? ¿Por qué?",
+              "¿Qué pasa cuando llega mucha gente nueva a vivir a un resguardo o municipio pequeño?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce cambios y permanencias en espacios públicos como el mercado.",
+              "Diferencia cambios territoriales causados por obras públicas específicas."
+            ],
+            "un_refuerzo": "Taller de dibujo: 'Mi municipio en el futuro', imaginando cambios positivos."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Legado de Nuestros Ancestros",
+            "un_reto_sugerido": "Investigar la situación actual de una comunidad indígena del departamento y proponer una forma de ayudar a conservar su cultura.",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar palabras de origen indígena que usamos a diario (ej: tinto, guandul, canoa) y su significado.",
+              "visual": "Crear un collage que represente los aportes de los diferentes grupos humanos (música, comida, arte) a Colombia.",
+              "produccion": "Escribir una conclusión o carta sobre por qué es importante proteger el territorio de los indígenas hoy."
+            },
+            "para_pensar": [
+              "¿Qué cosas de tu vida diaria crees que vienen de la cultura indígena?",
+              "¿Por qué es una riqueza para Colombia tener tantos grupos étnicos diferentes?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la diversidad cultural como una característica del pueblo colombiano.",
+              "Elabora conclusiones sobre la situación social de los indígenas en su región."
+            ],
+            "un_refuerzo": "Relato de un cuento indígena sobre la naturaleza."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Pacto por la Convivencia Departamental",
+            "un_reto_sugerido": "Proponer tres acciones que las instituciones del departamento podrían hacer para que todos los niños vivan en paz.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Qué necesitamos los niños para estar seguros en nuestra comunidad? (Derechos y deberes).",
+              "visual": "Mural de 'Manos por la Paz' con los derechos y deberes que debemos cumplir en el barrio.",
+              "produccion": "Diseñar un póster que explique cómo las instituciones departamentales nos ayudan a vivir mejor."
+            },
+            "para_pensar": [
+              "¿Qué responsabilidad tienes tú para que la convivencia en tu comunidad sea tranquila?",
+              "¿Cómo pueden los gobernantes ayudarnos a que no haya violencia en las escuelas?"
+            ],
+            "pistas_del_exito": [
+              "Propone acciones institucionales para fortalecer la paz.",
+              "Identifica derechos y deberes dentro de las comunidades a las que pertenece."
+            ],
+            "un_refuerzo": "Lectura sobre el papel de la Defensoría del Pueblo en el departamento."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Vida y la Vía",
+            "un_reto_sugerido": "Crear un 'Circuito de Seguridad' que enseñe las normas de tránsito básicas y el respeto por los seres vivos del entorno.",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar las señales de tránsito que hay camino al colegio y jugar a decir qué significa cada color y forma.",
+              "visual": "Dibujar el 'Mapa del Buen Trato Animal': cómo cuidar a las mascotas y plantas del barrio.",
+              "produccion": "Realizar una patrulla escolar simbólica para verificar que no haya basuras y que las plantas estén cuidadas."
+            },
+            "para_pensar": [
+              "¿Por qué respetar un semáforo también es una forma de cuidar la vida de los demás?",
+              "¿Cómo se siente un animal o una planta cuando recibe un trato cariñoso y cuidado?"
+            ],
+            "pistas_del_exito": [
+              "Aplica estrategias de resolución pacífica de conflictos con sus pares.",
+              "Identifica las señales de tránsito fundamentales para su seguridad."
+            ],
+            "un_refuerzo": "Taller de siembra de una planta pequeña y compromiso de cuidado diario."
+          }
+        }
+      ]
+    }
+  ]
+}

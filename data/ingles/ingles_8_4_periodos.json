@@ -6,8 +6,10 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico. Para esto, se ha preparado previamente y se ha asesorado con sus compañeros y profesor."
         ],
@@ -27,8 +29,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas académicos del entorno escolar y de interés general, a través de conversaciones sencillas, diálogos y juego de roles. En estas conversaciones, puede expresar opiniones de manera sencilla a partir de modelos previamente estudiados."
         ],
@@ -47,8 +51,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad y tiene en cuenta: hechos relevantes, detalles concretos y vocabulario específico.",
           "Expresa sus emociones y sentimientos sobre una situación o tema específico de su entorno familiar o escolar, presentando sus razones de forma clara y sencilla."
@@ -71,8 +77,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce información específica en textos cortos orales y escritos sobre temas de interés general. Para esto, utiliza diferentes estrategias de lectura: pre-visualización, predicción e identificación del sentido general del texto (skimming)."
         ],
@@ -108,8 +116,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Explica por escrito, de forma coherente y sencilla, situaciones y hechos que le son familiares. Puede establecer relaciones de adición, de secuencia, causa y efecto; y comparaciones sencillas.",
           "Narra brevemente hechos actuales, situaciones cotidianas o sus experiencias propias, en forma oral o escrita."
@@ -137,8 +147,10 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Hace exposiciones breves sobre un tema académico relacionado con su entorno escolar o su comunidad."
         ],
@@ -156,8 +168,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas académicos."
         ],
@@ -173,8 +187,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Hace exposiciones breves.",
           "Expresa emociones y sentimientos."
@@ -196,8 +212,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce información específica en textos cortos."
         ],
@@ -219,8 +237,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Narra brevemente hechos actuales.",
           "Explica por escrito situaciones familiares."
@@ -243,8 +263,10 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Hace exposiciones breves sobre temas académicos."
         ],
@@ -261,8 +283,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas académicos."
         ],
@@ -279,8 +303,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa sus emociones y sentimientos."
         ],
@@ -299,8 +325,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce información específica en textos cortos."
         ],
@@ -320,8 +348,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Explica por escrito situaciones familiares.",
           "Narra brevemente hechos actuales."
@@ -344,8 +374,10 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Hace exposiciones breves sobre temas académicos."
         ],
@@ -364,8 +396,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Intercambia información sobre temas académicos."
         ],
@@ -382,8 +416,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Expresa emociones y sentimientos."
         ],
@@ -403,8 +439,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Reconoce información específica en textos escritos."
         ],
@@ -422,8 +460,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Explica por escrito situaciones y hechos.",
           "Narra brevemente hechos actuales."

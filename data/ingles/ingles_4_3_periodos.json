@@ -1,0 +1,525 @@
+{
+  "area": "Inglés",
+  "grado": 4,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+          "(Evidencia) Identifico la secuencia de las acciones y las asocio con los momentos del día, cuando alguien describe su rutina diaria.",
+          "(Saber Conocer) Identifica vocabulario básico de información personal, acciones cotidianas, momentos del día (morning, afternoon, evening)",
+          "(Saber Conocer) Reconoce números hasta 1000.",
+          "(Saber Conocer) Interpreta preguntas y formula respuestas relacionadas con información personal y rutinas diarias.",
+          "(Saber Hacer) Usa el vocabulario y las estructuras gramaticales para describir su rutina diaria, incluyendo la secuencia de acciones y los momentos del día.",
+          "(Saber Aplicar) Compara su rutina diaria con la de otros compañeros, identificando similitudes y diferencias."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Números hasta el mil.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones, Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Disculpas simples y corteses.",
+          "Características de objetos.",
+          "Gustos y preferencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Expreso en una palabra o frase corta, cómo me siento. Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido.",
+          "Compara características básicas de personas, objetos y lugares de su escuela y comunidad, a través de oraciones simples"
+        ],
+        "evidencias": [
+          "(Evidencia) Respondo a preguntas personales como nombre, edad, nacionalidad y dirección, con apoyo de repeticiones cuando sea necesario.",
+          "(Evidencia) Puedo saludar de acuerdo con la hora del día, de forma natural y apropiada.",
+          "(Evidencia) Saludo cortésmente de acuerdo con la edad y rango del interlocutor.",
+          "(Evidencia) Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+          "(Evidencia) Pregunto y respondo sobre las características físicas de objetos familiares.",
+          "(Evidencia) Deletreo palabras que me son conocidas.",
+          "(Evidencia) Puedo hablar de cantidades y contar objetos hasta mil.",
+          "(Evidencia) Respondo preguntas sobre mis gustos y preferencias."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Números hasta el mil.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones, Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Disculpas simples y corteses.",
+          "Características de objetos.",
+          "Gustos y preferencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Identifico elementos culturales como nombres propios y lugares, en textos sencillos.",
+        "dba": [
+          "Comprende la idea general y algunos detalles en un texto informativo corto y sencillo sobre temas conocidos y de interés."
+        ],
+        "evidencias": [
+          "(Evidencia) Asocio un dibujo con su descripción escrita.",
+          "(Evidencia) Comprendo descripciones cortas sobre personas, lugares y acciones conocidas.",
+          "(Evidencia) Ubico en un texto corto los lugares y momentos en que suceden las acciones.",
+          "(Evidencia) Identifico las acciones en una secuencia corta de eventos.",
+          "(Evidencia) Leo y entiendo textos auténticos y sencillos sobre acontecimientos concretos asociados a tradiciones culturales que conozco (cumpleaños, navidad, etc.).",
+          "(Evidencia) Reconozco, en un texto narrativo corto, aspectos como qué, quién, cuándo y dónde.",
+          "(Saber Conocer) Identifica vocabulario básico para describir personas, lugares y acciones.",
+          "(Saber Conocer) Nombra preposiciones de lugar (in, on, at, next to).",
+          "(Saber Conocer) Reconoce adverbios de tiempo (now, then, yesterday, tomorrow)",
+          "(Saber Hacer) Interpreta descripciones cortas de personas, lugares y acciones.",
+          "(Saber Hacer) Identifica la ubicación y el momento en que se desarrollan las acciones.",
+          "(Saber Aplicar) Compara y contrasta descripciones de diferentes personas, lugares o acciones."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Números hasta el mil.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones, Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Disculpas simples y corteses.",
+          "Características de objetos.",
+          "Gustos y preferencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo sobre temas de mi interés.",
+        "dba": [
+          "Intercambia opiniones sencillas sobre un tema de interés, a través de oraciones simples y conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Escribo descripciones y narraciones cortas basadas en una secuencia de ilustraciones.",
+          "(Evidencia) Describo los rasgos personales de gente de mi entorno.",
+          "(Evidencia) Enlazo frases y oraciones usando conectores que expresan secuencia y adición.",
+          "(Evidencia) Uso adecuadamente estructuras y patrones gramaticales de uso frecuente.",
+          "(Evidencia) Verifico la ortografía de las palabras que escribo con frecuencia",
+          "(Saber Conocer) Conectores de secuencia (first, then, next, finally). Vocabulario para expresar opiniones (I think, I like, I don't like).",
+          "(Saber Hacer) Comprender: Interpreta el orden de eventos en una narración.",
+          "(Saber Hacer) Aplicar: Usa conectores de secuencia para narrar eventos.",
+          "(Saber Hacer) Aplicar: Expresa su opinión de forma simple y clara.",
+          "(Saber Aplicar) Analizar: Identifica la relación causa-efecto entre diferentes eventos en una narración.",
+          "(Saber Aplicar) Crear: Crea su propia narración breve con secuencia lógica de eventos."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Números hasta el mil.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones, Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Disculpas simples y corteses.",
+          "Características de objetos.",
+          "Gustos y preferencias."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+          "(Evidencia) Identifico la secuencia de las acciones y las asocio con los momentos del día, cuando alguien describe su rutina diaria.",
+          "(Saber Conocer) Reconoce vocabulario para describir características físicas (tall, short, hair colour, eye colour) y expresiones para describir gustos y preferencias (I like, I love, I prefer, my favourite).",
+          "(Saber Hacer) Interpreta preguntas y respuestas sobre gustos y preferencias.",
+          "(Saber Hacer) Usa el vocabulario para describir la apariencia física de personas conocidas.",
+          "(Saber Hacer) Expresa sus propios gustos y preferencias.",
+          "(Saber Aplicar) Compara sus preferencias con las de otros compañeros, identificando similitudes y diferencias.",
+          "(Saber Aplicar) Justifica sus preferencias por ciertos hobbies o actividades."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Características de objetos.",
+          "Gustos y preferencias",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Expreso en una palabra o frase corta, cómo me siento. Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido.",
+          "Intercambia opiniones sencillas sobre un tema de interés, a través de oraciones simples y conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Respondo a preguntas personales como nombre, edad, nacionalidad y dirección, con apoyo de repeticiones cuando sea necesario.",
+          "(Evidencia) Puedo saludar de acuerdo con la hora del día, de forma natural y apropiada.",
+          "(Evidencia) Saludo cortésmente de acuerdo con la edad y rango del interlocutor.",
+          "(Evidencia) Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+          "(Evidencia) Respondo preguntas sobre mis gustos y preferencias."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Características de objetos.",
+          "Gustos y preferencias",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Identifico elementos culturales como nombres propios y lugares, en textos sencillos.",
+        "dba": [
+          "Comprende la idea general y algunos detalles en un texto informativo corto y sencillo sobre temas conocidos y de interés."
+        ],
+        "evidencias": [
+          "(Evidencia) Asocio un dibujo con su descripción escrita.",
+          "(Evidencia) Comprendo descripciones cortas sobre personas, lugares y acciones conocidas.",
+          "(Evidencia) Ubico en un texto corto los lugares y momentos en que suceden las acciones.",
+          "(Evidencia) Leo y entiendo textos auténticos y sencillos sobre acontecimientos concretos asociados a tradiciones culturales que conozco (cumpleaños, navidad, etc.).",
+          "(Evidencia) Reconozco, en un texto narrativo corto, aspectos como qué, quién, cuándo y dónde.",
+          "(Saber Conocer) Asocia vocabulario relacionado con festividades y tradiciones culturales (Christmas, Halloween, Thanksgiving).",
+          "(Saber Conocer) Reconoce preguntas de información (“What? Who? When? Where?”)",
+          "(Saber Hacer) Lee e interpreta información sobre tradiciones culturales y festividades.",
+          "(Saber Hacer) Responde a las preguntas “What? Who? When? Where?” sobre un texto.",
+          "(Saber Aplicar) Compara y contrasta tradiciones culturales de diferentes países.",
+          "(Saber Aplicar) Opina sobre la importancia de conocer y respetar diferentes culturas."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Características de objetos.",
+          "Gustos y preferencias",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo sobre temas de mi interés.",
+        "dba": [
+          "Intercambia opiniones sencillas sobre un tema de interés, a través de oraciones simples y conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Escribo descripciones y narraciones cortas basadas en una secuencia de ilustraciones.",
+          "(Evidencia) Describo los rasgos personales de gente de mi entorno.",
+          "(Evidencia) Enlazo frases y oraciones usando conectores que expresan secuencia y adición.",
+          "(Evidencia) Escribo textos cortos que describen mi estado de ánimo y mis preferencias.",
+          "(Evidencia) Uso adecuadamente estructuras y patrones gramaticales de uso frecuente.",
+          "(Evidencia) Verifico la ortografía de las palabras que escribo con frecuencia",
+          "(Saber Conocer) Identifica vocabulario para expresar sentimientos, emociones y personalidad (happy, sad, excited, angry, friendly, kind, funny, shy).",
+          "(Saber Hacer) Comprende la diferencia entre diferentes emociones y sentimientos.",
+          "(Saber Hacer) Usa el vocabulario apropiado para describir cómo se siente y la personalidad de otros.",
+          "(Saber Aplicar) Analizar: Identifica la relación entre las acciones de las personas y sus sentimientos.",
+          "(Saber Aplicar) Escribe un diálogo corto donde se expresen diferentes emociones y sentimientos."
+        ],
+        "saberes": [
+          "Información personal.",
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Acciones en secuencias de eventos.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Ortografía propia.",
+          "Características de objetos.",
+          "Gustos y preferencias",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo información personal proporcionada por mis compañeros y mi profesor.",
+          "(Saber Conocer) Identifica y relaciona vocabulario acerca de información personal, sentimientos, emociones y actividades del tiempo libre.",
+          "(Saber Hacer) Interpreta preguntas y respuestas sobre información personal, sentimientos y actividades.",
+          "(Saber Aplicar) Identifica las diferencias entre las actividades que le gustan y las que no le gustan, y explica las razones de manera sencilla."
+        ],
+        "saberes": [
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Expreso en una palabra o frase corta, cómo me siento. Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+        "dba": [
+          "Pregunta y responde, de forma oral o escrita, interrogantes relacionados con el “quién, cuándo y dónde”, después de leer o escuchar un texto corto y sencillo siempre que el tema le sea conocido.",
+          "Intercambia opiniones sencillas sobre un tema de interés, a través de oraciones simples y conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Respondo a preguntas personales como nombre, edad, nacionalidad y dirección, con apoyo de repeticiones cuando sea necesario.",
+          "(Evidencia) Saludo cortésmente de acuerdo con la edad y rango del interlocutor.",
+          "(Evidencia) Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula.",
+          "(Evidencia) Deletreo palabras que me son conocidas.",
+          "(Evidencia) Expreso en una palabra o frase corta, cómo me siento.",
+          "(Evidencia) Hablo de las actividades que realizo habitualmente.",
+          "(Evidencia) Puedo hablar de cantidades y contar objetos hasta mil.",
+          "(Saber Hacer) Usa el vocabulario y las estructuras gramaticales para describir información personal, expresar emociones y hablar sobre actividades."
+        ],
+        "saberes": [
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Identifico elementos culturales como nombres propios y lugares, en textos sencillos.",
+        "dba": [
+          "Comprende la idea general y algunos detalles en un texto informativo corto y sencillo sobre temas conocidos y de interés"
+        ],
+        "evidencias": [
+          "(Evidencia) Asocio un dibujo con su descripción escrita.",
+          "(Evidencia) Identifico la secuencia de las acciones y las asocio con los momentos del día, cuando alguien describe su rutina diaria.",
+          "(Evidencia) Comprendo descripciones cortas sobre personas, lugares y acciones conocidas.",
+          "(Evidencia) Ubico en un texto corto los lugares y momentos en que suceden las acciones.",
+          "(Evidencia) Leo y entiendo textos auténticos y sencillos sobre acontecimientos concretos asociados a tradiciones culturales que conozco (cumpleaños, navidad, etc.).",
+          "(Evidencia) Reconozco, en un texto narrativo corto, aspectos como qué, quién, cuándo y dónde.",
+          "(Saber Conocer) Identifica vocabulario de acciones cotidianas y rutinas.",
+          "(Saber Conocer) Reconoce la estructura gramatical del presente continuo en textos cortos.",
+          "(Saber Hacer) Diferencia el uso del presente simple y el presente continuo.",
+          "(Saber Hacer) Usa el presente continuo para describir acciones que están sucediendo en el momento.",
+          "(Saber Aplicar) Compara y contrasta su rutina diaria con la de otras personas.",
+          "(Saber Aplicar) Imagina y describe una rutina diaria ideal para un personaje de un cuento."
+        ],
+        "saberes": [
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Escribo sobre temas de mi interés.",
+        "dba": [
+          "Intercambia opiniones sencillas sobre un tema de interés, a través de oraciones simples y conocidas."
+        ],
+        "evidencias": [
+          "(Evidencia) Escribo descripciones y narraciones cortas basadas en una secuencia de ilustraciones.",
+          "(Evidencia) Enlazo frases y oraciones usando conectores que expresan secuencia y adición.",
+          "(Evidencia) Uso adecuadamente estructuras y patrones gramaticales de uso frecuente.",
+          "(Evidencia) Verifico la ortografía de las palabras que escribo con frecuencia",
+          "(Saber Conocer) Relaciona vocabulario para describir la apariencia física y personalidad suya y de compañeros.",
+          "(Saber Conocer) Reconoce conectores de secuencia.",
+          "(Saber Conocer) Identifica estructuras gramaticales para expresar opiniones y preferencias.",
+          "(Saber Hacer) Interpreta el significado de una narración corta.",
+          "(Saber Hacer) Usa el vocabulario y estructuras aprendidas para describir a las personas y narrar eventos.",
+          "(Saber Hacer) Expresa su opinión de forma clara y respetuosa.",
+          "(Saber Aplicar) Escribe una historia corta con personajes, escenario y trama."
+        ],
+        "saberes": [
+          "Rutina diaria y sus acciones",
+          "Preguntas personales.",
+          "Conversaciones simples con compañeros.",
+          "Saludos variado la hora del día.",
+          "Saludos corteses.",
+          "Deletreo de palabras.",
+          "Descripciones escritas.",
+          "Descripciones de personas, lugares y acciones conocidas.",
+          "Lugares y tiempo de las acciones.",
+          "Tradiciones culturales que conozco (cumpleaños,navidad, etc.).",
+          "Textos y sus aspectos (qué, quién, cuándo y dónde.)",
+          "Narraciones basadas en ilustraciones,",
+          "Conectores.",
+          "Estructuras y patrones gramaticales.",
+          "Respuestas de cómo me siento.",
+          "Descripción de rasgos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

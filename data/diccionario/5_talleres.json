@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "grado": 5,
+    "area": "Proyecto Socioemocional",
+    "descripcion_grado": "Planeación anual de talleres socioemocionales para estudiantes de grado quinto, enfocada en el perfeccionamiento del autoconocimiento, la toma de decisiones éticas, la autogestión y el liderazgo con responsabilidad social."
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G5-P1-T1",
+          "nombre_taller": "Mi Mapa de Emociones y Autocontrol",
+          "conceptos_relacionados": [
+            "Autoconocimiento",
+            "Autorregulación Emocional",
+            "Empatía Básica"
+          ],
+          "proposito_experiencia": "Desarrollar el autoconocimiento emocional, la autorregulación y la empatía para comprender las emociones propias y ajenas.",
+          "recursos_eco": "Hojas de papel, lápices de colores, lista de emociones básicas, escenarios de situaciones con emociones.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestras emociones son como un mapa que nos guía. Hoy vamos a explorar ese mapa y aprender a leerlo mejor'.",
+          "momento_desarrollo_vivencia": "Cada estudiante describe sus emociones (Autoconocimiento). Se introduce la 'Autorregulación Emocional' con el ejercicio de 'Pausa de 5 segundos': notar emoción, respirar y relajar el cuerpo. Se practican escenarios de 'Empatía Básica' intentando comprender a otros. 'Cuando sentí rabia, respiré profundo en lugar de gritar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emoción te costó más reconocer hoy?' y '¿Cómo te ayuda la respiración cuando sientes una emoción fuerte?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para reconocer emociones, aplicar técnicas de autorregulación y mostrar empatía básica.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P1-T2",
+          "nombre_taller": "Mi Voz con Coraje: Intención y Autocuidado",
+          "conceptos_relacionados": [
+            "Intención",
+            "Coraje Emocional",
+            "Autocuidado emocional"
+          ],
+          "proposito_experiencia": "Fomentar el coraje emocional para expresar sentimientos y necesidades, reflexionando sobre la intención y practicando el autocuidado.",
+          "recursos_eco": "Tarjetas con situaciones difíciles, hojas para frases asertivas, lista de señales de saturación.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces es difícil decir lo que sentimos, pero tener coraje nos ayuda a cuidar nuestro corazón y el de los demás'.",
+          "momento_desarrollo_vivencia": "Los estudiantes redactan frases claras y respetuosas para comunicar emociones difíciles (Coraje Emocional). Reflexionan sobre la intención de su mensaje. Se introduce el 'Autocuidado' identificando señales personales de saturación. 'Mostré coraje emocional cuando hablé con la profe sobre algo que me preocupaba'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emoción te cuesta más expresar?' y '¿Qué estrategia de autocuidado puedes aplicar de inmediato?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para expresar emociones con coraje, reflexionar sobre la intención y aplicar estrategias de autocuidado.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P1-T3",
+          "nombre_taller": "Decido y Justifico: Mi Integridad en Acción",
+          "conceptos_relacionados": [
+            "Integridad",
+            "Reflexión",
+            "Autoconocimiento"
+          ],
+          "proposito_experiencia": "Promover la integridad a través de la toma de decisiones éticas, fomentando la reflexión y el autoconocimiento de los valores personales.",
+          "recursos_eco": "Situaciones de dilema ético, hojas para escribir decisiones y justificaciones.",
+          "momento_inicio_conexion": "Diga a los niños: 'La integridad es hacer lo correcto, incluso cuando nadie nos ve. Es la brújula de nuestro corazón'.",
+          "momento_desarrollo_vivencia": "Análisis de dilemas éticos (objetos perdidos, honestidad). Cada estudiante justifica su decisión basándose en valores personales ('Integridad'). Se fomenta la reflexión sobre el impacto de actuar con rectitud. 'Demostré integridad cuando devolví el estuche que encontré en el suelo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué valor se relaciona con mi decisión?' y '¿Actuaría igual si nadie estuviera mirando?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para tomar decisiones éticas, justificarlas con valores personales y reflexionar sobre su impacto.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G5-P2-T1",
+          "nombre_taller": "Mi Plan de Éxito: Autodisciplina y Autogestión",
+          "conceptos_relacionados": [
+            "Autodisciplina",
+            "Autogestión",
+            "Estrategias de Manejo"
+          ],
+          "proposito_experiencia": "Desarrollar la autodisciplina y autogestión para cumplir tareas, identificando distractores y aplicando estrategias de manejo.",
+          "recursos_eco": "Hojas de trabajo 'Tres pasos', planificadores semanales.",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser autodisciplinado es como ser un capitán de barco que sabe cómo llegar a su destino, sin importar las olas'.",
+          "momento_desarrollo_vivencia": "Planificación de una tarea escolar real sin recordatorios externos. Identificación de distractores (celular, ruido) y creación de una estrategia para evitarlos. 'Mostré autodisciplina cuando me senté a estudiar sin que me lo pidieran'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué distractor me afecta con más frecuencia?' y '¿Qué estrategia puedo aplicar de inmediato?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para planificar, identificar distractores y aplicar estrategias de autodisciplina.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P2-T2",
+          "nombre_taller": "Manos a la Obra: Iniciativa y Frustración",
+          "conceptos_relacionados": [
+            "Iniciativa",
+            "Manejo de la Frustración",
+            "Estrategias de Solución"
+          ],
+          "proposito_experiencia": "Fomentar la iniciativa para proponer mejoras y desarrollar habilidades para el manejo de la frustración.",
+          "recursos_eco": "Pizarra, materiales para mejora del aula, escenarios de frustración.",
+          "momento_inicio_conexion": "Diga a los niños: 'La iniciativa es como una chispa que enciende ideas. Y cuando las cosas no salen, necesitamos encontrar otras chispas para seguir'.",
+          "momento_desarrollo_vivencia": "Identificación de algo que pueda mejorarse en el aula por cuenta propia ('Iniciativa'). Trabajo en escenarios donde los planes fallan para practicar el manejo de la frustración. 'Mostré iniciativa cuando organicé el material del grupo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué problema observé y propuse mejorar?' y '¿Qué estrategia usas cuando te sientes frustrado?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para tomar iniciativa y manejar la frustración de forma constructiva.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P2-T3",
+          "nombre_taller": "Decisiones con Impacto",
+          "conceptos_relacionados": [
+            "Toma de Decisiones Éticas",
+            "Responsabilidad",
+            "Coherencia"
+          ],
+          "proposito_experiencia": "Desarrollar la toma de decisiones éticas, asumiendo la responsabilidad de las acciones y manteniendo la coherencia.",
+          "recursos_eco": "Situaciones de dilema moral, hojas de reflexión.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada decisión que tomamos es como una piedra que cae al agua y crea ondas. Hoy veremos el impacto de esas ondas'.",
+          "momento_desarrollo_vivencia": "Análisis de situaciones donde una decisión afecta a otros. Se reflexiona sobre la responsabilidad de las consecuencias y la coherencia entre valores y actos. 'Antes de hacer una broma, pensé si eso haría sentir mal a mi amigo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué efecto tendría mi acción en otros?' y '¿Cómo te sientes cuando otros son coherentes contigo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para tomar decisiones éticas y mostrar coherencia.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G5-P3-T1",
+          "nombre_taller": "Sostener el Esfuerzo",
+          "conceptos_relacionados": [
+            "Autodisciplina",
+            "Perseverancia",
+            "Autorregulación"
+          ],
+          "proposito_experiencia": "Reforzar la autodisciplina para sostener el esfuerzo y la perseverancia, utilizando la autorregulación emocional.",
+          "recursos_eco": "Tareas de larga duración, hojas de registro de concentración.",
+          "momento_inicio_conexion": "Diga a los niños: 'La autodisciplina es como un músculo: cuanto más lo usamos, más fuerte se vuelve'.",
+          "momento_desarrollo_vivencia": "Realización de una tarea que requiere constancia. Los niños registran qué técnica les ayudó a no rendirse. Se aplican respiraciones si surge distracción. 'Seguí practicando mi presentación oral aunque prefería jugar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué fue lo más difícil de mantener hoy?' y '¿Qué estrategia usaste para no distraerte?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para sostener el esfuerzo y demostrar perseverancia.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P3-T2",
+          "nombre_taller": "El Compromiso Ético: Protejo al Grupo",
+          "conceptos_relacionados": [
+            "Compromiso Ético",
+            "Integridad",
+            "Responsabilidad Social"
+          ],
+          "proposito_experiencia": "Fomentar el compromiso ético y la responsabilidad social al elegir acciones que protejan el bienestar del grupo.",
+          "recursos_eco": "Escenarios de dilema grupal, hojas de compromiso.",
+          "momento_inicio_conexion": "Diga a los niños: 'Un compromiso ético es como una promesa que hacemos a nuestro grupo para cuidarnos mutuamente'.",
+          "momento_desarrollo_vivencia": "Debate sobre situaciones donde se debe elegir entre el beneficio propio o el del grupo. Se analiza la responsabilidad social de cuidar el clima del aula. 'Cumplí mi promesa de ayudar a mi amigo con la tarea'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué acción es la más justa?' y '¿Qué ambiente quiero ayudar a construir en el grupo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para tomar decisiones éticas que beneficien al colectivo.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P3-T3",
+          "nombre_taller": "La Voz de la Experiencia: Reflexión Crítica",
+          "conceptos_relacionados": [
+            "Reflexión crítica",
+            "Autoeficacia",
+            "Autoconocimiento"
+          ],
+          "proposito_experiencia": "Desarrollar la reflexión crítica sobre reacciones impulsivas, fortaleciendo la autoeficacia y el autoconocimiento.",
+          "recursos_eco": "Hojas de trabajo 'Lo que haría distinto', escenarios de impulsividad.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy seremos detectives de nuestras propias reacciones para investigar qué podríamos hacer diferente'.",
+          "momento_desarrollo_vivencia": "Revisión de una reacción impulsiva reciente. Identificación del patrón emocional y propuesta de un cambio para el futuro. Se destaca un logro personal para fortalecer la autoeficacia. 'Analicé que cuando mi amigo me empujó, grité; la próxima vez respiraré'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué provocó tu reacción?' y '¿Qué demuestra este logro sobre tus capacidades?'.",
+          "revision_proposito": "Evaluar la capacidad de reflexión crítica sobre sus acciones y fortalecimiento de la autoeficacia.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G5-P4-T1",
+          "nombre_taller": "Nuestra Red de Apoyo: Corresponsabilidad",
+          "conceptos_relacionados": [
+            "Corresponsabilidad",
+            "Colaboración",
+            "Responsabilidad Social"
+          ],
+          "proposito_experiencia": "Fortalecer la corresponsabilidad y la colaboración en el trabajo en equipo.",
+          "recursos_eco": "Análisis de proyectos previos, hojas de roles.",
+          "momento_inicio_conexion": "Diga a los niños: 'Un equipo es como una red: si cada hilo colabora, la red es mucho más resistente'.",
+          "momento_desarrollo_vivencia": "Autoevaluación de un trabajo grupal anterior. ¿Qué aporté? ¿Qué me faltó? Se discute la corresponsabilidad en el éxito o fracaso del equipo. 'Mi aporte en el trabajo en equipo fue organizar la información'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aporté al equipo?' y '¿Qué compromiso asumo para el próximo trabajo grupal?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para analizar su rol en el equipo y asumir corresponsabilidad.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P4-T2",
+          "nombre_taller": "Palabras que Construyen: Resolución de Conflictos",
+          "conceptos_relacionados": [
+            "Resolución de Conflictos",
+            "Diálogo",
+            "Empatía y Perdón"
+          ],
+          "proposito_experiencia": "Desarrollar habilidades para la resolución de conflictos, utilizando el diálogo y la empatía.",
+          "recursos_eco": "Casos de conflicto, tarjetas de diálogo.",
+          "momento_inicio_conexion": "Diga a los niños: 'Los conflictos son como acertijos. Si usamos el diálogo, podemos encontrar la mejor respuesta'.",
+          "momento_desarrollo_vivencia": "Práctica de mediación entre compañeros. Uso de frases empáticas para validar el sentimiento del otro y búsqueda de acuerdos justos. 'Usé el diálogo para resolver el malentendido y buscamos una solución'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a usar el diálogo en un conflicto?' y '¿Por qué es importante el perdón?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar el diálogo y la empatía en conflictos.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G5-P4-T3",
+          "nombre_taller": "Mi Legado Positivo: Cierre y Compromiso",
+          "conceptos_relacionados": [
+            "Integridad",
+            "Iniciativa",
+            "Coraje Emocional"
+          ],
+          "proposito_experiencia": "Consolidar el aprendizaje del año, reforzando la integridad y el coraje emocional para el futuro.",
+          "recursos_eco": "Hoja de 'Mi Legado', materiales de arte.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hoy cerramos un ciclo, pero cada uno deja una huella. ¿Qué huella quieres dejar para el futuro?'",
+          "momento_desarrollo_vivencia": "Escritura de un compromiso personal para el grado sexto basado en los valores aprendidos (integridad, iniciativa). Compartir voluntario de las metas. 'Tuve el coraje de pedir disculpas a mi compañero por haberle hablado mal'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué compromiso te llevas para el próximo año?' y '¿Qué te ayuda a tener coraje para defender lo que crees?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para formular compromisos futuros basados en lo aprendido.",
+          "tiempo_aplicacion": "25 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 11,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Critical Ear: Bias Detection",
+            "un_reto_sugerido": "¿Cómo podemos identificar la intención oculta de un orador analizando solo sus conectores y el tono de su voz?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de discursos políticos o noticias internacionales e identificar palabras que denoten opinión frente a hechos.",
+              "visual": "Crear un 'Mapa de Intenciones' en el tablero, clasificando audios cortos según su registro (formal/informal) y el uso de conectores de contraste.",
+              "produccion": "Analizar la efectividad de un texto oral académico, evaluando la claridad, fluidez y el uso de lenguaje no verbal del hablante."
+            },
+            "para_pensar": [
+              "¿Por qué el tono de voz puede invalidar un argumento lógicamente correcto?",
+              "¿Cómo influyen los algoritmos de recomendación en los sesgos de lo que escuchamos hoy? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica el propósito comunicativo, el tono y la audiencia en textos orales de mediana longitud.",
+              "Analiza las intenciones comunicativas considerando el contexto y el lenguaje no verbal."
+            ],
+            "un_refuerzo": "Utilizar una guía de conectores lógicos clasificados por función para identificar la estructura del discurso escuchado."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Great Debate: Controversial Science",
+            "un_reto_sugerido": "¿Cómo defender una posición ética sobre un tema controversial usando fuentes confiables y un registro formal?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un debate real y anotar las estrategias que usan los participantes para iniciar, mantener y cerrar sus intervenciones.",
+              "visual": "Realizar un 'Debate de Pecera' (Fishbowl) sobre un tema controversial (ej. IA o Cambio Climático), contrastando opiniones preparadas previamente.",
+              "produccion": "Sustentar oralmente un proyecto personal o académico, ajustando el tono y el registro según la audiencia (pares o expertos)."
+            },
+            "para_pensar": [
+              "¿Qué hace que una fuente de información sea considerada 'confiable' en la era digital?",
+              "¿Cómo el debate respetuoso acelera el progreso científico y social de un país?"
+            ],
+            "pistas_del_exito": [
+              "Mantiene discusiones formales siguiendo las ideas de un tema propuesto y contrastando opiniones.",
+              "Utiliza estrategias naturales para iniciar y cerrar conversaciones en contextos académicos."
+            ],
+            "un_refuerzo": "Grabar la intervención y usar una rúbrica de autoevaluación para mejorar la fluidez y la precisión del lenguaje."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Critic's Eye",
+            "un_reto_sugerido": "¿Qué valores de la cultura angloparlante chocan o se alinean con nuestra identidad local al leer textos de opinión?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Skimming' de artículos de diferentes países sobre un mismo valor social (ej. éxito, familia) y comparar sus enfoques.",
+              "visual": "Diseñar un 'Mural de Valores' donde se relacionen las palabras clave del texto con inferencias sobre la identidad cultural del autor.",
+              "produccion": "Asumir una posición crítica frente al punto de vista del autor en un texto argumentativo, emitiendo juicios de valor fundamentados."
+            },
+            "para_pensar": [
+              "¿Cómo la lectura de otras culturas nos ayuda a definir nuestra propia identidad?",
+              "¿Por qué es importante reconocer los sesgos culturales en los textos informativos globales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el punto de vista del autor y asume una posición crítica frente a él.",
+              "Analiza textos complejos comprendiendo inferencias, tono e intención comunicativa."
+            ],
+            "un_refuerzo": "Utilizar un organizador gráfico de 'Tesis vs. Antítesis' para desglosar los argumentos del autor antes de criticarlos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Interdisciplinary Reporter",
+            "un_reto_sugerido": "¿Cómo redactar un informe técnico que explique un fenómeno de otra disciplina de forma clara para un lector no experto?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar un tema de Física o Biología y listar los conceptos clave que deben ser explicados en el informe.",
+              "visual": "Elaborar un 'Borrador Estructurado': planificar un texto argumentativo siguiendo el proceso de planeación, escritura y revisión entre pares.",
+              "produccion": "Redactar un informe o resumen académico con una estructura clara, coherente y cohesiva, aplicando reglas de ortografía y puntuación."
+            },
+            "para_pensar": [
+              "¿Por qué la escritura es considerada la herramienta de formalización del pensamiento científico?",
+              "¿Cómo la retroalimentación constructiva de los compañeros mejora la calidad de un producto escrito?"
+            ],
+            "pistas_del_exito": [
+              "Redacta textos argumentativos con estructura clara siguiendo un proceso de edición.",
+              "Escribe resúmenes e informes que demuestran conocimiento sobre temas de otras disciplinas."
+            ],
+            "un_refuerzo": "Utilizar una lista de chequeo de conectores de cohesión (Furthermore, Nevertheless, Consequently) para elevar el nivel del texto."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "Echoes of Origin: Mythic Listening",
+            "un_reto_sugerido": "¿Cómo han influido los mitos de origen en la comprensión científica actual de la formación de la Tierra?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar narraciones de mitos griegos, nórdicos o chinos e identificar el uso del 'Past Perfect' para eventos anteriores a la historia principal.",
+              "visual": "Crear un 'Diagrama de Flujo Narrativo': escuchar la leyenda de la Guerra de Troya y ubicar los puntos de giro y la resolución.",
+              "produccion": "Identificar la idea principal y el sentido general de textos orales sobre mitología, analizando la voz narrativa y su influencia."
+            },
+            "para_pensar": [
+              "¿Por qué todas las culturas humanas necesitan crear mitos para explicar lo desconocido?",
+              "¿Qué relación existe entre la tradición oral y la preservación del conocimiento biológico en comunidades indígenas? (CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica la estructura narrativa (inicio, nudo, desenlace) en historias escuchadas.",
+              "Comprende el uso de tiempos verbales complejos (Past Perfect) para narrar eventos pasados."
+            ],
+            "un_refuerzo": "Escuchar el audio con una línea de tiempo visual donde el estudiante marque las acciones que ocurrieron 'antes de' y 'durante' la historia."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Reported Newsroom",
+            "un_reto_sugerido": "¿Cómo transmitir fielmente lo que un experto dijo sobre un tema controversial sin alterar su mensaje original?",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a un compañero sobre sus sueños y ambiciones, tomando notas precisas de sus respuestas.",
+              "visual": "Simulacro de 'Noticiero en Vivo': los estudiantes usan 'Reported Speech' para contar a la audiencia lo que sus fuentes (compañeros) les dijeron.",
+              "produccion": "Narrar en forma detallada historias de interés, sustentando opiniones y planes futuros con un lenguaje claro y sencillo."
+            },
+            "para_pensar": [
+              "¿Por qué el 'Reported Speech' es fundamental en el periodismo y la investigación científica?",
+              "¿Cómo la distorsión de la información (teléfono roto) afecta la confianza en una sociedad?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza el discurso reportado para transmitir información de manera precisa.",
+              "Describe oralmente ambiciones y esperanzas usando estrategias de conversación natural."
+            ],
+            "un_refuerzo": "Practicar la transformación de oraciones de Direct a Indirect Speech usando tarjetas de colores para los cambios de tiempo verbal."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Mythological Perspective: A Global View",
+            "un_reto_sugerido": "¿De qué manera la geografía y la historia de una cultura moldean los monstruos y héroes de sus leyendas?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer fragmentos sobre la formación de la Tierra y compararlos con mitos de origen, buscando palabras clave científicas y literarias.",
+              "visual": "Realizar un 'Análisis Comparativo': contrastar dos versiones de un mismo mito (ej. Robin Hood) identificando valores y creencias transmitidas.",
+              "produccion": "Asumir una posición crítica frente a la representación de una cultura en una historia, considerando su contexto histórico y social."
+            },
+            "para_pensar": [
+              "¿Cómo el lenguaje figurado (metáforas) ayuda a explicar conceptos científicos complejos?",
+              "¿Por qué los héroes de la antigüedad siguen siendo relevantes en la cultura popular moderna?"
+            ],
+            "pistas_del_exito": [
+              "Comprende el concepto de 'perspectiva cultural' y cómo influye en la interpretación de historias.",
+              "Analiza textos descriptivos y narrativos identificando causas, efectos y soluciones."
+            ],
+            "un_refuerzo": "Crear un glosario visual de elementos del lenguaje figurado encontrados en las lecturas (símiles, metáforas)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Comic Strip Creator",
+            "un_reto_sugerido": "¿Cómo contar una historia compleja usando el lenguaje visual y el tono adecuado para un público joven?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar cómics famosos y listar cómo el autor usa el tono y el lenguaje figurado para crear emociones.",
+              "visual": "Diseñar un 'Storyboards' para un cómic original, planeando los diálogos y la secuencia narrativa con la ayuda de pares.",
+              "produccion": "Escribir un texto creativo (cómic o cuento corto) que transmita un mensaje específico, cuidando el tono, estilo y ortografía."
+            },
+            "para_pensar": [
+              "¿Qué ventajas tiene el formato de cómic para comunicar ideas sociales o científicas?",
+              "¿Cómo la escritura creativa nos permite explorar 'quiénes somos' y 'qué sabemos' del mundo?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza lenguaje figurado y tono específico para crear imágenes vívidas en sus escritos.",
+              "Planea, revisa y edita textos creativos adaptando el estilo a la audiencia."
+            ],
+            "un_refuerzo": "Utilizar una plantilla de guion que obligue al uso de al menos tres figuras literarias y dos tiempos verbales de pasado."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Space Era: Passive Voice in Science",
+            "un_reto_sugerido": "¿Por qué la ciencia prefiere la voz pasiva para describir descubrimientos espaciales y cómo cambia esto nuestra percepción del hecho?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar audios sobre la era espacial e identificar oraciones en 'Passive Voice' (ej. 'The moon was reached').",
+              "visual": "Crear una 'Línea de Tiempo Galáctica': escuchar hitos espaciales y ubicar tarjetas descriptivas usando Present Perfect Continuous para procesos en curso.",
+              "produccion": "Interpretar información sobre el mundo laboral y la tecnología en audios, identificando el propósito y la estructura de los textos."
+            },
+            "para_pensar": [
+              "¿Cómo la exploración espacial ha impulsado tecnologías que usamos en nuestra vida diaria? (Enfoque CTS)",
+              "¿Por qué es importante el uso de la voz pasiva para mantener la objetividad en los reportes científicos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica conectores y estructuras de voz pasiva en situaciones de habla académica.",
+              "Analiza las ventajas y desventajas de opciones profesionales basándose en audios informativos."
+            ],
+            "un_refuerzo": "Escuchar una noticia y transformar las oraciones de voz activa a pasiva en un organizador gráfico."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Career Interview",
+            "un_reto_sugerido": "¿Cómo negociar un acuerdo laboral en un entorno multicultural usando lenguaje funcional y recomendaciones?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar habilidades requeridas para diferentes profesiones y practicar respuestas para una entrevista de trabajo.",
+              "visual": "Simulación de 'Job Interview': los estudiantes asumen roles de entrevistador y candidato, discutiendo alternativas y planes futuros.",
+              "produccion": "Hacer presentaciones orales sobre aspiraciones profesionales, sustentando opiniones y proyectos con seguridad y confianza."
+            },
+            "para_pensar": [
+              "¿Qué competencias globales son más valoradas en el mercado laboral del siglo XXI?",
+              "¿Cómo la ética profesional influye en la sostenibilidad de los negocios modernos?"
+            ],
+            "pistas_del_exito": [
+              "Usa lenguaje funcional para discutir alternativas y negociar acuerdos en simulaciones laborales.",
+              "Opina sobre estilos de vida y culturas laborales con una pronunciación inteligible."
+            ],
+            "un_refuerzo": "Utilizar un 'Banco de Frases de Negociación' para apoyar la fluidez durante la simulación de la entrevista."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Globalization Analyst: Labor Markets",
+            "un_reto_sugerido": "¿Cómo la globalización ha transformado las prácticas laborales y qué retos supone para los nuevos profesionales?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer artículos sobre el mercado laboral en países angloparlantes e identificar palabras clave sobre economía y finanzas.",
+              "visual": "Realizar un 'Análisis Comparativo de Culturas Laborales': contrastar valores y expectativas de trabajo en diferentes países usando tablas.",
+              "produccion": "Analizar textos informativos sobre la era espacial o economía, evaluando la credibilidad y utilidad de la información."
+            },
+            "para_pensar": [
+              "¿Es la globalización una oportunidad o una amenaza para la diversidad cultural de las empresas?",
+              "¿Cómo la tecnología está redefiniendo el concepto de 'lugar de trabajo'?"
+            ],
+            "pistas_del_exito": [
+              "Compara y contrasta culturas laborales identificando similitudes y diferencias en prácticas y valores.",
+              "Explica causas, efectos, problemas y soluciones de situaciones económicas globales."
+            ],
+            "un_refuerzo": "Subrayar en el texto las oraciones en voz pasiva y explicar por qué el autor decidió usarlas en ese contexto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Professional Portfolio",
+            "un_reto_sugerido": "¿Cómo escribir una carta de presentación o un informe que demuestre tu preparación para el mundo globalizado?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar modelos de cartas de presentación y reportes de negocios, identificando la estructura y el tono formal.",
+              "visual": "Diseñar un 'Plan de Vida Profesional' escrito: organizar párrafos cohesivos que describan metas, habilidades y decisiones tomadas.",
+              "produccion": "Redactar textos argumentativos e informes académicos, adaptando el lenguaje, el tono y el estilo a la audiencia profesional."
+            },
+            "para_pensar": [
+              "¿Por qué la capacidad de resumir información compleja es una de las habilidades más buscadas por los empleadores?",
+              "¿Cómo la escritura de informes técnicos contribuye a la transparencia en la gestión de proyectos científicos?"
+            ],
+            "pistas_del_exito": [
+              "Escribe diferentes tipos de texto con estructura clara, coherente y cohesiva para el mundo laboral.",
+              "Evalúa la precisión y el estilo de sus propios textos proporcionando retroalimentación constructiva."
+            ],
+            "un_refuerzo": "Utilizar una plantilla de 'Business Letter' que incluya marcadores de posición para la voz pasiva y conectores de resultado."
+          }
+        }
+      ]
+    }
+  ]
+}

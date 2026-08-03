@@ -1,0 +1,79 @@
+{
+  "area": "Proyecto Socioemocional",
+  "grado": "11",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "competencia_anual": "Orientación vocacional y sentido de futuro",
+        "estandar": "Identifico mis decisiones vocacionales en contextos escolares reales",
+        "competencia": "Conciencia emocional",
+        "eje_central": "Exploro mis caminos",
+        "Habilidades": [
+          "Identificación de Intereses Vocacionales: Identifica las áreas académicas y laborales que más le atraen",
+          "Reconocimiento de Talentos y Fortalezas: Nombra sus talentos y habilidades en relación con su futuro",
+          "Exploración de Rutas de Formación: Explora activamente opciones de estudio y formación postsecundaria"
+        ],
+        "evidencias_de_desempeno": [
+          "Nombra intereses laborales relacionados con sus fortalezas académicas",
+          "Explora opciones vocacionales mediante actividades guiadas en clase"
+        ],
+        "orientacion_bateria": "Auto conocimiento vocacional y proyecto de vida"
+      }
+    ],
+    "2": [
+      {
+        "competencia_anual": "Orientación vocacional y sentido de futuro",
+        "estandar": "Planifico trayectorias vocacionales autónomas con pasos definidos",
+        "competencia": "Autonomía avanzada",
+        "eje_central": "Planifico mi futuro",
+        "Habilidades": [
+          "Establecimiento de Metas a Largo Plazo: Define metas académicas y de vida claras y realistas",
+          "Diseño de Planes de Acción: Diseña planes detallados con pasos concretos para alcanzar objetivos",
+          "Disciplina y Orientación al Logro: Demuestra compromiso y esfuerzo en el presente por el futuro"
+        ],
+        "evidencias_de_desempeno": [
+          "Define metas laborales a corto plazo con acciones concretas",
+          "Identifica habilidades necesarias para su trayectoria elegida"
+        ],
+        "orientacion_bateria": "Toma de decisiones y sentido de propósito"
+      }
+    ],
+    "3": [
+      {
+        "competencia_anual": "Orientación vocacional y sentido de futuro",
+        "estandar": [
+          "Resisto presiones externas en mis decisiones vocacionales",
+          "Gestiono con autonomía mi orientación vocacional y proyectos de vida futura, contribuyendo responsablemente al grupo escolar"
+        ],
+        "competencia": [
+          "Habilidades para la vida",
+          "Habilidades sociales"
+        ],
+        "eje_central": [
+          "Me preparo para los riesgos",
+          "Dejo mi huella"
+        ],
+        "Habilidades": [
+          "Identificación y Prevención de Riesgos: Reconoce situaciones que comprometen su salud o proyecto de vida",
+          "Asertividad ante la Presión Social: Demuestra firmeza al decir no ante presiones sociales negativas",
+          "Búsqueda de Apoyo Estratégico: Solicita ayuda profesional o adulta ante problemas complejos",
+          "Liderazgo y Participación Cívica: Participa en acciones que benefician a la comunidad escolar o local",
+          "Sentido de Responsabilidad Social: Demuestra interés en aportar soluciones a problemas de la sociedad",
+          "Impacto y Modelo a Seguir: Actúa como ejemplo positivo para sus pares y compañeros menores"
+        ],
+        "evidencias_de_desempeno": [
+          "Defiende su elección vocacional ante opiniones contrarias",
+          "Ajusta su plan ante obstáculos familiares o sociales",
+          "Evalúa avances vocacionales y redefine metas con criterio propio",
+          "Integra su proyecto vocacional en trabajos colaborativos de grado"
+        ],
+        "orientacion_bateria": [
+          "Resiliencia y adaptación al cambio",
+          "Proyecto de vida y compromiso ético"
+        ]
+      }
+    ]
+  }
+}

@@ -6,7 +6,7 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -24,7 +24,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -41,7 +41,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
@@ -70,7 +70,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas"
@@ -91,7 +91,7 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -109,7 +109,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -128,7 +128,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
@@ -149,7 +149,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas"
@@ -174,7 +174,7 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -191,7 +191,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -212,7 +212,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
@@ -231,7 +231,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas.",
@@ -257,7 +257,7 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Expresa ideas sencillas sobre temas estudiados, usando palabras y frases."
@@ -276,7 +276,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Intercambia información personal como su nombre, edad y procedencia con compañeros y profesores, usando frases sencillas, siguiendo modelos provistos por el docente."
@@ -300,7 +300,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Menciona aspectos culturales propios de su entorno, usando vocabulario y expresiones conocidas"
@@ -326,4 +326,5 @@
       }
     ]
   }
+
 }

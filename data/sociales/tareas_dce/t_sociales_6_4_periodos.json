@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "6",
+  "nombre_archivo": "t_sociales_6_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cosmos en un Frasco: El Gran Inicio",
+            "un_reto_sugerido": "Organizar un 'Simposio de Orígenes' donde se debatan teorías científicas y mitos ancestrales sobre la creación del universo.",
+            "ruta_de_exploracion": {
+              "explorar": "Observación del cielo nocturno (o simulador) y lluvia de ideas sobre qué había antes del universo.",
+              "visual": "Línea de tiempo ilustrada desde el Big Bang hasta la formación del Sistema Solar.",
+              "produccion": "Creación de una 'Caja de la Vida' que represente los elementos del sistema solar necesarios para la existencia humana."
+            },
+            "para_pensar": [
+              "¿Por qué diferentes culturas inventaron mitos para explicar el cielo?",
+              "¿Cómo influye la distancia del sol en que la Tierra sea un planeta vivo?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente entre la teoría del Big Bang y las explicaciones mitológicas.",
+              "Identifica al menos tres componentes básicos del sistema solar."
+            ],
+            "un_refuerzo": "Video corto sobre la inmensidad del universo comparada con el tamaño de la Tierra."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Tras la Huella del Primer Humano",
+            "un_reto_sugerido": "Diseñar un 'Manual de Supervivencia' para un Homo Habilis o un Homo Erectus según sus capacidades tecnológicas.",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar realizar una tarea cotidiana sin usar los pulgares para entender la evolución anatómica.",
+              "visual": "Cuadro comparativo de las especies del proceso de hominización (cráneo, estatura y herramientas).",
+              "produccion": "Taller de 'Tecnología Lítica': Tallar herramientas en jabón o arcilla imitando las piedras talladas de la prehistoria."
+            },
+            "para_pensar": [
+              "¿Qué cambio físico crees que fue el más importante para que el humano sobreviviera?",
+              "¿Cómo transformó el fuego la vida de nuestros antepasados?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las características anatómicas de al menos tres especies de homínidos.",
+              "Relaciona los avances tecnológicos con los cambios en el entorno prehistórico."
+            ],
+            "un_refuerzo": "Lectura de un cuento sobre un día en la vida de un clan Neandertal."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "La Asamblea del Tiempo",
+            "un_reto_sugerido": "Crear un comercial comparativo entre la democracia de la antigua Atenas y la democracia actual en Colombia.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de rol: Simular una decisión escolar bajo un sistema de monarquía y luego bajo uno de democracia.",
+              "visual": "Infografía sobre las diferentes formas de gobierno antiguas (Teocracia, Tiranía, Aristocracia).",
+              "produccion": "Propuesta de una 'Ley Ideal' inspirada en los principios de la democracia ateniense para el colegio."
+            },
+            "para_pensar": [
+              "¿Quiénes podían votar en Atenas y quiénes pueden hacerlo hoy en Colombia?",
+              "¿Por qué es peligroso que una sola persona tenga todo el poder político?"
+            ],
+            "pistas_del_exito": [
+              "Identifica al menos dos formas de gobierno de la antigüedad.",
+              "Compara correctamente la democracia antigua con la parlamentaria o representativa."
+            ],
+            "un_refuerzo": "Cuadro sinóptico sobre las funciones de los gobernantes en la teocracia."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Abogados del Patio",
+            "un_reto_sugerido": "Reformar un artículo del manual de convivencia mediante un proceso democrático y argumentado.",
+            "ruta_de_exploracion": {
+              "explorar": "Caza de derechos: Buscar situaciones en el colegio donde se cumpla o vulnere la Declaración de DDHH.",
+              "visual": "Mapa mental sobre el funcionamiento de la Acción de Tutela en situaciones escolares.",
+              "produccion": "Escritura de un 'Manifiesto de Deberes y Derechos' para el salón de clase."
+            },
+            "para_pensar": [
+              "¿Cómo influyen mis emociones cuando debo tomar una decisión con mis compañeros?",
+              "¿Por qué es importante que existan mecanismos para proteger los derechos?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona un derecho fundamental con un artículo de la Constitución.",
+              "Propone una mejora real y democrática al manual de convivencia."
+            ],
+            "un_refuerzo": "Lectura dirigida de los derechos fundamentales en la Constitución de 1991."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Tierra Viva en Movimiento",
+            "un_reto_sugerido": "Diseñar un mapa interactivo de Pangea que explique cómo se formaron los continentes y el relieve actual.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de husos horarios: Calcular qué hora es en diferentes partes del mundo si en Colombia son las 12:00 PM.",
+              "visual": "Maqueta de las capas de la Tierra o dibujo de la deriva continental.",
+              "produccion": "Reportaje sobre los efectos de la dinámica interna (sismos y volcanes) en el paisaje colombiano."
+            },
+            "para_pensar": [
+              "¿Por qué el clima de una montaña es diferente al de una playa?",
+              "¿Qué pasaría con el paisaje de Colombia si las placas tectónicas dejaran de moverse?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza coordenadas y escalas correctamente en la elaboración de mapas.",
+              "Explica la interacción entre relieve, clima y acciones humanas."
+            ],
+            "un_refuerzo": "Video sobre la teoría de la deriva continental de Alfred Wegener."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores y Recolectores de Saberes",
+            "un_reto_sugerido": "Reconstruir una 'Aldea Nómada' y una 'Aldea Sedentaria' para comparar cómo cambió el trabajo humano.",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de recolección de alimentos en el patio de la escuela.",
+              "visual": "Mapa de las rutas posibles del poblamiento de los continentes.",
+              "produccion": "Mural de pintura rupestre donde se narre el papel del trabajo en la organización social primitiva."
+            },
+            "para_pensar": [
+              "¿Por qué dejar de caminar y empezar a sembrar cambió la historia de la humanidad?",
+              "¿Qué actividades de los homínidos realizamos todavía los colombianos hoy?"
+            ],
+            "pistas_del_exito": [
+              "Explica las diferencias entre nomadismo y sedentarismo.",
+              "Describe el impacto del trabajo en el proceso de humanización."
+            ],
+            "un_refuerzo": "Lectura sobre el poblamiento de América a través del Estrecho de Bering."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "El Código de la Justicia Antigua",
+            "un_reto_sugerido": "Redactar un 'Código de Convivencia' moderno basado en una comparación crítica con el Código de Hammurabi.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de la ley del 'Ojo por ojo': ¿Es justa en el mundo actual? Debate grupal.",
+              "visual": "Diagrama de pirámide sobre el acceso al poder de origen divino en las teocracias.",
+              "produccion": "Cartelera sobre las fortalezas y debilidades de la democracia colombiana comparada con la de Atenas."
+            },
+            "para_pensar": [
+              "¿Cómo se justificaba el poder de un rey en la antigüedad sin elecciones?",
+              "¿Qué podemos aprender de las normas antiguas para mejorar las leyes hoy?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el papel de la fuerza y la religión en el mantenimiento del poder antiguo.",
+              "Describe diferencias claras entre democracia directa y representativa."
+            ],
+            "un_refuerzo": "Lectura de ejemplos seleccionados del Código de Hammurabi."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Mediadores de Paz Escolar",
+            "un_reto_sugerido": "Establecer una 'Mesa de Mediación' en el salón para resolver desacuerdos cotidianos entre compañeros.",
+            "ruta_de_exploracion": {
+              "explorar": "Actividad 'En tus zapatos': Escuchar un conflicto y tratar de defender la posición de la otra persona.",
+              "visual": "Infografía con los pasos lógicos de la mediación (Escuchar, Proponer, Acordar).",
+              "produccion": "Guion y dramatización de un conflicto escolar resuelto exitosamente mediante el diálogo."
+            },
+            "para_pensar": [
+              "¿Por qué un conflicto puede ser una oportunidad para mejorar nuestra amistad?",
+              "¿Cuál es la diferencia entre ser un mediador y ser un juez?"
+            ],
+            "pistas_del_exito": [
+              "Propone soluciones neutrales sin tomar partido por ninguna de las partes.",
+              "Identifica cuándo un conflicto requiere ayuda de un adulto."
+            ],
+            "un_refuerzo": "Taller de comunicación asertiva: 'Cómo decir lo que siento sin herir'."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Alerta: Planeta en Acción",
+            "un_reto_sugerido": "Diseñar un 'Plan de Gestión de Riesgos' para la institución educativa frente a un sismo o inundación.",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de evacuación guiado y análisis de los puntos seguros del colegio.",
+              "visual": "Mapa de riesgos de Colombia resaltando zonas afectadas por el fenómeno del Niño y la Niña.",
+              "produccion": "Folleto informativo con recomendaciones de seguridad para las familias en caso de desastres naturales."
+            },
+            "para_pensar": [
+              "¿Por qué los fenómenos naturales afectan más a las personas que viven en zonas pobres?",
+              "¿Cómo influyen las lluvias tropicales en la economía de los campesinos colombianos?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las consecuencias de un sismo de las de un fenómeno climático.",
+              "Argumenta la importancia de las campañas de prevención en la comunidad."
+            ],
+            "un_refuerzo": "Video de la Unidad Nacional para la Gestión del Riesgo sobre sismos."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Civilizaciones del Agua",
+            "un_reto_sugerido": "Construir un modelo de 'Canal de Riego' antiguo que explique cómo los ríos permitieron el nacimiento de las ciudades.",
+            "ruta_de_exploracion": {
+              "explorar": "Experimento: ¿Cómo regar una planta a distancia usando solo la gravedad y canales?",
+              "visual": "Mapa de las primeras ciudades fluviales (Egipto, Mesopotamia, India, China).",
+              "produccion": "Exposición sobre el legado de la ingeniería antigua: desde el ladrillo hasta la escritura."
+            },
+            "para_pensar": [
+              "¿Por qué todas las grandes civilizaciones nacieron cerca de un río?",
+              "¿Qué relación hay entre el comercio de granos y la invención de la escritura?"
+            ],
+            "pistas_del_exito": [
+              "Explica el papel de los ríos en la construcción de las primeras ciudades.",
+              "Describe el impacto de la sedentarización en la revolución agrícola."
+            ],
+            "un_refuerzo": "Galería de imágenes sobre los inventos de Mesopotamia y Egipto."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Ciudadanos del Ágora Moderna",
+            "un_reto_sugerido": "Realizar un foro sobre la importancia de la participación juvenil en las decisiones del barrio o vereda.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevista a un adulto: ¿Cómo era ser ciudadano antes y cómo es ahora?",
+              "visual": "Línea de tiempo del concepto de ciudadanía (desde Grecia hasta hoy).",
+              "produccion": "Discurso de campaña que proponga una solución para el bienestar colectivo de su comunidad."
+            },
+            "para_pensar": [
+              "¿Qué sucede en una comunidad cuando nadie quiere participar en las reuniones?",
+              "¿Por qué respetar la opinión ajena es la base de la democracia?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta la importancia de la participación activa para el bienestar común.",
+              "Describe los cambios históricos del significado de ciudadanía."
+            ],
+            "un_refuerzo": "Lectura sobre el origen de la palabra 'Democracia'."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Mi Identidad, Mi Tesoro",
+            "un_reto_sugerido": "Crear un 'Museo de Identidades' en el aula donde cada estudiante resalte los grupos a los que pertenece.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica 'El hilo de la pertenencia': Tejer una red con lana uniendo a quienes comparten gustos o grupos.",
+              "visual": "Póster sobre las libertades fundamentales (expresión, culto, conciencia).",
+              "produccion": "Campaña de 'Cero Discriminación' con carteles que defiendan el derecho a la igualdad."
+            },
+            "para_pensar": [
+              "¿Cómo se siente una persona cuando es excluida de un grupo por ser diferente?",
+              "¿Por qué ser diferente es una riqueza y no un problema para el salón?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el impacto negativo de la discriminación en la autoestima.",
+              "Promueve el respeto por diversas formas de expresión de la identidad."
+            ],
+            "un_refuerzo": "Video pedagógico sobre los derechos de los niños y las niñas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Pasaporte por Colombia",
+            "un_reto_sugerido": "Diseñar un folleto turístico y económico que resalte las bondades de una región natural de Colombia.",
+            "ruta_de_exploracion": {
+              "explorar": "Degustación de alimentos típicos y adivinar a qué región natural pertenecen.",
+              "visual": "Mapa físico-económico de Colombia señalando los principales sectores productivos.",
+              "produccion": "Exposición sobre la organización económica de un grupo étnico específico del país."
+            },
+            "para_pensar": [
+              "¿Por qué la economía de la Costa es tan diferente a la economía de la región Andina?",
+              "¿Cómo influyen los recursos naturales en la forma de vida de los grupos étnicos?"
+            ],
+            "pistas_del_exito": [
+              "Describe las particularidades geográficas de las seis regiones naturales de Colombia.",
+              "Compara la organización económica de Colombia con la de otras culturas."
+            ],
+            "un_refuerzo": "Exploración de mapas regionales interactivos del IGAC."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Legado de los Imperios del Sol",
+            "un_reto_sugerido": "Crear un 'Calendario de Saberes' que integre aportes astronómicos y agrícolas de Mayas, Aztecas e Incas.",
+            "ruta_de_exploracion": {
+              "explorar": "Identificar en la cocina del colegio qué alimentos son originarios de América (papa, maíz, tomate).",
+              "visual": "Mapa de las sociedades prehispánicas comparando sus estructuras políticas y arquitectónicas.",
+              "produccion": "Construcción de una maqueta de una técnica de cultivo ancestral (terrazas incas o chinampas aztecas)."
+            },
+            "para_pensar": [
+              "¿Qué podemos aprender hoy de la astronomía y arquitectura de los pueblos prehispánicos?",
+              "¿Cómo cambió la dieta del mundo entero con los alimentos domesticados en América?"
+            ],
+            "pistas_del_exito": [
+              "Describe los aportes tecnológicos de al menos dos sociedades prehispánicas.",
+              "Sitúa geográficamente a las culturas Maya, Azteca, Inca y Chibcha."
+            ],
+            "un_refuerzo": "Video sobre los avances en ingeniería hidráulica de los pueblos ancestrales."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Colombia: Un Arcoíris de Derechos",
+            "un_reto_sugerido": "Realizar un festival multicultural donde se presente un pacto por el respeto a la diversidad étnica y de género.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos: ¿Qué dice la Constitución sobre el racismo? Debate de situaciones cotidianas.",
+              "visual": "Infografía sobre el principio de igualdad ante la ley según la Declaración de DDHH.",
+              "produccion": "Propuesta de una ruta de atención escolar para prevenir situaciones de discriminación por apariencia física."
+            },
+            "para_pensar": [
+              "¿Por qué vivir en un país multicultural ayuda a construir mi propia identidad?",
+              "¿Es suficiente que la ley diga que somos iguales si nosotros no nos respetamos?"
+            ],
+            "pistas_del_exito": [
+              "Explica cómo la interculturalidad fortalece la sociedad democrática.",
+              "Argumenta el derecho a la no discriminación basado en la Constitución."
+            ],
+            "un_refuerzo": "Lectura de los artículos constitucionales sobre la protección a la diversidad cultural."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de Perspectivas",
+            "un_reto_sugerido": "Escribir un 'Libro de la Confianza' con acciones para restaurar relaciones después de un engaño o malentendido.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de las dos versiones: Escuchar una historia desde dos puntos de vista diferentes sin juzgar.",
+              "visual": "Mapa de intenciones: Analizar si un daño fue accidental o malintencionado en casos escolares reales.",
+              "produccion": "Taller de 'Reparación de Vínculos' mediante cartas de disculpa y compromisos de honestidad."
+            },
+            "para_pensar": [
+              "¿Por qué a veces pensamos mal de los demás antes de preguntarles qué pasó?",
+              "¿Cómo afecta el engaño la convivencia del salón de clases a largo plazo?"
+            ],
+            "pistas_del_exito": [
+              "Escucha activamente ambas partes en un conflicto sin tomar partido inmediato.",
+              "Propone acciones concretas para recuperar la confianza perdida en el grupo."
+            ],
+            "un_refuerzo": "Lectura de una fábula sobre la honestidad y la recuperación de la confianza."
+          }
+        }
+      ]
+    }
+  ]
+}

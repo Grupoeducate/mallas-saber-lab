@@ -66,7 +66,7 @@
     "2": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Explico la estructura de la célula y las funciones básicas de sus componentes. Verifico y explico los procesos de ósmosis y difusión. Clasifico membranas de los seres vivos de acuerdo con su permeabilidad frente a diversas sustancias. Comparo mecanismos de obtención de energía en los seres vivos.",
+        "estandar": "Explico la estructura de la célula y las funciones básicas de sus componentes. Comparo mecanismos de obtención de energía en los seres vivos. Comparo sistemas de división celular y argumento su importancia en la generación de nuevos organismos y tejidos.",
         "dba": [
           "DBA-NAT-6-4 Comprende algunas de las funciones básicas de la célula (transporte de membrana, obtención de energía y división celular) a partir del análisis de su estructura."
         ],
@@ -123,12 +123,13 @@
     "3": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Clasifico organismos en grupos taxonómicos de acuerdo con las características de sus células. Reconozco en diversos grupos taxonómicos la presencia de las mismas moléculas orgánicas. Clasifico organismos en grupos taxonómicos de acuerdo con sus características celulares.",
+        "estandar": "Reconozco en diversos grupos taxonómicos la presencia de las mismas moléculas orgánicas. Clasifico organismos en grupos taxonómicos de acuerdo con sus características celulares. Formulo hipótesis sobre las causas de extinción de un grupo taxonómico.",
         "dba": [
           "DBA-NAT-6-5 Comprende la clasificación de los organismos en grupos taxonómicos, de acuerdo con el tipo de células que poseen y reconoce la diversidad de especies que constituyen nuestro planeta y las relaciones de parentesco entre ellas."
         ],
         "evidencias": [
-          "NAT-6-D5-E1 Identifica organismos (animales o plantas) de su entorno y los clasifica usando gráficos, tablas y otras representaciones siguiendo claves taxonómicas simples."
+          "NAT-6-D5-E1 Identifica organismos (animales o plantas) de su entorno y los clasifica usando gráficos, tablas y otras representaciones siguiendo claves taxonómicas simples.",
+          "NAT-6-D5-E3 Explica la clasificación taxonómica como mecanismo que permite reconocer la biodiversidad en el planeta y las relaciones de parentesco entre los organismos."
         ],
         "saberes": [
           "Claves taxonómicas."

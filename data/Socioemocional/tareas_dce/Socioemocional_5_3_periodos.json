@@ -1,0 +1,79 @@
+{
+  "area": "Proyecto Socioemocional",
+  "grado": "5",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "competencia_anual": "Autonomía inicial y responsabilidad",
+        "estandar": "Identifico y nombro emociones complejas (frustración, culpa, orgullo) en situaciones escolares para iniciar su autorregulación",
+        "competencia": "Conciencia emocional",
+        "eje_central": "Tomo decisiones y asumo consecuencias",
+        "Habilidades": [
+          "Reflexión Previa a la Decisión: Evalúa las posibles consecuencias antes de tomar una decisión",
+          "Asunción de Responsabilidad: Acepta la responsabilidad de sus elecciones y sus resultados",
+          "Aprendizaje a partir del Error: Reconoce sus errores y los utiliza para mejorar futuras acciones"
+        ],
+        "evidencias_de_desempeno": [
+          "Nombra emociones como frustración o orgullo ante éxitos/fracasos en tareas grupales",
+          "Describe las situaciones específicas (tareas difíciles, comentarios de compañeros, esperas largas) que le generan emociones complejas"
+        ],
+        "orientacion_bateria": "Auto conocimiento"
+      }
+    ],
+    "2": [
+      {
+        "competencia_anual": "Autonomía inicial y responsabilidad",
+        "estandar": "Aplico estrategias de autorregulación ante emociones intensas durante clases desafiantes",
+        "competencia": "Autonomía emocional",
+        "eje_central": "Me cuido y respeto mi cuerpo",
+        "Habilidades": [
+          "Autocuidado e Higiene: Mantiene hábitos de higiene diarios para el cuidado de su cuerpo",
+          "Establecimiento de Límites Personales: Expresa límites verbales 'no' ante situaciones que le incomodan",
+          "Respeto por la Integridad Ajena: Demuestra respeto por el cuerpo y los límites de otras personas"
+        ],
+        "evidencias_de_desempeno": [
+          "Usa técnicas (respiración, conteo) para calmarse ante frustraciones académicas",
+          "Retoma tareas tras pausas voluntarias, manteniendo el enfoque"
+        ],
+        "orientacion_bateria": "Regulación colectiva"
+      }
+    ],
+    "3": [
+      {
+        "competencia_anual": "Autonomía inicial y responsabilidad",
+        "estandar": [
+          "Expreso emociones con responsabilidad, considerando impactos en compañeros y grupo",
+          "Gestiono mis emociones complejas con autonomía y responsabilidad, fortaleciendo mi aprendizaje y relaciones en el aula"
+        ],
+        "competencia": [
+          "Regulación emocional",
+          "Habilidades sociales"
+        ],
+        "eje_central": [
+          "Afronto errores y me levanto",
+          "Decidimos juntos y respetamos acuerdos"
+        ],
+        "Habilidades": [
+          "Perseverancia ante la Frustración: Mantiene el esfuerzo y no se rinde ante errores o dificultades",
+          "Búsqueda Activa de Soluciones: Solicita ayuda o busca nuevas estrategias para superar desafíos",
+          "Autoeficacia y Confianza: Expresa confianza en su capacidad para mejorar y aprender",
+          "Participación en Decisiones Colectivas: Participa activamente en la toma de decisiones del grupo",
+          "Respeto y Cumplimiento de Acuerdos: Respeta y cumple los acuerdos establecidos por la mayoría",
+          "Cooperación e Inclusión: Escucha y considera las ideas de todos los miembros del grupo"
+        ],
+        "evidencias_de_desempeno": [
+          "Comunica sentimientos usando 'yo siento... porque...' sin culpar a otros",
+          "Pide disculpas y repara cuando sus emociones afectan la convivencia",
+          "Ajusta su comportamiento emocional para colaborar efectivamente en equipo",
+          "Reflexiona sobre sus decisiones emocionales y propone mejoras personales"
+        ],
+        "orientacion_bateria": [
+          "Responsabilidad y toma de decisiones",
+          "Convivencia y ciudadanía"
+        ]
+      }
+    ]
+  }
+}

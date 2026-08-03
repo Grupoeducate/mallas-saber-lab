@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "10",
+  "nombre_archivo": "t_ciencias_sociales_10_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes del Hilo Azul",
+            "un_reto_sugerido": "Diseñar un plan de gestión sostenible del recurso hídrico para una comunidad afectada por la escasez o contaminación.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una 'cata de agua' simbólica y discutir de dónde viene el agua de la escuela y qué pasaría si desapareciera.",
+              "visual": "Crear un mapa infográfico sobre la disponibilidad de agua en las regiones de Colombia y los focos de contaminación industrial.",
+              "produccion": "Elaborar un decálogo de políticas públicas juveniles para la conservación del agua en su municipio."
+            },
+            "para_pensar": [
+              "¿Puede el desarrollo tecnológico ser realmente 'amigable' con el medio ambiente o es una contradicción?",
+              "¿De quién es el agua: de quien la necesita o de quien puede pagarla?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente entre contaminación industrial y doméstica.",
+              "Propone acciones de sostenibilidad basadas en la realidad de su región."
+            ],
+            "un_refuerzo": "Ver un documental corto sobre los páramos en Colombia y su importancia como fábricas de agua."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Máquina del Tiempo Bipartidista",
+            "un_reto_sugerido": "Escribir una crónica periodística que relate los sucesos del Bogotazo desde dos perspectivas políticas opuestas.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de rol: 'El debate de los colores', donde se simula una plaza pública de mediados del siglo XX.",
+              "visual": "Línea de tiempo ilustrada que conecte el Bipartidismo, el 9 de abril y el Frente Nacional.",
+              "produccion": "Podcast o dramatización sobre una familia afectada por el desplazamiento durante 'La Violencia'."
+            },
+            "para_pensar": [
+              "¿Qué tanto del conflicto actual tiene sus raíces en las rivalidades del siglo pasado?",
+              "¿Fue el Frente Nacional una solución democrática o una exclusión necesaria?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente los actores armados y políticos del periodo.",
+              "Relaciona la violencia histórica con dinámicas de convivencia actuales."
+            ],
+            "un_refuerzo": "Lectura de fragmentos de 'Vivir para contarla' de García Márquez sobre el 9 de abril."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Radiografía del Poder Social",
+            "un_reto_sugerido": "Mapear el impacto de los cambios políticos del siglo XX en las organizaciones sociales y campesinas actuales.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas sobre qué organizaciones sociales existen en su comunidad (juntas de acción comunal, sindicatos, etc.).",
+              "visual": "Diagrama de flujo que muestre la transición del bipartidismo a la crisis de los partidos tradicionales.",
+              "produccion": "Propuesta de fortalecimiento para una organización social local basada en la historia de lucha civil."
+            },
+            "para_pensar": [
+              "¿Por qué la crisis de los partidos tradicionales dio paso a nuevas formas de organización social?",
+              "¿Cómo afecta la historia política la confianza de los ciudadanos en sus líderes actuales?"
+            ],
+            "pistas_del_exito": [
+              "Explica al menos dos consecuencias de la crisis del bipartidismo.",
+              "Identifica el papel de las organizaciones sociales en la democracia colombiana."
+            ],
+            "un_refuerzo": "Entrevista a un líder comunitario sobre la historia de su organización."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Escudo del Estado de Derecho",
+            "un_reto_sugerido": "Resolver un caso hipotético de conflicto armado aplicando los principios del Derecho Internacional Humanitario (DIH).",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de noticias actuales sobre conflictos globales y búsqueda de 'reglas' que se deberían seguir.",
+              "visual": "Cuadro comparativo entre Derechos Humanos y Derecho Internacional Humanitario.",
+              "produccion": "Simulacro de audiencia donde se defienda la protección de la población civil en un conflicto local."
+            },
+            "para_pensar": [
+              "¿Por qué incluso en la guerra deben existir leyes y límites?",
+              "¿Cómo influye el cumplimiento de las leyes en mi proyecto de vida personal?"
+            ],
+            "pistas_del_exito": [
+              "Aplica correctamente el concepto de 'distinción' (civil vs combatiente) del DIH.",
+              "Argumenta con base en la Constitución Política de Colombia."
+            ],
+            "un_refuerzo": "Uso de la aplicación interactiva de la Cruz Roja sobre reglas básicas de la guerra."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Oro Verde vs. Oro Negro",
+            "un_reto_sugerido": "Organizar un juicio ambiental sobre un caso real de minería en Colombia (Santurbán o La Colosa).",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de fotografías 'antes y después' de zonas mineras y discusión sobre la seguridad alimentaria.",
+              "visual": "Mapa de recursos minerales en Colombia superpuesto con zonas de reserva forestal y cuencas hídricas.",
+              "produccion": "Artículo de opinión sobre el equilibrio necesario entre economía extractiva y sostenibilidad hídrica."
+            },
+            "para_pensar": [
+              "¿Es posible una minería que no comprometa el derecho a la alimentación?",
+              "¿Quién debe decidir sobre el uso del suelo: el gobierno nacional o la comunidad local?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia impactos entre minería legal e ilegal.",
+              "Describe correctamente los conceptos de deforestación y desertización."
+            ],
+            "un_refuerzo": "Visualización de cartografías del sistema de información ambiental de Colombia (SIAC)."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Hilos de Memoria y Paz",
+            "un_reto_sugerido": "Crear un museo de la memoria móvil que explique el origen de las guerrillas y el paramilitarismo.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de canciones o poemas que hablen sobre la vida en el campo durante el conflicto.",
+              "visual": "Línea de tiempo creativa que ubique el surgimiento de las FARC, ELN y AUC.",
+              "produccion": "Diseño de un 'Protocolo de Mediación Escolar' inspirado en los procesos de paz históricos del país."
+            },
+            "para_pensar": [
+              "¿Por qué el narcotráfico transformó ideológicamente a los grupos armados?",
+              "¿Es el diálogo siempre la mejor vía, incluso con grupos que usan la violencia?"
+            ],
+            "pistas_del_exito": [
+              "Explica las causas sociales del origen de la insurgencia.",
+              "Propone estrategias de diálogo aplicables al entorno escolar."
+            ],
+            "un_refuerzo": "Navegar por el portal digital del Centro Nacional de Memoria Histórica."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Voces de la Insurgencia y el Estado",
+            "un_reto_sugerido": "Realizar un análisis comparativo sobre cómo ha cambiado el conflicto armado desde los años 60 hasta hoy.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Qué palabras asociamos con 'guerrilla' y cómo han cambiado en el tiempo?",
+              "visual": "Mapa conceptual sobre las transformaciones del conflicto (ideología, finanzas, impacto social).",
+              "produccion": "Ensayo crítico sobre el impacto de la insurgencia en la construcción de la identidad política rural."
+            },
+            "para_pensar": [
+              "¿Se mantienen las causas originales de las guerrillas en la actualidad?",
+              "¿Cómo afecta el conflicto armado la imagen de Colombia ante el mundo?"
+            ],
+            "pistas_del_exito": [
+              "Identifica cambios y continuidades en los movimientos guerrilleros.",
+              "Describe el impacto social de la violencia insurgente."
+            ],
+            "un_refuerzo": "Lectura de crónicas sobre la Unión Patriótica y su exterminio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Campaña: Mi Voz, Mis Derechos",
+            "un_reto_sugerido": "Crear una campaña publicitaria (video o cartelismo) para promover el respeto a los DDHH en la escuela.",
+            "ruta_de_exploracion": {
+              "explorar": "Auditoría de Derechos Humanos: los estudiantes recorren la escuela identificando dónde se cumplen o vulneran derechos.",
+              "visual": "Infografía sobre los mecanismos de veeduría ciudadana y denuncia de violaciones a DDHH.",
+              "produccion": "Video de 'Tik Tok' educativo o reel explicando un derecho humano y cómo defenderlo."
+            },
+            "para_pensar": [
+              "¿Es suficiente conocer los derechos para que se cumplan?",
+              "¿Qué papel juego yo como veedor de los derechos de mis compañeros?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza formas creativas de expresión para la defensa de derechos.",
+              "Propone técnicas de negociación para resolver disputas grupales."
+            ],
+            "un_refuerzo": "Taller práctico sobre cómo redactar un derecho de petición sencillo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Mercado de las Ideologías",
+            "un_reto_sugerido": "Crear un 'Pitch' de negocios donde se defienda un modelo de desarrollo (Capitalismo, Socialismo o Neoliberalismo) para un país ficticio.",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de subasta donde los precios varían según reglas de diferentes modelos económicos.",
+              "visual": "Matriz comparativa entre Microeconomía y Macroeconomía aplicada a la canasta familiar.",
+              "produccion": "Análisis escrito sobre el impacto de la Apertura Económica en los campesinos de su región."
+            },
+            "para_pensar": [
+              "¿Puede un modelo económico ser exitoso si genera desigualdad social?",
+              "¿Cómo afecta la globalización lo que desayunamos hoy?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia correctamente conceptos de liberalismo, marxismo y neoliberalismo.",
+              "Explica el impacto de los modelos de desarrollo en Colombia."
+            ],
+            "un_refuerzo": "Juego de mesa 'Monopolio' modificado con reglas de economía solidaria."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Corresponsales de Guerra",
+            "un_reto_sugerido": "Elaborar un periódico de la época que cubra los hitos de la Primera Guerra Mundial.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de cartas reales enviadas por soldados desde las trincheras.",
+              "visual": "Mapa interactivo de los cambios geopolíticos en Europa tras el fin de la Gran Guerra.",
+              "produccion": "Debate sobre el uso de la tecnología (química, aviación) en la guerra y su dilema ético."
+            },
+            "para_pensar": [
+              "¿Fue la Primera Guerra Mundial realmente la 'guerra para acabar con todas las guerras'?",
+              "¿Cómo cambió el papel de la mujer en la sociedad tras el estallido del conflicto?"
+            ],
+            "pistas_del_exito": [
+              "Identifica las causas y la cronología de la Primera Guerra Mundial.",
+              "Asume una posición crítica frente al avance militar tecnológico."
+            ],
+            "un_refuerzo": "Ver fragmentos de la película '1917' para analizar el ambiente de las trincheras."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Cumbre Global de Estudiantes",
+            "un_reto_sugerido": "Simular una asamblea de la ONU para resolver un conflicto internacional sobre derechos humanos.",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de logotipos de organismos internacionales y discusión sobre qué creen que hacen (ONU, OEA, OMS).",
+              "visual": "Organigrama de los organismos multilaterales y su relación con el gobierno colombiano.",
+              "produccion": "Discurso de delegado defendiendo la soberanía nacional frente a una recomendación de un organismo internacional."
+            },
+            "para_pensar": [
+              "¿Tienen los organismos internacionales poder real sobre lo que pasa en Colombia?",
+              "¿Qué es más importante: la paz global o los intereses de una sola nación?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el papel de la OEA y la ONU en políticas internas.",
+              "Describe las características de la sociedad de la información."
+            ],
+            "un_refuerzo": "Explorar la página 'UN Youth' para conocer proyectos de jóvenes en el mundo."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Espejos de la Diferencia",
+            "un_reto_sugerido": "Diseñar un 'Protocolo de Respeto' que establezca los límites entre la libertad cultural y los derechos humanos universales.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica 'El círculo de exclusión' para experimentar simbólicamente la discriminación.",
+              "visual": "Galería de imágenes sobre la historia de la exclusión social en Colombia (etnias, género, religión).",
+              "produccion": "Manifiesto grupal contra la discriminación en las redes sociales de la institución."
+            },
+            "para_pensar": [
+              "¿Se debe respetar una tradición cultural si esta vulnera un derecho humano?",
+              "¿Cómo puedo ser un agente de cambio ante la discriminación en mi salón?"
+            ],
+            "pistas_del_exito": [
+              "Establece límites claros entre respeto cultural y DDHH.",
+              "Propone acciones para mitigar la exclusión en la comunidad educativa."
+            ],
+            "un_refuerzo": "Lectura de la Declaración Universal de los Derechos Humanos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Expedición Bio-Diversa",
+            "un_reto_sugerido": "Producir un video-reportaje sobre una especie en peligro en su región y las causas de la pérdida de su hábitat.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de identificación de fauna y flora local a través de sonidos o siluetas.",
+              "visual": "Infografía sobre las funciones del Ministerio de Ambiente y las CAR (Corporaciones Autónomas).",
+              "produccion": "Carta dirigida a la autoridad ambiental local exigiendo acciones contra la pérdida de biodiversidad."
+            },
+            "para_pensar": [
+              "¿Por qué Colombia es potencia mundial en biodiversidad pero tiene tantos riesgos ambientales?",
+              "¿Deben permitirse los productos transgénicos si ayudan a combatir el hambre?"
+            ],
+            "pistas_del_exito": [
+              "Argumenta la pérdida de biodiversidad con datos de fuentes oficiales.",
+              "Identifica las entidades estatales encargadas del medio ambiente."
+            ],
+            "un_refuerzo": "Visita virtual a un Parque Nacional Natural de Colombia."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Cartógrafos del Nuevo Mundo",
+            "un_reto_sugerido": "Diseñar un mapa temático que compare el mundo antes y después de la Segunda Guerra Mundial.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de propaganda bélica de los Aliados y del Eje para entender la guerra psicológica.",
+              "visual": "Esquema cronológico de las etapas clave de la Segunda Guerra Mundial.",
+              "produccion": "Exposición sobre las consecuencias científicas (energía atómica, medicina) heredadas del conflicto."
+            },
+            "para_pensar": [
+              "¿Cómo influyó el Holocausto en la creación de los Derechos Humanos modernos?",
+              "¿Es posible que ocurra una Tercera Guerra Mundial con la tecnología actual?"
+            ],
+            "pistas_del_exito": [
+              "Explica las transformaciones geopolíticas post-guerra.",
+              "Representa correctamente los cambios territoriales en mapas."
+            ],
+            "un_refuerzo": "Ver el documental interactivo 'The Fallen of World War II'."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Laboratorio de Democracia Viva",
+            "un_reto_sugerido": "Redactar una Acción de Tutela simulada para proteger el derecho a la educación o salud de una población desplazada.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate: ¿Cuál es la diferencia entre votar (representativo) y proponer (participativo)?",
+              "visual": "Cuadro comparativo de mecanismos de protección: Tutela, Acción Popular y Acción de Cumplimiento.",
+              "produccion": "Guion para un sociodrama sobre la riqueza de la diversidad étnica y el rechazo a la exclusión."
+            },
+            "para_pensar": [
+              "¿Por qué el desplazamiento forzado es una de las mayores crisis éticas de Colombia?",
+              "¿Cómo transforma la diversidad cultural la convivencia en una ciudad?"
+            ],
+            "pistas_del_exito": [
+              "Compara adecuadamente los mecanismos de protección de DDHH.",
+              "Explica la diferencia entre multiculturalismo e interculturalidad."
+            ],
+            "un_refuerzo": "Consulta de la 'Cartilla de la Tutela' de la Corte Constitucional."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Embajadores de la Paz Global",
+            "un_reto_sugerido": "Organizar un 'Flashmob' o intervención artística pacífica que manifieste solidaridad con víctimas de conflictos actuales en el mundo.",
+            "ruta_de_exploracion": {
+              "explorar": "Visualización de testimonios de refugiados y diálogo sobre la empatía internacional.",
+              "visual": "Mural colaborativo sobre las normas constitucionales que preservan la paz en Colombia.",
+              "produccion": "Plan de acción para convertir el salón de clase en un territorio de 'paz constitucional'."
+            },
+            "para_pensar": [
+              "¿Puede la indignación pacífica cambiar las políticas de un país?",
+              "¿Por qué es importante valorar la diferencia política para evitar la violencia?"
+            ],
+            "pistas_del_exito": [
+              "Diseña planes de promoción de DDHH aplicables al aula.",
+              "Expresa solidaridad de forma argumentada ante conflictos globales."
+            ],
+            "un_refuerzo": "Lectura de los artículos de la Constitución colombiana dedicados a la paz."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "area": "Inglés",
+  "grado": "6",
+  "nombre_archivo": "t_ingles_6_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Social Connector Lab",
+            "un_reto_sugerido": "Mantener una conversación fluida sobre tu familia y amigos usando conectores de adición y contraste para ganar el 'Sello de Comunicador Global'.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de entrevistas a personajes famosos y levantar una tarjeta verde al oír 'and' y una roja al oír 'but'.",
+              "visual": "Crear un 'Mapa de Relaciones' usando líneas continuas para adición (and) y líneas punteadas para contraste (but) entre miembros de la familia.",
+              "produccion": "Role-play: Simular un encuentro en una cafetería donde se presentan dos amigos y se cuentan detalles usando la estructura: Inicio, Nudo y Cierre."
+            },
+            "para_pensar": [
+              "¿Cómo cambia el sentido de una frase si usamos 'pero' en lugar de 'y'?",
+              "¿Por qué es importante saber disculparse y agradecer en una conversación real?"
+            ],
+            "pistas_del_exito": [
+              "Identifica conectores temporales (first, second) en un audio.",
+              "Utiliza fórmulas de cortesía (Please, Thank you, I'm sorry) de forma espontánea."
+            ],
+            "un_refuerzo": "Video tutorial corto sobre la entonación en preguntas de sí/no frente a preguntas de información."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Daily Life Vloggers",
+            "un_reto_sugerido": "Grabar un video de un minuto describiendo tu rutina diaria y la de un miembro de tu familia.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de mímica de rutinas: un estudiante actúa su mañana y los demás adivinan el verbo en inglés.",
+              "visual": "Diseñar un 'Storyboard' con 6 escenas de la rutina diaria etiquetando cada acción con el vocabulario temático.",
+              "produccion": "Presentación oral frente al grupo usando fotos o dibujos para narrar: 'First, I wake up at 6:00, but my brother wakes up at 7:00'."
+            },
+            "para_pensar": [
+              "¿En qué se diferencia tu rutina de la de un adulto en tu casa?",
+              "¿Por qué las instrucciones deben ser claras y cortas al hablar?"
+            ],
+            "pistas_del_exito": [
+              "Describe rutinas de terceros usando correctamente la 's' en el verbo (He/She).",
+              "Utiliza vocabulario de lugares y objetos del hogar con precisión."
+            ],
+            "un_refuerzo": "Guía visual de conectores de orden temporal para pegar en el cuaderno."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "Culture Hunters",
+            "un_reto_sugerido": "Crear un perfil de identidad internacional completando formatos y describiendo festividades culturales.",
+            "ruta_de_exploracion": {
+              "explorar": "Competencia de búsqueda en el diccionario: encontrar el significado de 5 palabras clave sobre celebraciones en tiempo récord.",
+              "visual": "Llenar una 'Ficha de Identidad' (ID Card) con datos como: Nationality, Date of Birth, Gender y Address.",
+              "produccion": "Escribir un párrafo descriptivo sobre una celebración favorita (Christmas, Birthdays) mencionando qué, quién, cuándo y dónde."
+            },
+            "para_pensar": [
+              "¿Por qué el diccionario nos da varias opciones para una misma palabra?",
+              "¿Qué datos personales son seguros para compartir en una red social y cuáles no?"
+            ],
+            "pistas_del_exito": [
+              "Extrae información específica de textos académicos sencillos.",
+              "Redacta descripciones breves usando oraciones de estructura Sujeto-Verbo-Complemento."
+            ],
+            "un_refuerzo": "Plantilla de 'Fill-in-the-blanks' con un texto sobre costumbres para practicar la extracción de información."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Conversación y Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Time Machine Challenge",
+            "un_reto_sugerido": "Comparar la vida de un personaje histórico con la tuya usando comparativos y los tiempos Presente/Pasado Simple.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotos 'Vintage' vs 'Modern' y decir oraciones simples: 'Then people walked, now people drive'.",
+              "visual": "Crear un diagrama de Venn comparativo usando estructuras como 'as...as' y 'than'.",
+              "produccion": "Monólogo: Presentar la biografía corta de un personaje famoso resaltando qué hacía antes y qué hace ahora (o qué hacen sus sucesores)."
+            },
+            "para_pensar": [
+              "¿Cómo ha cambiado la tecnología nuestra rutina diaria en comparación con el pasado?",
+              "¿Por qué es importante el contexto al elegir entre Presente Simple y Pasado Simple?"
+            ],
+            "pistas_del_exito": [
+              "Establece comparaciones gramaticalmente correctas entre dos objetos o personas.",
+              "Usa conectores de contraste (but) para marcar diferencias temporales."
+            ],
+            "un_refuerzo": "Lista de verbos irregulares comunes en pasado simple con ejemplos ilustrados."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The City Reporter",
+            "un_reto_sugerido": "Escribir un reporte sobre un evento cultural de la ciudad estableciendo causas y efectos de las actividades.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura dirigida de un artículo sobre una feria o festival local identificando vocabulario desconocido.",
+              "visual": "Hacer un esquema de 'Causa y Efecto' usando flechas para conectar acciones (Event -> Result).",
+              "produccion": "Escribir un mensaje corto invitando a un turista al evento, describiendo el lugar, las personas y su opinión personal."
+            },
+            "para_pensar": [
+              "¿Qué hace que un evento cultural sea interesante para un extranjero?",
+              "¿Cómo ayudan los conectores de comparación a dar una mejor opinión?"
+            ],
+            "pistas_del_exito": [
+              "Identifica elementos culturales específicos en textos informativos.",
+              "Escribe textos cortos que expresan contraste y adición con claridad."
+            ],
+            "un_refuerzo": "Ejercicios de apareamiento de adjetivos comparativos (Short-Shorter, Big-Bigger)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The American Road Trip",
+            "un_reto_sugerido": "Planear un viaje por América respondiendo preguntas sobre por qué elegiste ciertos destinos (uso de 'because').",
+            "ruta_de_exploracion": {
+              "explorar": "Listening: Escuchar descripciones de ciudades americanas y marcar en un mapa las coordenadas o lugares mencionados.",
+              "visual": "Diseñar una infografía de un destino turístico incluyendo datos de clima, comida y 'Reasons to visit'.",
+              "produccion": "Diálogo: Un agente de viajes y un turista discutiendo el itinerario y pidiendo favores ('Could you help me with...?')."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre usar 'Because' y 'Because of'?",
+              "¿Por qué es cortés pedir favores con estructuras modales en lugar de imperativos?"
+            ],
+            "pistas_del_exito": [
+              "Comprende explicaciones orales basadas en causas y motivos.",
+              "Inicia y cierra una conversación sobre viajes de forma natural."
+            ],
+            "un_refuerzo": "Podcast corto sobre tradiciones americanas para practicar comprensión auditiva."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Culture Blogger",
+            "un_reto_sugerido": "Publicar una entrada de blog describiendo un evento cultural americano y comparándolo con uno propio.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de imágenes de eventos como 'Thanksgiving' o 'Independence Day' y lluvia de ideas de adjetivos.",
+              "visual": "Crear un 'Mood Board' digital o físico que combine fotos, palabras clave y conectores de causa-efecto.",
+              "produccion": "Escritura de un texto narrativo breve sobre una anécdota familiar ocurrida en una celebración."
+            },
+            "para_pensar": [
+              "¿Cómo influye la cultura en la forma en que celebramos los mismos eventos?",
+              "¿Qué información específica ayuda a un lector a entender un hecho familiar?"
+            ],
+            "pistas_del_exito": [
+              "Extrae información general y específica de textos sobre cultura.",
+              "Responde preguntas literales e inferenciales de complejidad media sobre la lectura."
+            ],
+            "un_refuerzo": "Guía de conectores explicativos (for, since, because) con ejemplos de uso."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "British Mystery Solvers",
+            "un_reto_sugerido": "Resolver un 'misterio' en Londres describiendo qué estaban haciendo los sospechosos (Past Continuous).",
+            "ruta_de_exploracion": {
+              "explorar": "Ver un video corto sobre Londres y listar las acciones que las personas 'estaban realizando' en segundo plano.",
+              "visual": "Dibujar una 'Escena del Crimen' y etiquetar a los personajes con oraciones en pasado continuo.",
+              "produccion": "Interrogatorio: Un detective pregunta 'What were you doing at 5:00?' y el sospechoso se disculpa y explica."
+            },
+            "para_pensar": [
+              "¿Cuándo usamos Pasado Continuo en lugar de Pasado Simple para narrar?",
+              "¿Cómo cambian las reglas de cortesía británicas en comparación con las nuestras?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza el vocabulario adecuado para describir acciones en progreso en el pasado.",
+              "Participa en situaciones comunicativas pidiendo disculpas de forma fluida."
+            ],
+            "un_refuerzo": "Cuadro comparativo entre 'I was working' (Continuo) vs 'I worked' (Simple)."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The UK Travel Guide",
+            "un_reto_sugerido": "Escribir una guía turística sobre el Reino Unido comparando monumentos y describiendo hechos históricos.",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de elementos culturales británicos en textos literarios sencillos (ej: Harry Potter o cuentos clásicos).",
+              "visual": "Hacer un cuadro comparativo entre personajes de la cultura británica usando adjetivos y conectores.",
+              "produccion": "Redactar un texto informativo sobre un lugar icónico (Big Ben, Stonehenge) usando oraciones de pasado y comparaciones."
+            },
+            "para_pensar": [
+              "¿Por qué es importante conocer la historia de un lugar al aprender su idioma?",
+              "¿Cómo nos ayudan las preguntas inferenciales a entender lo que el autor no dice directamente?"
+            ],
+            "pistas_del_exito": [
+              "Identifica significados de palabras complejas usando el contexto del texto británico.",
+              "Narra hechos y actividades familiares integrando el tiempo verbal pasado continuo."
+            ],
+            "un_refuerzo": "Ficha de lectura sobre curiosidades del Reino Unido con glosario incluido."
+          }
+        }
+      ]
+    }
+  ]
+}

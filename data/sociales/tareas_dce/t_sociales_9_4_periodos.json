@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "9",
+  "nombre_archivo": "t_ciencias_sociales_9_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Expedición a los Reinos del Agua",
+            "un_reto_sugerido": "Diseñar un mapa crítico de los geosistemas locales señalando las amenazas por deforestación o minería.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una caminata de observación en el entorno escolar identificando plantas nativas versus invasoras.",
+              "visual": "Elaborar un atlas ilustrado de los páramos y selvas de Colombia y su ubicación geográfica.",
+              "produccion": "Crear una infografía digital o cartelera sobre cómo la frontera agrícola afecta el agua de su comunidad."
+            },
+            "para_pensar": [
+              "¿Cómo cambiaría tu dieta diaria si desaparecieran los páramos en Colombia?",
+              "¿Es posible el turismo sin destruir los arrecifes de coral?"
+            ],
+            "pistas_del_exito": [
+              "Ubica con precisión al menos 3 geosistemas biodiversos en el mapa de Colombia.",
+              "Argumenta con datos reales sobre los niveles de deforestación en las selvas."
+            ],
+            "un_refuerzo": "Video corto sobre la importancia de los manglares como protectores de la costa."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Corresponsales del Siglo XX",
+            "un_reto_sugerido": "Producir un programa de radio al estilo de los años 20 relatando la modernización del país.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar grabaciones radiales antiguas y comparar el lenguaje con el de los podcast actuales.",
+              "visual": "Línea de tiempo que conecte la abolición de la esclavitud con la Masacre de las Bananeras.",
+              "produccion": "Dramatización de un noticiero sobre la llegada del primer automóvil o avión a su región."
+            },
+            "para_pensar": [
+              "¿Por qué el cine y la radio fueron motores de cambio social en Colombia?",
+              "¿Qué derechos ganaron los obreros tras la Masacre de las Bananeras?"
+            ],
+            "pistas_del_exito": [
+              "Identifica cambios sociales reales provocados por la llegada de nuevas tecnologías.",
+              "Explica el origen y las consecuencias de los primeros movimientos obreros."
+            ],
+            "un_refuerzo": "Lectura dirigida de fragmentos de 'Cien años de soledad' referentes a la compañía bananera."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "La Liga de la Participación",
+            "un_reto_sugerido": "Simular un Cabildo Abierto para proponer una solución a un problema del barrio o vereda.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate: ¿Qué es más poderoso, el voto o una tutela? Análisis de casos de la vida real.",
+              "visual": "Cuadro comparativo entre los mecanismos de participación (Plebiscito, Referendo, Consulta Popular).",
+              "produccion": "Formateo de un derecho de petición dirigido a la Defensoría del Pueblo para proteger un derecho colectivo."
+            },
+            "para_pensar": [
+              "¿Por qué la Constitución de 1991 se considera 'la constitución de los derechos'?",
+              "¿Cómo protegen las personerías los derechos de los estudiantes en la escuela?"
+            ],
+            "pistas_del_exito": [
+              "Justifica el uso correcto de al menos tres mecanismos de participación ciudadana.",
+              "Diferencia derechos fundamentales de derechos colectivos y del ambiente."
+            ],
+            "un_refuerzo": "Juego interactivo 'Constitución para armar' sobre la estructura del Estado."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Cazadores de Fake News",
+            "un_reto_sugerido": "Crear un decálogo de verificación para identificar noticias falsas en redes sociales sobre política local.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar tres titulares de noticias actuales y votar por cuáles parecen reales y cuáles sospechosos.",
+              "visual": "Mapa mental sobre las funciones de los representantes escolares y cómo auditarlas.",
+              "produccion": "Campaña de comunicación escolar sobre el derecho a la protesta pacífica y el respeto a la opinión ajena."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los medios masivos en nuestras decisiones políticas?",
+              "¿Qué pasaría en la escuela si nadie hiciera seguimiento a las promesas del Personero Estudiantil?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa críticamente la veracidad de un mensaje mediático usando fuentes confiables.",
+              "Propone una acción concreta de apoyo a personas en situación de vulnerabilidad."
+            ],
+            "un_refuerzo": "Taller de 'Fact-checking' utilizando herramientas digitales gratuitas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Crónicas del Éxodo",
+            "un_reto_sugerido": "Escribir un relato biográfico basado en una entrevista a una persona que haya migrado del campo a la ciudad.",
+            "ruta_de_exploracion": {
+              "explorar": "Mapeo colaborativo: ¿De qué ciudades o pueblos vienen los abuelos de los estudiantes del salón?",
+              "visual": "Diagrama de flujo que explique las causas (violencia, trabajo, servicios) de las migraciones en el siglo XX.",
+              "produccion": "Maqueta o dibujo comparativo de la vida en el campo versus la vida en los cinturones de miseria urbanos."
+            },
+            "para_pensar": [
+              "¿Cómo cambia la identidad de una persona cuando debe abandonar su tierra por la fuerza?",
+              "¿Qué servicios colapsan en una ciudad cuando recibe un flujo masivo de migrantes?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente entre emigración, inmigración y desplazamiento forzado.",
+              "Relaciona los movimientos de población con cambios ambientales y laborales."
+            ],
+            "un_refuerzo": "Documental sobre el desplazamiento forzado en Colombia y sus impactos sociales."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Museo de las Ideas",
+            "un_reto_sugerido": "Organizar una galería de personajes históricos que representen las corrientes de pensamiento del siglo XIX.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate: Liberalismo vs. Conservatismo. ¿Qué ideas de hace 200 años siguen vigentes hoy?",
+              "visual": "Red conceptual sobre el impacto del narcotráfico y el conflicto armado en la política actual.",
+              "produccion": "Ensayo corto comparando los partidos políticos tradicionales con los movimientos actuales."
+            },
+            "para_pensar": [
+              "¿Por qué el pensamiento del siglo XIX sigue influyendo en cómo vemos la religión y la economía hoy?",
+              "¿Cómo afectó la apertura económica la producción de los campesinos colombianos?"
+            ],
+            "pistas_del_exito": [
+              "Establece relaciones claras entre la violencia política del siglo XX y los conflictos actuales.",
+              "Identifica al menos dos corrientes filosóficas que influyeron en América Latina."
+            ],
+            "un_refuerzo": "Lectura de fragmentos de programas políticos originales del siglo XIX."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Escuela de Paz: Sin Etiquetas",
+            "un_reto_sugerido": "Diseñar una campaña de sensibilización escolar contra el uso de estereotipos y prejuicios.",
+            "ruta_de_exploracion": {
+              "explorar": "Actividad 'La etiqueta': Pegar etiquetas en la frente y observar cómo cambia el trato según el prejuicio.",
+              "visual": "Árbol de problemas sobre un conflicto escolar específico y sus posibles ramas de solución.",
+              "produccion": "Crear un 'Manual de Convivencia Juvenil' con alternativas creativas para resolver malentendidos."
+            },
+            "para_pensar": [
+              "¿Cómo un simple chiste puede convertirse en una práctica violatoria de los derechos humanos?",
+              "¿Qué gano yo cuando decido escuchar a alguien que piensa radicalmente diferente?"
+            ],
+            "pistas_del_exito": [
+              "Explica las consecuencias emocionales y sociales de la discriminación.",
+              "Propone al menos dos alternativas de solución basadas en el diálogo para un conflicto grupal."
+            ],
+            "un_refuerzo": "Taller de comunicación asertiva y escucha activa."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Mediadores en Acción",
+            "un_reto_sugerido": "Realizar un sociodrama de mediación de conflictos donde se apliquen técnicas de 'lluvia de ideas' para negociar.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar discursos políticos o de medios que inciten al odio o la violencia.",
+              "visual": "Infografía sobre los pasos para una mediación efectiva en el barrio o colegio.",
+              "produccion": "Redactar un 'Manifiesto por la Paz' donde se desmonten discursos que justifican el uso de la fuerza."
+            },
+            "para_pensar": [
+              "¿Es posible solucionar un conflicto sin que una parte 'pierda' ante la otra?",
+              "¿Por qué es peligroso legitimar la violencia como forma de justicia?"
+            ],
+            "pistas_del_exito": [
+              "Implementa una técnica de mediación en una situación simulada.",
+              "Cuestiona con argumentos sólidos un discurso que justifique la violencia."
+            ],
+            "un_refuerzo": "Lectura de casos de mediación exitosa en comunidades rurales."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Mapa de la Desigualdad",
+            "un_reto_sugerido": "Crear un reporte sobre por qué algunas regiones de Colombia tienen más infraestructuras que otras.",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar fotos de vías de comunicación en ciudades principales versus zonas rurales olvidadas.",
+              "visual": "Cuadro comparativo entre los modelos de Proteccionismo, Liberalismo y Neoliberalismo.",
+              "produccion": "Propuesta de inversión social para una región colombiana con bajo Índice de Desarrollo Humano (IDH)."
+            },
+            "para_pensar": [
+              "¿Cómo influyen las montañas o selvas en que una región sea pobre o rica?",
+              "¿Qué pasa con el empleo nacional cuando se aplica una apertura económica total?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la geografía regional con el crecimiento económico del país.",
+              "Diferencia las características del proteccionismo y el liberalismo económico."
+            ],
+            "un_refuerzo": "Video sobre la historia del Ferrocarril en Colombia y su impacto económico."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Motores de la Historia",
+            "un_reto_sugerido": "Diseñar una 'máquina de vapor' o artefacto simbólico que represente la industrialización colombiana.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías de Bogotá y Medellín a principios del siglo XX y compararlas con las actuales.",
+              "visual": "Mapa temático de las primeras industrias y vías férreas del país.",
+              "produccion": "Reportaje escrito sobre cómo la urbanización cambió la forma de vestir y comer de los colombianos."
+            },
+            "para_pensar": [
+              "¿Cómo cambió la vida de las mujeres con la llegada de las fábricas a las ciudades?",
+              "¿Fue la modernización un proceso que llegó a todos los colombianos por igual?"
+            ],
+            "pistas_del_exito": [
+              "Explica al menos tres cambios provocados por el proceso de industrialización.",
+              "Identifica la relación entre urbanización y medios de comunicación en el siglo XIX."
+            ],
+            "un_refuerzo": "Visita virtual o fotos del Museo Nacional de Colombia (sección industrial)."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Pacto por la Escucha",
+            "un_reto_sugerido": "Elaborar una 'Guía de Solución de Conflictos de Pareja y Amistad' basada en la mediación de la Constitución del 91.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Teléfono Roto' para reflexionar sobre la importancia de la escucha activa.",
+              "visual": "Esquema de los compromisos reales que se necesitan para superar diferencias ideológicas.",
+              "produccion": "Debate grabado sobre cómo rechazar los discursos que legitiman la violencia en la vida diaria."
+            },
+            "para_pensar": [
+              "¿Se puede ser buen ciudadano si no se sabe resolver un conflicto personal con diálogo?",
+              "¿Por qué el acuerdo es más valioso que la imposición en una democracia?"
+            ],
+            "pistas_del_exito": [
+              "Propone alternativas de solución a conflictos basadas en la comprensión de puntos de vista ajenos.",
+              "Rechaza argumentos que validen la violencia como alternativa de solución."
+            ],
+            "un_refuerzo": "Lectura de la 'Cátedra de la Paz' sobre resolución de conflictos."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Dilemas del Corazón y la Razón",
+            "un_reto_sugerido": "Crear un 'Muro de la Diversidad' donde se promueva el respeto por el libre desarrollo de la personalidad.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar casos anónimos de discriminación por orientación sexual y proponer palabras de apoyo.",
+              "visual": "Matriz de pros y contras para resolver dilemas éticos relacionados con la exclusión social.",
+              "produccion": "Organizar un foro de debate sobre los límites de la libertad individual versus las normas grupales."
+            },
+            "para_pensar": [
+              "¿Cómo mis silencios ante una burla contribuyen a la exclusión de un compañero?",
+              "¿Por qué la orientación sexual no debería ser motivo de juicio en una sociedad democrática?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa críticamente sus propias acciones para evitar conductas discriminatorias.",
+              "Reconoce y valora los mejores argumentos en un debate, incluso si no son los suyos."
+            ],
+            "un_refuerzo": "Video pedagógico sobre el derecho al libre desarrollo de la personalidad."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Economistas del Hogar",
+            "un_reto_sugerido": "Simular un presupuesto familiar que sobreviva a una crisis económica de inflación alta.",
+            "ruta_de_exploracion": {
+              "explorar": "Encuesta familiar: ¿Qué productos han subido de precio últimamente y cómo afecta eso el mercado?",
+              "visual": "Gráfico explicativo de las crisis históricas: UPAC, Pacto del Café y Crisis del Petróleo.",
+              "produccion": "Plan de 'Economía Sostenible' para el colegio basado en el ahorro y el consumo consciente."
+            },
+            "para_pensar": [
+              "¿Cómo afecta una crisis en otro país (como el petróleo) el precio de mi pasaje de bus?",
+              "¿Qué estrategias de ahorro usaron nuestros padres en crisis pasadas?"
+            ],
+            "pistas_del_exito": [
+              "Establece causas y efectos claros de una crisis económica en la canasta familiar.",
+              "Plantea una hipótesis coherente sobre el futuro económico del país."
+            ],
+            "un_refuerzo": "Infografía del Banco de la República sobre qué es la inflación y cómo se mide."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Voz del Obrero",
+            "un_reto_sugerido": "Redactar un pliego de peticiones simulado para un sindicato que busque mejorar los derechos laborales.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevista a un trabajador sobre sus derechos (vacaciones, salud, horas extras) y qué sabe de los sindicatos.",
+              "visual": "Esquema sobre la evolución del Código del Trabajo en Colombia.",
+              "produccion": "Póster de conmemoración del 1 de mayo que explique por qué existen los derechos laborales actuales."
+            },
+            "para_pensar": [
+              "¿Qué pasaría con los trabajadores hoy si no existieran los sindicatos?",
+              "¿Cómo ayudó la industrialización a que se crearan leyes para proteger a los empleados?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la industrialización con el surgimiento de los movimientos sindicales.",
+              "Describe correctamente al menos tres derechos fundamentales de la clase trabajadora."
+            ],
+            "un_refuerzo": "Cortometraje sobre la historia del trabajo infantil y cómo se abolió."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Ellas: Fuerza y Paz",
+            "un_reto_sugerido": "Crear un 'Álbum de Heroínas Invisibles' de la historia de Colombia (mujeres en política, ciencia y arte).",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de titulares de noticias para identificar sesgos o violencias mediáticas contra la mujer.",
+              "visual": "Mapa conceptual de los tipos de violencia de género (psicológica, económica, física).",
+              "produccion": "Propuesta de una 'Ruta de Atención' en el colegio para casos de violencia o irrespeto de género."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que las mujeres participen en igualdad de condiciones en la política?",
+              "¿Cómo contribuye el respeto a la identidad de género a una cultura de paz?"
+            ],
+            "pistas_del_exito": [
+              "Caracteriza correctamente al menos tres formas de violencia contra la mujer.",
+              "Explica contribuciones reales de las mujeres en la construcción de una sociedad justa."
+            ],
+            "un_refuerzo": "Charla o video sobre el voto femenino en Colombia y la Ley de Cuotas."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Tribunal de los Dilemas",
+            "un_reto_sugerido": "Resolver mediante un 'juicio ético' un dilema donde choquen el derecho a la intimidad y el derecho a la seguridad.",
+            "ruta_de_exploracion": {
+              "explorar": "Presentar un caso de la vida cotidiana (ej: revisar el celular de un hijo) y votar por la mejor opción.",
+              "visual": "Guía de pasos para reparar acuerdos grupales que se han roto por desconfianza.",
+              "produccion": "Redactar un 'Tratado de Convivencia de Aula' donde se establezcan acuerdos de reparación mutua."
+            },
+            "para_pensar": [
+              "¿Qué pesa más: un valor personal o el bien de todo el grupo?",
+              "¿Cómo se puede reparar una amistad después de una mentira grave?"
+            ],
+            "pistas_del_exito": [
+              "Analiza dilemas éticos ponderando de forma justa los valores en conflicto.",
+              "Participa activamente en la mediación y reparación de acuerdos grupales."
+            ],
+            "un_refuerzo": "Lectura de dilemas clásicos de la ética para jóvenes."
+          }
+        }
+      ]
+    }
+  ]
+}

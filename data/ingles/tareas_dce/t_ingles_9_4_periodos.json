@@ -1,0 +1,258 @@
+{
+  "area": "Inglés",
+  "grado": "9",
+  "nombre_archivo": "t_ingles_9_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Classroom Detective Agency",
+            "un_reto_sugerido": "Inferir el propósito de una serie de mensajes de audio 'misteriosos' dejados por compañeros para resolver un enigma escolar.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Teléfono Roto' con instrucciones técnicas del aula para notar cómo cambia el propósito si se pierde información.",
+              "visual": "Mapa de inferencias: un diagrama donde se conecten pistas auditivas con el posible sentimiento o intención del hablante.",
+              "produccion": "Crear un informe de 'misión cumplida' basado en las ideas generales y específicas captadas de un audio de conocimiento general."
+            },
+            "para_pensar": [
+              "¿Por qué el tono de voz a veces nos dice más que las palabras mismas?",
+              "¿Cómo ayuda conocer el contexto del aula a entender un mensaje sin necesidad de que nos lo repitan?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el propósito comunicativo (informar, pedir, sugerir) en grabaciones cortas.",
+              "Resume las ideas principales de una interacción oral sin usar traductor."
+            ],
+            "un_refuerzo": "Uso de podcasts escolares cortos con transcripciones para marcar marcadores de secuencia."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Time-Traveler Café",
+            "un_reto_sugerido": "Sostener una charla sobre experiencias del pasado y metas del futuro en una 'cafetería' simulada, usando apuntes previos como soporte.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'Speed Dating': rotar cada 2 minutos respondiendo preguntas sobre el fin de semana pasado y el próximo año.",
+              "visual": "Línea de tiempo personal ilustrada que sirva de guía visual durante la conversación espontánea.",
+              "produccion": "Grabar un diálogo en parejas donde se discutan planes futuros basados en lecciones aprendidas en el pasado."
+            },
+            "para_pensar": [
+              "¿Cómo influyen nuestras experiencias pasadas en los planes que hacemos para el futuro?",
+              "¿Por qué es importante respetar el tiempo de respuesta de nuestro compañero en una conversación?"
+            ],
+            "pistas_del_exito": [
+              "Intercambia información personal y del mundo usando tiempos verbales adecuados.",
+              "Mantiene la fluidez apoyándose en notas escritas previamente."
+            ],
+            "un_refuerzo": "Tarjetas con conectores de tiempo (Last year, Next month) para facilitar la estructura del habla."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Mini TED-Talks Académicas",
+            "un_reto_sugerido": "Realizar una exposición corta sobre un tema académico citando las opiniones de al menos dos compañeros de clase.",
+            "ruta_de_exploracion": {
+              "explorar": "Círculo de opiniones: cada estudiante dice una frase sobre un tema y el siguiente debe parafrasearla antes de decir la suya.",
+              "visual": "Diseñar una diapositiva física (cartelera) que use iconos para representar los gustos y preferencias del orador.",
+              "produccion": "Presentar una charla de 3 minutos monitoreando la pronunciación de palabras clave grabándose previamente para autoevaluarse."
+            },
+            "para_pensar": [
+              "¿Por qué citar lo que otros dicen hace que nuestra opinión sea más fuerte?",
+              "¿Qué estrategias de pronunciación te funcionan mejor al hablar frente a un público?"
+            ],
+            "pistas_del_exito": [
+              "Expresa gustos y preferencias con claridad fonética.",
+              "Cita fuentes o compañeros de manera coherente durante la exposición."
+            ],
+            "un_refuerzo": "Ejercicios de 'Shadowing' (repetir lo que dice un nativo) para mejorar la entonación académica."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cause-Effect Lab",
+            "un_reto_sugerido": "Analizar textos argumentativos para identificar por qué ocurren ciertos hechos y cuáles son sus consecuencias en la sociedad.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de titulares de noticias: predecir la causa de un problema solo leyendo el encabezado.",
+              "visual": "Diagrama de Ishikawa (Espina de Pescado) para separar causas, efectos y puntos a favor/contra de una lectura.",
+              "produccion": "Escribir un 'Manifiesto del Lector' donde se valore la lectura como herramienta para entender información implícita."
+            },
+            "para_pensar": [
+              "¿Cómo cambian los argumentos si el autor solo presenta los puntos a favor?",
+              "¿Por qué es vital diferenciar entre información explícita e implícita en un texto?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la estructura organizativa (narrativa vs argumentativa) de un texto de mediana longitud.",
+              "Reconoce conectores de contraste y adición en párrafos complejos."
+            ],
+            "un_refuerzo": "Guía de conectores causa-efecto (Because, Consequently, Therefore) con ejemplos cotidianos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Editorial Board",
+            "un_reto_sugerido": "Redactar y editar un artículo de opinión para el periódico escolar justificando planes comunitarios.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Parafraseo Veloz': convertir oraciones complejas en frases sencillas sin perder el significado original.",
+              "visual": "Organizadores de párrafos: usar bloques de colores para identificar la oración principal y las de soporte.",
+              "produccion": "Producir un texto de tres párrafos que justifique un plan de mejora escolar, revisado y editado por un compañero."
+            },
+            "para_pensar": [
+              "¿Por qué la edición es el paso más importante en la escritura profesional?",
+              "¿Cómo ayuda el parafraseo a evitar el plagio en tareas académicas?"
+            ],
+            "pistas_del_exito": [
+              "Organiza párrafos coherentes usando elementos formales del lenguaje.",
+              "Justifica planes y acciones personales de forma escrita con ortografía correcta."
+            ],
+            "un_refuerzo": "Checklist de edición: ortografía, uso de conectores y coherencia de ideas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "Urban Tribe Radio",
+            "un_reto_sugerido": "Identificar las características y motivaciones de diferentes tribus urbanas a partir de entrevistas en audio.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar música asociada a diferentes subculturas y adivinar a qué grupo pertenecen.",
+              "visual": "Collage visual de 'Urban Tribes' donde se etiqueten elementos específicos mencionados en los audios.",
+              "produccion": "Completar una ficha de investigación sobre una tribu urbana tras escuchar información específica en inglés."
+            },
+            "para_pensar": [
+              "¿Qué elementos definen nuestra identidad dentro de un grupo social?",
+              "¿Cómo influyen los estereotipos en lo que escuchamos sobre los demás?"
+            ],
+            "pistas_del_exito": [
+              "Extrae información específica de audios sobre conocimiento general.",
+              "Infiere la actitud del hablante hacia diferentes grupos sociales."
+            ],
+            "un_refuerzo": "Videos cortos sobre subculturas con apoyo visual y subtítulos."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Carnival Around the World",
+            "un_reto_sugerido": "Exponer las tradiciones de un carnaval famoso del mundo comparándolo con festividades locales.",
+            "ruta_de_exploracion": {
+              "explorar": "Círculo de cultura: compartir una tradición familiar en una frase corta monitoreando la entonación.",
+              "visual": "Infografía sobre un festival internacional resaltando fechas, comida y vestuario.",
+              "produccion": "Exposición ensayada de 2 minutos sobre un carnaval de interés personal usando apoyo visual."
+            },
+            "para_pensar": [
+              "¿Por qué los festivales son importantes para mantener la identidad de un país?",
+              "¿Cómo podemos evitar generalizaciones al describir culturas diferentes a la nuestra?"
+            ],
+            "pistas_del_exito": [
+              "Realiza presentaciones académicas breves con fluidez.",
+              "Expresa opiniones sobre celebraciones mundiales usando vocabulario técnico."
+            ],
+            "un_refuerzo": "Lista de adjetivos para describir eventos culturales y atmósferas festivas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Airport Terminal",
+            "un_reto_sugerido": "Emitir anuncios de aeropuerto para viajeros internacionales que asisten a festivales mundiales.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar anuncios reales de aeropuertos e identificar palabras clave como 'Flight', 'Gate', 'Destination'.",
+              "visual": "Crear un tablero de salidas (Departures) con destinos de festivales internacionales.",
+              "produccion": "Grabación de un monólogo de anuncio oficial dando instrucciones y descripciones sencillas a los pasajeros."
+            },
+            "para_pensar": [
+              "¿Por qué la claridad es vital en anuncios públicos?",
+              "¿Cómo ayudan los anuncios a organizar el tiempo de las personas en situaciones de viaje?"
+            ],
+            "pistas_del_exito": [
+              "Pronuncia correctamente términos técnicos de anuncios públicos.",
+              "Estructura instrucciones orales de forma lógica y pausada."
+            ],
+            "un_refuerzo": "Uso de guiones con espacios en blanco para practicar entonación oficial."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "Anti-Stereotype Campaign",
+            "un_reto_sugerido": "Diseñar una campaña escrita mediante diagramas que desmonte generalizaciones y estereotipos comunes.",
+            "ruta_de_exploracion": {
+              "explorar": "Debate relámpago: '¿Todos los adolescentes son...?' para identificar generalizaciones.",
+              "visual": "Crear un mapa comparativo que contraste un estereotipo (Mito) con la realidad (Hecho).",
+              "produccion": "Escribir un resumen comparativo de mediana longitud sobre el impacto de los estereotipos en la comunidad."
+            },
+            "para_pensar": [
+              "¿Cómo afectan las generalizaciones la forma en que escribimos sobre otros?",
+              "¿De qué manera un diagrama visual ayuda a entender un concepto abstracto como el prejuicio?"
+            ],
+            "pistas_del_exito": [
+              "Parafrasea información de lecturas críticas sobre sociedad.",
+              "Usa mapas y diagramas para representar información gráfica compleja."
+            ],
+            "un_refuerzo": "Guía de vocabulario sobre diversidad y respeto por las diferencias."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Legendary Biographies",
+            "un_reto_sugerido": "Narrar la vida de una persona talentosa destacando sus logros y reacciones ante el éxito.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de adivinanzas 'Who is this hero?': dar pistas sobre talentos hasta que el grupo lo identifique.",
+              "visual": "Línea de vida ilustrada (Timeline) con hitos importantes y sentimientos asociados.",
+              "produccion": "Presentación ensayada de la biografía de un personaje, monitoreando la pronunciación de verbos en pasado."
+            },
+            "para_pensar": [
+              "¿Qué define a una persona como 'talentosa' en diferentes culturas?",
+              "¿Cómo influyen los sentimientos de un personaje en sus decisiones de vida?"
+            ],
+            "pistas_del_exito": [
+              "Describe secuencias de vida de forma coherente.",
+              "Utiliza estrategias para monitorear y corregir la propia pronunciación."
+            ],
+            "un_refuerzo": "Ejemplos de biografías cortas de figuras icónicas para analizar la estructura."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Anecdote Anthology",
+            "un_reto_sugerido": "Escribir y diagramar una anécdota personal o comunitaria que incluya causas y efectos de las acciones.",
+            "ruta_de_exploracion": {
+              "explorar": "Compartir anécdotas cortas 'en cadena': un estudiante empieza una historia y otro la continúa.",
+              "visual": "Crear una línea de tiempo (Timeline) con los eventos clave de la anécdota.",
+              "produccion": "Redactar el texto final de la anécdota utilizando conectores de secuencia y parafraseando diálogos recordados."
+            },
+            "para_pensar": [
+              "¿Por qué es importante el orden temporal para que una anécdota sea divertida o interesante?",
+              "¿Cómo podemos resumir una historia larga sin perder los detalles importantes?"
+            ],
+            "pistas_del_exito": [
+              "Resume información leída o escuchada en un texto de mediana longitud.",
+              "Representa gráficamente secuencias de tiempo en sus escritos."
+            ],
+            "un_refuerzo": "Ficha de conectores de tiempo (First, suddenly, in the end) para narraciones."
+          }
+        }
+      ]
+    }
+  ]
+}

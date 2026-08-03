@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "9",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -18,7 +18,13 @@
           "Describe los niveles de deforestación observados en las selvas colombianas y la disminución de las áreas de páramo en nuestro país, así como su incidencia en el deterioro de las fuentes hídricas en Colombia.",
           "Argumenta acerca de las condiciones de otros geosistemas colombianos como los manglares, las sábanas, los ríos, las ciénagas, los humedales, los bosques secos, los embalses y los estuarios."
         ],
-        "saberes": ["Geosistemas de Colombia", "Protección de la biodiversidad", "Contaminación ambiental", "Deforestación", "Áreas de páramo", "Fuentes hídricas", "Regiones naturales de Colombia", "Relación comunidad-medio ambiente"],
+        "saberes": [
+          "Los geosistemas y su importancia en Colombia",
+          "Regiones naturales de Colombia",
+          "Relación de la comunidad con el ambiente en Colombia",
+          "Protección de la biodiversidad en Colombia",
+          "Contaminación ambiental en Colombia, deforestacion, disminución en las áreas de páramo y deteriodo de las fuentes hídricas"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -34,7 +40,12 @@
         "evidencias": [
           "Compara los hábitos de vida de las personas antes y después de la llegada al país del cine, la radio, la aviación comercial y los automóviles."
         ],
-        "saberes": ["Abolición de la esclavitud", "Surgimiento de movimientos obreros", "La masacre de las bananeras", "Procesos de modernización en Colombia", "Cine y radio en Colombia"],
+        "saberes": [
+          "Abolición de la esclavitud: EEUU y Latinoamérica",
+          "Surgimiento de movimientos obreros",
+          "La masacre de las bananeras",
+          "Procesos de modernización en Colombia.(llegada del Cine, la radio, etc...)"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -50,7 +61,13 @@
           "Justifica el uso de los mecanismos de participación ciudadana: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular, la revocatoria del mandato.",
           "Explica mediante estudios de caso el papel que cumplen las autoridades que protegen los DD.HH. en Colombia (Procuraduría General de la Nación, Defensoría del Pueblo y personerías)."
         ],
-        "saberes": ["Estado social de derecho", "Constitución política de Colombia", "Derechos fundamentales", "Mecanismos de protección de derechos", "Mecanismos de participación ciudadana", "Voto popular", "Plebiscito", "Referendo", "Consulta popular", "Cabildo abierto", "Iniciativa popular", "Revocatoria del mandato", "Órganos de control público"],
+        "saberes": [
+          "Constitución política de Colombia (1991) derechos",
+          "Colombia Estado social de derecho",
+          "Mecanismos de protección de los Derechos humanos",
+          "Mecanismos de participación ciudadana",
+          "Órganos de control público"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -156,7 +173,16 @@
           "Relaciona la inversión social, la presencia de los gremios económicos y del Estado en aquellas regiones de menor índice de desarrollo humano en Colombia.",
           "Explica posibles acciones a considerar en el mejoramiento del crecimiento de las regiones con menor índice de desarrollo humano."
         ],
-        "saberes": ["Crecimiento económico", "Desigualdad social", "Desarrollo humano en Colombia", "Proteccionismo", "Liberalismo económico", "Neoliberalismo", "Apertura económica", "La inversión social", "Las políticas públicas"],
+        "saberes": [
+          "Proteccionismo",
+          "Neoliberalismo",
+          "Apertura económica",
+          "Crecimiento económico",
+          "Desigualdad social",
+          "Desarrollo humano en Colombia",
+          "Las políticas públicas",
+          "La inversión social"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -169,7 +195,14 @@
         "evidencias": [
           "Explica los cambios del proceso de modernización en Colombia en la primera mitad del siglo XX: construcción de vías de comunicación, urbanización y desarrollo industrial."
         ],
-        "saberes": ["Modernización en Colombia", "Medios de comunicación", "Urbanización", "Desarrollo industrial", "Siglo XIX", "Primera mitad del siglo XX"],
+        "saberes": [
+          "Modernización en Colombia",
+          "Medios de comunicación",
+          "Urbanización",
+          "Desarrollo industrial",
+          "Siglo XIX",
+          "Primera mitad del siglo XX"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -183,7 +216,14 @@
           "Plantea argumentos sobre los discursos que legitiman la violencia con el fin de rechazarlos como alternativa a la solución de los conflictos.",
           "Propone alternativas para la solución de conflictos que ocurren en las relaciones, incluyendo las de pareja, y que se pueden resolver a partir de la escucha y comprensión de los diferentes puntos de vista."
         ],
-        "saberes": ["Resolución de conflictos", "Diálogo y mediación", "Compromisos reales", "Constitución política de 1991", "Mecanismos de participación ciudadana"],
+        "saberes": [
+          "Constitución politica de 1886",
+          "Causas del cambio constitucional",
+          "La Constitución política de 1991 y los mecanismos de participación ciudadana",
+          "Resolución de conflictos",
+          "Diálogo y mediación como herrramientas fundamentales en la resolucion de conflictos",
+          "Los acuerdos son compromisos reales"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -252,7 +292,12 @@
           "Explica las contribuciones de las mujeres en la construcción de una sociedad justa y creadora de una cultura de paz.",
           "Propone acciones para que las diversas formas de identidad de género sean respetadas en el contexto del desarrollo de todas las potencialidades humanas."
         ],
-        "saberes": ["Papel de las mujeres en la sociedad", "Igualdad de derechos", "Participación política de la mujer", "Violencia contra la mujer", "Contribución de las mujeres a la sociedad", "Identidad de género"],
+        "saberes": [
+          "El papel de las mujeres en los cambios sociales, políticos, económicos y culturales en el mundo",
+          "No a la violencia contra la mujer",
+          "Contribución de las mujeres en la construcción de la sociedad actual",
+          "Identidad de género"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -279,4 +324,5 @@
       }
     ]
   }
+
 }

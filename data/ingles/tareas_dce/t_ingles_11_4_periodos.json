@@ -1,0 +1,216 @@
+{
+  "area": "Inglés",
+  "grado": "11",
+  "nombre_archivo": "t_ingles_11_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Forum: Formal vs. Casual",
+            "un_reto_sugerido": "Sostener un debate sobre un tema controversial de interés académico ajustando el tono (formal o informal) según la audiencia.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar dos versiones de una misma noticia (una de un YouTuber y otra de la BBC) e identificar las diferencias en el propósito y registro.",
+              "visual": "Crear una 'Pirámide de Registros' donde se clasifiquen expresiones para iniciar y cerrar conversaciones según la cercanía con el interlocutor.",
+              "produccion": "Realizar un 'Simulacro de Entrevista' frente a un comité académico donde se defienda una posición sobre un tema previamente estudiado."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el uso de un lenguaje informal nuestra credibilidad en un entorno académico?",
+              "¿Por qué es vital identificar el propósito del autor antes de responder a un argumento?"
+            ],
+            "pistas_del_exito": [
+              "Ajusta el vocabulario y el tono de voz de acuerdo con el contexto de la conversación.",
+              "Identifica la idea principal de un audio de mediana longitud sin necesidad de traducir palabra por palabra."
+            ],
+            "un_refuerzo": "Taller de conectores de transición para dar estructura lógica a las opiniones orales."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "Critical Lens: The Truth Behind Texts",
+            "un_reto_sugerido": "Redactar un artículo de opinión crítico analizando el impacto de los valores de otras culturas en la identidad propia.",
+            "ruta_de_exploracion": {
+              "explorar": "Escanear textos informativos de diversas fuentes para localizar palabras clave que revelen el sesgo del autor.",
+              "visual": "Diseñar un organizador gráfico de 'Problema-Solución' basado en la lectura de un conflicto cultural global.",
+              "produccion": "Escribir un resumen ejecutivo de un texto argumentativo, pasando por las fases de planeación, revisión y edición por pares."
+            },
+            "para_pensar": [
+              "¿Es posible ser totalmente neutral al escribir un texto informativo?",
+              "¿De qué manera conocer los valores de otras culturas nos ayuda a redefinir nuestra propia identidad?"
+            ],
+            "pistas_del_exito": [
+              "Asume una posición crítica fundamentada frente a la información presentada en la lectura.",
+              "Produce un texto argumentativo con una estructura clara: tesis, argumentos y conclusión."
+            ],
+            "un_refuerzo": "Guía de revisión de estilo (Proofreading) para mejorar la coherencia y cohesión en informes académicos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "Mythology Reborn: Reported Speech",
+            "un_reto_sugerido": "Narrar detalladamente una leyenda clásica (Troya, Mitos Nórdicos) utilizando 'Reported Speech' para citar lo que los dioses o héroes dijeron.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos del mito de la Guerra de Troya y completar un cuadro con las instrucciones dadas por los personajes.",
+              "visual": "Hacer un guion de cómic (Storyboard) donde los globos de texto usen 'Direct Speech' y la narración inferior use 'Reported Speech'.",
+              "produccion": "Realizar un monólogo donde se sustente un proyecto personal inspirado en los valores de un héroe mitológico."
+            },
+            "para_pensar": [
+              "¿Por qué cambian los tiempos verbales cuando le contamos a alguien lo que otra persona dijo?",
+              "¿Qué lecciones de los mitos antiguos siguen siendo aplicables a nuestras ambiciones y sueños actuales?"
+            ],
+            "pistas_del_exito": [
+              "Transforma oraciones de discurso directo a indirecto respetando la concordancia temporal.",
+              "Describe planes y proyectos futuros con seguridad y fluidez gramatical."
+            ],
+            "un_refuerzo": "Tabla comparativa de cambios verbales y temporales en el estilo indirecto (Reported Speech)."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Earth's Genesis Chronicle",
+            "un_reto_sugerido": "Diseñar un cómic científico-narrativo que explique la formación de la Tierra integrando causas, efectos y soluciones ambientales actuales.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura analítica sobre la formación de la tierra identificando información implícita y posturas críticas.",
+              "visual": "Crear una infografía que conecte hitos geológicos con sus consecuencias climáticas a largo plazo.",
+              "produccion": "Redactar un texto de decisiones personales donde se explique cómo nuestras actuaciones afectan el futuro del planeta."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda la ciencia a desmitificar los orígenes del mundo?",
+              "¿De qué manera el formato de cómic facilita la explicación de procesos complejos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la relación de causa y efecto en textos descriptivos de alta complejidad.",
+              "Edita sus propios escritos para asegurar que el mensaje sea claro para un lector externo."
+            ],
+            "un_refuerzo": "Uso de diccionarios técnicos especializados para ampliar el léxico científico y geográfico."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Legendary Justice: Passive Voice",
+            "un_reto_sugerido": "Reportar un 'crimen social' inspirado en la leyenda de Robin Hood usando la voz pasiva para enfatizar las acciones y los resultados.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar la balada de Robin Hood e identificar los conectores que marcan la secuencia de los hechos.",
+              "visual": "Hacer una tabla comparativa de oraciones: 'Robin stole from the rich' (Active) vs 'The money was stolen by Robin' (Passive).",
+              "produccion": "Sostener una conversación sobre justicia social utilizando lenguaje funcional para discutir alternativas de solución a problemas actuales."
+            },
+            "para_pensar": [
+              "¿Cuándo es más efectivo usar la voz pasiva que la voz activa en un reporte oficial?",
+              "¿Cómo influyen los héroes populares en la construcción de la moral de una cultura?"
+            ],
+            "pistas_del_exito": [
+              "Usa conectores lógicos para hilar sus argumentos durante una conversación sobre temas de interés.",
+              "Identifica el propósito comunicativo en audios con diferentes registros."
+            ],
+            "un_refuerzo": "Ejercicios de transformación gramatical de voz activa a pasiva en diferentes tiempos verbales."
+          }
+        },
+        {
+          "componente": "Sociolingüístico y Pragmático (Lectura y Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Space Era Magazine",
+            "un_reto_sugerido": "Redactar un informe académico argumentativo sobre el futuro de la exploración espacial y su impacto en la humanidad.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de artículos sobre la era espacial con vocabulario avanzado, detectando problemas y soluciones propuestas.",
+              "visual": "Elaborar un mapa conceptual sobre los avances tecnológicos espaciales y su aplicación en la vida diaria.",
+              "produccion": "Escribir un resumen analítico de un texto argumentativo complejo, definiendo claramente el lector objetivo."
+            },
+            "para_pensar": [
+              "¿Vale la pena la inversión en el espacio frente a los problemas terrestres? (Posición crítica).",
+              "¿Cómo la estructura de un informe determina que sea tomado en cuenta por la comunidad académica?"
+            ],
+            "pistas_del_exito": [
+              "Analiza textos argumentativos reconociendo las ideas específicas que sustentan la tesis.",
+              "Escribe textos medianos con una estructura lógica y uso de vocabulario avanzado."
+            ],
+            "un_refuerzo": "Glosario de términos científicos y tecnológicos para la redacción de informes."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha y Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "World Mysteries Unsolved",
+            "un_reto_sugerido": "Participar en un panel de expertos debatiendo teorías sobre los misterios del mundo (Stonehenge, Atlantis, Nazca Lines).",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un documental corto sobre las Pirámides de Egipto y extraer el sentido general sin entender cada palabra.",
+              "visual": "Crear un 'Mapa de Misterios' ubicando geográficamente cada sitio y listando las teorías científicas vs. fantásticas.",
+              "produccion": "Sostener una discusión formal donde se utilicen estrategias para mantener y cerrar la conversación de manera profesional."
+            },
+            "para_pensar": [
+              "¿Por qué los misterios antiguos siguen fascinando a la ciencia moderna?",
+              "¿Cómo podemos expresar duda o certeza en inglés durante un debate?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza estrategias de escucha como la inferencia para comprender el tema de una conversación sencilla.",
+              "Emplea lenguaje funcional para introducir nuevos argumentos en un debate controversial."
+            ],
+            "un_refuerzo": "Podcast sobre arqueología moderna para practicar la escucha de temas académicos."
+          }
+        },
+        {
+          "componente": "Monólogo y Lectura",
+          "guia_didactica": {
+            "la_estrategia": "Scientific Origins: The Big Bang",
+            "un_reto_sugerido": "Exponer un monólogo científico sobre el origen del universo contrastando la Teoría del Big Bang con otras perspectivas.",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura científica sobre la formación de la tierra e identificación de inferencias basadas en evidencia.",
+              "visual": "Hacer un diagrama de flujo 'Causa-Efecto' que explique la expansión del universo.",
+              "produccion": "Presentación oral grabada sobre planes futuros de la ciencia para entender el cosmos."
+            },
+            "para_pensar": [
+              "¿Qué importancia tiene la evidencia científica al construir una opinión crítica?",
+              "¿De qué manera las lecturas disciplinares expanden nuestro vocabulario académico?"
+            ],
+            "pistas_del_exito": [
+              "Realiza presentaciones orales sustentando planes y opiniones de forma estructurada.",
+              "Explica causas y efectos de una situación científica en forma oral y escrita."
+            ],
+            "un_refuerzo": "Taller de 'Public Speaking' para presentaciones de alto nivel académico."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Chronist's Journal",
+            "un_reto_sugerido": "Escribir una crónica detallada (deportiva o de moda) que analice las tendencias actuales como un reflejo cultural.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar ejemplos de crónicas famosas para identificar su estructura narrativa y argumentativa.",
+              "visual": "Crear una 'Rueda de Tendencias' que conecte decisiones de consumo con impactos sociales.",
+              "produccion": "Redactar un informe final que explique preferencias y actuaciones personales en un contexto de mercado global."
+            },
+            "para_pensar": [
+              "¿Es la moda un lenguaje de identidad o solo un negocio?",
+              "¿Cómo ayuda la crónica a humanizar los datos estadísticos de un deporte o industria?"
+            ],
+            "pistas_del_exito": [
+              "Redacta textos argumentativos con un proceso claro de planeación y edición.",
+              "Demuestra conocimiento de otras disciplinas a través de resúmenes escritos bien estructurados."
+            ],
+            "un_refuerzo": "Ejercicios de redacción creativa enfocados en el uso de adjetivos calificativos y descriptivos."
+          }
+        }
+      ]
+    }
+  ]
+}

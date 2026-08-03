@@ -12,7 +12,8 @@
           "DBA-NAT-5-3 Comprende que los sistemas del cuerpo humano están formados por órganos, tejidos y células y que la estructura de cada tipo de célula está relacionada con la función del tejido que forman."
         ],
         "evidencias": [
-          "NAT-5-D3-E1 Explica la estructura (órganos, tejidos y células) y las funciones de los sistemas de su cuerpo."
+          "NAT-5-D3-E1 Explica la estructura (órganos, tejidos y células) y las funciones de los sistemas de su cuerpo.",
+          "NAT-5-D3-E2 Relaciona el funcionamiento de los tejidos de un ser vivo con los tipos de células que posee."
         ],
         "saberes": [
           "Niveles de organización del cuerpo humano. Células, tejidos, órganos y sistemas."
@@ -32,7 +33,7 @@
           "NAT-5-D1-E1 Realiza circuitos eléctricos simples que funcionan con fuentes (pilas), cables y dispositivos (bombillo, motores, timbres) y los representa utilizando los símbolos apropiados."
         ],
         "saberes": [
-          "Fundamentos y simbología de los circuitos eléctricos"
+          "Circuitos eléctricos (Funcionamiento de implementos, Diferenciación de implementos, Simbología eléctrica)"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -43,10 +44,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Identifico y establezco las aplicaciones de los circuitos eléctricos en el desarrollo tecnológico.",
         "dba": [
-          "N/A"
+          "DBA-NAT-5-1 Comprende que un circuito eléctrico básico está formado por un generador o fuente (pila), conductores (cables) y uno o más dispositivos (bombillos, motores, timbres), que deben estar conectados apropiadamente (por sus dos polos) para que funcionen y produzcan diferentes efectos."
         ],
         "evidencias": [
-          "N/A"
+          "NAT-5-D1-E3 Identifica los diferentes efectos que se producen en los componentes de un circuito como luz y calor en un bombillo, movimiento en un motor y sonido en un timbre."
         ],
         "saberes": [
           "Circuitos eléctricos: efectos de las corrientes eléctricas"
@@ -66,7 +67,7 @@
         ],
         "evidencias": [
           "NAT-5-D3-E2 Relaciona el funcionamiento de los tejidos de un ser vivo con los tipos de células que posee.",
-          "Relaciona el funcionamiento saludable y cuidado de los sistemas del cuerpo con la práctica de hábitos como alimentación balanceada, ejercicio físico e higiene corporal."
+          "NAT-5-D3-E3 Asocia el cuidado de sus sistemas con una alimentación e higiene adecuadas."
         ],
         "saberes": [
           "Tejidos: diversidad y funciones en animales y plantas",
@@ -79,7 +80,7 @@
       },
       {
         "componente": "Entorno Físico",
-        "estandar": "Propongo experiencias para comprobar la propagación de la luz y del sonido.",
+        "estandar": "Investigo y describo diversos tipos de neuronas, las comparo entre sí y con circuitos eléctricos. Construyo circuitos eléctricos simples con pilas. Identifico las funciones de los componentes de un circuito eléctrico.",
         "dba": [
           "DBA-NAT-5-1 Comprende que un circuito eléctrico básico está formado por un generador o fuente (pila), conductores (cables) y uno o más dispositivos (bombillos, motores, timbres), que deben estar conectados apropiadamente (por sus dos polos) para que funcionen y produzcan diferentes efectos."
         ],
@@ -88,7 +89,9 @@
           "NAT-5-D1-E3 Identifica los diferentes efectos que se producen en los componentes de un circuito como luz y calor en un bombillo, movimiento en un motor y sonido en un timbre."
         ],
         "saberes": [
-          "Circuitos eléctricos: introducción, tipos y funcionamiento"
+          "Tipos de circuitos eléctricos (Serie, Paralelo)",
+          "Funcionamiento, materiales y organización",
+          "Producción de calor o electricidad"
         ],
         "socioemocional": null,
         "diccionario": null,

@@ -1,0 +1,213 @@
+{
+  "identificacion_grado": 11,
+  "area_identificacion": "Proyecto Socioemocional",
+  "periodo_1": [
+    {
+      "id": "CON-001",
+      "concepto": "Propósito (inicial)",
+      "definicion_pedagogica": "El propósito inicial en la adolescencia tardía es la fuerza motivacional interna que organiza la experiencia y orienta la toma de decisiones relevantes frente a la incertidumbre académica, vocacional y vital. Implica que el estudiante comienza a articular una visión de futuro que integra sus intereses, valores y capacidades con las oportunidades reales de su contexto. Este propósito se vincula con la competencia anual de proyecto de vida y con estándares que promueven la formulación de metas a mediano y largo plazo. Desde la malla ECO, se relaciona con habilidades de autonomía emocional y toma de decisiones conscientes, orientadas por un sentido de dirección personal. La batería busca que el estudiante pueda identificar y verbalizar la dirección que quiere darle a su vida, reconociendo que este propósito puede seguir madurando.",
+      "definicion_estudiante": "Tener un propósito inicial significa que empiezas a tener claro hacia dónde quieres dirigir tu vida y qué tipo de adulto quieres ser. No se trata de tener todo decidido, sino de reconocer qué te importa, qué te motiva y qué tipo de impacto quieres generar en tu entorno. Ese propósito te ayuda a elegir mejor qué estudiar, en qué invertir tu tiempo y de qué cosas quieres alejarte.",
+      "habilidad_malla": "Proyecto de vida y autonomía emocional",
+      "ejemplo_aula": "\"Elegí estudiar ingeniería ambiental porque quiero aportar a soluciones reales en mi comunidad, y eso guía las materias y proyectos que priorizo este año.\"",
+      "evidencia_logro": "El docente observa que el estudiante expresa de forma clara al menos una meta vital relevante, la relaciona con sus intereses y valores personales, y menciona decisiones concretas del presente que se orientan hacia esa meta.",
+      "tip_psicologico": "Invita al grupo a trabajar con preguntas de sentido (¿para qué estudio?, ¿qué tipo de adulto quiero ser?) y conecta frecuentemente los contenidos del curso con escenarios de futuro. Promueve espacios breves de planificación semanal donde los estudiantes revisen si sus decisiones actuales se alinean con su propósito declarado, reforzando la idea de que el propósito puede ajustarse sin perder coherencia interna."
+    },
+    {
+      "id": "CON-002",
+      "concepto": "Identidad personal",
+      "definicion_pedagogica": "La identidad personal en esta etapa se refiere a una comprensión profunda, relativamente estable y reflexiva de quién se es, qué se valora y qué se desea conservar de sí mismo al entrar a la adultez. Incluye la integración de la historia personal, las experiencias significativas, los vínculos afectivos y las elecciones realizadas hasta el momento. Se articula con la competencia anual de construcción de proyecto de vida e identidad madura, y con estándares que promueven el reconocimiento de fortalezas, límites y valores personales. Desde la malla ECO, se vincula con el eje de autoconocimiento avanzado y autonomía emocional. La batería busca que el estudiante pueda describir con lenguaje propio y crítico los elementos centrales de su identidad y cómo influyen en sus decisiones.",
+      "definicion_estudiante": "Tu identidad personal es la respuesta a la pregunta \"¿quién soy yo?\" cuando la respondes con honestidad, pensando en tu historia, tus valores, lo que disfrutas y lo que no estás dispuesto a negociar. En grado 11 ya puedes mirar hacia atrás, reconocer cómo has cambiado y decidir qué partes de ti quieres llevar a la vida adulta. Conocer tu identidad te ayuda a elegir amigos, carrera y proyectos que realmente van con quien eres.",
+      "habilidad_malla": "Autoconocimiento avanzado y autonomía emocional",
+      "ejemplo_aula": "\"Me di cuenta de que disfruto escuchar a otros y eso forma parte esencial de quién soy, así que elegí participar en el grupo de mediadores escolares.\"",
+      "evidencia_logro": "El docente observa que el estudiante describe de manera coherente aspectos clave de su historia personal, sus valores y fortalezas, y los vincula explícitamente con elecciones concretas (carrera, proyectos, roles en el colegio) mostrando coherencia interna.",
+      "tip_psicologico": "Propicia actividades narrativas como líneas de vida, cartas al yo del futuro o biografías personales que permitan al estudiantado reconocerse y valorarse. Anima a que compartan elementos de su identidad en un clima seguro, promoviendo el respeto por la diversidad y señalando cómo una identidad clara facilita decisiones más coherentes y menos guiadas por la presión externa."
+    },
+    {
+      "id": "CON-003",
+      "concepto": "Duelo de cierre",
+      "definicion_pedagogica": "El duelo de cierre es el proceso emocional complejo que viven los estudiantes al finalizar una etapa significativa, como el colegio, combinando nostalgia, gratitud, miedo y esperanza frente al cambio. Supone reconocer y validar las pérdidas (rutinas, amistades cotidianas, espacios seguros) y, al mismo tiempo, abrirse a las oportunidades de la nueva etapa. Se conecta con la competencia anual de gestión emocional y transición a la vida adulta, así como con estándares que promueven la elaboración de cambios vitales sin bloquear el desarrollo. En la malla ECO se relaciona con regulación emocional avanzada, resiliencia y elaboración de pérdidas. La batería busca que el estudiante pueda nombrar sus emociones, darles sentido y tomar decisiones saludables en medio de este proceso.",
+      "definicion_estudiante": "Vivir el duelo de cierre es sentir muchas emociones mezcladas porque se acaba el colegio: alegría por lo logrado, tristeza por lo que se deja atrás, miedo por lo nuevo y esperanza por lo que viene. No es debilidad llorar o sentirse raro en este momento; es parte natural de despedirse de una etapa importante. Lo importante es poder hablar de lo que sientes, pedir apoyo y seguir avanzando hacia tus metas.",
+      "habilidad_malla": "Regulación emocional avanzada y resiliencia",
+      "ejemplo_aula": "\"Me emociona graduarme, pero también siento el dolor de dejar atrás a mis amigos, así que estoy aprovechando este tiempo para despedirme bien de ellos.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica y expresa de forma respetuosa emociones contradictorias asociadas al cierre de ciclo, busca estrategias saludables para despedirse y mantiene su participación académica a pesar del malestar propio del cambio.",
+      "tip_psicologico": "Destina momentos específicos para hablar del cierre de etapa, reconociendo que cada estudiante procesa el duelo a su ritmo. Diseña rituales de despedida significativos (cartas, ceremonias simbólicas, proyectos finales) y ofrece contención emocional, validando las emociones sin minimizar el miedo ni la tristeza, pero recordando los recursos personales y grupales para afrontar la transición."
+    },
+    {
+      "id": "CON-004",
+      "concepto": "Autoeficacia",
+      "definicion_pedagogica": "La autoeficacia es la creencia interna del estudiante en su capacidad para aprender, resolver problemas y afrontar retos académicos, sociales y vocacionales, incluso ante la incertidumbre propia del paso a la vida adulta. Supone reconocer recursos personales, experiencia previa de logro y estrategias para superar obstáculos. Se articula con la competencia anual de autonomía y autorregulación, y con estándares que promueven la confianza realista en las propias capacidades. En la malla ECO se relaciona con autoconfianza, perseverancia y toma de decisiones informada. La batería apunta a que el estudiante identifique evidencias de su propia eficacia y las use como base para afrontar nuevos desafíos.",
+      "definicion_estudiante": "Tener autoeficacia es confiar en que eres capaz de aprender cosas nuevas, resolver problemas y liderar proyectos, aunque al principio sientas dudas o miedo. No significa creer que todo te saldrá perfecto, sino que, con esfuerzo y apoyo, puedes lograr lo que te propones. Esa confianza te impulsa a asumir retos como exámenes exigentes, entrevistas o roles de liderazgo.",
+      "habilidad_malla": "Autonomía emocional y autoconfianza",
+      "ejemplo_aula": "\"Pensé que no podría liderar el proyecto, pero confié en mis capacidades, pedí ayuda al equipo y salió muy bien.\"",
+      "evidencia_logro": "El docente observa que el estudiante se ofrece para asumir retos académicos o de liderazgo, persiste ante dificultades, busca estrategias para mejorar y atribuye sus logros principalmente al esfuerzo y a sus capacidades, más que a la suerte.",
+      "tip_psicologico": "Refuerza de manera específica los avances del estudiante, destacando el esfuerzo, las estrategias usadas y las decisiones tomadas, no solo el resultado final. Propón metas progresivas y realistas, ofrece retroalimentación constructiva y utiliza ejemplos de logros previos del grupo para mostrar que la autoeficacia se construye con práctica y perseverancia."
+    },
+    {
+      "id": "CON-005",
+      "concepto": "Coraje emocional",
+      "definicion_pedagogica": "El coraje emocional es la valentía para sostener conversaciones difíciles, expresar sentimientos auténticos y defender decisiones personales significativas a pesar del miedo al conflicto, al juicio o al rechazo. Implica tolerar la incomodidad emocional y actuar de forma coherente con los propios valores y proyecto de vida. Se vincula con la competencia anual de autonomía ética y comunicación asertiva, y con estándares que promueven la expresión respetuosa de puntos de vista propios. Desde la malla ECO, se relaciona con comunicación emocional, asertividad y afrontamiento activo de situaciones complejas. La batería busca que el alumnado pueda identificar momentos en los que requiere coraje emocional y desarrollar estrategias para ejercerlo de manera respetuosa.",
+      "definicion_estudiante": "Tener coraje emocional es atreverte a decir lo que realmente piensas y sientes en temas importantes, aunque tengas miedo a la reacción de los demás. Es, por ejemplo, hablar con tu familia de tus verdaderos planes de carrera o poner un límite en una relación que te hace daño. No se trata de pelear, sino de ser honesto y respetuoso contigo y con los otros.",
+      "habilidad_malla": "Comunicación emocional y autonomía ética",
+      "ejemplo_aula": "\"Hablé con mis padres sobre mis verdaderos planes de carrera, aunque temía su reacción, porque necesitaba ser coherente con lo que quiero para mi vida.\"",
+      "evidencia_logro": "El docente observa que el estudiante expresa opiniones y sentimientos en situaciones relevantes, pide aclaraciones o pone límites de forma respetuosa, manteniendo coherencia con sus valores aunque exista riesgo de desacuerdo o incomodidad.",
+      "tip_psicologico": "Enseña al grupo estrategias de comunicación asertiva (uso de mensajes en primera persona, escucha activa, acuerdos básicos de respeto) y practica mediante juegos de rol situaciones típicas que requieren coraje emocional. Refuerza especialmente los momentos en que los estudiantes se expresan con honestidad y respeto, y acompaña a quienes tienden a evitar el conflicto para que puedan dar pequeños pasos seguros."
+    }
+  ],
+  "periodo_2": [
+    {
+      "id": "CON-006",
+      "concepto": "Propósito (decisiones con sentido)",
+      "definicion_pedagogica": "El propósito como decisiones con sentido se refiere a la capacidad del estudiante de vincular sus elecciones actuales con un proyecto de vida claro y éticamente orientado. Supone analizar alternativas, considerar consecuencias y elegir aquellas opciones que reflejen sus valores, metas personales y responsabilidad social. Se conecta con la competencia anual de proyecto de vida y con estándares que promueven la toma de decisiones informadas. En la malla ECO se relaciona con autonomía emocional, pensamiento crítico y planificación vital. La batería busca que el estudiante pueda justificar sus decisiones mostrando coherencia entre lo que dice que quiere y lo que efectivamente hace.",
+      "definicion_estudiante": "Tomar decisiones con propósito es preguntarte antes de elegir algo importante si eso te acerca o te aleja del tipo de vida que quieres llevar. Implica que pienses en tus valores, en las metas que tienes y en el impacto que tus decisiones pueden tener en ti y en los demás. Así, no eliges solo por presión o comodidad del momento, sino porque tiene sentido para tu proyecto de vida.",
+      "habilidad_malla": "Proyecto de vida y toma de decisiones responsables",
+      "ejemplo_aula": "\"Antes de aceptar una oferta, pensé si esa opción se alineaba con el tipo de vida que quiero y con los valores que para mí son importantes.\"",
+      "evidencia_logro": "El docente observa que el estudiante explica sus decisiones académicas, vocacionales o personales relacionándolas con metas y valores previamente definidos, y muestra disposición a revisar opciones que no sean coherentes con dicho propósito.",
+      "tip_psicologico": "Invita a trabajar con matrices de decisiones donde comparen alternativas según criterios de valores, impacto a largo plazo y bienestar propio y colectivo. Pide que justifiquen sus elecciones por escrito o en pequeños grupos, resaltando la importancia de revisar si sus actos cotidianos reflejan el tipo de adulto que dicen querer ser."
+    },
+    {
+      "id": "CON-007",
+      "concepto": "Determinación",
+      "definicion_pedagogica": "La determinación es la capacidad de sostener metas significativas a pesar de dudas, obstáculos, demoras o fracasos parciales, manteniendo el compromiso con lo decidido. Implica autorregulación, tolerancia a la frustración y manejo estratégico del tiempo y los recursos. Se articula con la competencia anual de perseverancia y responsabilidad, y con estándares que promueven la continuidad del esfuerzo ante tareas exigentes. En la malla ECO se vincula con resiliencia, autocontrol y planificación. La batería busca que el estudiante demuestre consistencia en sus acciones a lo largo del tiempo, incluso cuando los resultados no son inmediatos.",
+      "definicion_estudiante": "Tener determinación es seguir adelante con tus metas, aunque te canses, te desanimes o las cosas no salgan a la primera. Significa que, si realmente quieres algo, te organizas, buscas ayuda, ajustas estrategias y no renuncias solo porque el camino es difícil. Esta actitud es clave para preparar exámenes de ingreso, proyectos de grado o procesos de selección.",
+      "habilidad_malla": "Resiliencia y autorregulación",
+      "ejemplo_aula": "\"Aunque el examen de ingreso era muy difícil, seguí estudiando porque sé lo que quiero lograr y me organicé mejor cada semana.\"",
+      "evidencia_logro": "El docente observa que el estudiante mantiene el esfuerzo en proyectos de mediano plazo, cumple compromisos a pesar de dificultades y ajusta estrategias en lugar de abandonar cuando enfrenta errores o resultados inferiores a los esperados.",
+      "tip_psicologico": "Ayuda a los estudiantes a descomponer grandes metas en pasos alcanzables y a planificar tiempos y recursos de forma realista. Refuerza los avances parciales y usa el error como oportunidad de análisis, mostrando que la determinación se fortalece cuando aprenden a ajustar el plan sin abandonar la meta."
+    },
+    {
+      "id": "CON-008",
+      "concepto": "Integridad",
+      "definicion_pedagogica": "La integridad es la coherencia estable entre principios éticos personales y conducta observable, incluso cuando no hay supervisión externa o cuando pueden obtenerse beneficios al actuar de forma deshonesta. Supone un sentido interno de responsabilidad y justicia que orienta las decisiones cotidianas y las elecciones de futuro. Se vincula con la competencia anual de ética y ciudadanía responsable, y con estándares que promueven el respeto por normas justas y el rechazo a la corrupción. En la malla ECO se relaciona con convivencia, autonomía ética y compromiso social. La batería busca que el estudiante sostenga decisiones íntegras en situaciones tentadoras o ambiguas.",
+      "definicion_estudiante": "Actuar con integridad es hacer lo correcto aunque nadie te esté mirando y aunque te resulte más fácil aprovecharte de la situación. Es, por ejemplo, no copiar en un examen, no apropiarte de lo ajeno y decir la verdad aunque te cueste. La integridad construye confianza en tus relaciones y te prepara para asumir responsabilidades adultas.",
+      "habilidad_malla": "Convivencia y autonomía ética",
+      "ejemplo_aula": "\"Devolví el dinero que encontré en el salón porque sabía que no era correcto quedármelo, aunque nadie me había visto recogerlo.\"",
+      "evidencia_logro": "El docente observa que el estudiante respeta normas y acuerdos incluso sin supervisión, rechaza conductas deshonestas aunque le beneficien y argumenta sus decisiones apelando a principios éticos y no solo al miedo al castigo.",
+      "tip_psicologico": "Propón dilemas morales cercanos a la realidad de los estudiantes y analízalos en grupo, resaltando las razones éticas detrás de cada decisión. Modela tú mismo comportamientos íntegros y reconoce públicamente actos de honestidad, destacando el impacto que tienen en la confianza y en la construcción de comunidad.",
+      "habilidad_malla": "Convivencia y autonomía ética"
+    },
+    {
+      "id": "CON-009",
+      "concepto": "Resignificación",
+      "definicion_pedagogica": "La resignificación es la habilidad de reinterpretar experiencias difíciles, errores o fracasos otorgándoles un nuevo sentido que favorece el aprendizaje, el crecimiento personal y la madurez emocional. Supone flexibilidad cognitiva, autocompasión y capacidad de integrar la experiencia dolorosa a la propia historia sin quedar atrapado en ella. Se relaciona con la competencia anual de resiliencia y pensamiento reflexivo, y con estándares que promueven la valoración del error como fuente de aprendizaje. En la malla ECO se vincula con regulación emocional avanzada y reestructuración de pensamiento. La batería busca que el estudiante pueda narrar experiencias complejas desde una perspectiva de crecimiento.",
+      "definicion_estudiante": "Resignificar una experiencia es mirar de nuevo algo que te dolió o te salió mal y encontrar qué aprendiste de eso, en lugar de quedarte solo con la culpa o la vergüenza. No significa negar el dolor, sino darle un sentido que te permita seguir adelante más fuerte y más consciente. Este proceso te ayuda a tomar mejores decisiones en el futuro.",
+      "habilidad_malla": "Resiliencia y reestructuración cognitiva",
+      "ejemplo_aula": "\"Al principio veía mi error como un fracaso, pero ahora entiendo que fue un aprendizaje necesario para conocer mis límites y mejorar.\"",
+      "evidencia_logro": "El docente observa que el estudiante relata situaciones difíciles identificando aprendizajes concretos, disminuye el lenguaje extremadamente autocrítico y propone cambios de conducta basados en lo que ha comprendido de la experiencia.",
+      "tip_psicologico": "Invita a realizar ejercicios escritos de reflexión después de experiencias complejas, guiando con preguntas como: ¿qué aprendí?, ¿qué haría diferente?, ¿qué recursos descubrí en mí? Acompaña al grupo a diferenciar entre responsabilidad y culpa excesiva, y modela una mirada compasiva y a la vez exigente sobre el error."
+    },
+    {
+      "id": "CON-010",
+      "concepto": "Responsabilidad en las decisiones",
+      "definicion_pedagogica": "La responsabilidad en las decisiones implica que el estudiante analiza consecuencias, asume los efectos de sus elecciones y aprende de los errores sin recurrir a la excusa o a la culpabilización de otros. Supone autoconciencia, control de impulsos y sentido de compromiso con su propio bienestar y el de su entorno. Se articula con la competencia anual de autonomía y ciudadanía, y con estándares que promueven la rendición de cuentas y la reflexión crítica sobre las propias acciones. En la malla ECO se relaciona con autorregulación, convivencia y proyecto de vida. La batería busca que el estudiante responda de manera madura ante situaciones donde sus decisiones tienen impacto en resultados académicos, relacionales o éticos.",
+      "definicion_estudiante": "Ser responsable en tus decisiones es reconocer que lo que eliges tiene consecuencias y que tú eres quien debe hacerse cargo de ellas. Cuando algo sale mal, en vez de buscar culpables, analizas qué parte dependía de ti y cómo podrías actuar diferente la próxima vez. Esta actitud te permite ganarte la confianza de los demás y construir un futuro más estable.",
+      "habilidad_malla": "Autorregulación y convivencia responsable",
+      "ejemplo_aula": "\"Reconocí que elegí tarde inscribirme y acepté las consecuencias, organizándome mejor para la próxima vez.\"",
+      "evidencia_logro": "El docente observa que el estudiante reconoce explícitamente su papel en los resultados obtenidos, evita excusarse culpando solo a factores externos y propone acciones concretas de mejora para futuras decisiones.",
+      "tip_psicologico": "Cuando se presenten conflictos o dificultades académicas, guía conversaciones enfocadas en la pregunta \"¿qué dependía de mí?\" en lugar de centrarse únicamente en la sanción. Refuerza las ocasiones en que los estudiantes asumen consecuencias de forma madura y utiliza contratos o acuerdos escritos que les ayuden a visualizar su compromiso con las decisiones que toman."
+    }
+  ],
+  "periodo_3": [
+    {
+      "id": "CON-011",
+      "concepto": "Resiliencia (transición a la adultez)",
+      "definicion_pedagogica": "La resiliencia en la transición a la adultez es la capacidad del estudiante para afrontar adversidades propias del paso al mundo universitario o laboral, reformular metas y mantener la motivación cuando los planes iniciales no se cumplen. Incluye flexibilidad, manejo del estrés, búsqueda de apoyo y reorientación del proyecto de vida sin perder el sentido de sí mismo. Se vincula con la competencia anual de adaptación a contextos cambiantes y con estándares que promueven respuestas constructivas ante la frustración. En la malla ECO se relaciona con resiliencia, autonomía emocional y planificación vital. La batería busca que el estudiante pueda narrar cómo se ha recuperado de experiencias difíciles y qué estrategias utiliza para seguir avanzando.",
+      "definicion_estudiante": "Ser resiliente en esta etapa es levantarte cuando algo importante no sale como esperabas, como no ser admitido en tu primera opción de estudio o perder una oportunidad laboral. En lugar de rendirte, revisas tus alternativas, ajustas el plan y sigues trabajando por tus metas. La resiliencia te ayuda a no definirte solo por los fracasos, sino también por cómo respondes a ellos.",
+      "habilidad_malla": "Resiliencia y planificación vital",
+      "ejemplo_aula": "\"Cuando no fui admitido en mi primera opción, busqué alternativas y ajusté mi plan sin rendirme.\"",
+      "evidencia_logro": "El docente observa que el estudiante, ante resultados negativos relevantes, reconoce la frustración pero plantea nuevas rutas de acción, busca información y apoyo, y mantiene el compromiso con su proyecto de vida.",
+      "tip_psicologico": "Incorpora testimonios o historias de personas que han tenido trayectorias no lineales hacia sus metas y analícenlas en clase para normalizar los desvíos del plan original. Enseña técnicas básicas de manejo de estrés y fomenta espacios donde puedan compartir dificultades sin juzgar, enfocándose en los recursos que cada uno está utilizando para seguir adelante."
+    },
+    {
+      "id": "CON-012",
+      "concepto": "Adaptación al cambio",
+      "definicion_pedagogica": "La adaptación al cambio es la habilidad para ajustarse a transformaciones inevitables en el contexto académico, familiar o social, manteniendo serenidad, equilibrio emocional y claridad sobre los objetivos personales. Supone flexibilidad mental, apertura a nuevas experiencias y capacidad de modificar estrategias sin renunciar a los valores centrales. Se relaciona con la competencia anual de gestión del cambio y con estándares que promueven la respuesta proactiva ante variaciones en el entorno. En la malla ECO se vincula con autorregulación, resiliencia y planificación flexible. La batería busca que el estudiante pueda describir cómo adapta sus planes ante cambios externos sin quedar paralizado ni reaccionar impulsivamente.",
+      "definicion_estudiante": "Adaptarte al cambio es ajustar tus planes cuando las cosas no ocurren como las habías programado, sin perder de vista lo que quieres lograr. En lugar de quedarte solo en la queja o el miedo, buscas nuevas maneras de organizarte y sigues avanzando. Esta habilidad es clave para enfrentar cambios en fechas de admisión, exigencias académicas o situaciones familiares.",
+      "habilidad_malla": "Gestión del cambio y autorregulación",
+      "ejemplo_aula": "\"Los cambios en el calendario de admisiones me inquietaron, pero actualicé mi plan y seguí adelante con los nuevos plazos.\"",
+      "evidencia_logro": "El docente observa que el estudiante modifica horarios, estrategias o decisiones frente a cambios externos, manteniendo la participación académica y evitando conductas de abandono o bloqueo.",
+      "tip_psicologico": "Trabaja con el grupo habilidades de planificación flexible, animándolos a tener planes alternos y a anticipar posibles cambios. Cuando surjan imprevistos reales en el calendario o en proyectos de clase, utiliza la situación como ejercicio práctico de adaptación, guiando la reflexión sobre qué ajustaron y cómo se sintieron en el proceso."
+    },
+    {
+      "id": "CON-013",
+      "concepto": "Regulación emocional avanzada",
+      "definicion_pedagogica": "La regulación emocional avanzada es la capacidad del estudiante para identificar emociones intensas, comprender sus detonantes y utilizar estrategias complejas para gestionarlas antes de actuar, transformando la dificultad en motivación para crecer. Implica conciencia emocional, reflexión, autocontrol y uso de recursos internos y externos de apoyo. Se vincula con la competencia anual de autorregulación y salud mental, y con estándares que promueven respuestas deliberadas frente a situaciones de alta carga emocional. En la malla ECO se relaciona con regulación emocional, resiliencia y habilidades sociales. La batería busca que el estudiante demuestre que puede pausar, pensar y elegir respuestas constructivas incluso en contextos de conflicto.",
+      "definicion_estudiante": "Regular tus emociones de forma avanzada es darte cuenta de lo que sientes antes de explotar y usar estrategias que te ayuden a no reaccionar de manera impulsiva. Puedes, por ejemplo, respirar, tomar distancia, escribir o hablar con alguien de confianza antes de responder. Esto no solo te protege a ti, sino que también cuida tus relaciones y tu proyecto de vida.",
+      "habilidad_malla": "Regulación emocional avanzada",
+      "ejemplo_aula": "\"Antes de responder en medio de la discusión, respiré, pensé y luego hablé con más claridad.\"",
+      "evidencia_logro": "El docente observa que el estudiante, en situaciones de tensión, se toma tiempo para calmarse, utiliza estrategias explícitas de manejo emocional y elige respuestas verbales y conductuales más constructivas que en momentos anteriores.",
+      "tip_psicologico": "Enseña y practica con el grupo técnicas concretas de regulación (respiración, pausa consciente, reestructuración de pensamientos, búsqueda de apoyo) y hazlas parte de las rutinas de aula. Refuerza cuando los estudiantes logran detenerse antes de reaccionar y ofrece retroalimentación privada cuando se desbordan, ayudándoles a analizar qué señales internas pudieron haber atendido antes."
+    },
+    {
+      "id": "CON-014",
+      "concepto": "Búsqueda de apoyo significativo",
+      "definicion_pedagogica": "La búsqueda de apoyo significativo es la disposición activa del estudiante para acudir a personas de confianza que puedan brindar orientación, contención emocional o ayuda práctica en momentos de decisión o crisis. Implica reconocer la propia vulnerabilidad, discriminar fuentes de apoyo confiables y utilizar la red de acompañamiento como recurso para la autonomía y no para la dependencia. Se relaciona con la competencia anual de construcción de redes de apoyo y cuidado mutuo, y con estándares que promueven la solicitud adecuada de ayuda. En la malla ECO se vincula con vínculo y confianza, habilidades sociales y cuidado de la salud mental. La batería busca que el estudiante identifique a quién acudir y cómo pedir ayuda de manera clara y respetuosa.",
+      "definicion_estudiante": "Buscar apoyo significativo es decidir no enfrentar solo una situación difícil y acercarte a personas que pueden orientarte y sostenerte, como tu familia, docentes, amigos cercanos u orientador escolar. No es señal de debilidad, sino de inteligencia emocional reconocer cuándo necesitas ayuda. Este apoyo puede marcar la diferencia en decisiones de carrera, conflictos o momentos de crisis personal.",
+      "habilidad_malla": "Vínculo y confianza",
+      "ejemplo_aula": "\"Cuando me sentí abrumado por las opciones de carrera, pedí una cita con el orientador y hablé con mi familia.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica adultos significativos o pares de confianza para hablar de sus dificultades, solicita ayuda de manera oportuna y sigue algunas de las orientaciones recibidas para afrontar la situación.",
+      "tip_psicologico": "Mapa junto con el grupo las redes de apoyo disponibles dentro y fuera del colegio, explicando claramente cómo acceder a ellas. Refuerza positivamente cuando un estudiante busca ayuda a tiempo y cuida la confidencialidad, generando un ambiente donde pedir apoyo sea visto como un acto responsable y no como motivo de burla."
+    },
+    {
+      "id": "CON-015",
+      "concepto": "Aprendizaje a partir del error",
+      "definicion_pedagogica": "El aprendizaje a partir del error es la actitud de aceptar los errores como parte natural de cualquier proceso de desarrollo, reflexionando sobre ellos para tomar mejores decisiones futuras. Supone una mentalidad de crecimiento, disposición a revisar la propia actuación y apertura a la retroalimentación. Se vincula con la competencia anual de pensamiento crítico y resiliencia, y con estándares que promueven la autoevaluación honesta. En la malla ECO se relaciona con resignificación, autorregulación y proyecto de vida. La batería busca que el estudiante transforme el error en información útil para mejorar, en lugar de convertirlo en motivo de parálisis o descalificación personal.",
+      "definicion_estudiante": "Aprender del error es dejar de ver equivocarse como una tragedia y empezar a verlo como una oportunidad para entender qué necesitas cambiar o fortalecer. Cuando analizas por qué algo salió mal y haces ajustes, el error se convierte en un paso hacia adelante y no en un freno. Esta actitud es clave para entrevistas, exámenes y proyectos futuros.",
+      "habilidad_malla": "Pensamiento crítico y resiliencia",
+      "ejemplo_aula": "\"Analicé por qué fallé en la primera entrevista y usé esa experiencia para prepararme mejor para la siguiente.\"",
+      "evidencia_logro": "El docente observa que el estudiante revisa sus errores con actitud abierta, identifica causas realistas y propone estrategias de mejora, disminuyendo conductas de evitación o auto castigo exagerado.",
+      "tip_psicologico": "Transforma los errores del aula en momentos sistemáticos de reflexión, usando formatos de análisis breve que incluyan qué pasó, qué aprendí y qué haré diferente. Evita etiquetar a los estudiantes por un fallo puntual y enfatiza que el progreso se mide por la capacidad de ajustar la conducta después del error."
+    }
+  ],
+  "periodo_4": [
+    {
+      "id": "CON-016",
+      "concepto": "Proyecto de vida con sentido ético",
+      "definicion_pedagogica": "El proyecto de vida con sentido ético es la integración de metas personales, vocacionales y sociales en una visión de futuro que busca el bienestar propio y el aporte al bien común. Implica que el estudiante articule sus talentos, valores y aspiraciones con necesidades reales de su entorno, asumiendo responsabilidad social en sus decisiones. Se vincula con la competencia anual de proyecto de vida y ciudadanía ética, y con estándares que promueven el compromiso con la justicia y la equidad. En la malla ECO se relaciona con autonomía ética, compromiso social y planificación vital. La batería busca que el estudiante pueda describir un proyecto de vida coherente que incluya metas, valores y formas concretas de contribuir a otros.",
+      "definicion_estudiante": "Tener un proyecto de vida con sentido ético es querer construir un futuro donde tú puedas desarrollarte como persona y profesional, pero también aportar algo positivo a la sociedad. No se trata solo de \"tener éxito\", sino de preguntarte qué tipo de impacto quieres generar con tu trabajo y tus decisiones. Este proyecto te ayuda a elegir carreras, proyectos y relaciones que respeten tu dignidad y la de los demás.",
+      "habilidad_malla": "Proyecto de vida y compromiso social",
+      "ejemplo_aula": "\"Quiero ser médico rural porque deseo mejorar la calidad de vida de comunidades con poco acceso a salud.\"",
+      "evidencia_logro": "El docente observa que el estudiante define metas vocacionales y personales articuladas con valores éticos explícitos y propone acciones concretas para impactar positivamente su contexto cercano o comunitario.",
+      "tip_psicologico": "Incluye en el trabajo de orientación profesional preguntas sobre impacto social y no solo sobre intereses individuales. Promueve proyectos de servicio o aprendizaje solidario que permitan experimentar cómo el propio proyecto de vida puede aportar al bienestar colectivo y usa estas experiencias como insumo para profundizar en la reflexión ética."
+    },
+    {
+      "id": "CON-017",
+      "concepto": "Trascendencia",
+      "definicion_pedagogica": "La trascendencia es el deseo de dejar una huella positiva en otras personas y en el entorno, comprendiendo la propia vida como parte de algo más grande que uno mismo. Supone sentido de propósito, conexión con valores universales y apertura a dimensiones espirituales, culturales o comunitarias que dan profundidad a la existencia. Se vincula con la competencia anual de sentido de vida y ciudadanía global, y con estándares que promueven el compromiso con causas que trascienden el beneficio inmediato. En la malla ECO se relaciona con sentido existencial, compromiso ético y responsabilidad social. La batería busca que el estudiante exprese de qué manera desea ser recordado y qué acciones concretas está dispuesto a realizar para lograrlo.",
+      "definicion_estudiante": "Vivir la trascendencia es preguntarte qué huella quieres dejar en las personas y lugares que te rodean, más allá de las notas o el dinero que puedas ganar. Es pensar en cómo tus decisiones pueden mejorar la vida de otros y darle un sentido profundo a lo que haces cada día. Esta mirada te ayuda a superar el egoísmo y a comprometerte con causas que valen la pena.",
+      "habilidad_malla": "Sentido existencial y compromiso ético",
+      "ejemplo_aula": "\"Me gustaría que me recuerden como alguien que usó su profesión para servir a los demás.\"",
+      "evidencia_logro": "El docente observa que el estudiante menciona explícitamente el impacto que quiere tener en otros, participa en iniciativas de servicio o liderazgo y conecta sus metas personales con causas de mayor alcance.",
+      "tip_psicologico": "Propone actividades de reflexión sobre legado personal, como escribir epitafios simbólicos, cartas al futuro o proyectos que imaginen su contribución a la comunidad. Relaciona estas reflexiones con acciones concretas que pueden emprender desde ahora, mostrando que la trascendencia se construye en decisiones cotidianas y no solo en grandes gestos."
+    },
+    {
+      "id": "CON-018",
+      "concepto": "Compromiso ético y social",
+      "definicion_pedagogica": "El compromiso ético y social es la disposición estable a tomar decisiones coherentes con principios de justicia, empatía e integridad, incluso cuando implica esfuerzo, sacrificio o impopularidad. Supone sensibilidad ante las injusticias, rechazo a prácticas corruptas y participación activa en acciones que buscan el bien común. Se relaciona con la competencia anual de ciudadanía responsable y ética pública, y con estándares que promueven la participación en procesos democráticos y comunitarios. En la malla ECO se vincula con convivencia, responsabilidad social y liderazgo ético. La batería busca que el estudiante muestre coherencia entre su discurso sobre justicia y sus elecciones concretas.",
+      "definicion_estudiante": "Tener compromiso ético y social es decidir actuar de manera justa y solidaria, aunque eso te cueste tiempo, comodidad o popularidad. Significa rechazar oportunidades que dañen a otros o violen normas, y apoyar iniciativas que mejoren tu colegio, tu barrio o tu país. Tu compromiso se ve en lo que haces, no solo en lo que opinas.",
+      "habilidad_malla": "Ciudadanía responsable y liderazgo ético",
+      "ejemplo_aula": "\"Rechacé participar en un negocio que no respetaba normas legales, aunque parecía una oportunidad rápida de ganar dinero.\"",
+      "evidencia_logro": "El docente observa que el estudiante denuncia o se distancia de prácticas injustas, participa en proyectos de impacto social y toma decisiones coherentes con principios éticos incluso cuando el entorno no lo favorece.",
+      "tip_psicologico": "Crea espacios de debate sobre temas sociales actuales y acompaña a los estudiantes a analizar la dimensión ética de sus posturas. Facilita que se involucren en proyectos de participación estudiantil o comunitaria, ayudándoles a ver la conexión entre sus valores y las acciones concretas que pueden emprender."
+    },
+    {
+      "id": "CON-019",
+      "concepto": "Identidad personal (síntesis)",
+      "definicion_pedagogica": "La identidad personal en síntesis es la integración final de historia, valores, talentos, vínculos y aprendizajes en una visión clara y relativamente estable de quién se es y del tipo de adulto que se quiere llegar a ser. Implica cerrar procesos de exploración propios de la adolescencia y tomar decisiones más definidas sobre estilo de vida, vocación y posicionamiento ético. Se vincula con la competencia anual de consolidación de identidad y proyecto de vida, y con estándares que promueven la autorreflexión profunda sobre el propio camino. En la malla ECO se relaciona con autoconocimiento avanzado, autonomía emocional y sentido de vida. La batería busca que el estudiante exprese de forma articulada los elementos centrales de su identidad y cómo estos orientan sus decisiones futuras.",
+      "definicion_estudiante": "La identidad en síntesis es cuando puedes mirarte con honestidad y decir con claridad quién eres, qué es importante para ti y qué tipo de adulto quieres ser. No significa que nunca cambies, pero sí que tienes una base sólida desde la cual tomar decisiones. Esta claridad te ayuda a elegir carrera, amistades y proyectos que van en la misma dirección.",
+      "habilidad_malla": "Autoconocimiento avanzado",
+      "ejemplo_aula": "\"Hoy puedo describir qué me define, qué no estoy dispuesto a negociar y qué quiero aportar como profesional.\"",
+      "evidencia_logro": "El docente observa que el estudiante describe de forma coherente sus valores, talentos y límites personales, y explica cómo estos influyen en decisiones de estudio, trabajo y estilo de vida.",
+      "tip_psicologico": "Invita a realizar ejercicios de síntesis personal, como portafolios de vida, manifiestos personales o presentaciones finales sobre \"quién soy y hacia dónde voy\". Ofrece retroalimentación que resalte la coherencia entre lo que el estudiante expresa y las acciones que ha venido tomando, y acompaña con preguntas que profundicen sin imponer una visión externa de identidad."
+    },
+    {
+      "id": "CON-020",
+      "concepto": "Uso responsable del propio talento",
+      "definicion_pedagogica": "El uso responsable del propio talento es la conciencia de que las capacidades personales, habilidades académicas y recursos socioemocionales son medios para servir, construir y transformar positivamente la realidad, y no solo para beneficio individual. Implica reconocer privilegios y oportunidades, y decidir emplearlos de manera ética y solidaria. Se relaciona con la competencia anual de compromiso social y proyecto de vida ético, y con estándares que promueven la responsabilidad en el ejercicio de la profesión y la ciudadanía. En la malla ECO se vincula con autonomía ética, sentido de servicio y liderazgo prosocial. La batería busca que el estudiante identifique sus talentos y describa formas concretas de ponerlos al servicio de causas significativas.",
+      "definicion_estudiante": "Usar tu talento de forma responsable es entender que tus habilidades para comunicar, liderar, investigar o crear pueden ayudar a otros y mejorar tu entorno, no solo darte reconocimiento personal. Significa elegir proyectos, trabajos y espacios donde lo que sabes hacer tenga un impacto positivo. Así construyes una trayectoria que te hace sentir orgulloso por lo que logras y por cómo lo logras.",
+      "habilidad_malla": "Liderazgo prosocial y autonomía ética",
+      "ejemplo_aula": "\"Siento que mi habilidad para comunicar puede ayudar a defender causas importantes y a informar a otros de manera responsable.\"",
+      "evidencia_logro": "El docente observa que el estudiante reconoce sus talentos específicos, se ofrece para utilizarlos en proyectos de servicio o liderazgo y toma decisiones que muestran preocupación por el impacto de sus capacidades en la comunidad.",
+      "tip_psicologico": "Facilita espacios para que identifiquen y nombren sus talentos mediante retroalimentación entre pares y ejercicios de autoevaluación. Propón proyectos donde puedan aplicar esas habilidades en beneficio de otros y conversa con ellos sobre los riesgos de usar el talento de manera egoísta o poco ética, reforzando ejemplos positivos dentro del grupo."
+    }
+  ]
+}

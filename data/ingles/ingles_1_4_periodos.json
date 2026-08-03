@@ -6,7 +6,7 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -29,7 +29,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela).",
@@ -50,7 +50,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -67,7 +67,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y responde a instrucciones sobre tareas escolares básicas, de manera verbal y no verbal."
@@ -93,7 +93,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Organiza la secuencia de eventos principales en una historia corta y sencilla, sobre temas familiares, usando imágenes, después de haberla leído o escuchado."
@@ -114,7 +114,7 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -135,7 +135,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Responde preguntas sencillas sobre información personal básica, como su nombre, edad, familia y compañeros de clase."
@@ -152,7 +152,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y responde a instrucciones sobre tareas escolares básicas, de manera verbal y no verbal."
@@ -172,7 +172,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Organiza la secuencia de eventos principales en una historia corta y sencilla, sobre temas familiares, usando imágenes, después de haberla leído o escuchado."
@@ -191,7 +191,7 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -210,7 +210,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Responde preguntas sencillas sobre información personal básica, como su nombre, edad, familia y compañeros de clase."
@@ -229,7 +229,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y responde a instrucciones sobre tareas escolares básicas, de manera verbal y no verbal."
@@ -249,7 +249,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Organiza la secuencia de eventos principales en una historia corta y sencilla, sobre temas familiares, usando imágenes, después de haberla leído o escuchado."
@@ -268,7 +268,7 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Escucha)",
         "estandar": ["Escucha"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -285,7 +285,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Conversación)",
         "estandar": ["Conversación"],
         "dba": [
           "Responde preguntas sencillas sobre información personal básica, como su nombre, edad, familia y compañeros de clase.",
@@ -306,7 +306,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
+        "componente": "Lingüístico (Monólogo)",
         "estandar": ["Monólogo"],
         "dba": [
           "Comprende y realiza declaraciones sencillas, usando expresiones ensayadas, sobre su entorno inmediato (casa y escuela)."
@@ -323,7 +323,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
+        "componente": "Sociolingüístico (Lectura)",
         "estandar": ["Lectura"],
         "dba": [
           "Comprende y responde a instrucciones sobre tareas escolares básicas, de manera verbal y no verbal."
@@ -346,7 +346,7 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
+        "componente": "Pragmático (Escritura)",
         "estandar": ["Escritura"],
         "dba": [
           "Organiza la secuencia de eventos principales en una historia corta y sencilla, sobre temas familiares, usando imágenes, después de haberla leído o escuchado."
@@ -364,4 +364,6 @@
       }
     ]
   }
+
 }
+

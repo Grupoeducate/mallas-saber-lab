@@ -1,0 +1,276 @@
+{
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "8",
+  "nombre_archivo": "t_sociales_8_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cartógrafos de la Modernidad",
+            "un_reto_sugerido": "¿Cómo transformaron los inventos del siglo XIX el mapa físico y económico de Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar láminas de la Comisión Corográfica de Agustín Codazzi y compararlas con mapas satelitales actuales para identificar cambios en el paisaje.",
+              "visual": "Construcción de un modelo de 'Telégrafo Casero' con materiales reciclados (pilas, cables y un bombillo) para experimentar cómo la velocidad de la información cambió la gestión del territorio.",
+              "produccion": "Informe de análisis sobre los problemas ambientales derivados de la llegada del ferrocarril y la industria textil, proponiendo soluciones de desarrollo sostenible."
+            },
+            "para_pensar": [
+              "¿Por qué la representación cartográfica de un país es una herramienta de poder y planeación?",
+              "¿Qué consecuencias ambientales de la industrialización del siglo XIX seguimos viviendo hoy?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el impacto de los avances tecnológicos decimonónicos en la economía nacional.",
+              "Relaciona la industrialización con el crecimiento urbano y el deterioro ambiental."
+            ],
+            "un_refuerzo": "Realizar un cuadro comparativo entre el transporte en mulas y el barco de vapor en términos de tiempo y carga."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Reparto del Mundo",
+            "un_reto_sugerido": "¿De qué manera el imperialismo del siglo XIX se parece a la influencia de las potencias actuales en Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar caricaturas políticas del siglo XIX sobre el reparto de África y Asia, identificando los símbolos de los imperios europeos.",
+              "visual": "Simulación de un 'Tratado de Libre Comercio' en el aula: Dividir el grupo en potencias y países en desarrollo para negociar recursos y observar las desigualdades.",
+              "produccion": "Ensayo crítico sobre la influencia de Estados Unidos en la política colombiana actual (TLC, lucha contra las drogas) comparándola con el colonialismo antiguo."
+            },
+            "para_pensar": [
+              "¿Es posible un comercio mundial que no sea imperialista?",
+              "¿Cómo afecta el éxodo de colombianos hacia potencias mundiales a nuestra propia economía?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta mapas temáticos de la expansión imperialista europea en Asia y África.",
+              "Compara la influencia colonial del siglo XIX con el poder de las telecomunicaciones actuales."
+            ],
+            "un_refuerzo": "Investigar qué países actuales de África conservan el idioma de sus antiguos colonizadores y por qué."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "El Motor del Capitalismo",
+            "un_reto_sugerido": "¿Por qué el capitalismo se convirtió en el sistema dominante y cómo nos afecta la cooperación internacional?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un inventario de objetos en el salón de clases e identificar cuáles son de propiedad privada y cuáles son bienes comunes.",
+              "visual": "Mapa de Alianzas Globales: Crear una red con hilos que conecte a Colombia con bloques como la OTAN, MERCOSUR y la Unión Europea, explicando sus objetivos.",
+              "produccion": "Debate argumentado sobre las ventajas y desventajas de la libre competencia y el consumo masivo en la sociedad colombiana contemporánea."
+            },
+            "para_pensar": [
+              "¿Puede existir el capitalismo sin generar desigualdad entre países?",
+              "¿Por qué la Unión Europea es un modelo de cooperación que otros continentes intentan seguir?"
+            ],
+            "pistas_del_exito": [
+              "Explica las características del sistema capitalista y su origen en la industria europea.",
+              "Reconoce la importancia de los organismos de cooperación internacional en el orden mundial."
+            ],
+            "un_refuerzo": "Elaborar un glosario con los términos: Capital, Plusvalía, Consumo y Propiedad Privada."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes del Estado Social",
+            "un_reto_sugerido": "¿Cuál es la diferencia entre que el Estado solo haga leyes y que el Estado garantice el bienestar de todos?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos: Leer noticias sobre la falta de acceso a la salud y debatir si el Estado está cumpliendo su función social.",
+              "visual": "Taller de 'Mecanismos en Acción': Simular una audiencia pública donde se use un mecanismo de participación para resolver un problema del barrio.",
+              "produccion": "Manifiesto por la no violencia: Proponer acciones ciudadanas para proteger los derechos civiles y políticos de minorías vulneradas."
+            },
+            "para_pensar": [
+              "¿Por qué Colombia se define como un Estado Social de Derecho y no solo como un Estado de Derecho?",
+              "¿Cómo podemos ponernos en el lugar de alguien a quien se le han violado sus derechos políticos?"
+            ],
+            "pistas_del_exito": [
+              "Describe los principios del Estado Social de Derecho y su relación con los derechos civiles.",
+              "Propone mecanismos de participación para intervenir en problemáticas sociales sin usar la violencia."
+            ],
+            "un_refuerzo": "Crear una infografía que explique los pasos para realizar una Veeduría Ciudadana."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mundo en Movimiento",
+            "un_reto_sugerido": "¿Cómo cambian los países que reciben a millones de personas y por qué la gente decide dejar su hogar?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver testimonios en video de migrantes actuales hacia Europa y Estados Unidos, anotando sus motivos y miedos.",
+              "visual": "Laboratorio de IDH: Calcular un 'Índice de Desarrollo Humano' simplificado del salón (salud, educación, bienestar) y compararlo con países receptores de migrantes.",
+              "produccion": "Panel de expertos sobre los aportes de los migrantes a la ciencia, el arte y la economía de los países que los reciben."
+            },
+            "para_pensar": [
+              "¿Es la migración un problema o una oportunidad para el país que recibe a las personas?",
+              "¿Qué diferencia a un migrante por elección de un desplazado por violencia?"
+            ],
+            "pistas_del_exito": [
+              "Explica las consecuencias de las migraciones en las relaciones entre países de origen y destino.",
+              "Argumenta los aportes culturales y científicos de los migrantes a la humanidad."
+            ],
+            "un_refuerzo": "Investigar la historia de un personaje famoso (ej. Albert Einstein o Shakira) que haya sido migrante."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Ecos de Libertad",
+            "un_reto_sugerido": "¿Cómo las ideas de una revolución en Francia terminaron liberando a los pueblos de América?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura comparativa: Analizar la Declaración de los Derechos del Hombre (Francia) y la traducción de Antonio Nariño en la Nueva Granada.",
+              "visual": "Dramatización de 'La Patria Boba': Representar el conflicto entre federalistas y centralistas para entender por qué fue difícil organizar la nueva república.",
+              "produccion": "Mapa conceptual que conecte la Revolución Industrial, la Ilustración y la Independencia de las colonias americanas."
+            },
+            "para_pensar": [
+              "¿Por qué la soberanía popular fue una idea tan peligrosa para los reyes del siglo XVIII?",
+              "¿Qué herencia de la Revolución Francesa vemos hoy en la Constitución de Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Describe la influencia de las revoluciones burguesas en la independencia americana.",
+              "Compara la organización política de las colonias españolas, inglesas y portuguesas."
+            ],
+            "un_refuerzo": "Realizar una historieta sobre el periodo de la Reconquista Española y el papel de la resistencia patriota."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "La Lucha por el Poder",
+            "un_reto_sugerido": "¿Por qué el siglo XIX en Colombia estuvo marcado por tantas guerras civiles entre federalistas y centralistas?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar los símbolos de los partidos Liberal y Conservador en el siglo XIX y sus propuestas principales sobre la religión y el Estado.",
+              "visual": "Juego de Estrategia Territorial: Dividir el mapa de Colombia en estados soberanos (Federalismo) vs un poder único (Centralismo) y debatir cuál es más eficiente.",
+              "produccion": "Ensayo sobre el periodo de la Regeneración y la Constitución de 1886, evaluando su impacto en la unidad nacional."
+            },
+            "para_pensar": [
+              "¿Es mejor que cada región mande sobre sí misma o que haya un solo centro de mando?",
+              "¿Cómo influyó el radicalismo liberal en la educación y la economía del país?"
+            ],
+            "pistas_del_exito": [
+              "Explica los procesos políticos de la Patria Boba, el Federalismo y el Centralismo.",
+              "Argumenta las consecuencias de la intervención de estados desarrollados en países con economías emergentes."
+            ],
+            "un_refuerzo": "Investigar qué fue la Guerra de los Mil Días y cómo se relaciona con la pérdida de Panamá."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Arte de Reconciliar",
+            "un_reto_sugerido": "¿Cómo podemos superar el odio y el resentimiento para construir relaciones de paz?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Espejo de las Emociones': Identificar situaciones personales de conflicto donde el perdón fue difícil pero necesario.",
+              "visual": "Taller de Resiliencia: Crear un 'Árbol de la Reconciliación' donde las raíces sean las emociones superadas y los frutos las acciones de cuidado mutuo.",
+              "produccion": "Plan de convivencia escolar que prevea consecuencias a largo plazo de las acciones violentas y proponga alternativas de afecto."
+            },
+            "para_pensar": [
+              "¿Por qué el perdón es un acto de valentía y no de debilidad?",
+              "¿Cómo nuestras acciones diarias pueden causar sufrimiento a personas que ni siquiera conocemos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la importancia de la resiliencia en la resolución de conflictos personales.",
+              "Evalúa las consecuencias de sus decisiones priorizando el bienestar ajeno."
+            ],
+            "un_refuerzo": "Ver un fragmento de un proceso de paz real y analizar cómo se manejaron las emociones de las víctimas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes del Territorio Ancestral",
+            "un_reto_sugerido": "¿Qué podemos aprender de las etnias colombianas para salvar nuestro medio ambiente?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar técnicas agrícolas ancestrales (como las terrazas zenúes) y compararlas con la agricultura intensiva actual.",
+              "visual": "Maqueta de 'Ecosistemas en Riesgo': Representar una zona afectada por la minería ilegal y proponer una estrategia de restauración basada en saberes locales.",
+              "produccion": "Campaña de conservación ambiental escolar que integre la visión de respeto a la tierra de las comunidades indígenas."
+            },
+            "para_pensar": [
+              "¿Por qué para muchas culturas la tierra es una 'madre' y no solo un recurso económico?",
+              "¿Qué actividades económicas de tu región están deteriorando más el medio ambiente?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el papel de las etnias en la conservación del territorio colombiano.",
+              "Propone acciones concretas para mitigar el impacto ambiental de actividades económicas locales."
+            ],
+            "un_refuerzo": "Realizar un herbario con plantas nativas y explicar su uso tradicional en las comunidades."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Conquista de la Dignidad",
+            "un_reto_sugerido": "¿Cómo pasamos de la esclavitud al reconocimiento de los derechos de las mujeres y las minorías?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de fuentes primarias: Leer decretos de abolición de la esclavitud y testimonios de las primeras mujeres que votaron en Colombia.",
+              "visual": "Mural de los Estereotipos: Identificar prejuicios actuales contra grupos étnicos o personas con discapacidad y transformarlos en mensajes de inclusión.",
+              "produccion": "Propuesta de una 'Ley de Igualdad' para el colegio que garantice el respeto a la diversidad de género y etnia."
+            },
+            "para_pensar": [
+              "¿Por qué si la esclavitud se abolió hace tanto tiempo, todavía existe el racismo?",
+              "¿Cómo los prejuicios impiden que una sociedad progrese económicamente?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa hechos trascendentales para la dignidad humana como la abolición de la esclavitud.",
+              "Explica situaciones de exclusión histórica y propone acciones de mejora."
+            ],
+            "un_refuerzo": "Investigar la vida de una líder social colombiana (ej. María Cano) y su lucha por los derechos obreros."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "La Fuerza de la Unión",
+            "un_reto_sugerido": "¿Cómo los movimientos sociales y sindicatos han logrado cambiar las leyes en Colombia?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar una huelga histórica en Colombia (como la de las Bananeras) y analizar qué pedían los trabajadores.",
+              "visual": "Simulacro de Negociación Colectiva: Un grupo representa al sindicato y otro al gobierno para resolver un conflicto laboral mediante el diálogo.",
+              "produccion": "Mapa mental sobre los mecanismos alternativos de solución de conflictos (MASC) como la conciliación y la mediación."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que los ciudadanos se asocien en gremios o movimientos?",
+              "¿Cómo puede un conflicto social convertirse en una oportunidad de desarrollo?"
+            ],
+            "pistas_del_exito": [
+              "Describe el surgimiento de movimientos sociales (campesinos, obreros) en el siglo XX.",
+              "Argumenta la importancia de la concertación y el diálogo en la resolución de huelgas."
+            ],
+            "un_refuerzo": "Entrevistar a un líder social o sindical de la región sobre su labor diaria."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Desmontando Prejuicios",
+            "un_reto_sugerido": "¿Cómo el disenso y el respeto a las minorías fortalecen nuestra democracia?",
+            "ruta_de_exploracion": {
+              "explorar": "Test de Estereotipos: Identificar frases comunes que discriminan a grupos (ej. 'los hombres no lloran' o prejuicios sobre etnias).",
+              "visual": "Campaña de Sensibilización: Crear videos cortos o carteles que promuevan el respeto a los derechos de la comunidad LGBTI y minorías étnicas.",
+              "produccion": "Debate sobre el derecho al disenso: ¿Por qué es legítimo pensar diferente a la mayoría en un grupo social?"
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre un prejuicio y una realidad?",
+              "¿Por qué proteger a las minorías es la prueba de fuego de una verdadera democracia?"
+            ],
+            "pistas_del_exito": [
+              "Comprende los conceptos de prejuicio y estereotipo y su relación con la intolerancia.",
+              "Diseña estrategias de sensibilización para promover el respeto a grupos vulnerados."
+            ],
+            "un_refuerzo": "Escribir un ensayo breve sobre la importancia de la libertad de culto en una sociedad multicultural."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

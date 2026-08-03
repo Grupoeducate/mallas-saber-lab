@@ -1,0 +1,105 @@
+{
+  "area": "Inglés",
+  "grado": "0",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Comunicativo Integrado",
+        "estandar": "Reconozco cuando me hablan en inglés y reacciono de manera no verbal. Entiendo cuando me saludan y se despiden de mí. Comprendo rondas infantiles y lo demuestro con gestos y movimientos. Recito y canto rondas infantiles que comprendo. Participo activamente en juegos de palabras.",
+        "dba": [
+          "(Escucha) DBA 1: Reconoce instrucciones sencillas relacionadas con su entorno inmediato y responde a ellas de manera no verbal.",
+          "(Escucha) DBA 2: Asocia imágenes con sonidos de palabras relacionadas con su casa y salón de clase.",
+          "(Monólogo) DBA 3: Identifica y reproduce palabras familiares sobre su entorno inmediato (casa y salón de clase).",
+          "(Conversación) DBA 4: Responde a preguntas muy sencillas sobre sus datos personales tales como su nombre, edad y su familia."
+        ],
+        "evidencias": [
+          "Identifica y señala partes del cuerpo y la cara al escucharlas en canciones.",
+          "Reacciona ante comandos de movimiento (jump, run, sit down).",
+          "Relaciona el sonido de colores y formas con objetos reales.",
+          "Pronuncia los nombres de las partes del cuerpo y la cara.",
+          "Nombra sus juguetes favoritos y colores básicos.",
+          "Se presenta a sí mismo diciendo su nombre y género de forma oral.",
+          "Responde a saludos iniciales (Good Morning, Hello) y despedidas (Bye).",
+          "Participa en diálogos cortos intercambiando juguetes con sus pares.",
+          "Responde con gestos o palabras cortas a preguntas sobre sus gustos."
+        ],
+        "saberes": [
+          "Vocabulario: Face (eyes, mouth, nose), Body (head, shoulders, knees, toes), Toys (ball, doll, car), Colors (yellow, blue, red), Shapes (circle, triangle, square), Numbers 1-5. Actions (push, pull, jump, run). Gramática: Hello, My name is... I am a boy/girl. Where is...? My favorite toy is... Hello/Bye. My favorite game is... It is a (circle)."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Comunicativo Integrado",
+        "estandar": "Reconozco cuando me hablan en inglés y reacciono de manera no verbal. Nombro sentimientos y estados de ánimo a partir de imágenes. Comprendo rondas infantiles y lo demuestro con gestos y movimientos. Participo activamente en juegos de palabras y rondas.",
+        "dba": [
+          "(Escucha) DBA 1: Reconoce instrucciones sencillas relacionadas con su entorno inmediato y responde de manera no verbal.",
+          "(Escucha) DBA 2: Asocia imágenes con sonidos de palabras relacionadas con su casa y salón de clases de manera no verbal.",
+          "(Monólogo) DBA 3: Identifica y reproduce palabras familiares sobre su entorno inmediato (casa y salón de clase).",
+          "(Conversación) DBA 4: Responde a preguntas muy sencillas sobre sus datos personales tales como su nombre, edad y su familia."
+        ],
+        "evidencias": [
+          "Identifica estados de ánimo al escuchar rimas y cuentos.",
+          "Reacciona físicamente ante comandos de posición (Up, Down).",
+          "Asocia el sonido de nuevos colores (green, orange, purple) con imágenes.",
+          "Nombra estados de ánimo usando tarjetas o dibujos.",
+          "Pronuncia oraciones cortas sobre cómo se siente (I am happy).",
+          "Describe materiales (playdough, clay, paper) usados en clase.",
+          "Responde a preguntas sobre su estado de ánimo (How do you feel?).",
+          "Participa en diálogos cortos preguntando a sus pares (Are you sad?).",
+          "Describe diferencias físicas propias y de sus compañeros con respeto.",
+          "Identifica animales domésticos y salvajes al escuchar su nombre o sonido.",
+          "Sigue instrucciones imperativas sobre el cuidado del medio ambiente (Pick up the trash).",
+          "Asocia palabras de la naturaleza (tree, flower, sea) con imágenes.",
+          "Nombra animales y describe lo que pueden o no pueden hacer (The bird can fly).",
+          "Expresa gustos sencillos sobre la naturaleza (I like the pink dolphin).",
+          "Describe partes de la casa y lugares de la escuela relacionados con el orden.",
+          "Responde a la pregunta 'What's that?' identificando elementos del paisaje o animales.",
+          "Participa en diálogos sobre acciones correctas o equivocadas para el medio ambiente.",
+          "Interactúa con pares para clasificar animales en Wild o Domestic."
+        ],
+        "saberes": [
+          "Adjetivos: Happy, excited, surprised, sad, scared, tired. Colores: Yellow, blue, red, green, orange, purple. Posiciones: Up, down. Numbers: 1-20. Gramática: Are you...? Yes, I am, No, I'm not. How are you?, How do you feel?, I feel...",
+          "Animales: Dog, cat, rabbit, fish, turtle, cow, bull, goat, donkey, jaguar, snake, pink dolphin, monkey, parrot, bird. Partes: Tail, nose, eyes, mouth. Paisaje: Tree, stem, leaf, flower, fruits, sea. Acciones: Jump, fly, crawl, eat, swim, grow, stomp. Cuidado: Pick up the trash, Put away. Gramática: Can, Can't, I like, I don't like, I see..., What's that?"
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Comunicativo Integrado",
+        "estandar": "Reconozco que hay otras personas como yo que se comunican en inglés. Nombro sentimientos y estados de ánimo a partir de imágenes. Respondo a saludos y despedidas. Participo activamente en juegos de palabras.",
+        "dba": [
+          "(Escucha) DBA 1: Reconoce instrucciones sencillas relacionadas con su entorno inmediato y responde de manera no verbal.",
+          "(Escucha) DBA 2: Asocia imágenes con sonidos de palabras relacionadas con su casa y salón de clases de manera no verbal.",
+          "(Monólogo) DBA 3: Identifica y reproduce palabras familiares sobre su entorno inmediato (casa y salón de clase).",
+          "(Conversación) DBA 4: Responde a preguntas muy sencillas sobre sus datos personales tales como su nombre, edad y su familia."
+        ],
+        "evidencias": [
+          "Identifica profesiones y miembros de la familia al escuchar descripciones orales.",
+          "Reconoce los meses del año y números del 10 al 20 en contextos de celebración.",
+          "Sigue instrucciones de clase (imperativos) durante las actividades grupales.",
+          "Pronuncia los nombres de los miembros de su familia y sus profesiones.",
+          "Expresa su edad y lo que desea ser en el futuro (I want to be a doctor).",
+          "Nombra celebraciones culturales y los meses del año.",
+          "Responde a la pregunta 'How old are you?' de manera verbal.",
+          "Participa en diálogos de títeres saludando e intercambiando información sobre roles sociales.",
+          "Interactúa con pares en juegos de roles sobre celebraciones familiares."
+        ],
+        "saberes": [
+          "Trabajos: Teacher, farmer, manager, driver, salesman, housewife, maid, secretary, doctor, security guard, police officer, student. Familia: Grandfather, grandmother, dad, mom, children, sister, brother. Cultura: Music, Holidays (Christmas, Easter), Trip, Dinner, Birthday. Meses: January to December. Números: 10-20. Gramática: I want to be a..., I am a student, Like/doesn't like, How old are you?, I am ___ years old."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "fuente": null
+      }
+    ]
+  }
+}

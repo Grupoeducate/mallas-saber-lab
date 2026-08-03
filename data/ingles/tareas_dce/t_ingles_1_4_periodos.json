@@ -1,0 +1,405 @@
+{
+  "area": "Inglés",
+  "grado": "1",
+  "nombre_archivo": "t_ingles_1_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Greeting Garden",
+            "un_reto_sugerido": "Identificar y responder a saludos y despedidas mientras recorres los lugares de la escuela.",
+            "ruta_de_exploracion": {
+              "explorar": "Jugar 'Simon Says' usando comandos de 'Hello' y 'Goodbye' con diferentes gestos.",
+              "visual": "Colorear un mapa de la escuela y pegar stickers de 'caritas saludando' en los lugares reconocidos.",
+              "produccion": "Cantar una canción de despedida señalando el nombre del lugar donde se encuentran (ej: 'Goodbye Classroom')."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saludar cuando entramos a un lugar?",
+              "¿Qué gestos usamos en nuestro país para decir adiós que sean diferentes a los de otros lugares?"
+            ],
+            "pistas_del_exito": [
+              "Responde con la mano o verbalmente al escuchar 'Hello'.",
+              "Señala correctamente la imagen de la biblioteca o el salón cuando el docente la nombra."
+            ],
+            "un_refuerzo": "Flashcards con dibujos de un sol (saludo) y una luna (despedida) para asociar el momento del día."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Secret Agent Interview",
+            "un_reto_sugerido": "Responder preguntas básicas sobre tu identidad para obtener un 'carnet de agente secreto'.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de la 'Pelota Caliente': quien quede con la pelota responde 'What is your name?'.",
+              "visual": "Crear un collage con fotos de su familia y amigos etiquetando con 'Who' (quién).",
+              "produccion": "Role-play por parejas usando títeres para preguntarse: 'How are you?' y 'What is this?'."
+            },
+            "para_pensar": [
+              "¿Qué información es segura compartir con desconocidos y qué información no?",
+              "¿Cómo podemos ayudar a un compañero nuevo usando preguntas sencillas?"
+            ],
+            "pistas_del_exito": [
+              "Dice su nombre y edad con claridad al ser preguntado.",
+              "Identifica a sus compañeros de clase usando 'He' o 'She'."
+            ],
+            "un_refuerzo": "Video corto de personajes de dibujos animados presentándose para imitar la entonación."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Magic Classroom Helper",
+            "un_reto_sugerido": "Expresar una necesidad básica del aula en inglés para recibir un 'objeto mágico' (útil escolar).",
+            "ruta_de_exploracion": {
+              "explorar": "Mímica de necesidades: representar tener sed, querer ir al baño o necesitar un lápiz.",
+              "visual": "Dibujar un 'semáforo de necesidades' con frases cortas como 'Bathroom, please' o 'Water, please'.",
+              "produccion": "Participar en la 'Tienda de la Escuela' pidiendo un objeto específico usando expresiones cotidianas."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando necesitas algo y no sabes cómo pedirlo?",
+              "¿Por qué es útil aprender frases cortas para sobrevivir en un salón de clase?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza la palabra 'Please' al solicitar algo en el aula.",
+              "Usa gestos que acompañan correctamente la frase 'I need...'"
+            ],
+            "un_refuerzo": "Llavero de pictogramas con las frases de necesidad para llevar en la maleta."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Treasure Map Readers",
+            "un_reto_sugerido": "Seguir una secuencia de instrucciones ilustradas para encontrar un tesoro escondido en el salón.",
+            "ruta_de_exploracion": {
+              "explorar": "Organizar tarjetas físicas de una rutina diaria (despertarse, lavarse los dientes) en orden cronológico.",
+              "visual": "Unir con líneas palabras cortas de juguetes (ball, doll, car) con su imagen correspondiente.",
+              "produccion": "Crear un 'Mini-Libro de Instrucciones' donde dibujen y sigan pasos como 'Open the book'."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si las señales de la calle no tuvieran dibujos?",
+              "¿Cómo nos ayudan las imágenes a entender palabras que no conocemos?"
+            ],
+            "pistas_del_exito": [
+              "Realiza la acción física (ej: sentarse) inmediatamente después de ver la instrucción ilustrada.",
+              "Agrupa palabras de la misma familia (ej: todos los juguetes juntos)."
+            ],
+            "un_refuerzo": "Uso de la aplicación de lectura visual o audiocuentos con apoyo de imágenes grandes."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "My Emotional Passport",
+            "un_reto_sugerido": "Completar un pasaporte personal que describa cómo te sientes hoy y quién eres.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Caras y Gestos' para representar emociones (Happy, Sad, Angry).",
+              "visual": "Dibujar un autorretrato emocional en un formato de carnet de identidad.",
+              "produccion": "Escribir su nombre, edad y marcar con una 'X' el emoji que representa su sentimiento en un formato simple."
+            },
+            "para_pensar": [
+              "¿Es normal sentirse triste a veces en la escuela?",
+              "¿Cómo podemos saber cómo se siente un amigo sin que nos diga nada?"
+            ],
+            "pistas_del_exito": [
+              "Escribe su nombre completo sin omitir letras.",
+              "Relaciona la palabra 'Happy' con un dibujo de una sonrisa."
+            ],
+            "un_refuerzo": "Ficha de caligrafía suave con las palabras de las emociones para repasar."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Emoji DJ",
+            "un_reto_sugerido": "Escuchar sonidos de la naturaleza y canciones infantiles para identificar estados de ánimo.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar diferentes tipos de música y moverse según el sentimiento que genere (alegre, tranquilo).",
+              "visual": "Crear un mural de 'Likes' (Me gusta) con recortes de revistas sobre comida y juegos.",
+              "produccion": "Grabar un audio corto diciendo: 'I like apples' o 'I am happy' usando la entonación correcta."
+            },
+            "para_pensar": [
+              "¿Todas las personas tenemos los mismos gustos?",
+              "¿Cómo podemos respetar cuando a alguien no le gusta lo mismo que a nosotros?"
+            ],
+            "pistas_del_exito": [
+              "Señala el emoji correcto al escuchar una descripción de un estado de ánimo.",
+              "Diferencia entre un saludo formal y una expresión de gusto."
+            ],
+            "un_refuerzo": "Juego de memoria (Memory Game) con imágenes de sentimientos y sus nombres."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Neighborhood Explorers",
+            "un_reto_sugerido": "Entrevistar a un compañero sobre los objetos que tiene en su mochila.",
+            "ruta_de_exploracion": {
+              "explorar": "Caja misteriosa: tocar un objeto y tratar de adivinar qué es antes de sacarlo.",
+              "visual": "Dibujar el 'Mapa del Tesoro del Salón' ubicando objetos comunes (mesa, silla, tablero).",
+              "produccion": "Diálogo corto: 'Where is the pencil?' - 'It is here' (señalando)."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber el nombre de las cosas que nos rodean?",
+              "¿Cómo ayudan los objetos de nuestro entorno a que la clase sea mejor?"
+            ],
+            "pistas_del_exito": [
+              "Responde preguntas de 'Where' señalando el lugar correcto.",
+              "Nombra al menos 3 objetos del salón de clase en inglés."
+            ],
+            "un_refuerzo": "Etiquetar con post-its los objetos reales del salón en inglés."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "I Spy with my Little Eye",
+            "un_reto_sugerido": "Encontrar palabras ocultas en carteles y etiquetas alrededor de la escuela.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata por la escuela buscando logos o palabras conocidas en inglés (Exit, Stop, Open).",
+              "visual": "Hacer un diccionario visual con dibujos de los juguetes favoritos mencionados en propagandas.",
+              "produccion": "Completar oraciones simples tipo 'This is a...' usando recortes de imágenes."
+            },
+            "para_pensar": [
+              "¿Dónde más has visto palabras en inglés fuera de la escuela?",
+              "¿Por qué crees que los juguetes a veces traen instrucciones en inglés?"
+            ],
+            "pistas_del_exito": [
+              "Identifica visualmente palabras como 'Toy', 'School' o 'Friend' en un texto corto.",
+              "Sigue una instrucción de dos pasos (ej: 'Color and Cut')."
+            ],
+            "un_refuerzo": "Lectura compartida de un 'Big Book' con muchas ilustraciones y poco texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Mood Tracker",
+            "un_reto_sugerido": "Llevar un registro semanal de sentimientos usando colores y palabras básicas.",
+            "ruta_de_exploracion": {
+              "explorar": "Clasificar colores según la emoción (Amarillo-Happy, Azul-Sad).",
+              "visual": "Crear una rueda de las emociones con flechas móviles.",
+              "produccion": "Escribir una oración corta sobre un sentimiento: 'I feel happy' debajo de un dibujo propio."
+            },
+            "para_pensar": [
+              "¿Cómo cambian nuestros sentimientos desde la mañana hasta la tarde?",
+              "¿Qué actividad te hace sentir más feliz en la escuela?"
+            ],
+            "pistas_del_exito": [
+              "Copia palabras cortas sin errores de ortografía básica.",
+              "Expresa por escrito su estado de ánimo actual usando un modelo."
+            ],
+            "un_refuerzo": "Plantillas de trazo para las palabras 'Happy, Sad, Fine'."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Wh-Detective",
+            "un_reto_sugerido": "Resolver un misterio auditivo identificando 'Quién', 'Qué' y 'Dónde' en un cuento corto.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar sonidos de lugares (parque, hospital, escuela) y adivinar 'Where is it?'.",
+              "visual": "Dibujar una escena basada en lo escuchado, incluyendo un personaje y un objeto.",
+              "produccion": "Representar con títeres una breve despedida en un lugar específico (ej: at the park)."
+            },
+            "para_pensar": [
+              "¿Cómo podemos saber dónde estamos si no hay letreros?",
+              "¿Por qué es importante escuchar con atención los nombres de las personas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente al personaje principal cuando se pregunta 'Who?'.",
+              "Diferencia sonidos de diferentes lugares de la comunidad."
+            ],
+            "un_refuerzo": "Uso de audios repetitivos con estructuras de preguntas simples."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "My Family Museum",
+            "un_reto_sugerido": "Hacer un tour por un 'museo' de dibujos familiares describiendo a cada miembro.",
+            "ruta_de_exploracion": {
+              "explorar": "Jugar a 'Adivina quién' usando características físicas sencillas (Big, Small, Tall).",
+              "visual": "Crear un árbol genealógico creativo con materiales reciclados.",
+              "produccion": "Presentar a un miembro de su familia diciendo: 'This is my mom, she is nice'."
+            },
+            "para_pensar": [
+              "¿En qué se parecen todas las familias y en qué son diferentes?",
+              "¿Cómo podemos ser amables con las familias de otros?"
+            ],
+            "pistas_del_exito": [
+              "Usa correctamente los términos de parentesco (Mom, Dad, Brother).",
+              "Responde a la pregunta 'Who is this?' con una frase completa."
+            ],
+            "un_refuerzo": "Flashcards con fotos reales de los estudiantes y sus familias para practicar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Label My World",
+            "un_reto_sugerido": "Etiquetar correctamente una maqueta de la escuela con frases cortas de acción.",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda del tesoro de palabras: encontrar tarjetas escondidas que digan 'Sit down' o 'Stand up'.",
+              "visual": "Relacionar burbujas de texto con personajes de un cómic mudo.",
+              "produccion": "Crear un cartel publicitario para su juguete favorito usando 3 palabras en inglés."
+            },
+            "para_pensar": [
+              "¿Por qué las etiquetas nos ayudan a ser más organizados?",
+              "¿Puedes entender un mensaje si solo ves los dibujos y no las palabras?"
+            ],
+            "pistas_del_exito": [
+              "Lee en voz alta frases de dos palabras (ej: 'My ball').",
+              "Sigue instrucciones escritas apoyadas por flechas o símbolos."
+            ],
+            "un_refuerzo": "Juego interactivo digital de emparejar palabras e imágenes."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Mini-Story Maker",
+            "un_reto_sugerido": "Ordenar una historia de 3 imágenes y escribir una palabra clave bajo cada una.",
+            "ruta_de_exploracion": {
+              "explorar": "Contar un cuento usando solo sonidos y gestos.",
+              "visual": "Dibujar el inicio, nudo y desenlace de una actividad familiar.",
+              "produccion": "Completar un perfil de red social 'ficticio' con nombre, edad y 'feeling' del día."
+            },
+            "para_pensar": [
+              "¿Por qué las historias deben tener un orden?",
+              "¿Qué información sobre ti es la más importante para contarle a un amigo?"
+            ],
+            "pistas_del_exito": [
+              "Organiza correctamente la secuencia temporal (Primero, después, final).",
+              "Escribe palabras de información personal de forma legible."
+            ],
+            "un_refuerzo": "Uso de sellos de letras o letras de plástico para armar las palabras antes de escribirlas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Map Illustrator",
+            "un_reto_sugerido": "Escuchar una descripción y dibujar los elementos en el lugar correcto de una ilustración.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de dictado de dibujos: el docente dice 'A blue car in the school' y los niños dibujan.",
+              "visual": "Comparar dos imágenes similares y encerrar en un círculo las diferencias escuchadas.",
+              "produccion": "Crear un mapa sonoro: grabar sonidos del colegio y decir el nombre del lugar."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los mapas a no perdernos?",
+              "¿Es difícil dibujar algo que solo estamos escuchando?"
+            ],
+            "pistas_del_exito": [
+              "Escribe el nombre del lugar escuchado bajo la imagen correcta.",
+              "Ubica objetos arriba, abajo o al lado según las instrucciones auditivas."
+            ],
+            "un_refuerzo": "Video de canciones sobre preposiciones de lugar sencillas (In, On, Under)."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Little Journalists",
+            "un_reto_sugerido": "Realizar una entrevista relámpago a 3 compañeros sobre su juguete favorito y dónde está.",
+            "ruta_de_exploracion": {
+              "explorar": "Simulacro de programa de TV: usar un micrófono de cartón para presentarse.",
+              "visual": "Hacer un gráfico de barras simple con los juguetes favoritos del salón.",
+              "produccion": "Presentar un reporte corto: 'This is Juan, he likes cars, the car is in the bag'."
+            },
+            "para_pensar": [
+              "¿Qué aprendiste hoy sobre tus amigos que no sabías?",
+              "¿Por qué es importante dejar que otros hablen durante una entrevista?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza 'What' y 'Where' para formular preguntas básicas.",
+              "Mantiene contacto visual al hablar con su compañero."
+            ],
+            "un_refuerzo": "Guion visual con pictogramas para guiar la conversación."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Daily Routine Show",
+            "un_reto_sugerido": "Exponer tu rutina escolar favorita frente a la clase usando objetos reales.",
+            "ruta_de_exploracion": {
+              "explorar": "Carrera de relevos: realizar acciones de rutina (wash hands, sit down) al llegar a la meta.",
+              "visual": "Crear un 'Reloj de Rutinas' con dibujos de las actividades del día.",
+              "produccion": "Realizar un monólogo de 30 segundos: 'I go to school, I play, I am happy'."
+            },
+            "para_pensar": [
+              "¿Por qué tenemos rutinas en la escuela?",
+              "¿Cuál es tu parte favorita del día escolar y por qué?"
+            ],
+            "pistas_del_exito": [
+              "Habla con un volumen de voz adecuado para que todos escuchen.",
+              "Usa expresiones ensayadas sin detenerse demasiado."
+            ],
+            "un_refuerzo": "Grabarse a sí mismo en video para verse y mejorar la seguridad al hablar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Reading Detectives: School Edition",
+            "un_reto_sugerido": "Decodificar una serie de mensajes cortos pegados en objetos de la escuela.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de asociación: emparejar palabras de anuncios publicitarios con sus productos.",
+              "visual": "Crear un álbum de 'Palabras que ya leo' con recortes de libros viejos.",
+              "produccion": "Seguir un manual de instrucciones de 4 pasos para armar un juguete de papel."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes ahora que puedes leer palabras en otro idioma?",
+              "¿Para qué nos sirve leer las etiquetas de las cosas que compramos?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona oraciones simples con la ilustración correcta en un libro.",
+              "Identifica el propósito de un cartel (ej: es una regla o es un nombre)."
+            ],
+            "un_refuerzo": "Lectura de cuentos en formato digital con resaltado de palabras."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Friendship Wall",
+            "un_reto_sugerido": "Escribir una tarjeta de agradecimiento a un amigo mencionando cómo te hace sentir.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas de palabras positivas (Nice, Happy, Friend).",
+              "visual": "Decorar un sobre y una tarjeta con dibujos que representen la amistad.",
+              "produccion": "Escribir: 'To: [Name]. I am [Feeling]. You are my friend'.",
+              "para_pensar": [
+                "¿Cómo crees que se siente un amigo cuando recibe una nota tuya?",
+                "¿Por qué es importante decir cosas amables a los demás?"
+              ]
+            },
+            "pistas_del_exito": [
+              "Escribe oraciones cortas siguiendo un modelo gramatical sencillo.",
+              "Usa los signos de puntuación básicos (punto final) de manera incipiente."
+            ],
+            "un_refuerzo": "Diccionario personal de bolsillo con las palabras más usadas en el año."
+          }
+        }
+      ]
+    }
+  ]
+}

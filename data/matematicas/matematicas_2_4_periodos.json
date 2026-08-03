@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Numérico Variacional",
-        "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros). Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección y la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
+        "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros).",
         "dba": [
           "DBA-MAT-2-1: Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección, la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
           "DBA-MAT-2-8: Propone e identifica patrones y usa propiedades de los números y de las operaciones para calcular valores desconocidos en expresiones aritméticas."
@@ -28,7 +28,7 @@
       },
       {
         "componente": "Espacial Métrico",
-        "estandar": "Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños. Comparo y ordeno objetos respecto a atributos medibles. Clasifica, describe y representa objetos del entorno a partir de sus propiedades geométricas para establecer relaciones entre las formas bidimensionales y tridimensionales.",
+        "estandar": "Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños. Comparo y ordeno objetos respecto a atributos medibles.",
         "dba": [
           "DBA-MAT-2-6: Clasifica, describe y representa objetos del entorno a partir de sus propiedades geométricas para establecer relaciones entre las formas bidimensionales y tridimensionales.",
           "DBA-MAT-2-4: Compara y explica características que se pueden medir, en el proceso de resolución de problemas relativos a longitud, superficie, velocidad, peso o duración de los eventos, entre otros."
@@ -71,7 +71,7 @@
     "2": [
       {
         "componente": "Numérico Variacional",
-        "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros). Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección y la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
+        "estandar": "Describo situaciones que requieren el uso de medidas relativas. Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros).",
         "dba": [
           "DBA-MAT-2-1: Interpreta, propone y resuelve problemas aditivos (de composición, transformación y relación) que involucren la cantidad en una colección, la medida de magnitudes (longitud, peso, capacidad y duración de eventos) y problemas multiplicativos sencillos.",
           "DBA-MAT-2-8: Propone e identifica patrones y usa propiedades de los números y de las operaciones para calcular valores desconocidos en expresiones aritméticas."
@@ -133,7 +133,7 @@
     "3": [
       {
         "componente": "Numérico Variacional",
-        "estandar": "Describo, comparo y cuantifico situaciones con números, en diferentes contextos y con diversas representaciones. Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos.",
+        "estandar": "Describo, comparo y cuantifico situaciones con números, en diferentes contextos y con diversas representaciones. Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos. Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",
         "dba": [
           "DBA-MAT-2-2: Utiliza diferentes estrategias para calcular (agrupar, representar elementos en colecciones, etc.) o estimar el resultado de una suma y resta, multiplicación o reparto equitativo.",
           "DBA-MAT-2-9: Opera sobre secuencias numéricas para encontrar números u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares o extraescolares."

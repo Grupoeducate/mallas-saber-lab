@@ -1,0 +1,541 @@
+{
+  "area": "Inglés",
+  "grado": 7,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi en torno.",
+        "dba": [
+          "Reconoce información específica relacionada con objetos, personas y acciones cuando le son conocidos y le hablan de manera pausada. Para esto, puede llegar a requerir de ayudas visuales tales como imágenes o textos."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo preguntas, expresiones, orales que se refieren, a mi, a mi la familia, mis amigos y mi entorno.",
+          "(Saber Conocer) Identifica vocabulario básico relacionado con información personal, familia, amigos, entorno, animales, actividades cotidianas, rutinas, gustos.",
+          "(Saber Conocer) Reconoce conectores básicos y sus usos (and, but, first, second).",
+          "(Saber Conocer) Reconoce la estructura del pasado simple y del pasado continuo.",
+          "(Saber Hacer) Usa conectores básicos para unir ideas en oraciones simples.",
+          "(Saber Aplicar) Selecciona el tiempo verbal adecuado (pasado simple o pasado continuo) para describir una acción en un contexto específico."
+        ],
+        "saberes": [
+          "Responder preguntas sobre textos orales usando tiempos verbales ya conocidos.",
+          "Aplicar conectores de contraste en textos orales y escritos.",
+          "Pedir favores, disculparme y agradecer.",
+          "Conversaciones completas",
+          "Past simple vs past continuous.",
+          "Lectura de textos acorde al gusto, interés y necesidad de los dicentes.",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Vocabulario sobre animales.",
+          "Extracción de información en textos.",
+          "Vocabulario en escritos.",
+          "Lo que me gusta y lo que no de algo.",
+          "Narración de hechos.",
+          "Texto relativo a mí y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor. Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+        "dba": [
+          "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
+          "Describe acciones relacionadas con un tema de su entorno familiar o escolar."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo relaciones establecidas por palabras como and (adición), but (contraste), first, second... orden temporal, en enunciados sencillos.",
+          "(Evidencia) Participo en situaciones comunicativas cotidianas tales como pedir favores, disculparme y agradecer.",
+          "(Evidencia) Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido.",
+          "(Evidencia) Describo con oraciones simples mi rutina diaria y la de otras personas.",
+          "(Saber Hacer) Diferencia el uso del pasado simple y pasado continuo para describir acciones en diferentes tiempos."
+        ],
+        "saberes": [
+          "Responder preguntas sobre textos orales usando tiempos verbales ya conocidos.",
+          "Aplicar conectores de contraste en textos orales y escritos.",
+          "Pedir favores, disculparme y agradecer.",
+          "Conversaciones completas",
+          "Past simple vs past continuous.",
+          "Lectura de textos acorde al gusto, interés y necesidad de los dicentes.",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Vocabulario sobre animales.",
+          "Extracción de información en textos.",
+          "Vocabulario en escritos.",
+          "Lo que me gusta y lo que no de algo.",
+          "Narración de hechos.",
+          "Texto relativo a mí y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+        "dba": [
+          "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
+          "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+          "(Evidencia) Identifico el significado adecuado de las palabras en el diccionario según el contexto.",
+          "(Evidencia) Identifico en textos sencillos, elementos culturales como costumbres y celebraciones",
+          "(Evidencia) Respondo con frases cortas a preguntas sencillas sobre temas que me son familiares.",
+          "(Saber Conocer) Reconoce y clasifica vocabulario básico relacionado con animales y sus hábitats.",
+          "(Saber Conocer) Reconoce el significado de palabras desconocidas en un texto, utilizando el contexto y el diccionario.",
+          "(Saber Hacer) Usa estrategias de lectura (predicción, skimming, scanning) para comprender la idea principal y detalles específicos de un texto descriptivo.",
+          "(Saber Aplicar) Identifica las características principales de un animal y su hábitat.",
+          "(Saber Aplicar) Expresa su opinión sobre la importancia de proteger a los animales y sus hábitats."
+        ],
+        "saberes": [
+          "Responder preguntas sobre textos orales usando tiempos verbales ya conocidos.",
+          "Aplicar conectores de contraste en textos orales y escritos.",
+          "Pedir favores, disculparme y agradecer.",
+          "Conversaciones completas",
+          "Past simple vs past continuous.",
+          "Lectura de textos acorde al gusto, interés y necesidad de los dicentes.",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Vocabulario sobre animales.",
+          "Extracción de información en textos.",
+          "Vocabulario en escritos.",
+          "Lo que me gusta y lo que no de algo.",
+          "Narración de hechos.",
+          "Texto relativo a mí y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y",
+        "dba": [
+          "Describe, de manera oral, personas, actividades, eventos y experiencias personales.",
+          "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto. Para la comprensión del texto, se apoya en palabras y frases familiares.",
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo preestablecido."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo mensajes cortos y simples relacionados con mi entorno y mis intereses personales y académicos.",
+          "(Evidencia) Comprendo instrucciones escritas para llevar a cabo actividades cotidianas, personales y académicas.",
+          "(Evidencia) Puedo extraer información general y específica de un texto corto y escrito en un lenguaje sencillo.",
+          "(Evidencia) Escribo un texto corto relativo a mí, a mi familia, mis amigos, mi entorno o sobre hechos que me son familiares.",
+          "(Evidencia) Expreso de manera sencilla lo que me gusta y me disgusta respecto a algo.",
+          "(Evidencia) Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+          "(Saber Conocer) Identifica y clasifica vocabulario para describir animales, sus hábitats y características (tamaño, color, alimentación, etc.).",
+          "(Saber Conocer) Reconoce la estructura básica de una oración simple.",
+          "(Saber Hacer) Usa el vocabulario y las estructuras gramaticales básicas aprendidas para escribir frases cortas y oraciones simples.",
+          "(Saber Aplicar) Organiza ideas en un orden lógico para escribir un texto corto y coherente.",
+          "(Saber Aplicar) Escribe un texto corto describiendo a un animal, incluyendo su hábitat, características y comportamiento."
+        ],
+        "saberes": [
+          "Responder preguntas sobre textos orales usando tiempos verbales ya conocidos.",
+          "Aplicar conectores de contraste en textos orales y escritos.",
+          "Pedir favores, disculparme y agradecer.",
+          "Conversaciones completas",
+          "Past simple vs past continuous.",
+          "Lectura de textos acorde al gusto, interés y necesidad de los dicentes.",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Vocabulario sobre animales.",
+          "Extracción de información en textos.",
+          "Vocabulario en escritos.",
+          "Lo que me gusta y lo que no de algo.",
+          "Narración de hechos.",
+          "Texto relativo a mí y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "2": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi en torno.",
+        "dba": [
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
+          "Extraer información sobre canciones, videos y grabaciones.",
+          "Retroalimentación a compañeros.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Entabla conversaciones con compañeros usando presente simple, continuo y pasado simple.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Significado de palabras.",
+          "Practico pronunciación con textos acordes al nivel y grado.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Extracción de información en textos.",
+          "Texto relativo a mi y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo preguntas, expresiones, orales que se refieren, a mi, a mi la familia, mis amigos y mi entorno.",
+          "(Saber Conocer) Identifica vocabulario relacionado con lugares de la ciudad (park, museum, library, etc.), actividades de ocio (go to the cinema, play sports, etc.), medios de transporte (bus, train, car, etc.).",
+          "(Saber Conocer) Reconoce estructuras gramaticales del presente simple, pasado simple y presente continuo para describir actividades y rutinas.",
+          "(Saber Hacer) Interpreta preguntas y respuestas sobre actividades de tiempo libre y preferencias.",
+          "(Saber Hacer) Utiliza vocabulario y estructuras gramaticales para describir actividades, lugares y preferencias.",
+          "(Saber Aplicar) Compara y contrasta diferentes lugares de la ciudad y actividades de ocio.",
+          "(Saber Aplicar) Expresa su opinión sobre diferentes lugares o actividades, justificando sus preferencias."
+        ],
+        "saberes": [
+          "Extraer información sobre canciones, videos y grabaciones.",
+          "Retroalimentación a compañeros.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Entabla conversaciones con compañeros usando presente simple, continuo y pasado simple.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Significado de palabras.",
+          "Practico pronunciación con textos acordes al nivel y grado.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Extracción de información en textos.",
+          "Texto relativo a mi y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor. Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+        "dba": [
+          "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares.",
+          "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+          "Describe, de manera oral, personas, actividades, eventos y experiencias personales."
+        ],
+        "evidencias": [
+          "(Evidencia) Solicito explicaciones sobre situaciones puntuales en mi escuela, mi familia y mi entorno cercano.",
+          "(Evidencia) Participo en situaciones comunicativas cotidianas tales como pedir favores, disculparme y agradecer.",
+          "(Evidencia) Hago propuestas a mis compañeros sobre qué hacer, dónde, cuándo o cómo.",
+          "(Evidencia) Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido.",
+          "(Evidencia) Utilizo vocabulario adecuado para darle coherencia a mis escritos."
+        ],
+        "saberes": [
+          "Extraer información sobre canciones, videos y grabaciones.",
+          "Retroalimentación a compañeros.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Entabla conversaciones con compañeros usando presente simple, continuo y pasado simple.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Significado de palabras.",
+          "Practico pronunciación con textos acordes al nivel y grado.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Extracción de información en textos.",
+          "Texto relativo a mi y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+        "dba": [
+          "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
+          "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+          "(Evidencia) Identifico el significado adecuado de las palabras en el diccionario según el contexto.",
+          "(Evidencia) Identifico en textos sencillos, elementos culturales como costumbres y celebraciones.",
+          "(Evidencia) Respondo con frases cortas a preguntas sencillas sobre temas que me son familiares.",
+          "(Saber Conocer) Reconoce y clasifica vocabulario relacionado con descripciones de lugares, incluyendo adjetivos (beautiful, big, small, modern, etc.) y preposiciones de lugar (next to, in front of, behind, etc.)",
+          "(Saber Conocer) Identifica la idea principal y los detalles relevantes de un texto descriptivo.",
+          "(Saber Hacer) Usa estrategias de lectura para comprender la descripción de un lugar.",
+          "(Saber Aplicar) Compara y contrasta la descripción de dos lugares diferentes.",
+          "(Saber Aplicar) Expresa su opinión sobre la descripción de un lugar, justificando si le parece atractiva o no."
+        ],
+        "saberes": [
+          "Extraer información sobre canciones, videos y grabaciones.",
+          "Retroalimentación a compañeros.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Entabla conversaciones con compañeros usando presente simple, continuo y pasado simple.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Significado de palabras.",
+          "Practico pronunciación con textos acordes al nivel y grado.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Extracción de información en textos.",
+          "Texto relativo a mi y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y",
+        "dba": [
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
+          "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc."
+        ],
+        "evidencias": [
+          "(Evidencia) Puedo extraer información general y específica de un texto corto y escrito en un lenguaje sencillo.",
+          "(Evidencia) Escribo un texto corto relativo a mí, a mi familia, mis amigos, mi entorno o sobre hechos que me son familiares.",
+          "(Evidencia) Expreso de manera sencilla lo que me gusta y me disgusta respecto a algo.",
+          "(Saber Conocer) Identifica vocabulario para describir lugares, incluyendo adjetivos, preposiciones de lugar y expresiones de opinión (I think..., I like..., It's beautiful...)",
+          "(Saber Hacer) Usa el vocabulario y las estructuras gramaticales para escribir frases y oraciones simples que describan lugares.",
+          "(Saber Aplicar) Organiza ideas en un orden lógico para escribir un texto corto y coherente.",
+          "(Saber Aplicar) Escribe un texto corto describiendo su ciudad o un lugar imaginario, incluyendo detalles sobre los lugares más importantes y las actividades que se pueden realizar allí."
+        ],
+        "saberes": [
+          "Extraer información sobre canciones, videos y grabaciones.",
+          "Retroalimentación a compañeros.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Entabla conversaciones con compañeros usando presente simple, continuo y pasado simple.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Significado de palabras.",
+          "Practico pronunciación con textos acordes al nivel y grado.",
+          "Respuestas cortas a preguntas.",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Extracción de información en textos.",
+          "Texto relativo a mi y cosas familiares a mi.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ],
+    "3": [
+      {
+        "componente": "Lingüístico (Escucha)",
+        "estandar": "ESCUCHA: Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi en torno.",
+        "dba": [
+          "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo preguntas y expresiones orales que se refieren a mí, a mi familia, mis amigos y mi entorno.",
+          "(Saber Conocer) Identifica vocabulario básico de países, nacionalidades, costumbres, viajes y experiencias personales.",
+          "(Saber Conocer) Reconoce la estructura de oraciones condicionales simples (If..., then...).",
+          "(Saber Hacer) Interpreta preguntas y respuestas sobre viajes y experiencias en otros países.",
+          "(Saber Hacer) Usa el vocabulario y estructuras gramaticales para describir países, nacionalidades y costumbres.",
+          "(Saber Hacer) Usa oraciones condicionales simples para expresar posibilidades.",
+          "(Saber Aplicar) Compara y contrasta diferentes culturas, incluyendo aspectos como la comida, la música, las tradiciones y la forma de vida.",
+          "(Saber Aplicar) Expresa su opinión sobre un país o cultura, justificando sus preferencias."
+        ],
+        "saberes": [
+          "Preguntas y expresiones orales sobre mí, mi familia, mis amigos y mi entorno.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Condicionales: coherencia y cohesión",
+          "Preguntas explicativas puntuales.",
+          "Pedir favores, disculparme y agradecer.",
+          "Retroalimentación a compañeros.",
+          "Conversaciones completas.",
+          "Vocabulario en escritos.",
+          "Países y nacionalidades",
+          "Descripción de personas, lugares, objetos o hechos con retroalimentación del profesor.",
+          "Instrucciones orales",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Escribir textos cortos con finalidades específicas para un público determinado.",
+          "Extracción de información en textos.",
+          "Descripción de personas, lugares, objetos o hechos.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Comparaciones entre personajes, lugares y objetos.",
+          "Texto relativo a mí y cosas familiares a mi",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Narración de hechos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Lingüístico (Conversación)",
+        "estandar": "CONVERSACIÓN O MONÓLOGO: Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor. Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+        "dba": [
+          "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares.",
+          "Solicita y brinda aclaraciones sobre cómo se escriben nombres y palabras desconocidas en una conversación corta.",
+          "Participa en una conversación corta para decir su nombre, edad y datos básicos a profesores, amigos y familiares.",
+          "Participa en conversaciones cortas en las que brinda información sobre sí mismo, sobre personas, lugares y eventos que le son familiares. Para ello, usa frases y oraciones sencillas previamente memorizadas.",
+          "Comprende y utiliza palabras familiares y frases cortas sobre rutinas, actividades cotidianas y gustos.",
+          "Describe, de manera oral, personas, actividades, eventos y experiencias personales.",
+          "Da y recibe instrucciones, recomendaciones y sugerencias sobre temas relacionados con su entorno cotidiano."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo relaciones establecidas por palabras como and (adición), but (contraste), first, second... orden temporal, en enunciados sencillos.",
+          "(Evidencia) Solicito explicaciones sobre situaciones puntuales en mi escuela, mi familia y mi entorno cercano.",
+          "(Evidencia) Participo en situaciones comunicativas cotidianas tales como pedir favores, disculparme y agradecer.",
+          "(Evidencia) Hago propuestas a mis compañeros sobre qué hacer, dónde, cuándo o cómo.",
+          "(Evidencia) Inicio, mantengo y cierro una conversación sencilla sobre un tema conocido.",
+          "(Evidencia) Utilizo vocabulario adecuado para darle coherencia a mis escritos.",
+          "(Evidencia) Describo con oraciones simples a una persona, lugar u objeto que me son familiares aunque, si lo requiero, me apoyo en apuntes o en mi profesor.",
+          "(Evidencia) Doy instrucciones orales sencillas en situaciones escolares, familiares y de mi entorno cercano."
+        ],
+        "saberes": [
+          "Preguntas y expresiones orales sobre mí, mi familia, mis amigos y mi entorno.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Condicionales: coherencia y cohesión",
+          "Preguntas explicativas puntuales.",
+          "Pedir favores, disculparme y agradecer.",
+          "Retroalimentación a compañeros.",
+          "Conversaciones completas.",
+          "Vocabulario en escritos.",
+          "Países y nacionalidades",
+          "Descripción de personas, lugares, objetos o hechos con retroalimentación del profesor.",
+          "Instrucciones orales",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Escribir textos cortos con finalidades específicas para un público determinado.",
+          "Extracción de información en textos.",
+          "Descripción de personas, lugares, objetos o hechos.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Comparaciones entre personajes, lugares y objetos.",
+          "Texto relativo a mí y cosas familiares a mi",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Narración de hechos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": "LECTURA: Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+        "dba": [
+          "Entiende la idea principal y algunos detalles relacionados con actividades, lugares y personas en un texto descriptivo corto.",
+          "Responde a preguntas relacionadas con el “qué, quién y cuándo” después de leer o escuchar un texto corto y sencillo, siempre y cuando el tema esté relacionado con eventos que le son familiares."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo textos literarios, académicos y de interés general, escritos con un lenguaje sencillo.",
+          "(Evidencia) Identifico el significado adecuado de las palabras en el diccionario según el contexto.",
+          "(Evidencia) Identifico en textos sencillos, elementos culturales como costumbres y celebraciones.",
+          "(Evidencia) Respondo con frases cortas a preguntas sencillas sobre temas que me son familiares.",
+          "(Saber Conocer) Identifica vocabulario relacionado con descripciones de países y culturas, incluyendo aspectos como la geografía, la historia, las costumbres, la comida, la música, etc en textos sencillos.",
+          "(Saber Hacer) Usa estrategias de lectura para identificar la idea principal y detalles importantes en un texto.",
+          "(Saber Aplicar) Compara y contrasta la información de diferentes textos sobre un mismo tema.",
+          "(Saber Aplicar) Emite su opinión sobre un texto, justificando sus ideas."
+        ],
+        "saberes": [
+          "Preguntas y expresiones orales sobre mí, mi familia, mis amigos y mi entorno.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Condicionales: coherencia y cohesión",
+          "Preguntas explicativas puntuales.",
+          "Pedir favores, disculparme y agradecer.",
+          "Retroalimentación a compañeros.",
+          "Conversaciones completas.",
+          "Vocabulario en escritos.",
+          "Países y nacionalidades",
+          "Descripción de personas, lugares, objetos o hechos con retroalimentación del profesor.",
+          "Instrucciones orales",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Escribir textos cortos con finalidades específicas para un público determinado.",
+          "Extracción de información en textos.",
+          "Descripción de personas, lugares, objetos o hechos.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Comparaciones entre personajes, lugares y objetos.",
+          "Texto relativo a mí y cosas familiares a mi",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Narración de hechos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      },
+      {
+        "componente": "Pragmático (Escritura)",
+        "estandar": "ESCRITURA: Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y",
+        "dba": [
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares.",
+          "Escribe información personal básica en formatos preestablecidos que solicitan datos como nombre, edad, fecha de nacimiento, género, nacionalidad, dirección, teléfono, etc.",
+          "Escribe textos cortos y sencillos sobre acciones, experiencias y planes que le son familiares. Para la escritura se ayuda de una secuencia de imágenes y un modelo preestablecido."
+        ],
+        "evidencias": [
+          "(Evidencia) Comprendo mensajes cortos y simples relacionados con mi entorno y mis intereses personales y académicos.",
+          "(Evidencia) Comprendo instrucciones escritas para llevar a cabo actividades cotidianas, personales y académicas.",
+          "(Evidencia) Puedo extraer información general y específica de un texto corto y escrito en un lenguaje sencillo.",
+          "(Evidencia) Describo con frases cortas personas, lugares, objetos o hechos relacionados con temas y situaciones que me son familiares.",
+          "(Evidencia) Escribo textos cortos en los que expreso contraste, adición, causa y efecto entre ideas.",
+          "(Evidencia) Establezco comparaciones entre personajes, lugares y objetos.",
+          "(Evidencia) Escribo un texto corto relativo a mí, a mi familia, mis amigos, mi entorno o sobre hechos que me son familiares.",
+          "(Evidencia) Narro o describo de forma sencilla hechos y actividades que me son familiares.",
+          "(Saber Conocer) Reconoce vocabulario para describir países, culturas y viajes.",
+          "(Saber Conocer) Identifica conectores de secuencia.",
+          "(Saber Conocer) Reconoce estructuras gramaticales para describir experiencias.",
+          "(Saber Hacer) Identifica la estructura básica de un texto narrativo.",
+          "(Saber Aplicar) Usa el vocabulario y las estructuras gramaticales para escribir frases y oraciones que describan países, culturas y viajes.",
+          "(Saber Aplicar) Usa conectores de secuencia para narrar una experiencia personal."
+        ],
+        "saberes": [
+          "Preguntas y expresiones orales sobre mí, mi familia, mis amigos y mi entorno.",
+          "Relaciones con conectores (and (adición), but (contraste), first, second)",
+          "Condicionales: coherencia y cohesión",
+          "Preguntas explicativas puntuales.",
+          "Pedir favores, disculparme y agradecer.",
+          "Retroalimentación a compañeros.",
+          "Conversaciones completas.",
+          "Vocabulario en escritos.",
+          "Países y nacionalidades",
+          "Descripción de personas, lugares, objetos o hechos con retroalimentación del profesor.",
+          "Instrucciones orales",
+          "Significado de palabras.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Escribir textos cortos con finalidades específicas para un público determinado.",
+          "Extracción de información en textos.",
+          "Descripción de personas, lugares, objetos o hechos.",
+          "Textos cortos que expresan contraste, adición, causa y efecto entre ideas.",
+          "Textos literarios, académicos y de interés general con lenguaje sencillo.",
+          "Elementos culturales como costumbres y celebraciones.",
+          "Respuestas cortas a preguntas.",
+          "Comparaciones entre personajes, lugares y objetos.",
+          "Texto relativo a mí y cosas familiares a mi",
+          "Mensajes cortos y simples relacionados con mi entorno.",
+          "Narración de hechos."
+        ],
+        "socioemocional": null,
+        "diccionario": null,
+        "tareas_dce": null,
+        "fuente": null
+      }
+    ]
+  }
+}

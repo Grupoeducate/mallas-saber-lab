@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 2,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Secret Agent's Identity Scan",
+            "un_reto_sugerido": "¿Cómo puedo identificar y comparar las características físicas de mis compañeros usando códigos secretos en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de siluetas en el tablero; los estudiantes deben adivinar de qué compañero se trata basándose en adjetivos como 'Tall', 'Short' o 'Fast'.",
+              "visual": "Laboratorio de Huellas y Rasgos: Usar una lupa (o botella con agua) para observar rasgos físicos y clasificarlos en una tabla comparativa usando adjetivos descriptivos.",
+              "produccion": "El estudiante escucha una descripción de un 'sospechoso' y debe dibujarlo siguiendo las pistas: 'He is tall and kind'."
+            },
+            "para_pensar": [
+              "¿Por qué es importante tratar con respeto a todas las personas sin importar sus características físicas?",
+              "¿Cómo nos ayudan los adjetivos a diferenciar objetos en la naturaleza?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente adjetivos descriptivos al escuchar descripciones orales.",
+              "Diferencia instrucciones de cortesía y señales de seguridad en el entorno escolar."
+            ],
+            "un_refuerzo": "Uso de tarjetas de 'Opuestos' (Tall/Short, Fast/Slow) para asociar visualmente el concepto con el sonido."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Weather & Emotion Reporter",
+            "un_reto_sugerido": "¿Cómo influye el clima en cómo me siento y qué necesito en el salón?",
+            "ruta_de_exploracion": {
+              "explorar": "Mirar por la ventana y usar gestos para representar el clima actual mientras se pregunta 'How is the weather?'.",
+              "visual": "Construcción de un 'Emoti-Meter': Un termómetro de cartón donde el estudiante mueve una flecha según su estado de ánimo (Happy, Sad, Tired) y el clima.",
+              "produccion": "Monólogo corto: 'Today is sunny, I am happy. Please, can I open the window?'."
+            },
+            "para_pensar": [
+              "¿Cómo cambia nuestro ánimo cuando llueve o cuando hace mucho sol?",
+              "¿Por qué es importante pedir favores usando 'Please' y 'Thanks'?"
+            ],
+            "pistas_del_exito": [
+              "Describe características propias y del clima usando frases sencillas.",
+              "Usa expresiones cotidianas para pedir permiso o ayuda en el aula."
+            ],
+            "un_refuerzo": "Role-play de 'El Reportero del Clima' usando un micrófono de cartón para ganar confianza al hablar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Daily Routine Time-Traveler",
+            "un_reto_sugerido": "¿Puedo descubrir las similitudes y diferencias entre mi rutina diaria y la de un niño en otro lugar del mundo?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de un 'Big Book' con imágenes de rutinas diarias (Wake up, Play, Read) y asociación con las horas del día.",
+              "visual": "Línea del tiempo con hilos: Los estudiantes cuelgan dibujos de sus actividades diarias en una cuerda, organizándolas de 'Morning' a 'Night'.",
+              "produccion": "Lectura y emparejamiento: El estudiante lee frases como 'In the morning I eat breakfast' y las une con la ilustración correcta."
+            },
+            "para_pensar": [
+              "¿Por qué tener una rutina nos ayuda a cuidar nuestra salud y tiempo?",
+              "¿Qué actividades de tu rutina son iguales a las de tus compañeros?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce vocabulario de rutinas y actividades de tiempo libre en textos cortos.",
+              "Identifica palabras relacionadas entre sí en anuncios o etiquetas escolares."
+            ],
+            "un_refuerzo": "Juego de memoria (Memory Game) con parejas de tarjetas: frase de rutina e imagen de la acción."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Festival Invitation",
+            "un_reto_sugerido": "¿Cómo puedo invitar a mi familia a una celebración especial usando un formato de invitación en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Exploración de un calendario escolar para identificar fechas de cumpleaños y festividades (Christmas, Halloween).",
+              "visual": "Taller de 'Pop-up Cards': Crear una tarjeta que al abrirse muestre un símbolo de una festividad (un pastel, un árbol) usando papel reciclado.",
+              "produccion": "Escritura de invitación: Completar un formato con 'Date', 'Place' y 'Celebration' (My birthday is on...)."
+            },
+            "para_pensar": [
+              "¿Qué tradiciones de tu familia te hacen sentir más orgulloso?",
+              "¿Cómo podemos celebrar sin desperdiciar papel o materiales?"
+            ],
+            "pistas_del_exito": [
+              "Escribe nombres de festividades y meses del año con ortografía adecuada.",
+              "Completa textos sencillos sobre celebraciones siguiendo un modelo."
+            ],
+            "un_refuerzo": "Uso de plantillas con líneas punteadas (Tracing) para practicar la escritura de frases de invitación."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The School Safari: Objects & Places",
+            "un_reto_sugerido": "¿Puedo identificar objetos y lugares de mi escuela basándome en descripciones de sus características físicas?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata silenciosa por la escuela (Safari) escuchando los sonidos de la cafetería, el patio y el salón.",
+              "visual": "Experimento de 'Texturas y Tamaños': Tocar objetos del aula (Board, Notebook) con los ojos cerrados y describirlos como 'Big', 'Small', 'Hard' o 'Soft'.",
+              "produccion": "Mapa sonoro: El estudiante escucha 'Go to the cafeteria' o 'Find the big board' y señala el lugar u objeto en un plano."
+            },
+            "para_pensar": [
+              "¿Por qué cada lugar de la escuela tiene una función diferente?",
+              "¿Cómo podemos cuidar los objetos del salón para que duren más?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce lugares de la escuela y objetos del aula al escucharlos.",
+              "Compara objetos usando adjetivos de tamaño y forma."
+            ],
+            "un_refuerzo": "Uso de flashcards táctiles donde el objeto tiene la textura real (ej. papel lija para 'hard')."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Animal Talents Show",
+            "un_reto_sugerido": "¿Qué animales son los más asombrosos por lo que pueden o no pueden hacer?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de videos cortos o láminas de animales realizando acciones (Birds flying, Fish swimming).",
+              "visual": "Diorama de Habilidades: Usar cajas de zapatos para crear el hábitat de un animal y poner etiquetas de sus acciones (Run, Jump, Fly).",
+              "produccion": "Presentación oral: 'This is a cat. It is small. It can jump, but it can't fly'."
+            },
+            "para_pensar": [
+              "¿Por qué algunos animales son peligrosos ('Dangerous') y otros pueden vivir con nosotros?",
+              "¿Qué habilidad de un animal te gustaría tener y para qué la usarías?"
+            ],
+            "pistas_del_exito": [
+              "Usa 'Can' y 'Can't' correctamente para describir habilidades de animales.",
+              "Describe animales usando al menos dos adjetivos (ej. 'The dog is big and fast')."
+            ],
+            "un_refuerzo": "Juego de mímica: Un niño hace la acción de un animal y los otros dicen 'You can swim!'."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Healthy Food Inspector",
+            "un_reto_sugerido": "¿Cómo podemos clasificar lo que comemos según el clima y nuestra salud?",
+            "ruta_de_exploracion": {
+              "explorar": "Clasificación de empaques de alimentos reales (limpios) en 'Healthy' y 'Junk food'.",
+              "visual": "Experimento 'Hot or Cold Food': Relacionar imágenes de comida (Soup, Ice cream) con estados del clima (Hot/Cold) usando tarjetas térmicas.",
+              "produccion": "Lectura de menú: El estudiante lee una lista de alimentos y encierra en un círculo lo que 'I eat' y lo que 'I don't eat'."
+            },
+            "para_pensar": [
+              "¿Por qué nuestro cuerpo necesita comida diferente cuando hace frío o calor?",
+              "¿Cuál es el impacto de comer demasiada 'Junk food' en nuestra energía?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de alimentos y clima en textos ilustrados.",
+              "Expresa opiniones sencillas sobre sus gustos alimenticios."
+            ],
+            "un_refuerzo": "Creación de un collage de 'Mi Plato Saludable' con recortes de revistas y etiquetas en inglés."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Super-Student Ability Book",
+            "un_reto_sugerido": "¿Qué superpoderes (habilidades reales) tengo yo y cómo se comparan con los de mis amigos?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de retos físicos en el patio: ¿Quién puede saltar, correr o cantar?",
+              "visual": "Gráfico de Habilidades del Salón: Usar stickers para marcar en un cartel quién 'Can swim' o 'Can play soccer'.",
+              "produccion": "Escritura de mini-historia: 'I can run. My friend can run too. I can't speak French, but I can speak English'."
+            },
+            "para_pensar": [
+              "¿Por qué es importante valorar lo que cada compañero sabe hacer bien?",
+              "¿Cómo podemos ayudarnos entre amigos cuando alguien 'Can't' (no puede) hacer algo?"
+            ],
+            "pistas_del_exito": [
+              "Escribe oraciones comparando sus habilidades con las de otros.",
+              "Organiza una secuencia de acciones en una historia corta usando imágenes."
+            ],
+            "un_refuerzo": "Completar oraciones con 'Can' / 'Can't' apoyándose en pictogramas de acciones."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Community Map Detectives",
+            "un_reto_sugerido": "¿Puedo encontrar tesoros escondidos en mi comunidad siguiendo instrucciones de lugar?",
+            "ruta_de_exploracion": {
+              "explorar": "Uso de un mapa gigante en el piso del salón con lugares como 'School', 'Park', 'Supermarket'.",
+              "visual": "Maqueta de Preposiciones: Colocar un carro de juguete 'In', 'On', 'Next to' o 'At' diferentes cajas que representan edificios.",
+              "produccion": "Dictado de ubicación: El estudiante escucha 'The car is next to the school' y debe colocar el objeto en el lugar correcto del mapa."
+            },
+            "para_pensar": [
+              "¿Cómo nos ayudan los mapas a no perdernos en la ciudad?",
+              "¿Qué lugares de tu comunidad son los más importantes para la salud de las personas?"
+            ],
+            "pistas_del_exito": [
+              "Identifica medios de transporte y lugares de la comunidad al escucharlos.",
+              "Comprende y usa preposiciones de lugar para ubicar objetos."
+            ],
+            "un_refuerzo": "Juego de 'Hide and Seek' con objetos: El docente dice dónde está el objeto usando preposiciones."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "City Tour Guide",
+            "un_reto_sugerido": "¿Cómo puedo describir mi ciudad y lo que está pasando en ella ahora mismo?",
+            "ruta_de_exploracion": {
+              "explorar": "Mirar fotos de la ciudad e identificar acciones en progreso: 'The bus is moving', 'The people are walking'.",
+              "visual": "Construcción de 'Transportes Reciclados': Crear un avión o carro con botellas y describir: 'The plane is fast, it is in the sky'.",
+              "produccion": "Diálogo de guía turístico: 'Where is the library? It is next to the park. What are you doing? I am reading'."
+            },
+            "para_pensar": [
+              "¿Cuál es el medio de transporte que menos contamina el aire de nuestra ciudad?",
+              "¿Por qué es importante que las ciudades tengan parques y bibliotecas?"
+            ],
+            "pistas_del_exito": [
+              "Describe características de medios de transporte y lugares de la comunidad.",
+              "Formula preguntas y respuestas sobre la ubicación de lugares."
+            ],
+            "un_refuerzo": "Uso de un visor de cartón (binoculares) para 'observar' y describir acciones en láminas de la ciudad."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The School Action Challenge",
+            "un_reto_sugerido": "¿Puedo seguir los pasos para completar misiones escolares leyendo instrucciones en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Simón Dice' pero con tarjetas escritas: 'Read', 'Write', 'Draw', 'Sing'.",
+              "visual": "Carrera de Comandos: Los estudiantes deben leer una instrucción escrita en una estación y realizar la acción para pasar a la siguiente.",
+              "produccion": "Ordenamiento de procesos: El estudiante lee los pasos para una tarea (ej. '1. Open book, 2. Read, 3. Draw') y los numera correctamente."
+            },
+            "para_pensar": [
+              "¿Por qué es importante leer todas las instrucciones antes de empezar un trabajo?",
+              "¿Cómo nos sentimos cuando logramos completar una tarea difícil por nosotros mismos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce y reacciona correctamente a imperativos e instrucciones escritas.",
+              "Identifica vocabulario de actividades escolares en textos cortos."
+            ],
+            "un_refuerzo": "Uso de una 'Checklist' visual con dibujos y palabras para monitorear el progreso de las tareas."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Healthy Habits Storyboard",
+            "un_reto_sugerido": "¿Cómo puedo contar una historia sobre la importancia de mantenerse activo y comer bien?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de una historieta muda sobre un personaje que hace ejercicio y come frutas.",
+              "visual": "Taller de 'Healthy vs Unhealthy': Crear una lista de comparación usando recortes y escribir frases como 'Eating fruit is healthy'.",
+              "produccion": "Creación de Storyboard: Dibujar 3 escenas de un hábito saludable y escribir debajo: 'He is eating healthy food', 'She is doing exercise'."
+            },
+            "para_pensar": [
+              "¿Qué pasa con nuestra energía cuando pasamos mucho tiempo viendo televisión ('Watch too much TV')?",
+              "¿Cómo podemos motivar a nuestra familia a hacer ejercicio juntos?"
+            ],
+            "pistas_del_exito": [
+              "Escribe frases simples sobre hábitos saludables usando el presente continuo.",
+              "Responde preguntas de 'Who', 'What', 'Where' sobre su familia y colegio."
+            ],
+            "un_refuerzo": "Uso de burbujas de texto (Speech bubbles) pre-escritas para pegar en los dibujos de la historia."
+          }
+        }
+      ]
+    }
+  ]
+}

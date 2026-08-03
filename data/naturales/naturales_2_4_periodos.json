@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno. Explico adaptaciones de los seres vivos al ambiente. Identifico patrones comunes a los seres vivos.",
+        "estandar": "Explico adaptaciones de los seres vivos al ambiente. Propongo y verifico necesidades de los seres vivos.",
         "dba": [
           "DBA-NAT-2-3 Comprende la relación entre las características físicas de plantas y animales con los ambientes en donde viven, teniendo en cuenta sus necesidades básicas (luz, agua, aire, suelo, nutrientes, desplazamiento y protección)."
         ],
@@ -17,7 +17,7 @@
         ],
         "saberes": [
           "Clasificación de las plantas por su: • Tamaño • Reproducción",
-          "Clasificación de los animales por su: • Tipo de alimentación • Columna vertebral: vertebrados e invertebrados"
+          "Clasificación de los animales por su: • Tipo de alimentación • Tipo de hábitad (acuáticos, aéreos y terrestres) • Columna vertebral: vertebrados e invertebrados "
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -63,7 +63,7 @@
     "2": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno. Explico adaptaciones de los seres vivos al ambiente. Identifico patrones comunes a los seres vivos.",
+        "estandar": "Explico adaptaciones de los seres vivos al ambiente. Propongo y verifico necesidades de los seres vivos.",
         "dba": [
           "DBA-NAT-2-3 Comprende la relación entre las características físicas de plantas y animales con los ambientes en donde viven, teniendo en cuenta sus necesidades básicas (luz, agua, aire, suelo, nutrientes, desplazamiento y protección)."
         ],
@@ -118,7 +118,7 @@
     "3": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Observo y describo cambios en mi desarrollo y en el de otros seres vivos. Describo y verifico ciclos de vida de seres vivos.",
+        "estandar": "Describo y verifico ciclos de vida de seres vivos.",
         "dba": [
           "DBA-NAT-2-4 Explica los procesos de cambios físicos que ocurren en el ciclo de vida de plantas y animales de su entorno, en un período de tiempo determinado."
         ],

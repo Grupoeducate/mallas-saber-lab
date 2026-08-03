@@ -1,0 +1,132 @@
+{
+  "identificacion_grado": 7,
+  "area_identificacion": "Proyecto Socioemocional",
+  "periodo_1": [
+    {
+      "id": "CON-001",
+      "concepto": "Autoconciencia (Nivel 1: Identificación)",
+      "definicion_pedagogica": "La autoconciencia en este nivel se refiere a la capacidad del estudiante de reconocer y nombrar sus emociones básicas (alegría, tristeza, miedo, rabia, sorpresa, asco) y las sensaciones físicas que las acompañan como señales de alerta temprana. En el ciclo 3, esta habilidad se articula con la competencia de conciencia emocional y con el eje \"Descubro quien soy\", permitiendo que el estudiante identifique cómo se siente antes de actuar de forma impulsiva. Se vincula con el estándar del período 1, porque reconocer las propias emociones y señales corporales es la base para identificar también las señales de empatía en las interacciones escolares cotidianas. Desde la orientación de la batería de identidad y autoconocimiento, la autoconciencia ayuda al estudiante a comprender sus reacciones y a responsabilizarse de sus decisiones emocionales en el aula.",
+      "definicion_estudiante": "La autoconciencia es darte cuenta de qué estás sintiendo y cómo lo notas en tu cuerpo, por ejemplo, manos sudando, corazón acelerado o nudo en el estómago. Cuando logras identificar esas señales, puedes frenar antes de reaccionar mal o lastimar a alguien. Conocer tus emociones te ayuda a entenderte mejor y a explicar a otros lo que te pasa.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Noté que mis manos sudaban y supe que estaba nervioso antes de reaccionar mal.\"",
+      "evidencia_logro": "El docente observa que el estudiante nombra con precisión al menos una emoción que está sintiendo en una situación concreta de aula y menciona una señal física asociada, utilizando esta información para anticipar o ajustar su reacción.",
+      "tip_psicologico": "Invita al grupo a hacer pausas breves de escaneo corporal y emocional, preguntándoles qué sienten y dónde lo perciben físicamente. Normaliza todas las emociones, explicando que ninguna es \"mala\" en sí misma, pero que sí es importante decidir qué hacer con ellas. Refuerza verbalmente cuando los estudiantes expresan con claridad cómo se sienten antes de actuar, destacando el impacto positivo en la convivencia."
+    },
+    {
+      "id": "CON-002",
+      "concepto": "Regulación Conductual (Nivel 1: Freno)",
+      "definicion_pedagogica": "La regulación conductual en este nivel implica la habilidad del estudiante para detener o frenar un impulso físico inmediato (golpear, lanzar objetos, gritar) ante un estímulo negativo, dando espacio a una respuesta más reflexiva. En el ciclo 3 se relaciona con la competencia de cultura del autocuidado, ya que protege al estudiante y a sus compañeros de posibles daños físicos o emocionales. Se conecta con el estándar del período 1 porque, al controlar sus impulsos, el estudiante puede reconocer mejor las señales de empatía y actuar de manera menos reactiva en las interacciones escolares. Desde la orientación de la batería de identidad y autoconocimiento, este \"freno\" conductual es un paso clave para que el estudiante se perciba como capaz de manejar sus acciones en situaciones tensas.",
+      "definicion_estudiante": "La regulación conductual es poder detenerte justo antes de hacer algo impulsivo, como gritar, empujar o tirar tus cosas cuando te enojas. Significa que te das un momento para respirar, contar o pensar, en lugar de dejarte llevar por el primer impulso. Esa pausa te permite elegir una reacción que no dañe a los demás ni complique tus problemas.",
+      "habilidad_malla": "Cultura del auto cuidado",
+      "ejemplo_aula": "\"Respiré profundo y conté hasta diez para no tirar el cuaderno cuando me frustré.\"",
+      "evidencia_logro": "El docente observa que el estudiante, ante una situación frustrante o provocadora, utiliza de manera deliberada una estrategia de pausa (respirar, contar, alejarse brevemente) que le impide ejecutar conductas impulsivas como lanzar objetos, insultar o agredir físicamente.",
+      "tip_psicologico": "Trabaja con los estudiantes un repertorio de estrategias sencillas de pausa (respiraciones, contar, apartarse un momento) y practíquenlas en situaciones neutras, para que puedan aplicarlas en momentos de tensión. Evita reforzar el control conductual solo con amenazas de castigo; en cambio, explora con ellos las consecuencias reales de reaccionar sin freno. Reconoce cuando logran detenerse a tiempo, explicando cómo eso protege al grupo y fortalece su autocontrol."
+    },
+    {
+      "id": "CON-003",
+      "concepto": "Autoexigencia (Nivel 1: Realismo)",
+      "definicion_pedagogica": "La autoexigencia realista supone que el estudiante ajusta sus expectativas personales de logro para motivarse sin caer en la ansiedad extrema, el perfeccionismo rígido o el miedo paralizante al error. En el ciclo 3 se vincula con la competencia de cultura del autocuidado y el eje \"Descubro quien soy\", ayudando a equilibrar el deseo de mejorar con el reconocimiento de límites y procesos. Se relaciona con el estándar del período 1 porque un manejo sano de la autoexigencia facilita que el estudiante identifique cuándo su malestar proviene de comparaciones poco realistas con los demás, afectando su empatía. Desde la orientación de la batería de identidad y autoconocimiento, una autoexigencia realista protege la autoestima académica y social en la transición a la adolescencia.",
+      "definicion_estudiante": "La autoexigencia realista es ponerte metas que te reten, pero que también sean posibles, aceptando que equivocarte es parte de aprender. No se trata de conformarte con poco, sino de esforzarte sin llegar a castigarte cuando cometes un error. Así puedes seguir avanzando sin sentir que tu valor depende solo de la nota o del resultado.",
+      "habilidad_malla": "Cultura del auto cuidado",
+      "ejemplo_aula": "\"Quería sacar la mejor nota, pero acepté que cometer un error no significa que soy malo.\"",
+      "evidencia_logro": "El docente observa que el estudiante se propone objetivos de mejora concretos y, ante un error o una calificación más baja de lo esperado, analiza qué puede ajustar sin descalificarse globalmente ni abandonar su esfuerzo.",
+      "tip_psicologico": "Invita a los estudiantes a formular metas específicas y alcanzables, diferenciando entre esforzarse y buscar perfección absoluta. Cuando alguien se frustra por no obtener el resultado ideal, ayúdalo a revisar evidencias de progreso y aprendizajes obtenidos. Evita comentarios que refuercen solo a los \"mejores\"; resalta procesos de mejora en todo el grupo."
+    }
+  ],
+  "periodo_2": [
+    {
+      "id": "CON-004",
+      "concepto": "Empatía Cognitiva (Nivel 1: Perspectiva)",
+      "definicion_pedagogica": "La empatía cognitiva en este nivel se define como la capacidad del estudiante para comprender el punto de vista del otro, reconociendo que puede interpretar una situación de manera distinta a la propia. En el ciclo 3 se articula con la competencia de conciencia emocional y el eje \"Convivo en la diversidad\", pues favorece el respeto por las diferencias de opinión, cultura y experiencia. Se vincula con el estándar del período 2, que plantea expresar empatía verbalmente ante emociones ajenas en el aula, dado que entender la perspectiva del otro es la base para una respuesta empática adecuada. Desde la orientación de la batería de empatía y respeto, la empatía cognitiva previene malentendidos y juicios apresurados en las relaciones entre pares.",
+      "definicion_estudiante": "La empatía cognitiva es tratar de entender cómo ve la situación la otra persona, aunque tú no pienses igual. Significa preguntarte qué está pasando por su mente y por qué actuó de cierta forma, antes de criticar o reaccionar. Cuando haces este esfuerzo, es más fácil hablar sin pelear y encontrar acuerdos.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Entendí que mi compañero no me ignoró por malo, sino porque estaba distraído.\"",
+      "evidencia_logro": "El docente observa que el estudiante, frente a un conflicto o malentendido, plantea al menos una posible explicación desde la perspectiva del otro y ajusta su reacción inicial, evitando conclusiones impulsivas o etiquetas negativas.",
+      "tip_psicologico": "Propón actividades donde los estudiantes deban contar una misma situación desde diferentes personajes, para ejercitar el cambio de perspectiva. En los conflictos, pregúntales explícitamente qué creen que el otro estaba pensando o sintiendo. Refuerza cuando logran reformular juicios duros después de considerar la mirada ajena."
+    },
+    {
+      "id": "CON-005",
+      "concepto": "Asertividad (Nivel 1: Expresión)",
+      "definicion_pedagogica": "La asertividad en este primer nivel se refiere a la capacidad del estudiante para expresar sus gustos, disgustos, necesidades y límites de forma clara y respetuosa, sin recurrir a la agresión ni al silencio total. En el ciclo 3, esta habilidad se relaciona con las competencias de habilidades sociales y regulación emocional, y con el eje \"Convivo en la diversidad\", al permitir que los adolescentes participen en la vida grupal sin sentirse anulados. Se conecta con el estándar del período 2 porque una expresión verbal adecuada es fundamental para comunicar empatía y desacuerdo sin dañar al otro. Desde la orientación de la batería de empatía y respeto, este nivel de asertividad protege la autoestima y favorece acuerdos más justos.",
+      "definicion_estudiante": "La asertividad de expresión es decir lo que te gusta y lo que no te gusta con claridad, pero sin insultar ni humillar a nadie. Puedes usar frases como \"no me siento cómodo con esa broma\" o \"prefiero trabajar de esta manera\", manteniendo la calma. Hablar así te ayuda a cuidarte y a cuidar tus relaciones al mismo tiempo.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Le dije a mi amigo que no me gustaba esa broma, pero se lo dije con calma.\"",
+      "evidencia_logro": "El docente observa que el estudiante comunica un desacuerdo o una preferencia utilizando palabras respetuosas, un tono moderado y sin recurrir a burlas, amenazas o silencios prolongados como forma de castigo.",
+      "tip_psicologico": "Enseña al grupo frases modelo para expresar desacuerdos y necesidades, y practíquenlas en dramatizaciones breves. Cuando surjan comentarios agresivos o pasivos, ayúdales a reformularlos de manera asertiva. Reconoce públicamente los momentos en que alguien defiende su postura con respeto, para que el curso identifique este comportamiento como deseable."
+    },
+    {
+      "id": "CON-006",
+      "concepto": "Pertinencia Social (Nivel 1: Pertenencia)",
+      "definicion_pedagogica": "La pertinencia social en su nivel de pertenencia es la capacidad del estudiante para sentirse parte de un grupo, comprendiendo y aceptando sus normas explícitas e implícitas sin perder su identidad. En el ciclo 3 se vincula con la competencia de habilidades sociales y el eje \"Convivo en la diversidad\", ya que implica integrarse respetando la diversidad de roles y estilos. Se relaciona con el estándar del período 2 porque un sentido sano de pertenencia facilita expresar empatía hacia los compañeros y participar en actividades que favorecen la convivencia. Desde la orientación de la batería de empatía y respeto, esta habilidad previene el aislamiento social y reduce el riesgo de que el estudiante busque pertenecer a través de conductas problemáticas.",
+      "definicion_estudiante": "La pertinencia social en pertenencia es sentir que haces parte del grupo, que conoces las reglas básicas y que puedes participar sin necesidad de imitar todo para encajar. Significa unirte a las actividades, respetar los acuerdos y aportar desde tu forma de ser. Cuando te sientes parte del curso, es más fácil cuidar a los demás y dejarte cuidar.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Me uní a las actividades del grupo en el recreo para conocer mejor a mis compañeros.\"",
+      "evidencia_logro": "El docente observa que el estudiante participa de forma activa y respetuosa en actividades grupales, respeta las normas básicas del curso y se vincula con diferentes compañeros sin recurrir a conductas de exclusión o sumisión extrema.",
+      "tip_psicologico": "Organiza actividades donde todos los estudiantes tengan un rol y puedan aportar algo al grupo, evitando que siempre participen los mismos. Observa quiénes tienden a aislarse y facilita su inclusión a través de parejas o pequeños equipos. Refuerza verbalmente los mensajes que destaquen que cada quien aporta algo valioso al curso."
+    }
+  ],
+  "periodo_3": [
+    {
+      "id": "CON-007",
+      "concepto": "Sensatez (Nivel 1: Análisis)",
+      "definicion_pedagogica": "La sensatez en este nivel supone que el estudiante evalúa riesgos y consecuencias a corto plazo antes de tomar decisiones impulsivas, especialmente en contextos sociales y digitales. En el ciclo 3 se relaciona con la competencia de regulación emocional y el eje \"Me cuido en el mundo digital\", al promover una reflexión previa sobre lo que va a decir o hacer. Se vincula con el estándar del período 3, que plantea regular la empatía para responder adecuadamente en grupo, ya que analizar las consecuencias permite cuidar tanto el propio bienestar como el de los demás. Desde la orientación de la batería de regulación emocional y comunicación asertiva, la sensatez ayuda a disminuir comportamientos de riesgo y conflictos innecesarios.",
+      "definicion_estudiante": "La sensatez es pensar dos veces antes de actuar o hablar, preguntándote qué puede pasar después, especialmente si se trata de un chiste, una publicación o una decisión rápida. Significa medir si vale la pena el riesgo o si podrías lastimar a alguien, incluyendo a ti mismo. Ser sensato te evita muchos problemas y muestra que estás madurando.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Pensé dos veces antes de hacer el comentario gracioso para no meterme en problemas.\"",
+      "evidencia_logro": "El docente observa que el estudiante, antes de realizar una acción potencialmente problemática, detiene el impulso inicial, reflexiona sobre las posibles consecuencias y decide una alternativa menos riesgosa o más respetuosa.",
+      "tip_psicologico": "Utiliza estudios de caso breves donde los estudiantes deban decidir qué harían y analizar las consecuencias inmediatas de cada opción. Refuerza cuando alguno reconoce que decidió no hacer algo al darse cuenta de los problemas que podía generar. Evita ridiculizar a quien comete errores de juicio; en cambio, acompáñalo a analizar qué pudo haber hecho de forma más sensata."
+    },
+    {
+      "id": "CON-008",
+      "concepto": "Disonancia Emocional (Nivel 1: Valores)",
+      "definicion_pedagogica": "La disonancia emocional en este nivel describe el conflicto interno entre lo que el estudiante desea hacer por impulso y lo que considera que debe hacer de acuerdo con sus valores, normas familiares o principios éticos. En el ciclo 3 se vincula con la competencia de regulación emocional y el eje \"Me cuido en el mundo digital\", ya que muchas decisiones implican elegir entre la gratificación inmediata y el cumplimiento responsable. Se relaciona con el estándar del período 3 porque regular la empatía incluye respetar los acuerdos del grupo aunque el deseo individual vaya en otra dirección. Desde la orientación de la batería de regulación emocional y comunicación asertiva, reconocer esta disonancia permite tomar decisiones más coherentes y proteger la integridad personal.",
+      "definicion_estudiante": "La disonancia emocional es ese choque interno entre lo que quieres hacer en el momento y lo que sabes que es correcto o que te conviene a largo plazo. Por ejemplo, querer dejar todo tirado para ir a jugar, pero saber que tienes un compromiso que cumplir. Reconocer este conflicto te ayuda a elegir con más conciencia y a sentirte mejor contigo mismo después.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Quería salir a jugar, pero sabía que debía terminar mi tarea primero para cumplir.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica en voz alta situaciones donde siente deseos contrarios a sus responsabilidades y, aun así, elige actuar de acuerdo con sus valores o compromisos previamente asumidos.",
+      "tip_psicologico": "Ayuda a los estudiantes a poner en palabras esos conflictos internos, sin juzgarlos, para que aprendan a reconocerlos como parte normal del crecimiento. Guíalos a analizar qué decisión les deja una sensación de coherencia y tranquilidad a mediano plazo. Refuerza las elecciones alineadas con valores, explicando cómo fortalecen su confianza en sí mismos."
+    },
+    {
+      "id": "CON-009",
+      "concepto": "Asertividad (Nivel 2: Presión Social)",
+      "definicion_pedagogica": "La asertividad en nivel de presión social implica que el estudiante mantiene su postura, valores y límites personales frente a las expectativas o insistencia del grupo, sin agredir ni someterse. En el ciclo 3 se relaciona con las competencias de regulación emocional y habilidades sociales, así como con el eje \"Me cuido en el mundo digital\", ya que la presión de pares ocurre tanto en la presencia física como en redes. Se vincula con el estándar del período 3 al permitir que el estudiante regule su empatía: comprende lo que el grupo quiere, pero decide desde su propio criterio. Desde la orientación de la batería de regulación emocional y comunicación asertiva, esta habilidad reduce la participación en conductas de riesgo o acoso por simple imitación.",
+      "definicion_estudiante": "La asertividad frente a la presión social es poder decir \"no\" cuando el grupo te invita a hacer algo que sabes que no es correcto o que te pone en riesgo, sin insultar a los demás ni sentir que debes justificarte demasiado. Significa mantener tus valores incluso si temes que se burlen de ti o te dejen por fuera. Esta firmeza te protege y demuestra que tienes criterio propio.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Dije que 'no' a entrar a ese sitio web, aunque todos mis amigos me insistían.\"",
+      "evidencia_logro": "El docente observa que el estudiante se niega con claridad y respeto a participar en actividades riesgosas o contrarias a las normas, pese a la insistencia de sus pares, y mantiene su decisión sin recurrir a la agresión.",
+      "tip_psicologico": "Realiza dramatizaciones de situaciones de presión de grupo y ensaya con los estudiantes diferentes maneras de decir \"no\" con firmeza. Refuerza públicamente las decisiones asertivas, evitando comentarios que los expongan a burlas. Acompaña reflexiones sobre cómo se sienten después de mantenerse fieles a sus valores, para consolidar esta experiencia positiva."
+    }
+  ],
+  "periodo_4": [
+    {
+      "id": "CON-010",
+      "concepto": "Resiliencia Interpersonal (Nivel 1: Reparación)",
+      "definicion_pedagogica": "La resiliencia interpersonal en este nivel se refiere a la capacidad del estudiante para reconocer cuando ha dañado una relación, pedir perdón de manera sincera y realizar acciones concretas para reparar la confianza. En el ciclo 3 se vincula con la competencia de habilidades sociales y el eje \"Elijo con valentía\", ya que restaurar vínculos requiere asumir responsabilidad y enfrentar emociones incómodas. Se relaciona con el estándar del período 4, que plantea activar la empatía con autonomía para fortalecer relaciones y convivencia pacífica en la escuela. Desde la orientación de la batería de convivencia y resolución pacífica de conflictos, esta habilidad es esencial para que los conflictos no se cronifiquen y para consolidar climas de aula respetuosos.",
+      "definicion_estudiante": "La resiliencia interpersonal es poder reconocer cuando lastimaste a alguien, pedir disculpas de verdad y hacer algo concreto para mejorar la situación. No se trata solo de decir \"perdón\" por cumplir, sino de mostrar con acciones que quieres cambiar. Reparar las relaciones te ayuda a recuperar la confianza y a aprender de lo ocurrido.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Busqué a mi amigo después de la pelea, le pedí disculpas y le propuse una solución.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica su responsabilidad en un conflicto, se acerca al compañero afectado para disculparse sin justificar en exceso su conducta y acuerda con él una acción concreta para corregir o compensar el daño.",
+      "tip_psicologico": "Acompaña los procesos de disculpa guiando a los estudiantes para que expresen qué hicieron, por qué estuvo mal y cómo piensan actuar diferente. Evita imponer disculpas vacías y fomenta que la reparación incluya acciones simbólicas o prácticas. Refuerza estos esfuerzos, destacando el valor de reconocer errores como parte de la madurez emocional."
+    },
+    {
+      "id": "CON-011",
+      "concepto": "Autorreflexión (Nivel 1: Aprendizaje)",
+      "definicion_pedagogica": "La autorreflexión en este nivel consiste en que el estudiante analiza sus experiencias del año escolar para identificar patrones en su comportamiento, emociones y decisiones, con el fin de proyectar mejoras futuras. En el ciclo 3 se articula con la competencia de conciencia emocional y el eje \"Elijo con valentía\", ya que implica revisar qué ha aprendido sobre sí mismo y sobre sus relaciones. Se vincula con el estándar del período 4 al activar una empatía autónoma que le permite valorar cómo sus cambios influyen en el grupo. Desde la orientación de la batería de convivencia y resolución pacífica de conflictos, la autorreflexión facilita ajustes en la forma de relacionarse y la prevención de errores repetidos.",
+      "definicion_estudiante": "La autorreflexión es mirar hacia atrás y pensar qué has aprendido sobre ti mismo este año: en qué mejoraste, qué te sigue costando y qué podrías hacer diferente. No es para culparte, sino para conocerte y tomar decisiones más conscientes. Cuando te autorreflexionas, conviertes tus experiencias buenas y malas en aprendizaje para el siguiente paso.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Me di cuenta de que este año mejoré mi paciencia, pero aún debo trabajar en mi orden.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica al menos un patrón de cambio positivo y un aspecto por mejorar en su comportamiento o convivencia, y propone acciones concretas para seguir avanzando en el siguiente período o año.",
+      "tip_psicologico": "Al finalizar proyectos o periodos, propón momentos estructurados de reflexión personal y grupal, utilizando preguntas guía sobre logros, retos y aprendizajes. Anima a registrar estas reflexiones por escrito para hacer seguimiento más adelante. Evita que la reflexión se convierta en una lista de defectos; equilibra siempre fortalezas y aspectos por mejorar."
+    },
+    {
+      "id": "CON-012",
+      "concepto": "Pertinencia Social (Nivel 2: Liderazgo)",
+      "definicion_pedagogica": "La pertinencia social en su nivel de liderazgo implica que el estudiante pasa de solo sentirse parte del grupo a aportar activamente al bien común, asumiendo roles de liderazgo empático y responsable. En el ciclo 3 se vincula con la competencia de habilidades sociales y el eje \"Elijo con valentía\", al promover decisiones que buscan el beneficio de todo el curso y no solo del propio círculo de amistades. Se relaciona con el estándar del período 4, que plantea identificar y activar la empatía con autonomía para fortalecer relaciones y convivencia pacífica. Desde la orientación de la batería de convivencia y resolución pacífica de conflictos, este liderazgo implica proponer ideas, organizar acciones y cuidar que las normas sean justas e inclusivas.",
+      "definicion_estudiante": "La pertinencia social en liderazgo es cuando ya no solo te sientes parte del grupo, sino que tomas iniciativa para que el salón funcione mejor y todos se sientan bien. Puedes proponer actividades, ayudar a organizar acuerdos o defender a quienes no tienen voz. Liderar de esta forma no es mandar, es servir y cuidar al grupo.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Propuse una idea para que todos en el salón nos lleváramos mejor y ayudé a organizarla.\"",
+      "evidencia_logro": "El docente observa que el estudiante propone iniciativas que favorecen la convivencia, coordina acciones con sus compañeros de manera respetuosa y considera la opinión de otros antes de tomar decisiones para el grupo.",
+      "tip_psicologico": "Ofrece espacios donde diferentes estudiantes puedan asumir pequeños liderazgos (voceros, coordinadores de proyectos, mediadores) rotando los roles para evitar favoritismos. Acompaña a quienes lideran para que escuchen al grupo y no reproduzcan estilos autoritarios. Reconoce los liderazgos empáticos que incluyen a otros y mejoran el clima del aula."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+/* FILE: styles-diccionario.css | VERSION: v12.2.3 (Final Fix: Print Layer Visibility) */
+
+/* 1. REGLA DE SEGURIDAD: Ocultar contenido de impresión en la pantalla */
+#capa-impresion-exclusiva, 
+.watermark-print, 
+.print-only-header {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+:root {
+  --color-primary-100: #17334B; 
+  --color-primary-200: #11678B;
+  --color-primary-300: #54BBAB;
+  --color-accent: #F39325; 
+  --font-titles: 'Barlow Condensed', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --shadow-card: 0 4px 20px rgba(0,0,0,0.06);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { font-family: var(--font-titles); background: #f1f5f9; color: #333; }
+
+/* HEADER E INFO BAR */
+#header-institucional { background: linear-gradient(90deg, #17334B 0%, #11678B 100%); color: white; padding: 1rem 2rem; }
+.header-blue-content { max-width: 1400px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+.brand-titles h1 { font-size: 1.8rem; font-weight: 800; }
+.btn-imprimir { background: #f39325; color: white; border: none; padding: 8px 18px; border-radius: 6px; font-weight: 700; cursor: pointer; }
+.btn-cerrar { background: #ef4444; color: white; border: none; padding: 8px 15px; border-radius: 6px; font-weight: 700; cursor: pointer; margin-left: 10px; }
+
+#info-bar-consulta { background: #ffffff; border-bottom: 1px solid #e2e8f0; padding: 1.2rem 2rem; }
+.info-bar-content { max-width: 1400px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.data-eco { font-size: 2rem; color: #1e293b; font-weight: 800; text-transform: uppercase; }
+
+/* NAVEGACIÓN STICKY */
+#dic-menu { 
+    display: flex; gap: 8px; position: sticky; top: 0; background: #f1f5f9; 
+    padding: 10px 0; z-index: 100; justify-content: center;
+}
+.dic-menu-item {
+  padding: 10px 25px; border: 1px solid #cbd5e1; border-radius: 8px; 
+  background: #ffffff; color: #64748b; font-family: inherit; font-weight: 700; 
+  font-size: 1.2rem; cursor: pointer; transition: all 0.3s ease;
+}
+.dic-menu-item.active { background: var(--color-primary-300); color: white; border-color: var(--color-primary-300); }
+
+/* CONTENEDOR PRINCIPAL */
+#dic-content-display { 
+    background: white; border-radius: 16px; padding: 2.5rem; 
+    box-shadow: var(--shadow-card); min-height: 600px; border: 1px solid #e2e8f0;
+}
+
+/* RESUMEN DICCIONARIO */
+.dic-summary-header { background: #f8fafc; border-left: 8px solid #11678B; border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; }
+.summary-row { display: flex; align-items: center; gap: 15px; margin-bottom: 10px; }
+.summary-row svg { width: 28px !important; height: 28px !important; flex-shrink: 0; }
+.summary-label { font-weight: 800; text-transform: uppercase; font-size: 1rem; color: #1e293b; min-width: 180px; }
+.summary-value { font-size: 1.2rem; color: #475569; font-family: var(--font-body); }
+.summary-value.destacado { font-weight: 800; font-style: italic; color: #000; font-size: 1.4rem; font-family: var(--font-titles); }
+
+/* DICCIONARIO CARDS */
+.dic-grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); gap: 2rem; }
+.dic-concepto-card { border: 1px solid #e2e8f0; border-radius: 15px; padding: 2rem; position: relative; overflow: hidden; background: #fff; transition: 0.3s; }
+.dic-concepto-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+.dic-concepto-card::before { content:''; position:absolute; left:0; top:0; bottom:0; width:8px; background: var(--concepto-color); }
+.dic-concepto-card h3 { font-size: 2.5rem; color: var(--color-accent); margin-bottom: 1.5rem; text-transform: uppercase; }
+.dic-field { margin-bottom: 1.2rem; }
+.dic-field strong { display: block; font-size: 0.9rem; color: var(--color-primary-300); text-transform: uppercase; margin-bottom: 4px; }
+.dic-field p { font-family: var(--font-body); font-size: 1.15rem; line-height: 1.6; color: #334155; }
+
+/* ESTRUCTURA DE TALLERES */
+.taller-card h2 { font-size: 2.8rem; color: var(--color-primary-100); margin-bottom: 1.5rem; text-transform: uppercase; }
+.taller-section-block { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1.8rem; margin-bottom: 1.5rem; }
+.taller-section-block strong { display: block; color: #11678B; font-size: 1.1rem; margin-bottom: 10px; text-transform: uppercase; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+.taller-section-block p { font-family: var(--font-body); font-size: 1.2rem; line-height: 1.6; color: #334155; }
+.taller-grid-split { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; }
+.concept-pill { background: #1e293b; color: white; padding: 6px 18px; border-radius: 20px; font-weight: 700; font-size: 1.1rem; display: inline-block; margin-right: 8px; margin-bottom: 8px; }
+.logistica-box { background: #fff9e6; border-left: 8px solid #F39325; border-radius: 10px; padding: 1.5rem; }
+.logistica-box strong { color: #856404; border-bottom: 1px solid #ffeeba; }
+
+.animate-fade-in { animation: fadeInUp 0.4s ease-out forwards; }
+@keyframes fadeInUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+/* REGLAS DE IMPRESIÓN REFORZADAS */
+@media print {
+    #capa-impresion-exclusiva, .watermark-print, .print-only-header {
+        display: block !important;
+        visibility: visible !important;
+        height: auto !important;
+        position: static !important;
+    }
+    #header-institucional, #info-bar-consulta, #dic-menu, .header-actions {
+        display: none !important;
+    }
+    #main-diccionario { margin: 0; padding: 0; }
+    #dic-content-display { box-shadow: none; border: none; padding: 0; }
+    .dic-grid-container { grid-template-columns: 1fr !important; }
+    .dic-concepto-card { page-break-inside: avoid; border: 1px solid #eee; margin-bottom: 15px; }
+}

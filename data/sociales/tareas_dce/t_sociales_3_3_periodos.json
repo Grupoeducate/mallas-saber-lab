@@ -1,0 +1,276 @@
+{
+"area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "3",
+  "nombre_archivo": "t_sociales_3_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Expedición al Planeta Azul",
+            "un_reto_sugerido": "¿Cómo influyen los grandes océanos en la vida y los problemas de las personas que viven cerca de la costa?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un globo terráqueo o mapamundi para identificar por qué a la Tierra se le llama el 'planeta azul' y ubicar los continentes y océanos.",
+              "visual": "Experimento de 'Agua Viajera': Usar dos recipientes (uno con agua dulce y otro con agua salada) para observar la flotabilidad y discutir cómo los mares facilitan el transporte de mercancías.",
+              "produccion": "Creación de un mural sobre 'Océanos en Peligro', donde se ubiquen los continentes y se propongan soluciones a la contaminación marina observada en noticias."
+            },
+            "para_pensar": [
+              "¿Por qué un país que tiene costa tiene ventajas económicas sobre uno que no la tiene?",
+              "¿Cómo afecta la basura que tiramos en la ciudad a los animales que viven en los océanos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente los 5 continentes y los océanos en un mapa.",
+              "Plantea preguntas críticas sobre problemáticas ambientales costeras y sus causas."
+            ],
+            "un_refuerzo": "Dibujar el mapa de Colombia y señalar sus dos costas (Pacífica y Atlántica), mencionando un producto que llegue por cada una."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Baúl de las Herencias Culturales",
+            "un_reto_sugerido": "¿Qué huellas de los grupos indígenas, africanos y europeos podemos encontrar en nuestra comida y música actual?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una 'Cata de Sabores Regionales' en el salón, probando ingredientes típicos y adivinando su origen (maíz, plátano, trigo).",
+              "visual": "Taller de 'Instrumentos del Pasado': Construir una maraca o un tambor sencillo con materiales reciclados mientras se escuchan ritmos tradicionales de la región.",
+              "produccion": "Elaboración de un 'Pasaporte Cultural' donde el estudiante describa una fiesta regional, su gastronomía y el legado étnico que representa."
+            },
+            "para_pensar": [
+              "¿Por qué decimos que Colombia es un país de muchas culturas en una sola?",
+              "¿Cómo han cambiado las herramientas de cocina desde la época de nuestros abuelos hasta hoy?"
+            ],
+            "pistas_del_exito": [
+              "Explica aportes específicos de diferentes grupos humanos a la cultura colombiana.",
+              "Compara fiestas regionales identificando su origen y propósito social."
+            ],
+            "un_refuerzo": "Entrevistar a un familiar sobre una receta antigua y dibujarla como un tesoro histórico."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Laboratorio de Democracia Escolar",
+            "un_reto_sugerido": "¿Cómo nuestras decisiones al elegir representantes cambian la convivencia en nuestro colegio?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video o dramatización sobre un salón donde nadie se pone de acuerdo y debatir la necesidad de un líder.",
+              "visual": "Simulacro de votación: Crear urnas, tarjetones y realizar un debate de propuestas sencillas para mejorar el tiempo de descanso.",
+              "produccion": "Organigrama creativo del Gobierno Escolar, explicando las funciones del Personero y el Consejo Estudiantil con ejemplos de la vida real."
+            },
+            "para_pensar": [
+              "¿Qué cualidades debe tener un buen representante estudiantil?",
+              "¿Por qué es importante participar en las elecciones aunque no seamos los candidatos?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las funciones de los órganos del gobierno escolar.",
+              "Emite opiniones argumentadas sobre la importancia de elegir a conciencia."
+            ],
+            "un_refuerzo": "Escribir una carta al personero actual con una propuesta para mejorar el cuidado del medio ambiente en el colegio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Taller de Reparación de Corazones",
+            "un_reto_sugerido": "¿Cómo podemos arreglar el daño causado cuando rompemos una norma en el salón?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos: Leer historias cortas donde alguien incumple un acuerdo y observar cómo se sienten los demás.",
+              "visual": "Juego del 'Puente de la Reconciliación': Dinámica grupal para proponer acciones que compensen un error (ej. limpiar lo ensuciado, pedir disculpas públicas).",
+              "produccion": "Creación del 'Manual de Acciones Reparadoras' del salón, con dibujos que muestren cómo sanar la convivencia tras un conflicto."
+            },
+            "para_pensar": [
+              "¿Por qué pedir perdón no siempre es suficiente para reparar un daño?",
+              "¿Cómo ayudan las normas a que todos alcancemos nuestras metas en el salón?"
+            ],
+            "pistas_del_exito": [
+              "Propone acciones concretas para enmendar daños causados a otros.",
+              "Reconoce la importancia de la cooperación para lograr metas comunes."
+            ],
+            "un_refuerzo": "Crear un 'Muro de la Cooperación' donde se peguen notas reconociendo cuando un compañero ayudó a cumplir una norma."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de los Recursos Naturales",
+            "un_reto_sugerido": "¿Por qué en algunos lugares de mi departamento se cultiva café y en otros se cría ganado?",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata por los alrededores para identificar recursos del suelo, agua, flora y fauna, clasificándolos en renovables y no renovables.",
+              "visual": "Mapa de sabores y climas: Ubicar en un mapa del departamento los productos típicos (papa, leche, frutas) según el clima de cada zona.",
+              "produccion": "Infografía sobre 'El Trabajo de la Tierra', destacando la importancia de los campesinos y cómo el clima afecta la producción de alimentos."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si se agotaran los recursos no renovables de nuestra región?",
+              "¿Por qué es importante valorar el trabajo de las personas que producen nuestra comida?"
+            ],
+            "pistas_del_exito": [
+              "Relata la relación entre el clima y las actividades económicas de su departamento.",
+              "Identifica la oferta de recursos naturales (suelo, agua, fauna) de su región."
+            ],
+            "un_refuerzo": "Hacer un germinado de frijol y observar cómo el clima del salón (luz y agua) afecta su crecimiento."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Maestros del Tiempo",
+            "un_reto_sugerido": "¿Cómo organizamos nuestro tiempo para ser más productivos y felices en familia?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar la agenda diaria de un estudiante con la de un agricultor o un médico, notando las diferencias de horarios.",
+              "visual": "Reloj de Producción: Dibujar un círculo que represente las 24 horas y colorear cuánto tiempo toma producir un litro de leche o un cuaderno.",
+              "produccion": "Diseño de un calendario familiar mensual donde se equilibren las actividades de estudio, juego y tareas del hogar."
+            },
+            "para_pensar": [
+              "¿Cómo ha cambiado el uso del tiempo libre desde el año pasado hasta hoy?",
+              "¿Por qué es necesario organizar el tiempo para que las actividades económicas funcionen?"
+            ],
+            "pistas_del_exito": [
+              "Describe y organiza actividades familiares usando el calendario.",
+              "Compara el uso del tiempo en diferentes procesos de producción regional."
+            ],
+            "un_refuerzo": "Crear una lista de 'Sueños para el próximo año' y calcular cuánto tiempo diario se necesita para lograrlos."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "El Gobierno de mi Departamento",
+            "un_reto_sugerido": "¿Quiénes son los encargados de que tengamos buenos hospitales y escuelas en todo el departamento?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una noticia o foto del Gobernador y debatir si sus funciones son iguales a las del Alcalde.",
+              "visual": "Juego de roles 'La Asamblea Departamental': Simular una reunión donde se decida cómo invertir dinero en salud o recreación para varios municipios.",
+              "produccion": "Cuadro comparativo entre las funciones del Gobernador, los Diputados y los Jueces del departamento."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que el departamento trabaje unido con los municipios?",
+              "¿Cómo mejora nuestra vida cuando el gobierno departamental invierte bien el dinero público?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia los órganos y funciones del poder público departamental.",
+              "Explica la importancia del gobierno en la mejora de la salud y educación."
+            ],
+            "un_refuerzo": "Dibujar el mapa de su departamento y ubicar la capital donde trabaja el Gobernador."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Puente de la Empatía",
+            "un_reto_sugerido": "¿Cómo podemos resolver conflictos en el juego sin que nadie se sienta maltratado?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'Ponerse en los zapatos del otro': Representar situaciones de juego donde alguien hace trampa o excluye.",
+              "visual": "Rueda de Soluciones: Crear un círculo giratorio con opciones como 'Hablar', 'Pedir disculpas', 'Hacer un trato' o 'Pedir ayuda'.",
+              "produccion": "Redacción de 'Acuerdos de Paz para el Recreo', basados en el respeto y el buen trato mutuo."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien no sigue las reglas del juego?",
+              "¿Por qué el diálogo es mejor que el enojo para resolver un problema?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza estrategias de resolución pacífica de conflictos en situaciones reales.",
+              "Expresa empatía ante situaciones de trato injusto en el colegio."
+            ],
+            "un_refuerzo": "Hacer un dibujo de un 'Superhéroe de la Paz' y escribir sus 3 poderes para resolver conflictos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Transformadores del Territorio",
+            "un_reto_sugerido": "¿Cómo ha cambiado la cantidad de personas y construcciones en mi municipio en los últimos años?",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a una persona mayor sobre cómo era la plaza principal o el mercado hace 20 años.",
+              "visual": "Maqueta de 'Antes y Después': Representar con materiales reciclados una zona que haya pasado de ser campo a tener edificios o carreteras.",
+              "produccion": "Mini-informe demográfico comparando el aumento de la población y los problemas sociales que esto genera (basura, tráfico, servicios)."
+            },
+            "para_pensar": [
+              "¿Por qué las personas deciden irse a vivir de un lugar a otro?",
+              "¿Qué problemas sociales surgen cuando usamos mal los recursos naturales en nuestra comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Identifica cambios y permanencias en espacios públicos como la escuela o el mercado.",
+              "Explica cómo las obras públicas transforman la vida de los habitantes."
+            ],
+            "un_refuerzo": "Dibujar un plano de cómo se vería el municipio si tuviera más parques y zonas verdes."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Mosaico de Rostros Regionales",
+            "un_reto_sugerido": "¿Qué grupos humanos conviven en mi región y qué los hace especiales?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un mapa étnico de la región y escuchar palabras en diferentes lenguas indígenas o modismos afrocolombianos.",
+              "visual": "Taller de 'Viviendas del Mundo': Dibujar o modelar los tipos de vivienda de diferentes grupos (malocas, casas de palafitos, edificios modernos).",
+              "produccion": "Catálogo ilustrado de 'Grupos Humanos de mi Región', describiendo su organización social, lengua y cosmovisión."
+            },
+            "para_pensar": [
+              "¿Cómo el uso del suelo cambia según la cultura del grupo que lo habita?",
+              "¿Qué podemos aprender de la forma en que los grupos étnicos cuidan la naturaleza?"
+            ],
+            "pistas_del_exito": [
+              "Caracteriza los grupos humanos (afro, indígenas, mestizos) de su departamento.",
+              "Describe expresiones culturales diversas con respeto y valoración."
+            ],
+            "un_refuerzo": "Investigar un cuento o mito de un grupo étnico de la región y narrarlo al grupo."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de Derechos y Deberes",
+            "un_reto_sugerido": "¿Cómo podemos fortalecer la paz en nuestra comunidad cumpliendo nuestros deberes?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura del Manual de Convivencia para identificar 3 derechos y 3 deberes que consideren más importantes.",
+              "visual": "Árbol de la Convivencia: Las raíces son los deberes y los frutos son los derechos que obtenemos al cumplirlos.",
+              "produccion": "Propuesta de 'Acción por la Paz' que las instituciones departamentales podrían realizar en su escuela."
+            },
+            "para_pensar": [
+              "¿Por qué no podemos tener derechos si no cumplimos con nuestros deberes?",
+              "¿Cómo ayuda el respeto a los demás a que vivamos en una comunidad sin violencia?"
+            ],
+            "pistas_del_exito": [
+              "Identifica sus derechos y deberes dentro de la comunidad escolar.",
+              "Propone acciones para fortalecer la paz desde las instituciones."
+            ],
+            "un_refuerzo": "Crear un eslogan o frase corta que invite a todos a vivir en paz en el barrio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Campaña: ¡Aquí Todos Contamos!",
+            "un_reto_sugerido": "¿Cómo podemos transformar las palabras ofensivas en palabras de aceptación?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Espejo': Mirar a un compañero y decir una cualidad positiva que lo haga único, evitando burlas.",
+              "visual": "Diseño de 'Escudos Anti-Discriminación' con frases que promuevan la valoración de la etnia, el género y las características físicas.",
+              "produccion": "Organización de la 'Feria de la Inclusión', donde se presenten carteles y juegos que enseñen a aceptar a todos por igual."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien te excluye por cómo te ves?",
+              "¿Por qué la diversidad de pensamientos y rasgos físicos hace que nuestro salón sea más interesante?"
+            ],
+            "pistas_del_exito": [
+              "Identifica comportamientos excluyentes y expresa desacuerdo de forma respetuosa.",
+              "Participa en acciones colectivas que promueven la valoración de las diferencias."
+            ],
+            "un_refuerzo": "Escribir una lista de 5 cosas que todos los niños del salón tienen en común, a pesar de sus diferencias."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

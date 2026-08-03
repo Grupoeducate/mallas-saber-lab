@@ -9,14 +9,17 @@
         "componente": "Entorno Vivo",
         "estandar": "Propongo y verifico necesidades de los seres vivos.",
         "dba": [
-          "DBA-NAT-1-3 Comprende que los seres vivos (plantas y animales) tienen características comunes (se alimentan, respiran, tienen un ciclo de vida, responden al entorno) y los diferencia de los objetos inertes."
+          "DBA-NAT-1-3 Comprende que los seres vivos (plantas y animales) tienen características comunes (se alimentan, respiran, tienen un ciclo de vida, responden al entorno) y los diferencia de los objetos inertes.",
+          "DBA-NAT-1-1 Comprende que los sentidos le permiten percibir algunas características de los objetos que nos rodean (temperatura, sabor, sonidos, olor, color, texturas y formas)."
         ],
         "evidencias": [
+          "NAT-1-D1-E1 Describe y caracteriza, utilizando el sentido apropiado, sonidos, sabores, olores, colores, texturas y formas.",
           "NAT-1-D3-E1 Clasifica seres vivos (plantas y animales) de su entorno, según sus características observables (tamaño, cubierta corporal, cantidad y tipo de miembros, forma de raíz, tallo, hojas, flores y frutos) y los diferencia de los objetos inertes, a partir de criterios que tienen que ver con las características básicas de los seres vivos.",
           "NAT-1-D3-E2 Compara características y partes de plantas y animales, utilizando instrumentos simples como la lupa para realizar observaciones."
         ],
         "saberes": [
-          "Características de los seres vivos (plantas y animales) y los seres inertes."
+          "Características de los seres vivos (plantas y animales) y los seres inertes.",
+          "Clasificación y propiedades físicas de los materiales"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -25,7 +28,7 @@
       },
       {
         "componente": "Entorno Físico",
-        "estandar": "Establezco relaciones entre las funciones de los cinco sentidos",
+        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
         "dba": [
           "DBA-NAT-1-1 Comprende que los sentidos le permiten percibir algunas características de los objetos que nos rodean (temperatura, sabor, sonidos, olor, color, texturas y formas)."
         ],
@@ -45,10 +48,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Diferencio objetos naturales de objetos creados por el ser humano.",
         "dba": [
-          "N/A"
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "N/A"
+          "NAT-1-D2-E4Utiliza instrumentos no convencionales (sus manos, palos, cuerdas, vasos, jarras) para medir y clasificar materiales según su tamaño."
         ],
         "saberes": [
           "Objetos naturales vs Objetos creados por el hombre"
@@ -68,8 +71,7 @@
         ],
         "evidencias": [
           "NAT-1-D3-E3 Describe las partes de las plantas (raíz, tallo, hojas, flores y frutos), así como las de animales de su entorno, según características observables (tamaño, cubierta corporal, cantidad y tipo de miembros).",
-          "NAT-1-D3-E4 Propone acciones de cuidado a plantas y animales, teniendo en cuenta características como tipo de alimentación, ciclos de vida y relación con el entorno.",
-          "Describe relaciones que puede observar en su entorno entre seres vivos (plantas y animales) y entre seres vivos y objetos inertes."
+          "NAT-1-D3-E1 Clasifica seres vivos (plantas y animales) de su entorno, según sus características observables (tamaño, cubierta corporal, cantidad y tipo de miembros, forma de raíz, tallo, hojas, flores y frutos) y los diferencia de los objetos inertes, a partir de criterios que tienen que ver con las características básicas de los seres vivos."
         ],
         "saberes": [
           "Partes de las plantas y animales.",
@@ -102,10 +104,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Diferencio objetos naturales de objetos creados por el ser humano.",
         "dba": [
-          "N/A"
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "N/A"
+          "NAT-1-D2-E3 Selecciona qué materiales utilizaría para fabricar un objeto dada cierta necesidad (por ejemplo, un paraguas que evite el paso del agua)."
         ],
         "saberes": [
           "Objetos naturales vs Objetos creados por el hombre"
@@ -125,7 +127,7 @@
         ],
         "evidencias": [
           "NAT-1-D4-E1 Registra cambios físicos ocurridos en su cuerpo durante el crecimiento, tales como peso, talla, longitud de brazos, piernas, pies y manos, así como algunas características que no varían como el color de ojos, piel y cabello.",
-          "NAT-1-D4-E2 Describe su cuerpo y predice los cambios que se producirán en un futuro, a partir de los ejercicios de comparación que realiza entre un niño y un adulto."
+          "NAT-1-D4-E3 Describe y registra similitudes y diferencias físicas que observa entre niños y niñas de su grado reconociéndose y reconociendo al otro."
         ],
         "saberes": [
           "El cuerpo humano y sus cambios en el tiempo."
@@ -142,8 +144,7 @@
           "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "NAT-1-D2-E1 Clasifica materiales de uso cotidiano a partir de características que percibe con los sentidos, incluyendo materiales sólidos como madera, plástico, vidrio, metal, roca y líquidos como opacos, incoloros, transparentes, así como algunas propiedades (flexibilidad, dureza, permeabilidad al agua, color, sabor y textura).",
-          "NAT-1-D2-E2 Predice cuáles podrían ser los posibles usos de un material (por ejemplo, la goma), de acuerdo con sus características."
+          "NAT-1-D2-E1 Clasifica materiales de uso cotidiano a partir de características que percibe con los sentidos, incluyendo materiales sólidos como madera, plástico, vidrio, metal, roca y líquidos como opacos, incoloros, transparentes, así como algunas propiedades (flexibilidad, dureza, permeabilidad al agua, color, sabor y textura)."
         ],
         "saberes": [
           "Características de los objetos en función de los sentidos."
@@ -157,10 +158,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Clasifico y comparo objetos según sus usos.",
         "dba": [
-          "N/A"
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "N/A"
+          "NAT-1-D2-E2 Predice cuáles podrían ser los posibles usos de un material (por ejemplo, la goma), de acuerdo con sus características."
         ],
         "saberes": [
           "Tipos de materiales el los objetos de uso diario."
@@ -179,7 +180,7 @@
           "DBA-NAT-1-4 Comprende que su cuerpo experimenta constantes cambios a lo largo del tiempo y reconoce a partir de su comparación que tiene características similares y diferentes a las de sus padres y compañeros."
         ],
         "evidencias": [
-          "NAT-1-D4-E3 Describe y registra similitudes y diferencias físicas que observa entre niños y niñas de su grado reconociéndose y reconociendo al otro.",
+          "NAT-1-D4-E2 Describe su cuerpo y predice los cambios que se producirán en un futuro, a partir de los ejercicios de comparación que realiza entre un niño y un adulto.",
           "NAT-1-D4-E4 Establece relaciones hereditarias a partir de las características físicas de sus padres, describiendo diferencias y similitudes."
         ],
         "saberes": [
@@ -192,12 +193,11 @@
       },
       {
         "componente": "Entorno Físico",
-        "estandar": "Describo y clasifico objetos según características que percibo con los cinco sentidos.",
+        "estandar": "Propongo y verifico diversas formas de medir sólidos y líquidos.",
         "dba": [
           "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "NAT-1-D2-E3 Selecciona qué materiales utilizaría para fabricar un objeto dada cierta necesidad (por ejemplo, un paraguas que evite el paso del agua).",
           "NAT-1-D2-E4 Utiliza instrumentos no convencionales (sus manos, palos, cuerdas, vasos, jarras) para medir y clasificar materiales según su tamaño."
         ],
         "saberes": [
@@ -212,10 +212,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Clasifico y comparo objetos según sus usos.",
         "dba": [
-          "N/A"
+          "DBA-NAT-1-2 Comprende que existe una gran variedad de materiales y que éstos se utilizan para distintos fines, según sus características (longitud, dureza, flexibilidad, permeabilidad al agua, solubilidad, ductilidad, maleabilidad, color, sabor, textura)."
         ],
         "evidencias": [
-          "N/A"
+          "NAT-1-D2-E3 Selecciona qué materiales utilizaría para fabricar un objeto dada cierta necesidad (por ejemplo, un paraguas que evite el paso del agua)."
         ],
         "saberes": [
           "Clasificación de materiales de uso diario."

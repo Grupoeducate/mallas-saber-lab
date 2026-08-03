@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 7,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G7-P1-T1",
+          "nombre_taller": "Mi Mapa Emocional: Autoconciencia y Regulación",
+          "conceptos_relacionados": [
+            "Autoconciencia (Nivel 1: Identificación)",
+            "Regulación Conductual (Nivel 1: Freno)",
+            "Autoexigencia (Nivel 1: Realismo)"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de reconocer emociones y sensaciones físicas, frenar impulsos y ajustar expectativas con realismo.",
+          "recursos_eco": "Cuaderno o diario de emociones, lista de situaciones estresantes, termómetro de autoexigencia.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces nuestras emociones son como un mapa lleno de caminos. Hoy aprenderemos a leer ese mapa y a elegir el mejor camino para nosotros'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 1: Autoconciencia – Dar nombre a lo que siento', registrando una emoción frecuente, su contexto y posibles causas. Se introduce la 'Regulación Conductual' con la 'Actividad 8: Regulación conductual – Elegir cómo actuar', trabajando impulsos comunes y estrategias para frenar. Luego, se aborda la 'Autoexigencia' con la 'Actividad 4: Autoexigencia – Cuando pedirme más me cansa', identificando expectativas y reflexionando sobre su impacto. Use el ejemplo: 'Noté que mis manos sudaban y supe que estaba nervioso antes de reaccionar'. 'Respiré profundo y conté hasta diez para no tirar el cuaderno cuando me frustré'. 'Quería sacar la mejor nota, pero acepté que cometer un error no significa que soy malo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emoción identificaste con más frecuencia?' y '¿Qué estrategia te ayuda a frenar una reacción impulsiva?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para identificar emociones, aplicar regulación conductual y reflexionar sobre su autoexigencia.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P1-T2",
+          "nombre_taller": "Ver con Otros Ojos: Empatía y Asertividad",
+          "conceptos_relacionados": [
+            "Empatía Cognitiva (Nivel 1: Perspectiva)",
+            "Asertividad (Nivel 1: Expresión)",
+            "Pertinencia Social (Nivel 1: Pertenencia)"
+          ],
+          "proposito_experiencia": "Comprender diferentes puntos de vista, expresar ideas de forma clara y respetuosa, y sentir pertinencia en el grupo.",
+          "recursos_eco": "Escenarios de conflicto entre pares (Actividad 2), situaciones de presión de grupo (Actividad 3).",
+          "momento_inicio_conexion": "Diga a los niños: 'Para convivir, necesitamos ponernos en los zapatos del otro sin perder nuestra voz. Hoy exploraremos cómo hacerlo'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 2: Empatía cognitiva – Entender sin estar de acuerdo', analizando conflictos e identificando pensamientos de cada involucrado. Luego, realizan la 'Actividad 3: Asertividad – Decir lo que pienso sin atacar', practicando frases asertivas. Se trabaja la 'Pertinencia Social' con la 'Actividad 5: Pertinencia social – Sentirme parte', conversando sobre inclusión y exclusión. Use el ejemplo: 'Entendí que mi compañero no me ignoró por malo, sino porque estaba distraído'. 'Le dije a mi amigo que no me gustaba esa broma, pero se lo dije con calma'. 'Me uní a las actividades del grupo en el recreo para conocer mejor a mis compañeros'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué diferencia hay entre entender y justificar?' y '¿Qué te hace sentir parte de un grupo sin dejar de ser tú mismo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar empatía cognitiva, expresarse asertivamente y sentir pertinencia social.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P1-T3",
+          "nombre_taller": "Decisiones con Sentido: Sensatez y Disonancia",
+          "conceptos_relacionados": [
+            "Sensatez (Nivel 1: Análisis)",
+            "Disonancia Emocional (Nivel 1: Valores)",
+            "Asertividad (Nivel 2: Presión Social)"
+          ],
+          "proposito_experiencia": "Evaluar riesgos antes de decisiones impulsivas, manejar el conflicto interno entre 'quiero' y 'debo', y mantener postura ante presión de grupo.",
+          "recursos_eco": "Casos de decisiones de riesgo (redes, pares - Actividad 9), situaciones de emociones opuestas (Actividad 6).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestra vida está llena de decisiones. Hoy aprenderemos a pensar con sensatez, a escuchar lo que nuestro corazón nos dice y a decir 'no' cuando sea necesario'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 9: Sensatez – Pensar antes de decidir', analizando decisiones de riesgo y evaluando consecuencias. Luego, abordan la 'Disonancia Emocional' con la 'Actividad 6: Disonancia emocional – Sentir dos cosas a la vez', identificando emociones opuestas. Se refuerza la 'Asertividad (Nivel 2: Presión Social)' al practicar mantener su postura. Use el ejemplo: 'Pensé dos veces antes de hacer el comentario gracioso para no meterme en problemas'. 'Quería salir a jugar, pero sabía que debía terminar mi tarea primero para cumplir'. 'Dije que 'no' a entrar a ese sitio web, aunque todos mis amigos me insistían'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué valor tiene decir 'no'?' y '¿Por qué aceptar la disonancia reduce el conflicto interno?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para tomar decisiones sensatas, manejar la disonancia emocional y mantener la asertividad ante la presión de grupo.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G7-P2-T1",
+          "nombre_taller": "Puentes de Confianza: Resiliencia Interpersonal y Reparación",
+          "conceptos_relacionados": [
+            "Resiliencia Interpersonal (Nivel 1: Reparación)",
+            "Empatía Cognitiva (Nivel 1: Perspectiva)",
+            "Regulación Conductual (Nivel 1: Freno)"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de pedir perdón y reparar vínculos, comprender perspectivas ajenas y regular impulsos en conflictos.",
+          "recursos_eco": "Escenarios de conflicto entre amigos (Actividad 7), casos de malentendidos (Actividad 2).",
+          "momento_inicio_conexion": "Diga a los niños: 'Las amistades son como puentes que a veces se rompen. Hoy aprenderemos a reconstruirlos y a hacerlos más fuertes'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 7: Resiliencia interpersonal – Después del conflicto', proponiendo pasos para reparar un vínculo (hablar, escuchar, reconocer errores). Se refuerza la 'Empatía Cognitiva' al analizar el conflicto desde diferentes puntos de vista. Se aplica la 'Regulación Conductual' al recordar la importancia de frenar reacciones impulsivas en momentos de tensión. Use el ejemplo: 'Busqué a mi amigo después de la pelea, le pedí disculpas y le propuse una solución'. 'Entendí que mi compañero no me ignoró por malo, sino porque estaba distraído'. 'Respiré profundo y conté hasta diez para no tirar el cuaderno cuando me frustré'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué ayuda a reconstruir una relación después de un conflicto?' y '¿Por qué es importante frenar los impulsos en esos momentos?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reparar relaciones, aplicar empatía cognitiva y regular su conducta en conflictos.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P2-T2",
+          "nombre_taller": "Aprendiendo de Mis Pasos: Autorreflexión y Autoexigencia",
+          "conceptos_relacionados": [
+            "Autorreflexión (Nivel 1: Aprendizaje)",
+            "Autoexigencia (Nivel 1: Realismo)",
+            "Autoconciencia (Nivel 1: Identificación)"
+          ],
+          "proposito_experiencia": "Analizar experiencias para identificar patrones, planear mejoras futuras y ajustar expectativas con autoconciencia.",
+          "recursos_eco": "Situaciones de malestar reciente (Actividad 10), termómetro de autoexigencia (Actividad 4).",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada paso que damos nos enseña algo. Hoy vamos a mirar hacia atrás para aprender de nuestras experiencias y crecer'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 10: Autorreflexión – Aprender de mí', eligiendo una experiencia de malestar reciente y reflexionando sobre qué aprendieron y qué harían distinto. Se conecta con la 'Autoexigencia' al identificar expectativas poco realistas. Se refuerza la 'Autoconciencia' al reconocer emociones y sensaciones físicas durante esas experiencias. Use el ejemplo: 'Me di cuenta de que este año mejoré mi paciencia, pero aún debo trabajar en mi orden'. 'Quería sacar la mejor nota, pero acepté que cometer un error no significa que soy malo'. 'Noté que mis manos sudaban y supe que estaba nervioso antes de reaccionar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste sobre ti mismo en esa experiencia?' y '¿Cómo te ayuda la autorreflexión a crecer?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autorreflexionar, ajustar su autoexigencia y aplicar autoconciencia en el aprendizaje.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P2-T3",
+          "nombre_taller": "La Voz del Liderazgo: Pertinencia Social y Asertividad",
+          "conceptos_relacionados": [
+            "Pertinencia Social (Nivel 2: Liderazgo)",
+            "Asertividad (Nivel 2: Presión Social)",
+            "Sensatez (Nivel 1: Análisis)"
+          ],
+          "proposito_experiencia": "Aportar al bienestar común del grupo con liderazgo, mantener la postura ante presión social y tomar decisiones sensatas.",
+          "recursos_eco": "Escenarios de proyectos grupales o debates, casos de presión social (Actividad 3, 9).",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser parte de un grupo es también liderar con el ejemplo y decir lo que pensamos con respeto, incluso cuando todos piensen diferente'.",
+          "momento_desarrollo_vivencia": "Los estudiantes proponen ideas para mejorar el salón o la convivencia, practicando la 'Pertinencia Social (Liderazgo)'. Se refuerza la 'Asertividad (Nivel 2: Presión Social)' al mantener su postura frente a las presiones del grupo. Se aplica la 'Sensatez' al evaluar riesgos y consecuencias antes de tomar decisiones. Use el ejemplo: 'Propuse una idea para que todos en el salón nos lleváramos mejor y ayudé a organizarla'. 'Dije que 'no' a entrar a ese sitio web, aunque todos mis amigos me insistían'. 'Pensé dos veces antes de hacer el comentario gracioso para no meterme en problemas'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa ser un líder que aporta al bienestar del grupo?' y '¿En qué situaciones te cuesta más decir 'no' y cómo te ayuda la sensatez?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para ejercer liderazgo social, mantener la asertividad ante la presión y tomar decisiones sensatas.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G7-P3-T1",
+          "nombre_taller": "Los Pilares de Mi Ser: Autoconciencia y Autoaceptación",
+          "conceptos_relacionados": [
+            "Autoconciencia (Nivel 1: Identificación)",
+            "Autoexigencia (Nivel 1: Realismo)",
+            "Disonancia Emocional (Nivel 1: Valores)"
+          ],
+          "proposito_experiencia": "Identificar emociones y sensaciones, ajustar expectativas de forma realista y manejar la disonancia entre 'quiero' y 'debo' para un mayor bienestar.",
+          "recursos_eco": "Diario de emociones, escalas de expectativas, situaciones de dilemas personales.",
+          "momento_inicio_conexion": "Diga a los niños: 'Conocernos bien es el primer paso para estar en paz. Hoy construiremos los pilares de nuestro bienestar'.",
+          "momento_desarrollo_vivencia": "Los estudiantes profundizan en la 'Actividad 1: Autoconciencia – Dar nombre a lo que siento', explorando causas físicas, emocionales y sociales. Refuerzan la 'Autoexigencia' desde el realismo, diferenciando entre esforzarse y exigirse demasiado. Abordan la 'Disonancia Emocional' identificando situaciones donde sienten emociones opuestas y reflexionando sobre cómo convivir con ambas. Use el ejemplo: 'Noté que mis manos sudaban y supe que estaba nervioso antes de reaccionar'. 'Quería sacar la mejor nota, pero acepté que cometer un error no significa que soy malo'. 'Quería salir a jugar, pero sabía que debía terminar mi tarea primero para cumplir'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste hoy sobre tus emociones?' y '¿Cómo puedes balancear tus deseos y tus responsabilidades?'.",
+          "revision_proposito": "Evaluar la profundidad de la autoconciencia, la capacidad de ajustar autoexigencias y la habilidad para manejar la disonancia emocional.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P3-T2",
+          "nombre_taller": "Tejiendo Relaciones: Empatía y Resiliencia",
+          "conceptos_relacionados": [
+            "Empatía Cognitiva (Nivel 1: Perspectiva)",
+            "Resiliencia Interpersonal (Nivel 1: Reparación)",
+            "Pertinencia Social (Nivel 1: Pertenencia)"
+          ],
+          "proposito_experiencia": "Comprender el punto de vista del otro, reparar relaciones después de conflictos y fortalecer el sentido de pertenencia sin perder identidad.",
+          "recursos_eco": "Casos de malentendidos y conflictos (Actividad 2, 7), experiencias de inclusión/exclusión (Actividad 5).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestras relaciones son como un tejido. Hoy aprenderemos a entender mejor a los demás y a reparar los hilos cuando se rompen'.",
+          "momento_desarrollo_vivencia": "Los estudiantes aplican la 'Empatía Cognitiva' en conflictos cotidianos. Realizan la 'Actividad 7: Resiliencia interpersonal – Después del conflicto', proponiendo pasos para reparar vínculos. Complementan con la 'Actividad 5: Pertinencia social – Sentirme parte', identificando acciones que fortalecen la pertenencia sin perder identidad. Use el ejemplo: 'Entendí que mi compañero no me ignoró por malo, sino porque estaba distraído'. 'Busqué a mi amigo después de la pelea, le pedí disculpas y le propuse una solución'. 'Me uní a las actividades del grupo en el recreo para conocer mejor a mis compañeros'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste sobre cómo entender a los demás?' y '¿Cómo influye la pertenencia en tus decisiones?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar empatía, demostrar resiliencia interpersonal y fortalecer la pertinencia social.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P3-T3",
+          "nombre_taller": "Mi Voz Asertiva: Respeto y Límite",
+          "conceptos_relacionados": [
+            "Asertividad (Nivel 1: Expresión)",
+            "Asertividad (Nivel 2: Presión Social)",
+            "Regulación Conductual (Nivel 1: Freno)"
+          ],
+          "proposito_experiencia": "Expresar ideas de forma clara y respetuosa, mantener la postura ante presión de grupo y frenar impulsos negativos.",
+          "recursos_eco": "Situaciones de burlas o desacuerdos (Actividad 3), casos de presión social (Actividad 3, 9), escenarios de impulsos (Actividad 8).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestra voz es poderosa, y aprender a usarla con respeto, incluso cuando otros nos presionan, es un gran paso'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Asertividad (Nivel 1: Expresión)' en situaciones comunes. Refuerzan la 'Asertividad (Nivel 2: Presión Social)' analizando cuándo actuar desde la autenticidad y cuándo desde el miedo. Complementan con la 'Actividad 8: Regulación conductual – Elegir cómo actuar', identificando señales corporales previas a reacciones impulsivas. Use el ejemplo: 'Le dije a mi amigo que no me gustaba esa broma, pero se lo dije con calma'. 'Dije que 'no' a entrar a ese sitio web, aunque todos mis amigos me insistían'. 'Respiré profundo y conté hasta diez para no tirar el cuaderno cuando me frustré'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué frases te ayudan a poner límites?' y '¿Qué consecuencias tienen las acciones impulsivas?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para expresarse asertivamente, resistir la presión de grupo y regular su conducta.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G7-P4-T1",
+          "nombre_taller": "Mi Legado en el Grupo: Liderazgo y Sensatez",
+          "conceptos_relacionados": [
+            "Pertinencia Social (Nivel 2: Liderazgo)",
+            "Sensatez (Nivel 1: Análisis)",
+            "Disonancia Emocional (Nivel 1: Valores)"
+          ],
+          "proposito_experiencia": "Proponer mejoras para el bienestar común, evaluar consecuencias de decisiones y manejar la disonancia entre 'quiero' y 'debo hacer'.",
+          "recursos_eco": "Situaciones de decisiones grupales o dilemas éticos, casos de conflicto interno (Actividad 6), debates.",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser un buen líder es pensar en todos. Hoy seremos arquitectos de un mejor ambiente, tomando decisiones sabias y escuchando nuestra voz interior'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Pertinencia Social (Liderazgo)' proponiendo mejoras para el grupo. Refuerzan la 'Sensatez' analizando decisiones de riesgo y sus consecuencias. Abordan la 'Disonancia Emocional' manejando el conflicto interno entre sus deseos e impulsos y sus valores o deberes. Use el ejemplo: 'Propuse una idea para que todos en el salón nos lleváramos mejor y ayudé a organizarla'. 'Pensé dos veces antes de hacer el comentario gracioso para no meterme en problemas'. 'Quería salir a jugar, pero sabía que debía terminar mi tarea primero para cumplir'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo un líder puede inspirar a otros?' y '¿Qué valor tiene decir 'no' a algo que no está bien, aunque sea popular?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para ejercer liderazgo, tomar decisiones sensatas y manejar la disonancia emocional.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P4-T2",
+          "nombre_taller": "Reconstruyendo Juntos: Resiliencia Interpersonal y Autorreflexión",
+          "conceptos_relacionados": [
+            "Resiliencia Interpersonal (Nivel 1: Reparación)",
+            "Autorreflexión (Nivel 1: Aprendizaje)",
+            "Empatía Cognitiva (Nivel 1: Perspectiva)"
+          ],
+          "proposito_experiencia": "Capacidad de pedir perdón y reparar acciones, analizar experiencias para identificar patrones de comportamiento y comprender la perspectiva del otro.",
+          "recursos_eco": "Casos de conflictos no resueltos, diario de reflexiones (Actividad 10), ejercicios de cambio de perspectiva.",
+          "momento_inicio_conexion": "Diga a los niños: 'Los conflictos son parte de la vida, pero lo importante es aprender de ellos y reconstruir los lazos. Hoy seremos constructores de puentes'.",
+          "momento_desarrollo_vivencia": "Los estudiantes aplican la 'Resiliencia Interpersonal (Reparación)' proponiendo pasos para reparar vínculos. Realizan la 'Actividad 10: Autorreflexión – Aprender de mí', analizando experiencias de malestar y aprendiendo de ellas. Refuerzan la 'Empatía Cognitiva' al analizar conflictos desde diferentes perspectivas. Use el ejemplo: 'Busqué a mi amigo después de la pelea, le pedí disculpas y le propuse una solución'. 'Me di cuenta de que este año mejoré mi paciencia, pero aún debo trabajar en mi orden'. 'Entendí que mi compañero no me ignoró por malo, sino porque estaba distraído'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste sobre ti mismo en una situación de conflicto?' y '¿Cómo te ayuda la autorreflexión a reconstruir una relación?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reparar relaciones, autorreflexionar sobre su aprendizaje y aplicar empatía cognitiva.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G7-P4-T3",
+          "nombre_taller": "Mi Plan de Crecimiento: Autoconciencia y Regulación para el Futuro",
+          "conceptos_relacionados": [
+            "Autoconciencia (Nivel 1: Identificación)",
+            "Regulación Conductual (Nivel 1: Freno)",
+            "Autoexigencia (Nivel 1: Realismo)"
+          ],
+          "proposito_experiencia": "Consolidar la capacidad de identificar emociones, regular la conducta impulsiva y establecer expectativas realistas para el crecimiento personal continuo.",
+          "recursos_eco": "Plantilla de 'plan de crecimiento' para el próximo año, escenarios de nuevos desafíos escolares.",
+          "momento_inicio_conexion": "Diga a los niños: 'Hemos aprendido mucho este año sobre nosotros mismos. Hoy crearemos nuestro plan para seguir creciendo y siendo nuestra mejor versión'.",
+          "momento_desarrollo_vivencia": "Los estudiantes usan la 'Autoconciencia' para identificar fortalezas y áreas de mejora. Planifican estrategias de 'Regulación Conductual' para futuros desafíos y ajustan su 'Autoexigencia' para establecer metas realistas para el próximo año. Use el ejemplo: 'Noté que mis manos sudaban y supe que estaba nervioso antes de reaccionar'. 'Respiré profundo y conté hasta diez para no tirar el cuaderno cuando me frustré'. 'Quería sacar la mejor nota, pero acepté que cometer un error no significa que soy malo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué emociones crees que serán más difíciles de manejar el próximo año?' y '¿Qué meta realista te propones para tu crecimiento personal?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar autoconciencia, regulación conductual y autoexigencia realista en la planificación de su crecimiento.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 10,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Purpose Decoder",
+            "un_reto_sugerido": "¿Cómo podemos predecir la intención de un hablante antes de que termine su primera frase basándonos en conectores y tono?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de audios en diferentes registros (noticias, charlas de amigos, anuncios) e identificar el ambiente y la audiencia sin ver imágenes.",
+              "visual": "Crear un 'Mapa de Conectores' en el tablero donde los estudiantes ubiquen tarjetas de audio según el conector escuchado (contrast, addition, cause).",
+              "produccion": "Explicar las ideas principales de un texto oral académico, identificando inferencias y el propósito comunicativo del autor."
+            },
+            "para_pensar": [
+              "¿Por qué el lenguaje corporal puede cambiar totalmente el significado de una palabra en inglés?",
+              "¿Cómo influye la tecnología de cancelación de ruido en nuestra capacidad de concentración auditiva? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica el propósito comunicativo y la audiencia en conversaciones sencillas.",
+              "Utiliza estrategias de activación de conocimientos previos para comprender audios complejos."
+            ],
+            "un_refuerzo": "Escuchar el audio con una transcripción que resalte los conectores clave para facilitar la comprensión de la cohesión."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Social Architect",
+            "un_reto_sugerido": "¿Cómo transitar de una conversación informal a una formal de manera natural sin perder la fluidez?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar clips de entrevistas y anotar las frases utilizadas para iniciar, mantener y cerrar la interacción.",
+              "visual": "Dinámica de 'Speed Chatting': los estudiantes rotan por estaciones cambiando su registro (formal/informal) según el interlocutor asignado (un jefe, un amigo, un científico).",
+              "produccion": "Sostener una conversación espontánea sobre temas de interés, utilizando elementos metalingüísticos como gestos y entonación adecuada."
+            },
+            "para_pensar": [
+              "¿Qué habilidades sociales son universales y cuáles dependen del idioma que hablamos?",
+              "¿De qué manera la inteligencia artificial está cambiando nuestras normas de conversación escrita y oral?"
+            ],
+            "pistas_del_exito": [
+              "Selecciona expresiones apropiadas para iniciar y cerrar conversaciones según el contexto.",
+              "Muestra una pronunciación inteligible y ajusta el registro a la audiencia."
+            ],
+            "un_refuerzo": "Grabar un video corto de una conversación y analizar el uso de gestos para mejorar la expresividad metalingüística."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Lens",
+            "un_reto_sugerido": "¿Qué valores de la cultura angloparlante podemos descubrir analizando el tono y las palabras clave de un artículo de opinión?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar titulares de diferentes fuentes internacionales sobre un mismo evento y predecir el punto de vista de cada autor.",
+              "visual": "Realizar un 'Análisis de Capas': identificar en un texto descriptivo las ideas principales, las palabras clave y las inferencias culturales.",
+              "produccion": "Emitir una opinión fundamentada sobre un texto informativo, evaluando la validez de la información y su relación con el contexto local."
+            },
+            "para_pensar": [
+              "¿Cómo nuestra propia cultura influye en la forma en que interpretamos los textos extranjeros?",
+              "¿Por qué es vital verificar la fuente de un texto informativo en la era de las 'fake news'?"
+            ],
+            "pistas_del_exito": [
+              "Distingue información general y específica en textos de opinión complejos.",
+              "Identifica el punto de vista del autor y los valores culturales implícitos en la lectura."
+            ],
+            "un_refuerzo": "Utilizar un glosario de expresiones idiomáticas angloparlantes para descodificar significados culturales profundos."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Professional Correspondent",
+            "un_reto_sugerido": "¿Cómo redactar un correo electrónico que sea tan claro y persuasivo que garantice una respuesta positiva en un entorno académico?",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar una carta formal y un correo informal, listando las diferencias en estructura, saludo y despedida.",
+              "visual": "Diseñar una 'Plantilla de Comunicación': organizar un informe o correo usando conectores lógicos y vocabulario preciso según el lector propuesto.",
+              "produccion": "Producir un mensaje escrito bien estructurado (carta o email), editándolo para asegurar la corrección ortográfica y la adecuación al contexto."
+            },
+            "para_pensar": [
+              "¿Por qué la brevedad y la claridad son valores fundamentales en la escritura técnica y profesional?",
+              "¿Cómo la huella digital de nuestros correos electrónicos afecta nuestra imagen profesional futura?"
+            ],
+            "pistas_del_exito": [
+              "Produce mensajes escritos claros y bien estructurados adaptados a la audiencia.",
+              "Aplica reglas de ortografía y puntuación para mejorar la precisión del informe."
+            ],
+            "un_refuerzo": "Realizar una sesión de 'Peer Review' (revisión entre pares) usando una rúbrica de claridad y estilo profesional."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Life Experience Archive",
+            "un_reto_sugerido": "¿Cómo han moldeado las experiencias pasadas la identidad actual de los líderes mundiales que escuchamos?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar anécdotas cortas e identificar el uso del 'Present Perfect' para acciones con impacto en el presente.",
+              "visual": "Crear una 'Línea de Vida Auditiva': escuchar una biografía y ubicar en un diagrama los eventos en pasado simple vs. presente perfecto.",
+              "produccion": "Interpretar información sobre experiencias personales en audios, analizando cómo los hechos pasados influyen en el discurso actual."
+            },
+            "para_pensar": [
+              "¿Por qué algunas experiencias nos marcan más que otras en nuestra formación personal?",
+              "¿Cómo la tecnología de grabación ha permitido preservar la memoria histórica de la humanidad? (CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica conectores y tiempos verbales (Present Perfect) en situaciones de habla real.",
+              "Infiere lecciones aprendidas a partir de narraciones de experiencias pasadas."
+            ],
+            "un_refuerzo": "Escuchar canciones que usen Present Perfect y completar la letra enfocándose en la diferencia con el pasado simple."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Hero's Interview",
+            "un_reto_sugerido": "¿Cómo entrevistarías a un héroe mundial para descubrir los valores que lo llevaron al éxito?",
+            "ruta_de_exploracion": {
+              "explorar": "Debatir en clase qué cualidades definen a un 'World Hero' y listar verbos de acción asociados a ellos.",
+              "visual": "Simulacro de 'Press Conference': un estudiante asume el rol de un personaje influyente y responde preguntas sobre su vida y valores.",
+              "produccion": "Opinar sobre estilos de vida y valores de otras culturas, utilizando una pronunciación inteligible y lenguaje funcional para debates."
+            },
+            "para_pensar": [
+              "¿Es posible ser un héroe en la vida cotidiana sin tener fama mundial?",
+              "¿Cómo la ciencia y la ética se unen en la vida de los grandes inventores de la historia?"
+            ],
+            "pistas_del_exito": [
+              "Sostiene conversaciones espontáneas sobre temas de interés personal y académico.",
+              "Utiliza estrategias para negociar acuerdos y hacer recomendaciones en debates preparados."
+            ],
+            "un_refuerzo": "Preparar un 'Flashcard de Valores' con definiciones en inglés para usar como apoyo durante el debate."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Blueprint of Greatness",
+            "un_reto_sugerido": "¿Qué valores universales subyacen en las biografías de los personajes que cambiaron el siglo XX?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer fragmentos de biografías de héroes mundiales y subrayar los valores que se promueven (respeto, honestidad, etc.).",
+              "visual": "Crear un 'Cuadro Comparativo de Identidades': contrastar los valores de la cultura propia con los de la cultura angloparlante leídos.",
+              "produccion": "Hacer inferencias a partir de textos informativos sobre héroes, evaluando la validez de la información y su impacto social."
+            },
+            "para_pensar": [
+              "¿Por qué los valores cambian o se mantienen a través del tiempo y las culturas?",
+              "¿Cómo la lectura de biografías puede inspirar nuevas vocaciones científicas o sociales?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los valores y la identidad cultural en textos auténticos de mediana extensión.",
+              "Analiza la influencia de los valores en la construcción de una sociedad equitativa."
+            ],
+            "un_refuerzo": "Realizar un mapa conceptual que conecte las acciones del personaje con las consecuencias sociales positivas descritas."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Legacy Report",
+            "un_reto_sugerido": "¿Cómo escribir un informe que resuma el impacto de un descubrimiento científico en la sociedad actual?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar un hito histórico o científico y organizar la información en un esquema de 'Resumen-Impacto-Conclusión'.",
+              "visual": "Redactar un 'Profile of a Hero': escribir una nota o informe breve sobre un personaje, adaptando el estilo a un lector joven.",
+              "produccion": "Escribir resúmenes e informes que demuestren conocimiento sobre otras disciplinas, utilizando un vocabulario preciso y variado."
+            },
+            "para_pensar": [
+              "¿Qué responsabilidad tiene el escritor al resumir la vida o obra de otra persona?",
+              "¿Cómo la escritura clara ayuda a democratizar el conocimiento científico?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos informativos y resúmenes con una estructura clara y cohesiva.",
+              "Valora la escritura como medio para expresar quién es y qué sabe del mundo."
+            ],
+            "un_refuerzo": "Utilizar plantillas de 'Abstract' científico para guiar la estructura del informe académico."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Startup Soundboard",
+            "un_reto_sugerido": "¿Cómo identificar la viabilidad de una idea de negocio solo escuchando la pasión y los datos de un emprendedor?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar 'pitches' de negocios (ej. Shark Tank) e identificar el uso del 'Present Perfect Continuous' para acciones en progreso.",
+              "visual": "Crear un 'Diagrama de Flujo de Innovación': escuchar los pasos de un emprendedor y mapear la duración de sus acciones.",
+              "produccion": "Interpretar información sobre economía y liderazgo en audios, identificando oportunidades de negocio y propuestas innovadoras."
+            },
+            "para_pensar": [
+              "¿Por qué la perseverancia es el factor común en los emprendimientos exitosos?",
+              "¿Cómo la tecnología ha facilitado que los jóvenes se conviertan en emprendedores globales? (CTS)"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario relacionado con negocios, innovación y trabajo en equipo.",
+              "Usa el Present Perfect Continuous para describir procesos que continúan en el presente."
+            ],
+            "un_refuerzo": "Escuchar entrevistas a emprendedores y completar un cuadro de 'Desafío vs. Solución Innovadora'."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Entrepreneurial Pitch",
+            "un_reto_sugerido": "¿Cómo presentarías una idea única que resuelva un problema de tu comunidad ante un panel de inversionistas?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar las características de un líder (liderazgo, creatividad) y realizar un autodiagnóstico de 'Inteligencias Múltiples'.",
+              "visual": "Realizar un 'Elevator Pitch': los estudiantes tienen 1 minuto para narrar detalladamente su idea de negocio y responder preguntas del público.",
+              "produccion": "Sostener conversaciones sobre emprendimiento, negociando acuerdos y discutiendo alternativas de forma natural y coherente."
+            },
+            "para_pensar": [
+              "¿Qué papel juega la ética en el liderazgo y los negocios modernos?",
+              "¿Cómo la creatividad puede convertir un residuo ambiental en una oportunidad de negocio?"
+            ],
+            "pistas_del_exito": [
+              "Narra detalladamente experiencias e historias de interés para su audiencia emprendedora.",
+              "Responde preguntas e inquietudes después de una exposición oral con seguridad y confianza."
+            ],
+            "un_refuerzo": "Practicar la entonación y el énfasis en palabras clave para hacer el discurso más persuasivo."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Innovation Analyst",
+            "un_reto_sugerido": "¿Qué estrategias de lectura nos permiten identificar si un modelo de negocio es realmente innovador o solo una copia?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer casos de estudio de emprendedores famosos (ej. Walt Disney) y marcar las acciones que demuestran liderazgo.",
+              "visual": "Crear un 'Mapa de Inteligencias': relacionar los tipos de inteligencia con diferentes profesiones y modelos de negocio leídos.",
+              "produccion": "Analizar textos auténticos sobre economía, evaluando la credibilidad de la información y relacionándola con su contexto local."
+            },
+            "para_pensar": [
+              "¿Cómo el conocimiento del cerebro y las inteligencias múltiples ayuda a formar mejores equipos de trabajo?",
+              "¿Por qué la innovación es necesaria para la supervivencia económica de un país?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la estructura y el propósito de biografías y artículos sobre emprendimiento.",
+              "Distingue información específica en discusiones escritas sobre cambios económicos."
+            ],
+            "un_refuerzo": "Utilizar un organizador gráfico de 'Análisis FODA' (SWOT) en inglés para evaluar el caso de estudio leído."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Business Plan Architect",
+            "un_reto_sugerido": "¿Cómo redactar un plan de negocio que sea tan sólido que demuestre tu dominio de la economía y el idioma?",
+            "ruta_de_exploracion": {
+              "explorar": "Investigar términos de economía y emprendimiento para crear un banco de vocabulario técnico (revenue, target, budget).",
+              "visual": "Diseñar un 'Business Canvas' escrito: organizar las ideas en párrafos cohesivos que describan la propuesta de valor y el equipo.",
+              "produccion": "Escribir un ensayo o informe sobre un proyecto de emprendimiento, adaptando el lenguaje al posible lector (inversionista o cliente)."
+            },
+            "para_pensar": [
+              "¿De qué manera la escritura estructurada refleja la claridad de un plan de vida?",
+              "¿Cómo el emprendimiento social puede ayudar a mitigar problemas ambientales en la región?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos originales con propósitos comunicativos específicos y estructura lógica.",
+              "Usa vocabulario preciso y variado para expresar ideas de emprendimiento de forma concisa."
+            ],
+            "un_refuerzo": "Utilizar conectores de transición específicos para informes (Furthermore, Consequently, In addition) para elevar el nivel académico."
+          }
+        }
+      ]
+    }
+  ]
+}

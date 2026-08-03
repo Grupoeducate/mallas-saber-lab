@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "3",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -13,7 +13,11 @@
           "Identifica los nombres de los continentes y de los océanos que conforman el planeta Tierra y reconoce las actividades que se realizan en las zonas costeras.",
           "Diferencia los mares como porciones de los océanos y su importancia en la fijación de límites entre países."
         ],
-        "saberes": ["El espacio geográfico y las actividades económicas", "¿Qué son los mares?", "Importancia de los mares"],
+        "saberes": [
+          "El espacio geográfico y las actividades económicas",
+          "La tierra y sus contienentes",
+          "¿Qué son los mares? y ¿Cual es su importancia?"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -83,7 +87,11 @@
           "Plantea preguntas sobre las problemáticas ambientales que viven los océanos en la actualidad y explica el impacto en las poblaciones costeras.",
           "Relaciona la ubicación geográfica de su departamento, municipio, resguardo o lugar donde vive, con la presencia o no de costas sobre los océanos, y reconoce las ventajas y desventajas de tenerlas."
         ],
-        "saberes": ["Problemáticas ambientales que viven los océanos", "Ubicación geográfica", "Ventajas y desventajas de las zonas costeras"],
+        "saberes": [
+          "Problemáticas ambientales que viven los océanos",
+          "La ubicación geográfica - Ventajas y desventajas",
+          "Colombia, Regiones, Departamenteos y Municipios"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -99,7 +107,12 @@
           "Compara las actividades escolares, familiares y de uso del tiempo libre, llevadas a cabo el año pasado con las que realiza actualmente y expresa aquellas que quiere hacer el año próximo.",
           "Elabora esquemas con la distribución del tiempo dedicado en procesos de producción y/o extracción de un producto típico en su región."
         ],
-        "saberes": ["Importancia del tiempo", "Organización del tiempo", "Uso de la agenda infantil", "Actividades escolares", "Actividades familiares", "Uso del tiempo libre", "Distribución del tiempo en las actividades económicas"],
+        "saberes": [
+          "Importancia del tiempo",
+          "Las actividades escolares, familiares y uso del tiempo libre",
+          "Organización del tiempo/Uso de la agenda infantil",
+          "Distribución del tiempo en las actividades económicas"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -150,7 +163,12 @@
           "Describe las formas de organización social y económica utilizadas para la explotación de los recursos naturales (empresas, asociaciones, corporaciones autónomas regionales).",
           "Expresa por qué en espacios con determinados climas no se cuenta con ciertos productos y destaca la importancia del trabajo que realizan quienes producen los alimentos."
         ],
-        "saberes": ["Los recursos naturales", "La biogeografía", "Formas de organización social y económica para la explotación de los recursos naturales", "El clima y las actividades económicas de las personas"],
+        "saberes": [
+          "Los recursos naturales",
+          "La biogeografía",
+          "Formas de organización social y económica para la explotación de los recursos naturales",
+          "El clima y las actividades económicas de las personas"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -164,7 +182,10 @@
           "Caracteriza aquellos grupos humanos que habitan en su región (afrodescendientes, raizales, blancos, indígenas, gitanos y/o mestizos).",
           "Describe las expresiones culturales de cada uno de los grupos humanos identificados en su departamento, municipio, resguardo o lugar donde vive."
         ],
-        "saberes": ["Grupos étnicos de mi región", "Expresiones culturales de mi región"],
+        "saberes": [
+          "Grupos étnicos de las regiones del país",
+          "Expresiones culturales de las regiones del país"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -216,7 +237,14 @@
           "Indaga sobre el aumento o disminución de la población en el departamento, municipio, resguardo o lugar donde vive, a partir de diferentes fuentes documentales.",
           "Identifica problemas sociales relevantes en la población, originados en el uso de los recursos naturales."
         ],
-        "saberes": ["La acción humana sobre el medio ambiente", "Demografía", "Tasas de natalidad", "Mortalidad", "Densidad demográfica", "Los censos", "Problemas sociales debido al uso de los recursos naturales"],
+        "saberes": [
+          "La acción humana sobre el medio ambiente",
+          "Demografía",
+          "Tasas de natalidad",
+          "Mortalidad",
+          "Densidad demográfica",
+          "Los censos",
+          "Problemas sociales debido al uso de los recursos naturales"],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -233,7 +261,10 @@
           "Reconoce la diversidad cultural como una característica del pueblo colombiano y explica los aportes de los diferentes grupos humanos.",
           "Elabora conclusiones sobre la situación social y económica de los indígenas en su región haciendo uso de diferentes fuentes de información."
         ],
-        "saberes": ["La diversidad cultural", "La situación social y económica de los indígenas en mi región"],
+        "saberes": [
+          "La diversidad cultural",
+          "La situación social y económica de los indígenas de las regiones"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -273,4 +304,5 @@
       }
     ]
   }
+
 }

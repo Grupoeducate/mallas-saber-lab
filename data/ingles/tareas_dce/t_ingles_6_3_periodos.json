@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 6,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Family Soundscape",
+            "un_reto_sugerido": "¿Cómo podemos identificar a los miembros de una familia y sus rutinas solo por los sonidos de su entorno?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una grabación de sonidos domésticos (una risa, una voz mayor, alguien cocinando) y predecir quién es el personaje y qué está haciendo.",
+              "visual": "Crear un árbol genealógico sensorial usando materiales reciclados (tapas, cartón), donde cada miembro tenga una etiqueta con su rutina principal en Present Simple.",
+              "produccion": "Identificar en un audio conectores de secuencia (first, second) para reconstruir el orden de las actividades de una familia extranjera."
+            },
+            "para_pensar": [
+              "¿Cómo influye el entorno familiar en la formación de nuestra identidad?",
+              "¿De qué manera la tecnología ha cambiado la forma en que las familias se comunican hoy? (Impacto CTS)"
+            ],
+            "pistas_del_exito": [
+              "Comprende preguntas y expresiones orales sobre familia y entorno.",
+              "Diferencia el uso del presente simple y pasado simple en descripciones de rutinas."
+            ],
+            "un_refuerzo": "Utilizar flashcards con dibujos de acciones cotidianas para asociar el sonido con el verbo antes de la escucha compleja."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Social Lab: Kindness in Action",
+            "un_reto_sugerido": "¿Cómo cambia la dinámica de un grupo cuando usamos palabras de agradecimiento y disculpa en lugar de solo dar órdenes?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video corto sin sonido sobre una interacción social y debatir qué favores se están pidiendo basándose en el lenguaje corporal.",
+              "visual": "Realizar un 'Role-Play' de situaciones escolares (pedir un lápiz, disculparse por llegar tarde) usando conectores de contraste (but) y adición (and).",
+              "produccion": "Iniciar y mantener una conversación sencilla sobre gustos personales, asegurando el uso de fórmulas de cortesía (thank you, excuse me)."
+            },
+            "para_pensar": [
+              "¿Por qué la gratitud es considerada un valor universal en todas las culturas?",
+              "¿Cómo afecta el ruido ambiental la efectividad de una conversación? (Relación con la Física del sonido)"
+            ],
+            "pistas_del_exito": [
+              "Participa en situaciones comunicativas pidiendo favores y agradeciendo con fluidez.",
+              "Describe su rutina diaria y la de otros usando oraciones simples y coherentes."
+            ],
+            "un_refuerzo": "Tener un 'Muro de la Cortesía' en el salón con las frases clave escritas para consulta rápida durante el diálogo."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Tradition Detectives",
+            "un_reto_sugerido": "¿Qué elementos culturales de una celebración extranjera son similares a los de nuestra comunidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar imágenes de celebraciones globales y buscar objetos comunes (comida, trajes, música) antes de leer el texto.",
+              "visual": "Usar el diccionario para crear un 'Glosario Ilustrado' de palabras desconocidas encontradas en un texto sobre costumbres internacionales.",
+              "produccion": "Extraer información específica (Who, What, When) de un texto literario sencillo y comparar la festividad con una local."
+            },
+            "para_pensar": [
+              "¿Por qué las celebraciones son importantes para mantener viva la historia de un pueblo?",
+              "¿Qué impacto ambiental tienen las grandes celebraciones (basura, energía)? (Educación Ambiental)"
+            ],
+            "pistas_del_exito": [
+              "Identifica el significado adecuado de las palabras en el diccionario según el contexto.",
+              "Responde con frases cortas a preguntas sobre temas familiares leídos."
+            ],
+            "un_refuerzo": "Proporcionar el texto con las palabras clave resaltadas y una guía de búsqueda rápida en el diccionario."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Identity Architect",
+            "un_reto_sugerido": "¿Cómo podrías presentarte ante un club de ciencias internacional usando solo un formato de datos básicos?",
+            "ruta_de_exploracion": {
+              "explorar": "Revisar diferentes formatos de carnés o perfiles de redes sociales e identificar qué información es esencial y cuál es opcional.",
+              "visual": "Diseñar un 'Perfil de Investigador' en cartulina, organizando las ideas con conectores de adición y secuencia lógica.",
+              "produccion": "Escribir un texto corto describiendo a un amigo o familiar, expresando gustos y disgustos con ortografía correcta."
+            },
+            "para_pensar": [
+              "¿Por qué es importante proteger nuestra información personal en internet?",
+              "¿Cómo los datos estadísticos (edad, nacionalidad) ayudan a los científicos a entender a las poblaciones?"
+            ],
+            "pistas_del_exito": [
+              "Escribe información personal básica en formatos preestablecidos con precisión.",
+              "Organiza ideas en orden lógico para crear un texto coherente sobre su entorno."
+            ],
+            "un_refuerzo": "Utilizar una plantilla de 'párrafo guiado' donde el estudiante solo deba completar los espacios en blanco con sus datos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Comparison Radar",
+            "un_reto_sugerido": "¿Cómo podemos diferenciar dos objetos similares basándonos solo en una descripción comparativa auditiva?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar sonidos de diferentes intensidades y velocidades, usando comparativos simples en español para luego pasarlos al inglés (faster, louder).",
+              "visual": "Juego de 'Escucha y Dibuja': el docente describe dos lugares usando 'as...as' y 'than', y los estudiantes deben dibujar las diferencias.",
+              "produccion": "Identificar en un audio el uso del presente continuo para describir acciones que están ocurriendo en un evento cultural."
+            },
+            "para_pensar": [
+              "¿Por qué tendemos a comparar todo lo que nos rodea?",
+              "¿Cómo la ciencia usa las comparaciones para clasificar a los seres vivos? (Relación con Biología)"
+            ],
+            "pistas_del_exito": [
+              "Reconoce conectores de comparación (as...as, than) en enunciados orales.",
+              "Diferencia el uso de presente simple y presente continuo al escuchar descripciones."
+            ],
+            "un_refuerzo": "Escuchar oraciones cortas y clasificar tarjetas en 'Similitud' (=) o 'Diferencia' (≠)."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Virtual Tour Guide",
+            "un_reto_sugerido": "¿Cómo describirías tu ciudad a un turista para que sienta que está allí en este momento?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías de lugares icónicos y listar acciones que la gente suele hacer allí (Present Simple).",
+              "visual": "Simular una 'Videollamada en Vivo' donde un estudiante describe lo que está pasando en un lugar usando Presente Continuo.",
+              "produccion": "Mantener una conversación comparando dos lugares conocidos, usando conectores de comparación y coherencia."
+            },
+            "para_pensar": [
+              "¿Qué hace que un lugar sea 'mejor' que otro para vivir?",
+              "¿Cómo afecta el turismo masivo a la conservación de los monumentos históricos?"
+            ],
+            "pistas_del_exito": [
+              "Describe con oraciones simples personas, lugares u objetos familiares.",
+              "Usa conectores de comparación para establecer similitudes y diferencias de forma oral."
+            ],
+            "un_refuerzo": "Proporcionar una lista de adjetivos opuestos (big/small, hot/cold) para facilitar la comparación."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Cultural Decoder",
+            "un_reto_sugerido": "¿Qué nos dice la forma en que una cultura celebra sus festivales sobre sus valores científicos o sociales?",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer un 'skimming' (lectura rápida) de un texto sobre la cultura americana para identificar nombres de ciudades y fechas.",
+              "visual": "Crear un 'Mapa Conceptual de la Lectura' donde se relacionen los eventos culturales con las emociones que provocan.",
+              "produccion": "Responder preguntas literales e inferenciales sobre un texto informativo, identificando palabras desconocidas por contexto."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los eventos culturales en la economía de un país?",
+              "¿Qué relación existe entre las estaciones del año y las tradiciones culturales?"
+            ],
+            "pistas_del_exito": [
+              "Usa estrategias de lectura para identificar la idea principal y detalles en textos informativos.",
+              "Identifica elementos culturales como costumbres y celebraciones en lecturas sencillas."
+            ],
+            "un_refuerzo": "Trabajar con un 'compañero de lectura' para discutir el significado de las oraciones antes de responder."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Logic Bridge",
+            "un_reto_sugerido": "¿Cómo podemos explicar por qué sucede un evento cultural usando conectores de causa y efecto?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar oraciones desordenadas y tratar de unirlas usando 'because' o 'so' para que tengan sentido lógico.",
+              "visual": "Diseñar un 'Infográfico de Causa-Efecto' sobre un evento que llamó su atención, usando conectores de contraste y adición.",
+              "produccion": "Escribir un texto corto comparando dos objetos o personajes, justificando sus preferencias con claridad."
+            },
+            "para_pensar": [
+              "¿Por qué es importante entender la causa de los problemas sociales?",
+              "¿Cómo la escritura nos ayuda a organizar nuestro pensamiento científico?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos cortos expresando contraste, adición, causa y efecto entre ideas.",
+              "Establece comparaciones escritas coherentes entre personajes, lugares y objetos."
+            ],
+            "un_refuerzo": "Proporcionar conectores en fichas de colores (Causa = Verde, Efecto = Azul) para armar oraciones físicamente."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Time Witness",
+            "un_reto_sugerido": "¿Cómo podemos describir una escena del pasado que estaba en progreso cuando algo más ocurrió?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver un video corto de una película antigua y pausarlo para describir qué estaban haciendo los personajes en ese momento exacto.",
+              "visual": "Juego de 'Mímica en Pasado': un estudiante actúa una acción y los demás deben decir 'He was dancing' al escuchar una señal auditiva.",
+              "produccion": "Identificar en un audio la diferencia entre acciones terminadas (Past Simple) y acciones en progreso (Past Continuous)."
+            },
+            "para_pensar": [
+              "¿Por qué es difícil recordar exactamente lo que estábamos haciendo en un momento de crisis?",
+              "¿Cómo ayudan las grabaciones de video a los científicos a estudiar el comportamiento animal?"
+            ],
+            "pistas_del_exito": [
+              "Usa el pasado continuo para describir acciones que estaban en progreso en el pasado.",
+              "Identifica vocabulario de emociones y expresiones de tiempo en contextos de escucha."
+            ],
+            "un_refuerzo": "Dibujar una línea de tiempo y marcar con una onda (~) las acciones continuas y con una X las acciones simples."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Transatlantic Talk",
+            "un_reto_sugerido": "¿Qué diferencias notarías si hablaras con un adolescente en Londres frente a uno en Nueva York?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de acentos británicos y americanos e intentar imitar sonidos característicos de cada uno.",
+              "visual": "Realizar un 'Talk Show' donde se entreviste a personajes históricos de la cultura británica y americana usando Past Continuous.",
+              "produccion": "Mantener una conversación sobre un evento cultural pasado, describiendo qué estaba sucediendo y cómo se sentían los participantes."
+            },
+            "para_pensar": [
+              "¿Cómo el idioma inglés se convirtió en una herramienta de comunicación global?",
+              "¿Qué impacto tuvo la Revolución Industrial (UK) en el medio ambiente actual? (Enfoque CTS)"
+            ],
+            "pistas_del_exito": [
+              "Narra o describe de forma sencilla hechos y actividades que le son familiares.",
+              "Inicia, mantiene y cierra una conversación sobre un tema cultural conocido."
+            ],
+            "un_refuerzo": "Usar un 'guion de entrevista' con preguntas pre-formuladas en pasado continuo para ganar confianza."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Inference Hunter",
+            "un_reto_sugerido": "¿Cómo podemos saber lo que un autor siente si no lo dice directamente en el texto?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer solo los títulos y ver las imágenes de un texto académico sencillo para predecir de qué trata (Skimming).",
+              "visual": "Crear un 'Mapa de Inferencias' donde se conecten pistas del texto con conclusiones lógicas sobre la cultura británica.",
+              "produccion": "Responder preguntas inferenciales sobre un texto de complejidad media, comparando eventos históricos leídos."
+            },
+            "para_pensar": [
+              "¿Por qué es importante leer entre líneas en las noticias actuales?",
+              "¿Cómo la lectura de textos académicos nos ayuda a entender los avances científicos?"
+            ],
+            "pistas_del_exito": [
+              "Compara y contrasta diferentes eventos culturales o históricos identificando similitudes.",
+              "Usa estrategias de lectura (scanning) para localizar información específica en textos largos."
+            ],
+            "un_refuerzo": "Proporcionar una lista de 'pistas de inferencia' (ej. Si el personaje llora, podemos inferir que está sad)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Narrative Weaver",
+            "un_reto_sugerido": "¿Cómo escribir una crónica de un viaje imaginario combinando lo que pasó y lo que estaba pasando?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una secuencia de fotos de un evento histórico y escribir una oración para cada una usando conectores de tiempo.",
+              "visual": "Elaborar un 'Diario de Viaje' creativo, usando conectores de contraste (however) y causa-efecto (because).",
+              "produccion": "Escribir un texto narrativo breve usando pasado simple y continuo para describir una anécdota personal o cultural."
+            },
+            "para_pensar": [
+              "¿Cómo la escritura de diarios ayudó a los exploradores antiguos a documentar el mundo?",
+              "¿Qué importancia tiene la ortografía para que un mensaje científico sea creíble?"
+            ],
+            "pistas_del_exito": [
+              "Escribe textos narrativos breves usando el pasado simple y continuo con coherencia.",
+              "Usa conectores de contraste, adición y causa para escribir párrafos organizados."
+            ],
+            "un_refuerzo": "Utilizar un organizador gráfico de 'Inicio, Nudo y Desenlace' para estructurar la crónica antes de escribir."
+          }
+        }
+      ]
+    }
+  ]
+}

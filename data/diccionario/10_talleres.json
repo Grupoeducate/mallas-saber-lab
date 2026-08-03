@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 10,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G10-P1-T1",
+          "nombre_taller": "Decido, Me Conozco, Avanzo",
+          "conceptos_relacionados": [
+            "Autoconocimiento",
+            "Autoconfianza",
+            "Introspección"
+          ],
+          "proposito_experiencia": "Fortalecer la capacidad de identificar fortalezas, intereses y emociones, cultivando la autoconfianza y el proceso de introspección para tomar decisiones informadas.",
+          "recursos_eco": "Formulario de la 'Actividad 1: Decisiones propias y responsabilidad personal', lápices.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Tomar decisiones es un arte, y la base es conocernos. Hoy miraremos hacia adentro para entender cómo nuestras decisiones reflejan quiénes somos y en quiénes queremos convertirnos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes completan la 'Actividad 1: Decisiones propias y responsabilidad personal', analizando una decisión reciente y sus consecuencias. Se enfatiza el 'Autoconocimiento' para identificar las emociones presentes y cómo influyen. Se refuerza la 'Autoconfianza' al reflexionar sobre cómo esta experiencia fortalece su confianza. Se cierra con un momento de 'Introspección' sobre lo aprendido. Use el ejemplo: 'Después de una discusión, me pregunté qué estaba sintiendo realmente antes de reaccionar'. 'Antes pensaba que no era bueno para exponer, ahora sé que con preparación puedo hacerlo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste sobre tu capacidad para tomar decisiones autónomas?' y '¿Cómo esta experiencia fortalece tu confianza en ti mismo?'.",
+          "revision_proposito": "Observar la capacidad de análisis reflexivo de los estudiantes sobre sus decisiones, la identificación de emociones y el reconocimiento del impacto en su autoconfianza.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P1-T2",
+          "nombre_taller": "Mi Brújula Ética: Valores y Congruencia",
+          "conceptos_relacionados": [
+            "Toma de decisiones",
+            "Coherencia ética",
+            "Responsabilidad emocional"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad de analizar opciones, considerar emociones y actuar según principios morales, reconociendo el efecto que tienen las decisiones personales.",
+          "recursos_eco": "Formulario de la 'Actividad 2: Actuar según mis valores, incluso bajo presión', escenarios de dilemas éticos.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestros valores son como una brújula interna. Hoy aprenderemos a guiarnos por ella, incluso cuando el camino sea difícil, y a entender el peso emocional de nuestras elecciones'.",
+          "momento_desarrollo_vivencia": "Los estudiantes completan la 'Actividad 2: Actuar según mis valores, incluso bajo presión', reflexionando sobre una situación de presión social y su posicionamiento ético. Se enfatiza la 'Toma de decisiones' considerando valores personales y el impacto de las emociones. Se promueve la 'Coherencia ética' al reflexionar sobre actuar según principios morales. Se aborda la 'Responsabilidad emocional' al reconocer el efecto de sus decisiones en los demás. Use el ejemplo: 'Antes de escoger el énfasis, hice una lista de pros y contras y hablé con mis padres'. 'Rehacé compartir respuestas del examen aunque eso significara una nota más baja'. 'Pensé cómo decirle a mi amigo que no estaba de acuerdo sin lastimarlo, por eso esperé el momento adecuado'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué tipo de persona quiero ser cuando enfrente situaciones similares en el futuro?' y '¿Cómo esta experiencia fortalece o debilita mi confianza en mí mismo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reflexionar éticamente, tomar decisiones congruentes y reconocer la responsabilidad emocional de sus acciones.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P1-T3",
+          "nombre_taller": "Destino Vocacional: Explorando mi Futuro",
+          "conceptos_relacionados": [
+            "Vocación",
+            "Visión de futuro",
+            "Autoconocimiento"
+          ],
+          "proposito_experiencia": "Reconocer actividades e intereses que generan motivación, imaginar posibilidades de estudio y trabajo, y consolidar el autoconocimiento en la construcción vocacional.",
+          "recursos_eco": "Formulario de la 'Actividad 3: Reconocer intereses y señales vocacionales', recursos sobre carreras y estudios.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestro futuro es como un lienzo en blanco esperando ser pintado. Hoy empezaremos a dibujar nuestros sueños, reconociendo lo que nos apasiona y cómo podemos llegar allí'.",
+          "momento_desarrollo_vivencia": "Los estudiantes completan la 'Actividad 3: Reconocer intereses y señales vocacionales', reflexionando sobre sus intereses, motivaciones y sentido personal. Se enfatiza la 'Vocación' al identificar actividades que generan interés. Se impulsa la 'Visión de futuro' al relacionar intereses con posibles caminos futuros. Se refuerza el 'Autoconocimiento' al reconocer habilidades personales y emociones. Use el ejemplo: 'Cuando organizo actividades en el colegio siento que el tiempo vuela y me siento feliz'. 'Si me gusta la biología, pienso en carreras relacionadas con salud o investigación'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué decisiones actuales podrían acercarte a explorar mejor tu vocación?' y '¿Qué miedos o dudas aparecen cuando piensas en tu futuro?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para identificar intereses vocacionales, proyectar su visión de futuro y aplicar el autoconocimiento en este proceso.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G10-P2-T1",
+          "nombre_taller": "Navegando el Cambio con Estabilidad",
+          "conceptos_relacionados": [
+            "Adaptabilidad",
+            "Autoconfianza",
+            "Autogestión"
+          ],
+          "proposito_experiencia": "Capacidad para ajustar pensamientos y emociones ante cambios, creer en las propias habilidades para aprender y desarrollar estrategias de manejo de emociones para el bienestar.",
+          "recursos_eco": "Formulario de la 'Actividad 4: Manejar el cambio y la incertidumbre con estabilidad emocional', casos de cambios inesperados.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'La vida está en constante movimiento, y aprender a navegar los cambios es una superhabilidad. Hoy veremos cómo mantenernos estables en la marea de lo nuevo'.",
+          "momento_desarrollo_vivencia": "Los estudiantes completan la 'Actividad 4: Manejar el cambio y la incertidumbre con estabilidad emocional', reflexionando sobre un cambio reciente y su adaptación emocional. Se enfatiza la 'Adaptabilidad' para ajustar pensamientos y emociones. Se refuerza la 'Autoconfianza' al analizar cómo la experiencia fortalece o debilita la confianza. Se aborda la 'Autogestión' al identificar estrategias para manejar emociones y el estrés. Use el ejemplo: 'El cambio de colegio fue duro, pero busqué actividades donde pudiera sentirme parte rápidamente'. 'Antes pensaba que no era bueno para exponer, ahora sé que con preparación puedo hacerlo'. 'Cuando siento muy tenso por los exámenes, salgo a caminar un rato para relajarme'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendí sobre mi capacidad de adaptación?' y '¿Qué herramientas emocionales puedo fortalecer para futuros cambios?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para adaptarse a los cambios, fortalecer la autoconfianza y aplicar la autogestión emocional.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P2-T2",
+          "nombre_taller": "Mi Voz Interna: Reflexión y Coherencia",
+          "conceptos_relacionados": [
+            "Introspección",
+            "Coherencia ética",
+            "Responsabilidad emocional"
+          ],
+          "proposito_experiencia": "Realizar ejercicios de reflexión escrita sobre reacciones emocionales, evaluar la coherencia entre lo que se piensa y siente, y reconocer el efecto que tienen las decisiones personales.",
+          "recursos_eco": "Formulario de la 'Actividad 5: Mirarme por dentro para crecer', diario personal de emociones.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Dentro de cada uno de nosotros hay una voz sabia que nos guía. Hoy aprenderemos a escucharla, a entender nuestras reacciones y a actuar con autenticidad'.",
+          "momento_desarrollo_vivencia": "Los estudiantes completan la 'Actividad 5: Mirarme por dentro para crecer', reflexionando sobre una reacción emocional intensa. Se enfatiza la 'Introspección' para identificar pensamientos y emociones. Se promueve la 'Coherencia ética' al evaluar si su reacción fue coherente con lo que sentían o necesitaban. Se aborda la 'Responsabilidad emocional' al analizar cómo afectó su reacción a los demás. Use el ejemplo: 'Después de una discusión, me pregunté qué estaba sintiendo realmente antes de reaccionar'. 'Rehacé compartir respuestas del examen aunque eso significara una nota más baja'. 'Pensé cómo decirle a mi amigo que no estaba de acuerdo sin lastimarlo, por eso esperé el momento adecuado'.",
+          "momento_cierre_integracion": "Pregunte: '¿Mi reacción fue coherente con lo que realmente sentía o necesitaba?' y '¿Qué aprendizaje personal obtengo de esta experiencia?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para realizar introspección, evaluar la coherencia ética de sus reacciones y asumir la responsabilidad emocional.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P2-T3",
+          "nombre_taller": "Recupero Mi Centro: Resiliencia y Regulación",
+          "conceptos_relacionados": [
+            "Resiliencia",
+            "Regulación emocional ante",
+            "Búsqueda de ayuda y apoyo"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad para sobreponerse a dificultades, reconocer y modular emociones intensas, y buscar apoyo cuando sea necesario.",
+          "recursos_eco": "Casos de frustraciones o dificultades académicas/personales, escenarios de estrés o saturación.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'La vida nos presenta retos, pero tenemos la fuerza para levantarnos. Hoy aprenderemos a recuperarnos, a manejar nuestras emociones y a saber cuándo pedir una mano'.",
+          "momento_desarrollo_vivencia": "Se presentan casos de frustraciones o dificultades. Los estudiantes proponen estrategias de 'Resiliencia' para sobreponerse. Se trabaja la 'Regulación emocional ante' reconociendo y modulando emociones intensas, como el estrés o la rabia. Se enfatiza la 'Búsqueda de ayuda y apoyo' al identificar cuándo y a quién acudir. Use el ejemplo: 'Aunque no quedé en el equipo la primera vez, seguí entrenando y lo logré'. 'Cuando no obtuve la nota que quería, respiré profundo y esperé antes de hablar con la profesora'. 'Cuando me siento saturado con tantas tareas, hablé con el orientador para organizar mi tiempo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a sobreponerte cuando algo no sale como esperabas?' y '¿En qué situaciones te sientes cómodo pidiendo ayuda?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar resiliencia, regular sus emociones y buscar ayuda y apoyo de manera efectiva.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G10-P3-T1",
+          "nombre_taller": "Mi GPS para la Vida: Visión de Futuro y Propósito",
+          "conceptos_relacionados": [
+            "Visión de futuro",
+            "Propósito personal",
+            "Autoconocimiento"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de imaginar diferentes posibilidades de estudio y trabajo, tener una dirección clara y consolidar el autoconocimiento en la construcción del proyecto de vida.",
+          "recursos_eco": "Cuadernos de sueños y metas, ejercicios de visualización, recursos sobre carreras y profesiones.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Cada uno de nosotros tiene un propósito único. Hoy, con nuestro GPS de la vida, exploraremos a dónde queremos ir y por qué, conectando nuestros sueños con quiénes somos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan ejercicios para imaginar 'Visión de futuro' en diferentes áreas (estudio, trabajo, vida personal). Se trabaja la 'Propósito personal' al reflexionar sobre la sensación de tener una dirección que orienta la vida. Se refuerza el 'Autoconocimiento' para conectar sus intereses y fortalezas con sus planes futuros. Use el ejemplo: 'Si me gusta la biología, pienso en carreras relacionadas con salud o investigación'. 'Cuando pienso en estudiar medicina, siento que mi propósito es ayudar a otros'. 'Sé que disfruto explicar a otros y que tengo paciencia, por eso me gustaría ser profesor'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sientes que te impulsa más hacia el futuro?' y '¿Cómo tus intereses y fortalezas te ayudan a definir tu propósito?'.",
+          "revision_proposito": "Evaluar la claridad de la visión de futuro, la articulación del propósito personal y la integración del autoconocimiento en sus aspiraciones.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P3-T2",
+          "nombre_taller": "Mi Caja de Herramientas: Autorregulación y Autogestión",
+          "conceptos_relacionados": [
+            "Autorregulación Emocional",
+            "Autogestión",
+            "Búsqueda de ayuda y apoyo"
+          ],
+          "proposito_experiencia": "Aprender a calmarse y pensar antes de actuar, manejar las emociones con estrategias conscientes y reconocer cuándo solicitar ayuda.",
+          "recursos_eco": "Lista de estrategias de regulación emocional, situaciones de estrés académico o personal, guías de búsqueda de apoyo.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestras emociones son poderosas, pero nosotros tenemos el control. Hoy construiremos una caja de herramientas para manejar lo que sentimos y para saber cuándo pedir una mano'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Autorregulación Emocional' con técnicas para calmarse y pensar antes de actuar. Se trabaja la 'Autogestión' identificando estrategias conscientes para manejar el estrés y la presión. Se refuerza la 'Búsqueda de ayuda y apoyo' al reconocer cuándo se necesita soporte y a quién acudir. Use el ejemplo: 'Cuando sentí rabia, respiré profundo y conté hasta diez en lugar de gritar'. 'Cuando me siento muy tenso por los exámenes, salgo a caminar un rato para relajarme'. 'Cuando me siento saturado con tantas tareas, hablé con el orientador para organizar mi tiempo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué estrategia de autorregulación te funciona mejor?' y '¿Cuándo es importante buscar ayuda externa para manejar tus emociones?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar autorregulación y autogestión emocional, y su disposición a buscar ayuda y apoyo.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P3-T3",
+          "nombre_taller": "El Corazón Consciente: Empatía y Adaptabilidad",
+          "conceptos_relacionados": [
+            "Empatía Básica",
+            "Adaptabilidad",
+            "Responsabilidad emocional"
+          ],
+          "proposito_experiencia": "Intentar comprender lo que sienten los demás, ajustar pensamientos y emociones ante cambios, y reconocer el efecto de las decisiones personales en otros.",
+          "recursos_eco": "Escenarios de situaciones emocionales de otros, casos de cambios inesperados, dilemas donde las acciones afectan a terceros.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Un corazón consciente es capaz de sentir con los demás, de adaptarse a lo nuevo y de entender el impacto de nuestras acciones. Hoy cultivaremos esa conciencia'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Empatía Básica' intentando comprender lo que sienten los demás. Se trabaja la 'Adaptabilidad' para ajustar pensamientos y emociones ante cambios. Se refuerza la 'Responsabilidad emocional' reconociendo el efecto que tienen las decisiones personales en los demás. Use el ejemplo: 'Me di cuenta de que mi compañero estaba triste y le pregunté si necesitaba algo'. 'El cambio de colegio fue duro, pero busqué actividades donde pudiera sentirme parte rápidamente'. 'Pensé cómo decirle a mi amigo que no estaba de acuerdo sin lastimarlo, por eso esperé el momento adecuado'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a entender lo que siente otra persona?' y '¿Cómo crees que tus decisiones afectan a quienes te rodean?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar empatía, demostrar adaptabilidad y reconocer la responsabilidad emocional de sus acciones.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G10-P4-T1",
+          "nombre_taller": "Construyendo Mi Futuro: Proyecto y Metas Claras",
+          "conceptos_relacionados": [
+            "Proyecto de vida",
+            "Visión de futuro y planifica",
+            "Metas personales y académi"
+          ],
+          "proposito_experiencia": "Definir metas personales, académicas y laborales, traducir sueños en planes realistas y establecer metas claras a corto y largo plazo.",
+          "recursos_eco": "Plantillas de proyecto de vida, guías de planificación de metas SMART, recursos sobre opciones académicas y laborales.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Hoy somos arquitectos de nuestro propio futuro. Vamos a diseñar ese gran 'proyecto de vida', transformando nuestros sueños en planes concretos y metas alcanzables'.",
+          "momento_desarrollo_vivencia": "Los estudiantes trabajan en su 'Proyecto de vida', definiendo metas personales, académicas y laborales. Se enfoca en la 'Visión de futuro y planifica' para traducir sueños y deseos en planes realistas, considerando el paso a paso. Se guía en el establecimiento de 'Metas personales y académi' claras a corto, mediano y largo plazo. Use el ejemplo: 'Quiero estudiar ingeniería, formar una familia y participar en proyectos sociales'. 'Para estudiar fuera del país, debo mejorar mi inglés y buscar becas este año'. 'Me propuse terminar el año sin materias perdidas y avanzar en un idioma'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cuál es la meta más importante de tu proyecto de vida?' y '¿Qué paso concreto vas a dar esta semana para acercarte a una de tus metas?'.",
+          "revision_proposito": "Evaluar la claridad y realismo del proyecto de vida, la capacidad de planificar la visión de futuro y la concreción de metas personales y académicas.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P4-T2",
+          "nombre_taller": "Mi Legado en el Mundo: Compromiso y Contribución",
+          "conceptos_relacionados": [
+            "Compromiso ético y respos",
+            "Contribución al entorno /",
+            "Responsabilidad emocional"
+          ],
+          "proposito_experiencia": "Considerar el impacto de las propias decisiones en el bienestar común, aportar positivamente al entorno y reconocer el efecto de las decisiones personales.",
+          "recursos_eco": "Escenarios de dilemas éticos que afectan a la comunidad, proyectos de servicio social o ambiental, debates sobre el impacto de las acciones individuales.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Cada uno de nosotros tiene la oportunidad de dejar una huella positiva en el mundo. Hoy pensaremos cómo nuestras decisiones pueden construir un futuro mejor para todos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre el 'Compromiso ético y respos' en sus decisiones, considerando el impacto en el bienestar común. Se trabaja la 'Contribución al entorno /' al identificar intenciones y acciones para aportar positivamente. Se refuerza la 'Responsabilidad emocional' reconociendo el efecto de sus decisiones personales. Use el ejemplo: 'Elegí participar en un proyecto de voluntariado porque siento que puedo ayudar a mi comunidad'. 'Me motiva pensar que, desde mi profesión, podré crear soluciones sostenibles para el medio ambiente'. 'Pensé cómo decirle a mi amigo que no estaba de acuerdo sin lastimarlo, por eso esperé el momento adecuado'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué causa social o ambiental te mueve más a actuar?' y '¿Cómo tus decisiones impactan a quienes te rodean?'.",
+          "revision_proposito": "Evaluar la comprensión del compromiso ético y social, la disposición a contribuir al entorno y la conciencia de la responsabilidad emocional.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G10-P4-T3",
+          "nombre_taller": "El Arte de la Resiliencia y la Adaptabilidad Continua",
+          "conceptos_relacionados": [
+            "Resiliencia",
+            "Adaptabilidad",
+            "Regulación emocional ant"
+          ],
+          "proposito_experiencia": "Consolidar la habilidad para sobreponerse a dificultades, ajustar pensamientos y emociones ante cambios, y regular emociones intensas para el crecimiento continuo.",
+          "recursos_eco": "Historias de superación, escenarios de cambios inesperados en la vida adulta, técnicas avanzadas de regulación emocional.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'La vida siempre nos presentará nuevos retos, pero la resiliencia y la adaptabilidad son nuestros superpoderes para afrontarlos. Hoy consolidaremos estas habilidades para el camino que viene'.",
+          "momento_desarrollo_vivencia": "Los estudiantes revisan sus estrategias de 'Resiliencia' ante dificultades, compartiendo aprendizajes del año. Reflexionan sobre la 'Adaptabilidad' ante escenarios de cambios mayores (universidad, trabajo). Consolidan la 'Regulación emocional ant' reconociendo y modulando emociones intensas de forma más autónoma. Use el ejemplo: 'Aunque no quedé en el equipo la primera vez, seguí entrenando y lo logré'. 'El cambio de colegio fue duro, pero busqué actividades donde pudiera sentirme parte rápidamente'. 'Cuando no obtuve la nota que quería, respiré profundo y esperé antes de hablar con la profesora'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué habilidad de resiliencia sientes que has fortalecido más este año?' y '¿Qué estrategia de adaptación te ayudará en los grandes cambios del futuro?'.",
+          "revision_proposito": "Evaluar la consolidación de la resiliencia y adaptabilidad, así como la capacidad de aplicar la regulación emocional ante desafíos futuros.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

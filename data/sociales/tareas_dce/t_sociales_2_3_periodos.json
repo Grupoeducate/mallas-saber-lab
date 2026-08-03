@@ -1,0 +1,276 @@
+{
+  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "grado": "2",
+  "nombre_archivo": "t_sociales_2_3_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Navegantes del Patio Escolar",
+            "un_reto_sugerido": "¿Cómo podemos usar el sol y nuestros pasos para crear un mapa exacto de nuestra escuela?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar la posición del sol al llegar al colegio y marcar con tiza en el suelo hacia dónde apunta nuestra sombra, identificando el Oriente.",
+              "visual": "Carrera de orientación: Seguir pistas numeradas en el patio usando comandos como '10 pasos al Norte' o '5 pasos al Occidente' usando una brújula dibujada en cartón.",
+              "produccion": "Elaboración de un croquis del salón y el patio, utilizando convenciones de colores y ubicando los puntos cardinales según las mediciones realizadas con pasos."
+            },
+            "para_pensar": [
+              "¿Por qué es más preciso decir 'camina al Norte' que decir 'camina hacia allá'?",
+              "¿Cómo ayudan los mapas a que las personas de una comunidad se organicen mejor?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza correctamente los puntos cardinales para dar instrucciones de desplazamiento.",
+              "Representa espacios físicos mediante dibujos o planos guardando relación de distancia (cerca/lejos)."
+            ],
+            "un_refuerzo": "Juego de 'El Tesoro Escondido': Esconder un objeto y escribir una tarjeta con instrucciones de lateralidad y puntos cardinales para encontrarlo."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Cronistas de la Familia",
+            "un_reto_sugerido": "¿Qué historias esconden los viajes y orígenes de mi familia antes de que yo naciera?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un relato del docente sobre un viaje antiguo y observar fotos de maletas o transportes de antes.",
+              "visual": "Creación de la 'Maleta de la Memoria': En una caja decorada, colocar dibujos de 3 objetos que representen el lugar de origen de sus padres o abuelos.",
+              "produccion": "Construcción de una línea de tiempo ilustrada que narre el recorrido migratorio o los eventos clave de la familia antes del nacimiento del estudiante."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los lugares donde vivieron tus abuelos en las costumbres que tienes hoy?",
+              "¿Por qué es importante guardar fotos o relatos de nuestros antepasados?"
+            ],
+            "pistas_del_exito": [
+              "Relata con coherencia la procedencia de los miembros de su núcleo familiar.",
+              "Describe características de su familia en tiempos pasados basándose en fuentes orales."
+            ],
+            "un_refuerzo": "Dibujar el 'Mapa de mis Raíces' uniendo con líneas el lugar de nacimiento de los abuelos con el municipio actual."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "La Feria de los Oficios",
+            "un_reto_sugerido": "¿Cómo el trabajo de mi familia y vecinos ayuda a que toda la comunidad viva mejor?",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar una lista de los productos que hay en la lonchera y debatir quiénes tuvieron que trabajar para que esos productos llegaran ahí.",
+              "visual": "Juego de roles 'El Mercado del Municipio': Simular diferentes oficios (campesino, tendero, transportador, médico) y realizar intercambios simbólicos.",
+              "produccion": "Mapa mental sobre las actividades económicas del hogar, clasificando los beneficios que traen (salud, alimento, vestuario)."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si en el municipio nadie realizara el oficio de recolectar la basura o cultivar alimentos?",
+              "¿Por qué todos los trabajos, sin importar cuáles sean, merecen respeto?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y clasifica los trabajos u oficios presentes en su comunidad.",
+              "Explica la importancia de la economía familiar para el bienestar común."
+            ],
+            "un_refuerzo": "Dibujar a una persona de la comunidad realizando su trabajo y escribir una frase de agradecimiento por su labor."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Semáforo de la Escucha",
+            "un_reto_sugerido": "¿Cómo podemos llegar a acuerdos sin necesidad de gritar o pelear?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'Hablar al mismo tiempo': Experimentar el caos de no escucharse y reflexionar sobre la sensación de no ser tomado en cuenta.",
+              "visual": "Creación de 'Paletas de Acuerdo': Una verde (estoy de acuerdo), una amarilla (tengo una duda) y una roja (no estoy de acuerdo), para usar en debates de clase.",
+              "produccion": "Redacción colectiva del 'Contrato de Convivencia del Segundo Grado', donde se definan las normas de escucha y trato asertivo."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien te ignora mientras hablas?",
+              "¿Cuál es la diferencia entre una norma impuesta y un acuerdo hecho entre todos?"
+            ],
+            "pistas_del_exito": [
+              "Expresa sentimientos ante la exclusión de forma asertiva y sin agresión.",
+              "Participa activamente en la creación de normas para el bienestar del grupo."
+            ],
+            "un_refuerzo": "Taller de 'Mensajes Yo': Practicar decir 'Yo me siento... cuando tú... porque...' en lugar de acusar al otro."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Escultores de la Tierra",
+            "un_reto_sugerido": "¿Cómo cambia el paisaje cuando las personas construyen sus pueblos y ciudades?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotografías antiguas y actuales del municipio para identificar qué montañas o ríos siguen igual y qué edificios son nuevos.",
+              "visual": "Maqueta de relieves: Usar plastilina casera (harina, sal y agua) para modelar valles, montañas y llanuras, agregando elementos humanos como puentes o casas.",
+              "produccion": "Cuadro comparativo entre el paisaje natural (relieve, ríos) y el paisaje cultural (carreteras, parques) de su vereda o barrio."
+            },
+            "para_pensar": [
+              "¿Por qué los seres humanos transformamos el paisaje natural?",
+              "¿Qué materiales de las casas de antes eran más frescos o resistentes que los de ahora?"
+            ],
+            "pistas_del_exito": [
+              "Identifica formas del relieve (montaña, valle, llanura) en su entorno.",
+              "Explica los cambios realizados por el hombre en el paisaje del municipio."
+            ],
+            "un_refuerzo": "Dibujar una vivienda rural y una urbana, señalando las diferencias en los materiales de construcción."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Detectives del Árbol Familiar",
+            "un_reto_sugerido": "¿Cómo puedo organizar la historia de mi vida y la de mis antepasados en un dibujo?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar un Registro Civil de Nacimiento (copia pedagógica) para descubrir datos como fecha de nacimiento, lugar y nombres de padres.",
+              "visual": "Construcción de un 'Árbol Genealógico 3D' usando una rama seca y tarjetas con los nombres y fotos (o dibujos) de sus familiares.",
+              "produccion": "Relato escrito sobre una anécdota familiar descubierta durante la indagación, usando fuentes como fotos o relatos de abuelos."
+            },
+            "para_pensar": [
+              "¿Para qué sirve tener un registro civil de nacimiento?",
+              "¿Qué pasaría si olvidáramos las historias de nuestros abuelos?"
+            ],
+            "pistas_del_exito": [
+              "Establece secuencias de datos históricos personales y familiares.",
+              "Utiliza fuentes de información (documentos, relatos) para reconstruir su memoria."
+            ],
+            "un_refuerzo": "Crear una 'Cápsula del Tiempo' con un dibujo de sí mismo hoy para abrirla en 5 años."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Infancia",
+            "un_reto_sugerido": "¿Por qué los niños deben estudiar y jugar en lugar de trabajar?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver imágenes de niños realizando diferentes actividades (estudiando, jugando, trabajando en el campo) y clasificar cuáles son derechos.",
+              "visual": "Taller de 'Los Oficios de mis Abuelos': Entrevistar a un adulto mayor sobre a qué edad empezó a trabajar y comparar con su propia realidad.",
+              "produccion": "Creación de un cartel publicitario que promueva el derecho al juego y rechace la explotación laboral infantil."
+            },
+            "para_pensar": [
+              "¿Qué cosas deja de aprender un niño si tiene que trabajar todo el día?",
+              "¿Cómo podemos ayudar a que todos los niños de nuestra comunidad vayan a la escuela?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia los trabajos de antes con los actuales y su impacto en la infancia.",
+              "Expresa razones claras para rechazar la explotación laboral infantil."
+            ],
+            "un_refuerzo": "Hacer una lista de 5 actividades que solo los niños pueden disfrutar gracias a que no tienen que trabajar."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Diario de mis Emociones",
+            "un_reto_sugerido": "¿Cómo mis acciones y palabras pueden afectar el corazón de los que me rodean?",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica del 'Corazón de Papel': Arrugar un papel cada vez que se dice una palabra hiriente y tratar de alisarlo para ver que las marcas quedan.",
+              "visual": "Creación de 'Máscaras de Emociones' (alegría, tristeza, rabia) para representar situaciones de conflicto y cómo resolverlas.",
+              "produccion": "Manual de 'Primeros Auxilios Emocionales' con consejos para calmar la rabia y pedir disculpas cuando nuestras acciones dañan a otros."
+            },
+            "para_pensar": [
+              "¿Por qué es importante pensar antes de actuar cuando estamos enojados?",
+              "¿Qué significa que 'nada justifica el maltrato'?"
+            ],
+            "pistas_del_exito": [
+              "Identifica emociones básicas y su influencia en el comportamiento.",
+              "Propone acciones de cuidado y buen trato en sus relaciones diarias."
+            ],
+            "un_refuerzo": "Dibujar una situación de maltrato y transformarla en una de buen trato mediante un final feliz."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y Ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros del Tiempo en Movimiento",
+            "un_reto_sugerido": "¿Cómo han cambiado los medios de transporte para que podamos movernos más rápido por el municipio?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar el tráfico cerca del colegio y contar cuántos tipos de transporte diferentes pasan en 10 minutos.",
+              "visual": "Museo del Transporte: Construir modelos de transporte antiguos (mulas, carretas) y modernos (buses, aviones) con material reciclado.",
+              "produccion": "Mapa de movilidad del municipio identificando las rutas principales y proponiendo una mejora para el transporte escolar."
+            },
+            "para_pensar": [
+              "¿Cómo llegaban los alimentos al municipio cuando no había camiones ni carreteras?",
+              "¿Cuál es el medio de transporte más amigable con el medio ambiente en tu comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia los cambios en los medios de transporte a través del tiempo.",
+              "Representa gráficamente la movilidad en su comunidad identificando ventajas."
+            ],
+            "un_refuerzo": "Entrevistar a un abuelo sobre cuál fue el primer carro o bus que vio en su vida."
+          }
+        },
+        {
+          "componente": "Historia y Cultura",
+          "guia_didactica": {
+            "la_estrategia": "Mundo de Colores y Culturas",
+            "un_reto_sugerido": "¿Cómo la llegada de personas de otros lugares enriquece nuestra forma de vivir?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Sabores del Mundo': Identificar alimentos o palabras que usamos y que vienen de otras regiones o países.",
+              "visual": "Taller de 'Muñecos de la Diversidad': Crear figuras de papel que representen diferentes etnias, edades y habilidades, destacando lo positivo de cada una.",
+              "produccion": "Manifiesto por la inclusión: Un mural donde cada estudiante escribe una acción para evitar que alguien se sienta excluido en el salón."
+            },
+            "para_pensar": [
+              "¿Por qué a veces nos burlamos de lo que es diferente y cómo podemos cambiar eso?",
+              "¿Qué podemos aprender de un compañero que viene de otro país o ciudad?"
+            ],
+            "pistas_del_exito": [
+              "Identifica acciones que generan discriminación y sabe a quién pedir ayuda.",
+              "Describe características de diversos grupos humanos con respeto y valoración."
+            ],
+            "un_refuerzo": "Investigar un juego tradicional de otra región de Colombia y enseñarlo a sus compañeros."
+          }
+        },
+        {
+          "componente": "Ético – político",
+          "guia_didactica": {
+            "la_estrategia": "Mi Municipio en el Mapa",
+            "un_reto_sugerido": "¿Cómo se organiza el lugar donde vivo para que todos tengamos servicios y orden?",
+            "ruta_de_exploracion": {
+              "explorar": "Buscar en un mapa del departamento el 'pedacito' que corresponde a su municipio y observar su forma (croquis).",
+              "visual": "Rompecabezas territorial: Armar el mapa del municipio ubicando las comunas, corregimientos o veredas principales usando los puntos cardinales.",
+              "produccion": "Diccionario de Topónimos: Investigar por qué su barrio, vereda o municipio se llama así y qué significa ese nombre."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que el municipio esté dividido en zonas (urbanas y rurales)?",
+              "¿Cómo te sientes al saber que eres parte de un municipio con historia y nombre propio?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y diferencia el croquis de su municipio en el departamento.",
+              "Ubica territorialmente comunas, veredas o corregimientos usando puntos cardinales."
+            ],
+            "un_refuerzo": "Dibujar el escudo o la bandera de su municipio y explicar qué significan sus colores."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Campaña: ¡Todos Jugamos!",
+            "un_reto_sugerido": "¿Cómo podemos eliminar los apodos y las burlas de nuestros juegos diarios?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video o sociodrama sobre la exclusión en el juego y discutir cómo se sintieron los personajes.",
+              "visual": "Diseño de 'Escudos de Respeto': Pequeñas insignias para usar en el uniforme que digan 'Yo incluyo' o 'No a los apodos'.",
+              "produccion": "Organización de un 'Festival de Juegos Incluyentes' donde las reglas se adapten para que todos (sin importar su habilidad) puedan participar."
+            },
+            "para_pensar": [
+              "¿Por qué un apodo puede doler tanto como un golpe?",
+              "¿Qué harías si ves que un grupo de amigos no deja jugar a alguien por su aspecto físico?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce que la diversidad enriquece al grupo escolar.",
+              "Identifica y corrige comportamientos excluyentes en el juego o estudio."
+            ],
+            "un_refuerzo": "Escribir una carta de disculpas o de amistad a alguien que se haya sentido solo en el descanso."
+          }
+        }
+      ]
+    }
+  ]
+
+}
+

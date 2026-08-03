@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Analizo el ecosistema que me rodea y lo comparo con otros",
+        "estandar": "Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno.",
         "dba": [
           "DBA-NAT-3-5 Explica la influencia de los factores abióticos (luz, temperatura, suelo y aire) en el desarrollo de los factores bióticos (fauna y flora) de un ecosistema."
         ],
@@ -47,10 +47,10 @@
         "componente": "Ciencia, Tecnología y Sociedad",
         "estandar": "Asocio el clima con la forma de vida de diferentes comunidades.",
         "dba": [
-          "N/A"
+          "DBA-NAT-3-4 Comprende la influencia de la variación de la temperatura en los cambios de estado de la materia, considerando como ejemplo el caso del agua"
         ],
         "evidencias": [
-          "N/A"
+          "NAT-3-D4-E2 Explica fenómenos cotidianos en los que se pone de manifiesto el cambio de estado del agua a partir de las variaciones de temperatura (la evaporación del agua en el paso de líquido a gas y los vidrios empañados en el paso de gas a líquido, entre otros)."
         ],
         "saberes": [
           "Los climas de los ecosistemas colombianos"
@@ -64,7 +64,7 @@
     "2": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Analizo el ecosistema que me rodea y lo comparo con otros",
+        "estandar": "Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno.",
         "dba": [
           "DBA-NAT-3-5 Explica la influencia de los factores abióticos (luz, temperatura, suelo y aire) en el desarrollo de los factores bióticos (fauna y flora) de un ecosistema."
         ],
@@ -121,13 +121,13 @@
     "3": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Identifico fenómenos de camuflaje en el entorno y los relaciono con las necesidades de los seres vivos. Explico adaptaciones de los seres vivos al ambiente. Identifico adaptaciones de los seres vivos teniendo en cuenta las características de los ecosistemas en que viven. Establezco las adaptaciones de algunos seres vivos en ecosistemas de Colombia.",
+        "estandar": "Explico adaptaciones de los seres vivos al ambiente. Propongo y verifi co necesidades de los seres vivos.",
         "dba": [
           "DBA-NAT-3-6 Comprende las relaciones de los seres vivos con otros organismos de su entorno (intra e interespecíficas) y las explica como esenciales para su supervivencia en un ambiente determinado."
         ],
         "evidencias": [
           "NAT-3-D6-E1 Interpreta las relaciones de competencia, territorialidad, gregarismo, depredación, parasitismo, comensalismo, amensalismo y mutualismo, como esenciales para la supervivencia de los organismos en un ecosistema, dando ejemplos.",
-          "Describe estrategias y mecanismos de adaptación de los seres vivos a su entorno que les permiten posibilidades de supervivencia."
+          "NAT-3-D6-E2 DObserva y describe características que le permiten a algunos organismos camuflarse con el entorno, para explicar cómo mejoran su posibilidad de supervivencia."
         ],
         "saberes": [
           "Relaciones biológicas: • Relaciones intraespecíficas • Relaciones interespecíficas",
@@ -179,17 +179,17 @@
     "4": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Identifico fenómenos de camuflaje en el entorno y los relaciono con las necesidades de los seres vivos. Explico adaptaciones de los seres vivos al ambiente. Identifico adaptaciones de los seres vivos teniendo en cuenta las características de los ecosistemas en que viven. Establezco las adaptaciones de algunos seres vivos en ecosistemas de Colombia.",
+        "estandar": "Explico adaptaciones de los seres vivos al ambiente.",
         "dba": [
           "DBA-NAT-3-6 Comprende las relaciones de los seres vivos con otros organismos de su entorno (intra e interespecíficas) y las explica como esenciales para su supervivencia en un ambiente determinado."
         ],
         "evidencias": [
-          "Predice qué ocurrirá en las poblaciones de organismos de un ecosistema de su región, dada una variación en las condiciones físicas de su entorno.",
+          "NAT-3-D6-E3 Predice qué ocurrirá con otros organismos del mismo ecosistema, dada una variación en sus condiciones ambientales o en una población de organismos.",
           "NAT-3-D6-E4 Describe y registra las relaciones intra e interespecíficas que le permiten sobrevivir como ser humano en un ecosistema."
         ],
         "saberes": [
           "Relaciones intra e interespecíficas en los seres humanos.",
-          "Importancia de las condiciones físicas en la adaptación y supervivencia en los seres vivos en los ecosistemas."
+          "Importancia de las condiciones físicas en la adaptación y supervivencia de los seres vivos en los ecosistemas."
         ],
         "socioemocional": null,
         "diccionario": null,

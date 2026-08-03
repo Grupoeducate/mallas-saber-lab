@@ -6,8 +6,10 @@
   "periodos": {
     "1": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros. Para esto, utiliza su conocimiento acerca de la estructura de los textos."
         ],
@@ -29,8 +31,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Expresa de manera oral y escrita su posición acerca de un tema conocido teniendo en cuenta a quién está dirigido el texto. Para esto, define el tono del mensaje de acuerdo con el contexto o la cercanía con su audiencia (formal o informal).",
           "Expresa de manera oral su punto de vista acerca de un tema controversial previamente estudiado. Para esto, consulta fuentes confiables, selecciona y organiza la información y la utiliza para desarrollar sus ideas de una manera clara y estructurada."
@@ -49,8 +53,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos de mediana longitud relacionados con temas de interés general y de su entorno académico y la comparte con otros.",
           "Mantiene discusiones formales acerca de temas académicos que ha preparado previamente. Para esto, sigue las ideas de un tema propuesto, expresa su opinión y la contrasta con la de otros."
@@ -69,8 +75,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Explica tanto en forma oral como escrita las causas y los efectos, así como el problema y la solución de una situación. Para esto, define la relación entre las ideas que quiere explicar y utiliza el lenguaje correspondiente."
         ],
@@ -98,8 +106,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Redacta textos argumentativos con una estructura clara y sencilla sobre temas académicos. Para esto, sigue modelos y un proceso de planeación, escritura, revisión y edición; se apoya en su profesor(a) y/o compañeros(as) de clase."
         ],
@@ -119,8 +129,10 @@
     ],
     "2": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos de mediana longitud."
         ],
@@ -139,8 +151,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Expresa de manera oral y escrita su posición acerca de un tema conocido.",
           "Expresa de manera oral su punto de vista acerca de un tema controversial."
@@ -160,8 +174,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos.",
           "Mantiene discusiones formales acerca de temas académicos."
@@ -180,8 +196,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Explica las causas y los efectos, así como el problema y la solución."
         ],
@@ -200,8 +218,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Redacta textos argumentativos con una estructura clara y sencilla."
         ],
@@ -222,8 +242,10 @@
     ],
     "3": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos."
         ],
@@ -241,8 +263,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Expresa su posición acerca de un tema conocido.",
           "Expresa su punto de vista acerca de un tema controversial."
@@ -261,8 +285,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Identifica propósito de textos orales y escritos.",
           "Mantiene discusiones formales."
@@ -281,8 +307,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Explica causas, efectos, problemas y soluciones."
         ],
@@ -300,8 +328,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Redacta textos argumentativos.",
           "Escribe resúmenes e informes."
@@ -321,8 +351,10 @@
     ],
     "4": [
       {
-        "componente": "Lingüístico",
-        "estandar": ["Escucha"],
+        "componente": "Lingüístico (Escucha)",
+        "estandar": [
+          "Escucha"
+        ],
         "dba": [
           "Identifica el propósito de textos orales y escritos."
         ],
@@ -343,8 +375,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Conversación"],
+        "componente": "Lingüístico (Conversación)",
+        "estandar": [
+          "Conversación"
+        ],
         "dba": [
           "Expresa su posición acerca de un tema conocido.",
           "Expresa su punto de vista acerca de un tema controversial."
@@ -362,8 +396,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Lingüístico",
-        "estandar": ["Monólogo"],
+        "componente": "Lingüístico (Monólogo)",
+        "estandar": [
+          "Monólogo"
+        ],
         "dba": [
           "Mantiene discusiones formales acerca de temas académicos."
         ],
@@ -381,8 +417,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Sociolingüístico",
-        "estandar": ["Lectura"],
+        "componente": "Sociolingüístico (Lectura)",
+        "estandar": [
+          "Lectura"
+        ],
         "dba": [
           "Explica causas y efectos de una situación."
         ],
@@ -400,8 +438,10 @@
         "fuente": "Grupo Edúcate Colombia"
       },
       {
-        "componente": "Pragmático",
-        "estandar": ["Escritura"],
+        "componente": "Pragmático (Escritura)",
+        "estandar": [
+          "Escritura"
+        ],
         "dba": [
           "Redacta textos argumentativos con estructura clara."
         ],

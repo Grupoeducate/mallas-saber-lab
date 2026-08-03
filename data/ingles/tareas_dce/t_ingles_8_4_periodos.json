@@ -1,0 +1,300 @@
+{
+  "area": "Inglés",
+  "grado": "8",
+  "nombre_archivo": "t_ingles_8_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Community Newsroom",
+            "un_reto_sugerido": "Identificar ideas generales y detalles específicos en un reporte de noticias local para crear un boletín informativo.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar sonidos de ambiente de una ciudad y predecir de qué tratará la noticia (un mercado, una escuela, un parque).",
+              "visual": "Completar un mapa mental de '5 Ws' (Who, What, When, Where, Why) basado en una conversación breve acompañada de imágenes.",
+              "produccion": "Inferir una conclusión sobre un audio de problemática comunitaria y proponer una solución breve de una oración."
+            },
+            "para_pensar": [
+              "¿Cómo cambian las noticias según la persona que las cuenta?",
+              "¿Por qué es importante verificar los detalles concretos antes de compartir una información?"
+            ],
+            "pistas_del_exito": [
+              "Distingue entre la idea principal y los datos secundarios en un audio de 2 minutos.",
+              "Extrae información específica sobre lugares y tiempos sin apoyo del texto escrito."
+            ],
+            "un_refuerzo": "Uso de transcripciones con palabras clave resaltadas para mejorar la discriminación auditiva."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The School Counselor",
+            "un_reto_sugerido": "Brindar consejos y establecer reglas escolares usando verbos modales (Should, Must, Have to) en un juego de roles.",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar situaciones problemáticas del colegio (llegar tarde, no estudiar) y reaccionar con mímica.",
+              "visual": "Crear una pirámide de 'Obligación vs. Sugerencia' clasificando frases con Modals.",
+              "produccion": "Participar en un diálogo donde un estudiante plantea un dilema académico y el 'consejero' usa 'You should...' o 'You must...'."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre una obligación y un consejo en la vida real?",
+              "¿Cómo influyen los modales en la cortesía de una conversación?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza 'Should' para dar consejos de forma gramaticalmente correcta.",
+              "Diferencia el uso de 'Must' frente a 'Have to' en situaciones de autoridad."
+            ],
+            "un_refuerzo": "Infografía sobre los niveles de intensidad de los verbos modales."
+          }
+        },
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "TED-Ed Mini Talks",
+            "un_reto_sugerido": "Realizar una exposición breve y ensayada sobre un tema académico de interés personal usando vocabulario específico.",
+            "ruta_de_exploracion": {
+              "explorar": "Elegir un tema 'pasión' y explicarlo en 30 segundos solo con palabras clave.",
+              "visual": "Diseñar una diapositiva física (cartelera) que use solo imágenes como apoyo visual para el monólogo.",
+              "produccion": "Presentar una charla de 2 minutos sobre un asunto de interés general, expresando emociones y razones claras."
+            },
+            "para_pensar": [
+              "¿Cómo ayuda la preparación previa a disminuir el nerviosismo al hablar?",
+              "¿Por qué es importante incluir sentimientos personales en una exposición académica?"
+            ],
+            "pistas_del_exito": [
+              "Mantiene la fluidez durante 2 minutos usando notas de apoyo mínimas.",
+              "Utiliza vocabulario técnico relacionado con el tema elegido."
+            ],
+            "un_refuerzo": "Grabación previa en el celular para autoevaluar la pronunciación antes de la clase."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Story Architects",
+            "un_reto_sugerido": "Descomponer la estructura de un texto narrativo y argumentativo identificando sus partes y el propósito del autor.",
+            "ruta_de_exploracion": {
+              "explorar": "Skimming: Leer un texto en 30 segundos y decir de qué trata basándose solo en el título y subtítulos.",
+              "visual": "Mapa de trama: Dibujar el nudo y el desenlace de la historia leída usando conectores temporales.",
+              "produccion": "Listar puntos a favor y en contra de un texto argumentativo sencillo usando las palabras 'Somewhere/Anywhere'."
+            },
+            "para_pensar": [
+              "¿Cómo cambia nuestra lectura cuando conocemos el propósito del autor (informar, persuadir, divertir)?",
+              "¿Por qué la recurrencia de ideas nos ayuda a identificar el tema central?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el inicio, nudo y desenlace en un texto narrativo de mediana extensión.",
+              "Diferencia la estructura de un párrafo descriptivo de uno argumentativo."
+            ],
+            "un_refuerzo": "Uso de resaltadores de diferentes colores para marcar la estructura organizativa del texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Witness Statement",
+            "un_reto_sugerido": "Redactar una narración coherente sobre un hecho cotidiano usando Pasado Simple y Continuo.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'La foto del crimen': describir qué estaba pasando en una imagen justo antes de un evento.",
+              "visual": "Organizador gráfico de secuencia temporal (Past Continuous para el fondo, Past Simple para la acción principal).",
+              "produccion": "Escribir un párrafo de 80 palabras justificando una acción pasada personal con coherencia y ortografía editada."
+            },
+            "para_pensar": [
+              "¿Por qué el pasado continuo ayuda a poner al lector en contexto?",
+              "¿Cómo mejora la calidad de un texto el proceso de edición y autocorrección?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza correctamente las terminaciones '-ed' y los verbos irregulares.",
+              "Enlaza oraciones usando conectores de secuencia (Then, Suddenly, After that)."
+            ],
+            "un_refuerzo": "Guía de edición rápida con checklist de ortografía y puntuación."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Flight Controller",
+            "un_reto_sugerido": "Inferir la ubicación y el estado de una situación a partir de audios con ruidos ambientales e instrucciones específicas.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar fragmentos de diálogos grabados en lugares ruidosos (aeropuertos, estadios) y adivinar el lugar.",
+              "visual": "Diagrama de flujo de instrucciones: dibujar los pasos escuchados en una conversación de aula.",
+              "produccion": "Escribir tres ideas generales de un audio académico tras una sola escucha."
+            },
+            "para_pensar": [
+              "¿Qué importancia tienen los sonidos de fondo para entender un mensaje oral?",
+              "¿Cómo podemos inferir información que no se dice explícitamente?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la palabra clave que define el contexto del audio.",
+              "Extrae información implícita sobre el estado de ánimo de los hablantes."
+            ],
+            "un_refuerzo": "Ejercicios de audio con velocidades variables para entrenar el oído."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Treasure Hunt Guide",
+            "un_reto_sugerido": "Dar y seguir direcciones precisas utilizando adverbios de lugar en un mapa interactivo del colegio.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Gallina Ciega': guiar a un compañero por el salón usando solo 'Behind, Next to, Between'.",
+              "visual": "Crear un mapa del barrio etiquetando puntos de referencia con adverbios de lugar específicos.",
+              "produccion": "Simulacro de entrevista: Un turista perdido pregunta por lugares y el estudiante responde usando señas y adverbios."
+            },
+            "para_pensar": [
+              "¿Por qué la precisión espacial es vital en una lengua extranjera?",
+              "¿Cómo ayudan los gestos a compensar la falta de vocabulario técnico?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza al menos 5 adverbios de lugar diferentes en una conversación fluida.",
+              "Responde preguntas sobre ubicación sin recurrir al español."
+            ],
+            "un_refuerzo": "Flashcards con pictogramas de preposiciones y adverbios de lugar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Logical Investigator",
+            "un_reto_sugerido": "Analizar un manual de instrucciones o texto científico identificando relaciones de causa-efecto y orden espacial.",
+            "ruta_de_exploracion": {
+              "explorar": "Seguir una instrucción de dibujo absurda para entender la importancia del orden temporal.",
+              "visual": "Hacer un diagrama de espina de pescado (Ishikawa) para representar causas y efectos de un texto leído.",
+              "produccion": "Subrayar en un texto los conectores de contraste y adición, explicando su función en el párrafo."
+            },
+            "para_pensar": [
+              "¿Cómo facilita el orden temporal la comprensión de un manual?",
+              "¿Qué tipo de información suele ser implícita en un texto científico?"
+            ],
+            "pistas_del_exito": [
+              "Sigue instrucciones escritas de 4 o más pasos con éxito.",
+              "Identifica la relación entre una acción y su consecuencia en el texto."
+            ],
+            "un_refuerzo": "Lecturas cortas de experimentos sencillos con glosario de apoyo."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Time Capsule Interview",
+            "un_reto_sugerido": "Intercambiar experiencias pasadas y planes futuros con compañeros para crear un perfil generacional.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevista relámpago: 'What did you do yesterday?' y 'What will you do tomorrow?' en 2 minutos.",
+              "visual": "Línea de vida grupal: pegar fotos o dibujos de eventos pasados y metas futuras del curso.",
+              "produccion": "Diálogo grabado sobre experiencias del mundo real (viajes, logros escolares) usando pasado y futuro."
+            },
+            "para_pensar": [
+              "¿Cómo conectamos nuestras lecciones del pasado con nuestros planes del futuro?",
+              "¿Por qué hablar de experiencias personales genera más confianza al usar el idioma?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia gramaticalmente entre acciones terminadas y planes inciertos.",
+              "Mantiene la conversación activa haciendo preguntas de seguimiento."
+            ],
+            "un_refuerzo": "Lista de conectores temporales para pasado (ago, last) y futuro (next, in)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "Student Guinness Records",
+            "un_reto_sugerido": "Escribir un reporte comparativo sobre habilidades y talentos del salón usando comparativos y superlativos.",
+            "ruta_de_exploracion": {
+              "explorar": "Competencias físicas simples (quién salta más alto, quién es más rápido) y anotar resultados.",
+              "visual": "Cuadro de medallas: Usar adjetivos cortos y largos para premiar categorías (The tallest, The most creative).",
+              "produccion": "Redactar un artículo de 2 párrafos justificando por qué ciertos compañeros o lugares son los 'más' o 'mejores' en algo."
+            },
+            "para_pensar": [
+              "¿Cómo influyen los superlativos en la publicidad y las noticias?",
+              "¿Por qué es importante justificar una comparación con hechos y no solo con opiniones?"
+            ],
+            "pistas_del_exito": [
+              "Aplica las reglas ortográficas de comparativos y superlativos (y -> ier, doble consonante).",
+              "Utiliza conectores de adición para enriquecer la descripción."
+            ],
+            "un_refuerzo": "Tabla comparativa de adjetivos irregulares (Good, Bad, Far)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Monólogo)",
+          "guia_didactica": {
+            "la_estrategia": "The Great Debate Arena",
+            "un_reto_sugerido": "Participar en un debate sobre un tema de actualidad monitoreando activamente la propia pronunciación.",
+            "ruta_de_exploracion": {
+              "explorar": "Ejercicios de 'Shadowing': repetir frases de un video de debate para imitar la entonación.",
+              "visual": "Mapa de argumentos: Dividir una hoja en 'Pro' y 'Con' con frases de apertura para debatir.",
+              "produccion": "Intervención oral de 3 minutos defendiendo una postura con razones claras y sencillas."
+            },
+            "para_pensar": [
+              "¿Cómo podemos corregir nuestra propia pronunciación mientras hablamos?",
+              "¿Por qué es importante escuchar el argumento del otro antes de responder?"
+            ],
+            "pistas_del_exito": [
+              "Autocorrige errores de pronunciación comunes detectados en periodos anteriores.",
+              "Expresa emociones y sentimientos sobre el tema del debate de forma respetuosa."
+            ],
+            "un_refuerzo": "Uso de aplicaciones de reconocimiento de voz para practicar frases de debate."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Genre Scavenger Hunt",
+            "un_reto_sugerido": "Clasificar diversos textos del entorno según su estructura (descriptivo, narrativo, argumentativo) y propósito.",
+            "ruta_de_exploracion": {
+              "explorar": "Carrera de observación: identificar en 5 minutos si un texto es una receta, una noticia o un anuncio.",
+              "visual": "Rompecabezas textual: armar un texto desordenado identificando la introducción, el nudo y el desenlace.",
+              "produccion": "Escribir un análisis corto de un elemento cultural (costumbre) encontrado en una lectura narrativa."
+            },
+            "para_pensar": [
+              "¿Por qué la estructura de un texto argumentativo es diferente a la de un cuento?",
+              "¿Cómo ayudan los elementos culturales a entender el trasfondo de una historia?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el propósito comunicativo de diferentes géneros textuales.",
+              "Identifica la recurrencia de ideas clave en un texto argumentativo."
+            ],
+            "un_refuerzo": "Colección de textos auténticos (folletos, cuentos cortos, artículos) para análisis grupal."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "My Future Project Manifesto",
+            "un_reto_sugerido": "Redactar y editar un manifiesto personal sobre planes futuros, justificando cada acción con comparaciones entre el presente y el mañana.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Dónde estaré en 5 años? Usar adjetivos largos para describir metas.",
+              "visual": "Tablero de visión (Vision Board) con pies de foto explicativos usando comparativos y superlativos.",
+              "produccion": "Producir un texto final de tres párrafos, editado en clase, que narre sus metas y las justifique con razones sólidas."
+            },
+            "para_pensar": [
+              "¿Cómo el uso de comparativos ayuda a mostrar el progreso en nuestros planes?",
+              "¿Por qué la edición colectiva (peer editing) mejora la claridad de nuestras ideas?"
+            ],
+            "pistas_del_exito": [
+              "Justifica planes futuros usando la estructura 'I will... because...'.",
+              "Muestra una mejora notable en la ortografía y puntuación tras el proceso de edición."
+            ],
+            "un_refuerzo": "Guía de conectores de causa-efecto (consequently, therefore, so) para la redacción final."
+          }
+        }
+      ]
+    }
+  ]
+}

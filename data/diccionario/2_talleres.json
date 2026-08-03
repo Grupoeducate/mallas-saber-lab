@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "grado": 2,
+    "area": "Proyecto Socioemocional",
+    "descripcion_grado": "Planeación anual de talleres socioemocionales para estudiantes de grado segundo, con enfoque vivencial y lenguaje sencillo para docentes no especialistas."
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G2-P1-T1",
+          "nombre_taller": "Mi Mapa de Gratitud",
+          "conceptos_relacionados": [
+            "Gratitud",
+            "Conciencia"
+          ],
+          "proposito_experiencia": "Fomentar el reconocimiento y la expresión de agradecimiento, conectando con la conciencia de las propias emociones.",
+          "recursos_eco": "Hojas de papel, crayones, imágenes de situaciones cotidianas.",
+          "momento_inicio_conexion": "Pregunte a los niños: '¿Qué es algo bonito que alguien hizo por ti hoy? ¿O algo que te guste mucho de tu día?'. Muestre algunas imágenes (un amigo compartiendo, un almuerzo rico).",
+          "momento_desarrollo_vivencia": "Pida a cada niño que dibuje o escriba algo por lo que sienta gratitud. Luego, invítelos a compartir 'lo que piensan' sobre lo que dibujaron. Por ejemplo, 'Me sentí feliz cuando mi amigo me prestó sus sacapuntas'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué sientes cuando agradeces?' y '¿Cómo cambia tu emoción cuando piensas en cosas bonitas?'.",
+          "revision_proposito": "Observar la capacidad del niño para identificar y expresar gratitud, y para reflexionar sobre la emoción asociada.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P1-T2",
+          "nombre_taller": "La Pausa de la Serenidad",
+          "conceptos_relacionados": [
+            "Serenidad",
+            "Identificación de Conciencia",
+            "Autorregulación"
+          ],
+          "proposito_experiencia": "Practicar técnicas para mantener la calma y reconocer las propias emociones para gestionarlas.",
+          "recursos_eco": "Música suave, campana o cuenco tibetano, espacio tranquilo.",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces nuestro cuerpo se siente tenso o nuestra mente va muy rápido. Hoy vamos a aprender a calmarnos'.",
+          "momento_desarrollo_vivencia": "Dirija un ejercicio de 3 respiraciones lentas, poniendo las manos sobre el pecho y pensando en algo que necesiten para calmarse. Luego, pida que comenten 'lo que sintieron sin juzgar'. 'Recuperé serenidad cuando respiré después de enojarme en el recreo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué parte de tu cuerpo sentiste más tensa?' y '¿Qué puedes hacer la próxima vez que sientas enojo o tensión?'.",
+          "revision_proposito": "Verificar la aplicación de la técnica de respiración y la capacidad de identificar cambios en el estado emocional.",
+          "tiempo_aplicacion": "15 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P1-T3",
+          "nombre_taller": "El Detective de Emociones",
+          "conceptos_relacionados": [
+            "Identificación de Conciencia",
+            "Reconocimiento del Necesidad de Apoyo",
+            "Empatía y Perspectiva"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad de identificar emociones propias y ajenas, comprendiendo la importancia de brindar apoyo.",
+          "recursos_eco": "Tarjetas con diferentes expresiones faciales (alegría, tristeza, enojo, miedo, asombro).",
+          "momento_inicio_conexion": "Muestre una tarjeta con una expresión y pregunte: '¿Qué emoción crees que siente esta persona? ¿Cómo lo sabes?'.",
+          "momento_desarrollo_vivencia": "Presente varias tarjetas con emociones. Pida a los niños que imiten la expresión y expliquen 'cómo cambia su pensamiento' al sentirla. Luego, proponga situaciones breves donde alguien necesita apoyo (está triste, cansado) y pida que propongan conductas consideradas. 'Si este niño está triste, ¿cómo podríamos ser su corazón que escucha?'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo te das cuenta de que alguien necesita consideración?' y '¿Qué gesto pequeño cambia el día de un compañero?'.",
+          "revision_proposito": "Observar la capacidad de los niños para identificar emociones y proponer acciones empáticas.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G2-P2-T1",
+          "nombre_taller": "El Compromiso de la Semilla",
+          "conceptos_relacionados": [
+            "Compromiso",
+            "Constancia"
+          ],
+          "proposito_experiencia": "Fomentar la autoconfianza y la perseverancia al cumplir pequeñas promesas.",
+          "recursos_eco": "Tarjetas pequeñas, lápices, una planta pequeña o imagen de semilla.",
+          "momento_inicio_conexion": "Muestre la semilla o la imagen y diga: 'Esta semilla, para crecer, necesita constancia. Como nuestros compromisos, que nos ayudan a crecer'.",
+          "momento_desarrollo_vivencia": "Cada estudiante recibe una tarjeta y escribe una pequeña acción que se compromete a realizar durante la jornada (organizar su mesa, terminar una tarea, cuidar materiales). Al final del día, revisan si cumplieron. Use la frase 'Lo que digo, lo cumplo'. 'Mostré constancia cuando practiqué la tabla del 2 todos los días'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué compromiso escogiste?' y '¿Qué te ayudó a cumplirlo?'.",
+          "revision_proposito": "Observar el nivel de cumplimiento del compromiso y la capacidad de reflexionar sobre los desafíos y logros.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P2-T2",
+          "nombre_taller": "La Voz de Mi Autoconfianza",
+          "conceptos_relacionados": [
+            "Autoconfianza",
+            "Consideración"
+          ],
+          "proposito_experiencia": "Fortalecer la confianza en sí mismos y la consideración hacia los logros de los demás.",
+          "recursos_eco": "Hojas de papel, crayones, espacio para compartir en grupo.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada uno de nosotros es bueno en muchas cosas. Hoy vamos a celebrar lo que ya podemos hacer'.",
+          "momento_desarrollo_vivencia": "Cada niño escribe o dibuja tres cosas que sabe hacer bien. Luego, en una ronda voluntaria, cada estudiante comparte solo una, y el docente reconoce específicamente el esfuerzo. 'Sentí autoconfianza cuando expliqué un ejercicio frente a mis compañeros'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué elegiste como fortaleza personal?' y '¿Qué sientes cuando alguien reconoce algo que haces bien?'.",
+          "revision_proposito": "Evaluar la capacidad de identificar fortalezas personales y la expresión de autoestima.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P2-T3",
+          "nombre_taller": "El Volcán de la Paciencia",
+          "conceptos_relacionados": [
+            "Gestión de la Rabia",
+            "Resolución de Conflictos",
+            "Autorregulación"
+          ],
+          "proposito_experiencia": "Desarrollar estrategias para manejar la rabia y resolver conflictos de forma pacífica.",
+          "recursos_eco": "Imágenes de volcanes, semáforo de emociones (rojo, amarillo, verde), papel y lápices.",
+          "momento_inicio_conexion": "Muestre la imagen de un volcán y diga: 'A veces sentimos una rabia muy grande que es como un volcán a punto de explotar. ¿Qué podemos hacer para que no explote?'.",
+          "momento_desarrollo_vivencia": "Explique el semáforo de las emociones (rojo: parar, amarillo: pensar, verde: actuar). Presente una situación de conflicto y pida soluciones. 'Intento solucionar los problemas con mis amigos hablando con calma'. 'Uso la técnica de respirar para calmarme'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué haces cuando sientes mucha rabia?' y '¿Cómo te ayuda pensar antes de actuar en un conflicto?'.",
+          "revision_proposito": "Observar la capacidad de los niños para identificar la emoción de la rabia y proponer estrategias de autorregulación.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G2-P3-T1",
+          "nombre_taller": "Constructores de Puentes",
+          "conceptos_relacionados": [
+            "Cooperación",
+            "Comunicación Asertiva",
+            "Optimismo"
+          ],
+          "proposito_experiencia": "Fomentar el trabajo en equipo, la comunicación efectiva y una actitud positiva ante los desafíos compartidos.",
+          "recursos_eco": "Bloques, legos o materiales de construcción; tarjetas con frases asertivas.",
+          "momento_inicio_conexion": "Divida al grupo en parejas. Diga: '¡Vamos a construir el puente más fuerte! Pero para eso, necesitamos escucharnos y hablar con respeto'.",
+          "momento_desarrollo_vivencia": "En parejas, construyen una figura. Regla: cada 30 segundos cambian el turno. Transforman frases negativas en asertivas. 'Cooperé con mi grupo cuando ayudé a escribir el cartel'. 'Mostré optimismo cuando dije 'practicaré más''.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo se sintieron al trabajar en pareja?' y '¿Qué aprendiste sobre escuchar al otro?'.",
+          "revision_proposito": "Evaluar la participación en el trabajo cooperativo y la calidad de la comunicación.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P3-T2",
+          "nombre_taller": "El Espejo de las Fortalezas",
+          "conceptos_relacionados": [
+            "Valoración del Otro",
+            "Autoconfianza",
+            "Optimismo"
+          ],
+          "proposito_experiencia": "Promover la valoración de las cualidades de los demás y la propia, cultivando una perspectiva optimista.",
+          "recursos_eco": "Espejo pequeño, hojas de papel, marcadores.",
+          "momento_inicio_conexion": "Sostenga el espejo y diga: 'Hoy vamos a mirar más allá y descubrir los tesoros de cada uno'.",
+          "momento_desarrollo_vivencia": "Cada niño escribe una cualidad que admira de un compañero y se la entrega. Luego se miran al espejo y escriben una propia. 'Trato de entender el punto de vista de mi amigo'. 'Busco la parte que sí puedo mejorar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo te sentiste al recibir un cumplido?' y '¿Qué te ayuda a pensar en lo que sí puedes hacer?'.",
+          "revision_proposito": "Observar la capacidad de reconocer cualidades positivas en otros y en sí mismos.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P3-T3",
+          "nombre_taller": "Caminos hacia la Reconciliación",
+          "conceptos_relacionados": [
+            "Petición de Disculpas",
+            "Reconciliación",
+            "Empatía y Perspectiva"
+          ],
+          "proposito_experiencia": "Enseñar la importancia de pedir disculpas, reparar errores y buscar la reconciliación.",
+          "recursos_eco": "Tarjetas con conflictos ficticios, títere o personaje de peluche.",
+          "momento_inicio_conexion": "Presente al títere y diga: 'A veces el títere se equivoca y lastima sin querer. ¿Qué debe hacer para volver a estar bien?'.",
+          "momento_desarrollo_vivencia": "Uso de tarjetas de conflictos. Deciden: '¿Qué pasó?', '¿Qué puedo decir?', '¿Cómo podemos volver a estar bien?'. Practican frases de perdón. 'Nos reconciliamos cuando hablamos y volvimos a jugar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué es lo más difícil de reconciliarse?' y '¿Por qué es importante reparar lo que pasó?'.",
+          "revision_proposito": "Evaluar la disposición de los niños para pedir disculpas y buscar soluciones.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G2-P4-T1",
+          "nombre_taller": "El Equipo de la Responsabilidad",
+          "conceptos_relacionados": [
+            "Responsabilidad Social",
+            "Cumplimiento de Normas",
+            "Cooperación"
+          ],
+          "proposito_experiencia": "Incentivar el cumplimiento de normas y la colaboración para el bienestar colectivo.",
+          "recursos_eco": "Lista de responsabilidades del aula, insignias de 'ayudante responsable'.",
+          "momento_inicio_conexion": "Diga a los niños: 'En nuestro salón, todos somos un equipo y cada uno tiene una parte importante'.",
+          "momento_desarrollo_vivencia": "Asignación de pequeñas responsabilidades diarias. Revisión de cumplimiento al final del día. 'Cumplo las normas aunque no me estén mirando'. 'Cumplo con mis deberes aunque me cueste'.",
+          "momento_cierre_integracion": "Pregunte: '¿Por qué es importante cumplir lo que decimos?' y '¿Cómo nos ayuda la cooperación?'.",
+          "revision_proposito": "Observar la participación activa en las responsabilidades del grupo.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P4-T2",
+          "nombre_taller": "El Tesoro de la Ayuda",
+          "conceptos_relacionados": [
+            "Ayuda y Colaboración",
+            "Compromiso",
+            "Amistad"
+          ],
+          "proposito_experiencia": "Fortalecer la disposición a colaborar y el compromiso con el bienestar de los demás.",
+          "recursos_eco": "Caja decorada, papeles con necesidades simples.",
+          "momento_inicio_conexion": "Muestre el cofre: 'Aquí hay pequeños tesoros que nos ayudan a ser mejores amigos'.",
+          "momento_desarrollo_vivencia": "Sacan una 'necesidad' del cofre y proponen soluciones en parejas. 'Busco ayuda para solucionar problemas'. 'Me comprometí cuando terminé el dibujo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te hace sentir bien cuando ayudas?' y '¿Cómo ayuda la amistad a resolver problemas?'.",
+          "revision_proposito": "Evaluar la capacidad de proponer acciones de ayuda y colaboración.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G2-P4-T3",
+          "nombre_taller": "El Jardín del Buen Comportamiento",
+          "conceptos_relacionados": [
+            "Comportamiento",
+            "Respeto",
+            "Serenidad"
+          ],
+          "proposito_experiencia": "Promover un comportamiento respetuoso, amable y sereno en el entorno escolar.",
+          "recursos_eco": "Dibujo grande de un jardín, pegatinas de flores, reglas de comportamiento.",
+          "momento_inicio_conexion": "Diga: 'Nuestro salón es como un jardín. Para que crezcan flores, necesitamos cuidarlo con buen comportamiento'.",
+          "momento_desarrollo_vivencia": "Repaso de reglas de amabilidad. Los niños ponen flores en el jardín por acciones positivas. 'Trato a todos con amabilidad'. 'Recuperé serenidad cuando respiré'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa tratar a todos con amabilidad?' y '¿Cómo nos ayuda la serenidad?'.",
+          "revision_proposito": "Observar la aplicación de las normas de comportamiento y convivencia.",
+          "tiempo_aplicacion": "20 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "identificacion_grado": 5,
+  "area_identificacion": "Proyecto Socioemocional",
+  "periodo_1": [
+    {
+      "id": "CON-001",
+      "concepto": "Autoconocimiento",
+      "definicion_pedagogica": "En grado 5, el autoconocimiento implica que el estudiante reconozca con mayor precisión sus propias emociones, fortalezas, limitaciones, intereses y valores, comprendiendo cómo estos elementos configuran su identidad personal. Supone que el niño o preadolescente pueda identificar qué situaciones le generan bienestar o malestar, qué le motiva, qué le cuesta trabajo y cómo sus características influyen en la forma en que se relaciona y aprende. Este nivel de autoconocimiento es la base para la autonomía y la toma de decisiones responsables, ya que facilita que el estudiante haga elecciones más acordes con sus metas y con el impacto que desea tener en los demás.",
+      "definicion_estudiante": "El autoconocimiento es la capacidad de reconocer qué emociones sientes, cuáles son tus fortalezas, en qué necesitas mejorar y qué cosas son importantes para ti. Cuando te conoces mejor, entiendes por qué reaccionas de cierta manera, qué te hace feliz o te enoja y puedes tomar decisiones más cuidadosas sobre lo que haces y con quién te relacionas.",
+      "habilidad_malla": "Auto conocimiento",
+      "ejemplo_aula": "\"Pude identificar qué cosas me hacen sentir feliz y cuáles me enojan para conocer mejor mi carácter.\"",
+      "evidencia_logro": "El docente observa que el estudiante describe con claridad sus emociones en distintas situaciones, nombra fortalezas y dificultades personales y relaciona estas características con su forma de participar en clase, de trabajar en equipo y de enfrentar retos académicos.",
+      "tip_psicologico": "Proponer actividades de autoexploración como líneas de vida, mapas de intereses o listas de fortalezas y retos, para que el estudiante reflexione sobre quién es y cómo ha cambiado con el tiempo. Invitarle a analizar cómo sus emociones y rasgos personales influyen en sus decisiones y relaciones, fomentando un diálogo interno más consciente. Reforzar cuando expresa con honestidad lo que siente y necesita, vinculando ese autoconocimiento con la posibilidad de cuidarse y de relacionarse mejor con los demás."
+    },
+    {
+      "id": "CON-002",
+      "concepto": "Autorregulación Emocional",
+      "definicion_pedagogica": "La autorregulación emocional en grado 5 se refiere a la capacidad del estudiante para manejar de forma intencional emociones intensas como la rabia, la frustración o la vergüenza, de manera que no dominen su comportamiento ni dañen sus relaciones. Implica reconocer señales internas de activación, detenerse a pensar antes de actuar y aplicar estrategias concretas de calma, como la respiración profunda, el conteo, el cambio de foco de atención o la búsqueda de apoyo. Esta habilidad se vincula directamente con la competencia de regulación emocional y con el estándar de gestionar emociones complejas con autonomía y responsabilidad en contextos escolares desafiantes.",
+      "definicion_estudiante": "La autorregulación emocional es aprender a calmarte y a pensar antes de actuar cuando sientes una emoción fuerte. Significa darte cuenta de que estás muy enojado, triste o nervioso, usar estrategias como respirar profundo, contar o pedir un momento, y decidir cómo responder sin lastimarte ni lastimar a otros.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Cuando sentí rabia, respiré profundo y conté hasta diez en lugar de gritar.\"",
+      "evidencia_logro": "El docente constata que, en situaciones de tensión o conflicto, el estudiante reconoce su estado emocional, retrasa la reacción impulsiva y pone en práctica al menos una estrategia de calma antes de responder, lo que se traduce en interacciones más respetuosas y en una mejor concentración en clase.",
+      "tip_psicologico": "Trabajar con el estudiante un plan personal de regulación que incluya sus señales de alerta y las estrategias que mejor le funcionan, revisándolo periódicamente. Practicar dichas estrategias en contextos controlados para que estén disponibles cuando la emoción sea intensa. Después de un episodio difícil, analizar juntos qué hizo bien para regularse y qué podría mejorar, reforzando cada avance en autocontrol."
+    },
+    {
+      "id": "CON-003",
+      "concepto": "Empatía Básica",
+      "definicion_pedagogica": "La empatía básica en este nivel supone que el estudiante sea capaz de percibir y comprender con mayor precisión las emociones de los demás, utilizando tanto señales verbales como no verbales, y que esa comprensión guíe respuestas respetuosas y solidarias. Implica ponerse en el lugar del otro, reconocer el impacto de las propias palabras y conductas y ajustar el comportamiento para cuidar el vínculo. Esta habilidad se relaciona con las competencias de habilidades sociales y convivencia y es fundamental para prevenir situaciones de acoso, exclusión y conflictos reiterados en el grupo.",
+      "definicion_estudiante": "La empatía básica es intentar comprender lo que sienten las personas que te rodean para poder relacionarte mejor con ellas. Es fijarte en su expresión, en su tono de voz y en lo que cuentan, imaginar cómo se sienten y tratar de responder de una forma que las ayude o, al menos, que no les haga daño.",
+      "habilidad_malla": "Convivencia y ciudadanía",
+      "ejemplo_aula": "\"Me di cuenta de que mi compañero estaba triste y le pregunté si necesitaba ayuda.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica correctamente situaciones en las que un compañero se siente triste, preocupado o molesto, se acerca a preguntar o a ofrecer apoyo y evita actitudes de burla o indiferencia ante el malestar ajeno.",
+      "tip_psicologico": "Promover dinámicas de reflexión sobre situaciones reales del curso, preguntando cómo cree que se sintieron las distintas personas involucradas. Reforzar verbalmente las conductas empáticas, señalando el efecto positivo que tienen en el ambiente de aula. Invitar al estudiante a recordar momentos en los que agradeció que alguien lo entendiera, para que pueda transferir esa experiencia a su forma de tratar a otros."
+    }
+  ],
+  "periodo_2": [
+    {
+      "id": "CON-004",
+      "concepto": "Coraje Emocional",
+      "definicion_pedagogica": "El coraje emocional se entiende como la valentía para reconocer, aceptar y expresar emociones propias, especialmente aquellas que resultan difíciles de admitir como el miedo, la tristeza, la culpa o la vergüenza. En grado 5, esta habilidad implica superar la presión social que anima a ocultar la vulnerabilidad y optar por comunicar lo que se siente a figuras de confianza, buscar ayuda o pedir disculpas cuando es necesario. El coraje emocional favorece la autenticidad, la prevención de problemas más graves y el fortalecimiento de relaciones significativas con pares y adultos.",
+      "definicion_estudiante": "El coraje emocional es la valentía de aceptar lo que sientes por dentro y hablar de eso, aunque te dé miedo, pena o pienses que los demás no lo van a entender. Es animarte a decirle a la profe, a tu familia o a un amigo que algo te preocupa, que estás triste o que necesitas ayuda para manejar una situación difícil.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Mostré coraje emocional cuando hablé con la profe sobre algo que me preocupaba.\"",
+      "evidencia_logro": "El docente constata que el estudiante identifica emociones incómodas, se atreve a compartirlas con un adulto o compañero de confianza y busca soluciones o apoyo en lugar de guardar en silencio situaciones que le generan preocupación o malestar.",
+      "tip_psicologico": "Crear un clima de aula en el que las emociones difíciles se consideren normales y no motivo de burla, modelando como adulto la expresión honesta de estados emocionales. Ofrecer canales confidenciales de comunicación (espacios individuales, buzones, tiempos de tutoría) para que los estudiantes puedan expresar sus preocupaciones. Reforzar cuando un alumno muestra coraje emocional, destacando que pedir ayuda o compartir lo que siente es un acto de fortaleza y cuidado personal."
+    },
+    {
+      "id": "CON-005",
+      "concepto": "Autoconocimiento",
+      "definicion_pedagogica": "En este periodo, el autoconocimiento se profundiza hacia la identificación de fortalezas, valores personales y la comprensión de cómo los pensamientos influyen en las emociones y en la conducta. Se busca que el estudiante reconozca creencias internas que pueden limitarlo (por ejemplo, \"no soy capaz\") y que las contraste con evidencias reales de sus capacidades, desarrollando una autoimagen más ajustada y positiva. Esta habilidad está estrechamente ligada al aprendizaje a partir del error y a la autoeficacia, pues permite que el estudiante confíe en sus recursos para afrontar retos académicos y sociales.",
+      "definicion_estudiante": "Este autoconocimiento es darte cuenta de cuáles son tus fortalezas y tus valores, y entender cómo lo que piensas sobre ti mismo te hace sentir y actuar. Por ejemplo, notar que cuando te dices \"no soy capaz\" te sientes más triste y con menos ganas de intentarlo, y cambiar ese pensamiento por uno más realista que recuerde tus talentos y esfuerzos.",
+      "habilidad_malla": "Auto conocimiento",
+      "ejemplo_aula": "\"Reconocí que pensar 'no soy capaz' me hacía sentir triste, así que recordé mis talentos para animarme.\"",
+      "evidencia_logro": "El docente observa que el estudiante identifica pensamientos que le desaniman, los cuestiona y los reemplaza por ideas más constructivas basadas en sus logros y valores, mostrando mayor seguridad al enfrentar tareas exigentes.",
+      "tip_psicologico": "Trabajar con el estudiante la identificación de pensamientos automáticos negativos y la construcción de alternativas más realistas y amables consigo mismo. Pedirle que haga memoria de logros previos para contrarrestar la idea de \"no soy capaz\" y vincular esos recuerdos con nuevas metas. Reforzar cuando verbaliza creencias más ajustadas y se atreve a actuar desde ellas, aunque aún sienta inseguridad."
+    }
+  ],
+  "periodo_3": [
+    {
+      "id": "CON-006",
+      "concepto": "Autodisciplina",
+      "definicion_pedagogica": "La autodisciplina en grado 5 supone que el estudiante regule sus impulsos, organice su tiempo y cumpla sus deberes académicos y personales de forma constante, incluso cuando no hay supervisión inmediata o la tarea le resulta poco atractiva. Es una habilidad clave para la transición a niveles educativos más exigentes, porque sostiene el hábito de estudio, la preparación para evaluaciones y el trabajo en proyectos de largo plazo. La autodisciplina también se vincula con la capacidad de postergar gratificaciones, priorizando metas importantes sobre deseos momentáneos.",
+      "definicion_estudiante": "La autodisciplina es la capacidad de controlar tus impulsos y cumplir con tus responsabilidades aunque tengas ganas de hacer otra cosa. Es sentarte a estudiar, terminar una tarea o practicar algo que quieres mejorar, sin que alguien te lo ordene a cada momento.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Mostré autodisciplina cuando me senté a estudiar para el examen sin que me lo pidieran.\"",
+      "evidencia_logro": "El docente observa que el estudiante se organiza para estudiar fuera del horario de clase, cumple tareas y compromisos sin necesidad de recordatorios constantes y demuestra constancia en actividades que requieren práctica regular.",
+      "tip_psicologico": "Acompañar al estudiante en la planificación de metas y en la creación de horarios realistas que incluyan estudio, descanso y recreación. Ayudarle a identificar distractores frecuentes y a diseñar estrategias para manejarlos. Reconocer el esfuerzo sostenido, no solo el resultado, para fortalecer la motivación intrínseca ligada a la autodisciplina."
+    },
+    {
+      "id": "CON-007",
+      "concepto": "Integridad",
+      "definicion_pedagogica": "La integridad se define como la coherencia entre valores, pensamientos, palabras y acciones, de modo que el estudiante actúe honestamente incluso cuando nadie lo observa. En grado 5, esta habilidad implica elegir lo correcto por convicción y no solo por temor al castigo, respetar lo que pertenece a otros y reconocer errores sin recurrir a mentiras. La integridad es un eje central de la formación ética, ya que sienta las bases para una ciudadanía responsable y confiable.",
+      "definicion_estudiante": "La integridad es actuar con honestidad y coherencia, haciendo lo correcto incluso cuando nadie te está mirando. Es devolver algo que no es tuyo, decir la verdad aunque te cueste y cumplir lo que prometes porque sabes que es lo correcto.",
+      "habilidad_malla": "Responsabilidad y toma de decisiones",
+      "ejemplo_aula": "\"Demostré integridad cuando devolví el balón que encontré aunque nadie lo reclamó.\"",
+      "evidencia_logro": "El docente constata que el estudiante toma decisiones honestas en situaciones donde podría aprovecharse, entrega objetos encontrados, admite errores y evita engaños en exámenes, juegos o acuerdos grupales.",
+      "tip_psicologico": "Proponer dilemas cotidianos en los que la integridad se ponga a prueba y discutir en grupo qué opciones reflejan mejor los valores acordados. Reconocer públicamente actos de honestidad, mostrando que la integridad genera confianza. En situaciones de falta de integridad, acompañar al estudiante a reparar el daño y reflexionar sobre cómo quiere ser recordado por los demás."
+    },
+    {
+      "id": "CON-008",
+      "concepto": "Iniciativa",
+      "definicion_pedagogica": "La iniciativa consiste en la disposición del estudiante para emprender acciones positivas por cuenta propia, sin esperar órdenes directas de adultos, identificando necesidades del entorno y oportunidades de mejora. En grado 5, esta habilidad se relaciona con la autonomía y el liderazgo, ya que impulsa a los estudiantes a proponer proyectos, organizar materiales, apoyar a compañeros y participar activamente en la solución de problemas. Fomenta un rol protagonista en su proceso de aprendizaje y en la vida del grupo.",
+      "definicion_estudiante": "La iniciativa es la habilidad de decidir hacer algo bueno sin que nadie te lo tenga que pedir, como organizar, ayudar, proponer ideas o empezar una tarea por tu cuenta. Significa no quedarse esperando a que otros actúen cuando tú puedes aportar algo.",
+      "habilidad_malla": "Convivencia y ciudadanía",
+      "ejemplo_aula": "\"Mostré iniciativa cuando organicé el material del grupo sin que me lo ordenaran.\"",
+      "evidencia_logro": "El docente observa que el estudiante propone acciones para mejorar el trabajo del grupo, organiza recursos, se ofrece como voluntario en actividades y toma la delantera en tareas necesarias para el buen funcionamiento del aula.",
+      "tip_psicologico": "Brindar espacios donde los estudiantes puedan sugerir mejoras para el aula o para la convivencia y apoyarles en la puesta en marcha de sus propuestas. Reforzar la iniciativa destacando cómo su acción hizo la diferencia para el grupo. Animar al estudiante a identificar pequeñas acciones diarias en las que pueda tomar la iniciativa responsablemente."
+    },
+    {
+      "id": "CON-009",
+      "concepto": "Manejo de la Frustración",
+      "definicion_pedagogica": "El manejo de la frustración en este nivel alude a la capacidad del estudiante para tolerar situaciones en las que las cosas no salen como esperaba, regular las emociones asociadas (enojo, tristeza, desánimo) y buscar soluciones constructivas en lugar de rendirse o reaccionar con agresividad. Es fundamental para el aprendizaje, ya que las tareas más complejas exigen ensayo y error, y para la convivencia, porque previene conflictos derivados de pérdidas o desacuerdos. Favorece la resiliencia y la perseverancia frente a los desafíos escolares y personales.",
+      "definicion_estudiante": "El manejo de la frustración es la habilidad de recuperar la calma y buscar soluciones cuando algo no sale como querías, en vez de explotar o rendirte. Es reconocer que todos podemos perder, equivocarnos o fallar, y decidir aprender de eso en lugar de pelear con los demás.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Cuando perdí el juego, respiré profundo para calmarme en lugar de enojarme con mis compañeros.\"",
+      "evidencia_logro": "El docente observa que el estudiante, ante errores o pérdidas, expresa inicialmente su molestia pero luego se calma, evita culpar a otros y continúa participando o busca alternativas para mejorar en la siguiente oportunidad.",
+      "tip_psicologico": "Enseñar explícitamente que la frustración es una parte normal del aprendizaje y compartir ejemplos personales o de figuras admiradas que hayan fracasado antes de lograr sus metas. Practicar estrategias para manejar la frustración, como la respiración, el humor sano o la reestructuración de pensamientos. Después de un episodio frustrante, guiar al estudiante a identificar lo que aprendió y qué hará distinto la próxima vez."
+    },
+    {
+      "id": "CON-010",
+      "concepto": "Toma de Decisiones Éticas",
+      "definicion_pedagogica": "La toma de decisiones éticas consiste en que el estudiante analice las posibles consecuencias de sus acciones, evalúe si sus opciones son justas y respetuosas y elija actuar de acuerdo con principios de respeto, honestidad y cuidado del otro. En grado 5, se espera que los estudiantes anticipen cómo una broma, un comentario o una conducta puede afectar a sus compañeros, y que sean capaces de detenerse antes de actuar cuando perciben que podrían dañar a alguien. Esta habilidad profundiza la responsabilidad personal y la reflexión previa a la decisión, preparándolos para contextos sociales más complejos.",
+      "definicion_estudiante": "La toma de decisiones éticas es detenerte a pensar en las consecuencias de lo que vas a hacer y preguntarte si tu opción es justa y respetuosa. Es evitar acciones que puedan humillar, excluir o dañar a otros, aunque parezcan divertidas en el momento, y elegir lo que sabes que es correcto.",
+      "habilidad_malla": "Responsabilidad y toma de decisiones",
+      "ejemplo_aula": "\"Antes de hacer una broma, pensé si eso haría sentir mal a mi amigo y decidí no hacerla.\"",
+      "evidencia_logro": "El docente constata que el estudiante anticipa el impacto de sus actos en los demás, modifica comportamientos que podrían resultar ofensivos y explica las razones éticas por las que optó por una acción diferente.",
+      "tip_psicologico": "Trabajar con dilemas morales cercanos a la realidad del curso y guiar al grupo en el análisis de qué opciones respetan mejor la dignidad de todos. Fomentar el uso de preguntas clave como \"¿esto es justo?\", \"¿me gustaría que me lo hicieran a mí?\" antes de actuar. Reconocer cuando un estudiante decide no hacer algo que podría lastimar a otros, subrayando el valor de esa decisión."
+    }
+  ],
+  "periodo_4": [
+    {
+      "id": "CON-011",
+      "concepto": "Autodisciplina",
+      "definicion_pedagogica": "En el cuarto periodo, la autodisciplina se refuerza como la capacidad de sostener el esfuerzo y la constancia en el tiempo para alcanzar metas a mediano y largo plazo, especialmente en proyectos académicos y personales que requieren práctica continua. Se espera que el estudiante mantenga rutinas de estudio, preparación de presentaciones y cumplimiento de responsabilidades, incluso cuando existan distracciones o actividades más gratificantes de forma inmediata. Esta habilidad consolida hábitos que serán esenciales en la educación secundaria y en la vida adulta.",
+      "definicion_estudiante": "Esta forma de autodisciplina es mantener el esfuerzo y la constancia durante varios días o semanas para lograr una meta importante, aunque te den ganas de dejarlo o prefieras hacer algo más divertido. Es seguir practicando o estudiando porque sabes que eso te ayudará a alcanzar lo que quieres.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Seguí practicando mi presentación oral todos los días, aunque prefería jugar, para hacerlo bien.\"",
+      "evidencia_logro": "El docente observa que el estudiante trabaja de manera sostenida en proyectos extensos, distribuye su tiempo de práctica, ajusta su organización cuando lo necesita y demuestra mejoras visibles gracias a la constancia.",
+      "tip_psicologico": "Ayudar al estudiante a descomponer metas largas en objetivos semanales, registrando sus avances para que vea el progreso acumulado. Conversar sobre las tentaciones o distracciones que suelen aparecer y diseñar estrategias para manejarlas. Reforzar el orgullo por el esfuerzo mantenido, no solo por la nota final o el resultado público."
+    },
+    {
+      "id": "CON-012",
+      "concepto": "Integridad",
+      "definicion_pedagogica": "La integridad en este periodo se refuerza como la capacidad de mantener los propios valores y cumplir las promesas ante los demás, incluso cuando existen presiones externas para actuar de manera distinta. Implica que el estudiante sostenga su compromiso con la honestidad, la justicia y el respeto en relaciones más complejas, donde podría verse tentado a romper acuerdos o a priorizar el beneficio personal sobre el colectivo. Esta habilidad fortalece la confianza que los demás depositan en él y su sentido de responsabilidad social.",
+      "definicion_estudiante": "En este nivel, la integridad es mantener tus valores y cumplir tus promesas, aunque surjan planes más atractivos o personas que te inviten a hacer lo contrario. Es respetar tu palabra y lo que consideras correcto, incluso cuando nadie te obliga.",
+      "habilidad_malla": "Responsabilidad y toma de decisiones",
+      "ejemplo_aula": "\"Cumplí mi promesa de ayudar a mi amigo con la tarea, aunque me invitaron a salir.\"",
+      "evidencia_logro": "El docente constata que el estudiante prioriza el cumplimiento de compromisos adquiridos sobre actividades opcionales, se mantiene fiel a acuerdos con sus compañeros y rechaza participar en acciones que contradicen sus valores.",
+      "tip_psicologico": "Invitar al estudiante a reflexionar sobre qué valores son más importantes para él y cómo quiere que los demás lo recuerden. Discutir situaciones en las que mantener la integridad puede ser difícil y pensar juntos estrategias para sostener sus decisiones. Reconocer cuando el alumno sacrifica una gratificación inmediata para cumplir con una promesa, resaltando el impacto positivo en la confianza mutua."
+    },
+    {
+      "id": "CON-013",
+      "concepto": "Iniciativa",
+      "definicion_pedagogica": "La iniciativa, reforzada en el cuarto periodo, se enfoca en que el estudiante utilice su capacidad para actuar por cuenta propia como una forma de liderazgo positivo al servicio del bienestar común. Implica proponer y poner en marcha ideas que mejoren la convivencia, la organización del grupo o la participación en actividades escolares, motivando a otros a sumarse. Esta habilidad fortalece el sentido de agencia y la responsabilidad social del estudiante dentro de la comunidad educativa.",
+      "definicion_estudiante": "En este momento, la iniciativa es liderar con el ejemplo, proponiendo acciones que mejoren el ambiente del curso y animando a otros a participar. No es solo hacer algo solo, sino mover al grupo hacia cambios positivos.",
+      "habilidad_malla": "Convivencia y ciudadanía",
+      "ejemplo_aula": "\"Propuse una idea para mejorar la convivencia en el recreo y animé a otros a participar.\"",
+      "evidencia_logro": "El docente observa que el estudiante presenta propuestas concretas para mejorar la convivencia o el funcionamiento del salón, participa activamente en su implementación e invita a sus compañeros a involucrarse, asumiendo un rol de liderazgo positivo.",
+      "tip_psicologico": "Crear espacios formales para la presentación de propuestas estudiantiles y acompañar el diseño de planes de acción realistas. Reconocer públicamente a quienes muestran iniciativa prosocial, subrayando cómo su liderazgo beneficia al grupo. Ayudar al estudiante a evaluar los resultados de sus iniciativas y a ajustar acciones futuras en función de lo aprendido."
+    },
+    {
+      "id": "CON-014",
+      "concepto": "Responsabilidad Social",
+      "definicion_pedagogica": "La responsabilidad social, en este periodo de refuerzo, se refiere a que el estudiante considere el bienestar común y el cuidado del entorno escolar como criterios importantes al tomar decisiones y actuar. Va más allá del cumplimiento individual de normas, e incluye preocuparse por cómo sus acciones favorecen o perjudican el uso compartido de materiales, la limpieza de espacios y el clima general de convivencia. Esta habilidad consolida la orientación hacia la ciudadanía activa y el compromiso con la comunidad.",
+      "definicion_estudiante": "La responsabilidad social es actuar pensando en el bienestar de todos y en el cuidado de los lugares y materiales que compartimos. Es cuidar lo que hay en el salón, usarlo de manera adecuada y pensar cómo tus acciones afectan a tus compañeros y al colegio.",
+      "habilidad_malla": "Convivencia y ciudadanía",
+      "ejemplo_aula": "\"Cuidé los materiales del salón para que otros también puedan usarlos.\"",
+      "evidencia_logro": "El docente observa que el estudiante cuida los recursos comunes, interviene o avisa cuando otros los utilizan de forma inadecuada y participa activamente en acciones orientadas a mantener el orden y la limpieza del aula y de otros espacios escolares.",
+      "tip_psicologico": "Involucrar a los estudiantes en proyectos de cuidado del entorno, como campañas de limpieza, reciclaje o mantenimiento de rincones del aula, para que vivan experiencias concretas de responsabilidad social. Resaltar las consecuencias positivas de estas acciones sobre el bienestar del grupo. Facilitar diálogos sobre cómo pequeñas acciones diarias contribuyen a la calidad de vida de toda la comunidad educativa."
+    },
+    {
+      "id": "CON-015",
+      "concepto": "Coraje Emocional",
+      "definicion_pedagogica": "En el cuarto periodo, el coraje emocional se refuerza como la disposición a enfrentar los propios errores, pedir perdón y reparar el daño sin dejarse paralizar por la vergüenza o el orgullo. Supone que el estudiante reconozca el impacto de sus acciones, asuma su responsabilidad y se acerque a quienes ha lastimado para restaurar el vínculo. Esta habilidad es esencial para la construcción de relaciones maduras y para la consolidación de una ética de la reparación en el contexto escolar.",
+      "definicion_estudiante": "En este nivel, el coraje emocional es atreverse a pedir perdón y corregir tus errores aunque te dé pena. Es reconocer que hiciste algo que no estuvo bien, hablar con la otra persona y buscar la forma de mejorar la relación.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Tuve el coraje de pedir disculpas a mi compañero por haberle hablado mal.\"",
+      "evidencia_logro": "El docente observa que el estudiante, tras reconocer un error, se acerca al compañero afectado para pedir disculpas, explica brevemente lo sucedido sin justificarse y modifica su conducta en situaciones similares posteriores.",
+      "tip_psicologico": "Acompañar al estudiante en la preparación de disculpas sinceras, ayudándole a usar un lenguaje claro que incluya reconocimiento del daño, expresión de arrepentimiento y propuesta de reparación. Validar la incomodidad que puede generar este proceso y destacar la valentía que implica. Resaltar los efectos positivos del coraje emocional en la reconstrucción de la confianza dentro del grupo."
+    },
+    {
+      "id": "CON-016",
+      "concepto": "Resolución de Conflictos",
+      "definicion_pedagogica": "La resolución de conflictos en grado 5 se refiere a la capacidad del estudiante para utilizar el diálogo, la escucha activa y la empatía como herramientas principales para solucionar desacuerdos, evitando la culpabilización constante de los otros. Implica que los estudiantes puedan expresar sus puntos de vista, comprender los de los demás, buscar soluciones justas y cumplir los acuerdos alcanzados. Esta habilidad integra las competencias de regulación emocional, habilidades sociales y responsabilidad, y es clave para la convivencia pacífica en contextos cada vez más complejos.",
+      "definicion_estudiante": "La resolución de conflictos es usar el diálogo y la empatía para solucionar problemas, en lugar de gritar, pelear o culpar siempre a los demás. Es escuchar lo que el otro siente, explicar lo que tú piensas y buscar juntos una solución justa que respete a ambos.",
+      "habilidad_malla": "Regulación colectiva",
+      "ejemplo_aula": "\"Usé el diálogo para resolver el malentendido con mi amigo y buscamos una solución justa para ambos.\"",
+      "evidencia_logro": "El docente constata que el estudiante recurre al diálogo para aclarar malentendidos, escucha la versión de sus compañeros, propone acuerdos equilibrados y evita mantener actitudes de venganza o de victimización permanente.",
+      "tip_psicologico": "Enseñar y practicar pasos concretos de resolución de conflictos (escuchar, expresar, buscar opciones, acordar y revisar), apoyándose en guías visuales. Utilizar juegos de rol para que los estudiantes experimenten distintos puntos de vista dentro de un conflicto. Después de resolver un problema real, revisar con los implicados qué estrategias funcionaron bien y cómo pueden aplicarlas en futuras situaciones."
+    }
+  ]
+}

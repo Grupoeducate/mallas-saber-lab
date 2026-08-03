@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Explico la dinámica de un ecosistema teniendo en cuenta las necesidades de energía y nutrientes de los seres vivos (cadena alimentaria). Explico las relaciones entre materia y energía en las cadenas alimentarias.",
+        "estandar": "Explico las relaciones entre materia y energía en las cadenas alimentarias. Caracterizo ecosistemas y analizo el equilibrio dinámico entre sus poblaciones.",
         "dba": [
           "DBA-NAT-7-3 Comprende que en las cadenas y redes tróficas existen flujos de materia y energía, y los relaciona con procesos de nutrición, fotosíntesis y respiración celular."
         ],
@@ -87,7 +87,9 @@
           "NAT-7-D1-E3 Representa gráficamente las energías cinética y potencial gravitacional en función del tiempo."
         ],
         "saberes": [
-          "Energía mecánica."
+          "Energía mecánica (cinética Potencial)",
+          "Tipos de sistemas (caída libre, péndulo, movimiento circular)",
+          "Gráficos de energía cinética y potencial."
         ],
         "socioemocional": null,
         "diccionario": null,

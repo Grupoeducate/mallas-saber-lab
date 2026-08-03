@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "N/A",
+        "estandar": "Comparo diferentes teorías sobre el origen de las especies.” y “Formulo hipótesis acerca del origen y evolución de un grupo de organismos.",
         "dba": [
           "DBA-NAT-9-4 Comprende la forma en que los principios genéticos mendelianos y post-mendelianos explican la herencia y el mejoramiento de las especies existentes."
         ],
@@ -67,7 +67,7 @@
     "2": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "N/A",
+        "estandar": "Comparo diferentes teorías sobre el origen de las especies. Formulo hipótesis acerca del origen y evolución de un grupo de organismos",
         "dba": [
           "DBA-NAT-9-4 Comprende la forma en que los principios genéticos mendelianos y post-mendelianos explican la herencia y el mejoramiento de las especies existentes."
         ],
@@ -76,7 +76,8 @@
           "NAT-9-D4-E4 Demuestra la relación que existe entre el proceso de la meiosis y las segunda y tercera Leyes de la Herencia de Mendel."
         ],
         "saberes": [
-          "Gregor Mendel y las leyes de herencia: Los fundamentos de la genética"
+          "Leyes de Mendel (Ley de la uniformidad, Ley de la segregación, Ley de la segregación independiente.)",
+          "Relación entre la división celular (meiosis) y las leyes de Mendel."
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -134,7 +135,8 @@
           "NAT-9-D5-E3 Explica los principales mecanismos de cambio en el ADN (mutación y otros) identificando variaciones en la estructura de las proteínas que dan lugar a cambios en el fenotipo de los organismos y la diversidad en las poblaciones."
         ],
         "saberes": [
-          "El ADN y la síntesis de proteínas"
+          "ADN y ARN (Composición, Interacción entre bases nitrogenadas, Procesos de duplicación y transcripción)",
+          "Síntesis de proteína (Proceso de traducción, Aminoácidos esenciales y no esenciales.)"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -170,7 +172,9 @@
           "N/A"
         ],
         "saberes": [
-          "Efectos nocivos de sustancias psicoactivas"
+          "Soluciones químicas: Conceptos, tipos y ejemplos.",
+          "Preparación de disoluciones",
+          "Propiedades coligativas de las soluciones"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -210,7 +214,8 @@
           "NAT-9-D3-E4 Explica a partir de las fuerzas intermoleculares (Puentes de Hidrogeno, fuerzas de Van der Waals) las propiedades físicas (solubilidad, la densidad, el punto de ebullición y fusión y la tensión superficial) de sustancias liquidas."
         ],
         "saberes": [
-          "Unidades de concentración en las soluciones"
+          "Unidades de concentración en las soluciones",
+          "Propiedades físicas a partir de interacciones intermoleculares."
         ],
         "socioemocional": null,
         "diccionario": null,

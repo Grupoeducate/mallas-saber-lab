@@ -1,0 +1,79 @@
+{
+  "area": "Proyecto Socioemocional",
+  "grado": "0",
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": {
+    "1": [
+      {
+        "competencia_anual": "Reconocimiento sensorial y emocional",
+        "estandar": "Identifico emociones básicas en momentos escolares cotidianos",
+        "competencia": "Autonomía emocional",
+        "eje_central": "Reconozco lo que siento",
+        "Habilidades": [
+          "Identificación Emocional: Incluye Percepción. Nombra emociones básicas asociadas a sensaciones corporales",
+          "Expresión Emocional Básica: Comunica estados emocionales básicos de manera observable",
+          "Vínculo y Confianza: Establece interacciones seguras y de confianza con adultos y pares"
+        ],
+        "evidencias_de_desempeno": [
+          "Nombra alegría, tristeza o miedo ante actividades nuevas en clase",
+          "Señala en su cuerpo dónde siente cada emoción básica"
+        ],
+        "orientacion_bateria": "Percepción Sensorial"
+      }
+    ],
+    "2": [
+      {
+        "competencia_anual": "Reconocimiento sensorial y emocional",
+        "estandar": "Me autorregulo en momentos de frustración escolar",
+        "competencia": "Regulación",
+        "eje_central": "Me calmo y aprendo",
+        "Habilidades": [
+          "Conciencia de la Necesidad: Identifica el momento en que requiere una pausa para calmarse",
+          "Aplicación de Estrategias: Aplica estrategias básicas (respiración, conteo) para autorregularse",
+          "Búsqueda de Apoyo: Solicita apoyo de un adulto ante la frustración o el malestar"
+        ],
+        "evidencias_de_desempeno": [
+          "Respira profundo o cuenta hasta 5 ante enojo por tareas difíciles",
+          "Pide pausa breve y retoma la actividad con calma"
+        ],
+        "orientacion_bateria": "Identificación emocional"
+      }
+    ],
+    "3": [
+      {
+        "competencia_anual": "Reconocimiento sensorial y emocional",
+        "estandar": [
+          "Expreso emociones con respeto a compañeros y docentes",
+          "Identifico, comunico y gestiono mis emociones básicas en la escuela para mejorar mi convivencia y aprendizaje"
+        ],
+        "competencia": [
+          "Habilidades sociales",
+          "Conciencia emocional"
+        ],
+        "eje_central": [
+          "Me relaciono con los demás",
+          "Resuelvo pequeños problemas"
+        ],
+        "Habilidades": [
+          "Colaboración y Reciprocidad: Comparte materiales y espacios durante actividades grupales",
+          "Regulación Social: Respeta los turnos de participación y espera de manera activa",
+          "Comunicación Respetuosa: Utiliza lenguaje y gestos respetuosos para solicitar objetos o ayuda",
+          "Aproximación al Conflicto: Utiliza la comunicación verbal para expresar su desacuerdo o problema",
+          "Estrategias de Negociación: Propone soluciones sencillas como turnarse o compartir para resolver conflictos",
+          "Búsqueda de Mediación: Solicita la intervención de un adulto cuando el conflicto lo supera"
+        ],
+        "evidencias_de_desempeno": [
+          "Dice 'me siento enojado porque...' sin gritar ni empujar",
+          "Espera turno para comunicar tristeza o nerviosismo",
+          "Nombra y regula miedo o enojo para participar en grupo",
+          "Expresa alegría compartiendo logros con respeto"
+        ],
+        "orientacion_bateria": [
+          "Expresión emocional básica",
+          "Vínculo y confianza"
+        ]
+      }
+    ]
+  }
+}

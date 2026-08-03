@@ -1,0 +1,232 @@
+{
+  "identificacion_grado": -1,
+  "area_identificacion": "Proyecto Socioemocional",
+  "periodo_1": [
+    {
+      "id": "CON-001",
+      "concepto": "Curiosidad",
+      "definicion_pedagogica": "La curiosidad en la etapa de Jardín es un motor cognitivo primario. Representa la apertura del infante hacia el mundo exterior, impulsada por la necesidad de reducir la incertidumbre y adquirir nuevos esquemas mentales mediante la exploración sensorial y la observación activa.",
+      "definicion_estudiante": "Es cuando tus ojos y tus manos tienen muchas ganas de conocer algo nuevo. ¡Es como ser un pequeño explorador que busca tesoros!",
+      "habilidad_malla": "Exploración del entorno",
+      "ejemplo_aula": "\"Un niño observa una hormiga en el patio y la sigue con cuidado para ver a dónde vive.\"",
+      "evidencia_logro": "El estudiante formula preguntas sencillas sobre objetos desconocidos o muestra interés sostenido al observar fenómenos naturales en el aula.",
+      "tip_psicologico": "Fomente un ambiente seguro de preguntas; evite dar respuestas inmediatas y, en su lugar, pregunte al niño: '¿Tú qué crees que pasará?' para estimular su pensamiento crítico."
+    },
+    {
+      "id": "CON-002",
+      "concepto": "Seguridad",
+      "definicion_pedagogica": "Estado de bienestar emocional derivado de la consolidación de un apego seguro con las figuras de autoridad. Es la base necesaria para que el niño se desplace del egocentrismo hacia la interacción social y el aprendizaje autónomo.",
+      "definicion_estudiante": "Es sentirte tranquilo en tu corazón porque sabes que tu maestra y tus amigos te cuidan mucho.",
+      "habilidad_malla": "Autonomía y Confianza",
+      "ejemplo_aula": "\"Un niño se despide de sus padres con calma y entra al salón sabiendo que estará bien.\"",
+      "evidencia_logro": "El niño se desplaza con libertad por el salón de clases y participa en actividades sin requerir la presencia constante del adulto cerca.",
+      "tip_psicologico": "Mantenga rutinas claras y predecibles. La anticipación de las actividades diarias reduce la ansiedad y fortalece el sentimiento de seguridad en el niño."
+    },
+    {
+      "id": "CON-003",
+      "concepto": "Paciencia",
+      "definicion_pedagogica": "Habilidad de autorregulación que implica la inhibición de impulsos inmediatos ante un deseo. En el niño de jardín, es el inicio del desarrollo del control inhibitorio y la tolerancia a la demora de la gratificación.",
+      "definicion_estudiante": "Es saber esperar tu turno con una sonrisa, sabiendo que pronto te tocará a ti.",
+      "habilidad_malla": "Autorregulación",
+      "ejemplo_aula": "\"Esperar con calma en la fila para lavarse las manos sin empujar a los compañeros.\"",
+      "evidencia_logro": "El estudiante logra esperar al menos un minuto para recibir un material o participar en un juego sin mostrar signos de irritabilidad extrema.",
+      "tip_psicologico": "Utilice apoyos visuales como relojes de arena o canciones cortas de espera para que el concepto de tiempo sea más tangible y menos angustiante para el niño."
+    },
+    {
+      "id": "CON-004",
+      "concepto": "Entusiasmo",
+      "definicion_pedagogica": "Estado afectivo de alta activación caracterizado por la alegría y la motivación intrínseca. Facilita el enganche con las actividades pedagógicas y fortalece la resiliencia ante los primeros desafíos del aprendizaje.",
+      "definicion_estudiante": "Es sentir una alegría muy grande en el cuerpo porque vamos a jugar y aprender algo muy divertido.",
+      "habilidad_malla": "Motivación al aprendizaje",
+      "ejemplo_aula": "\"Saltar de alegría y aplaudir cuando la profesora anuncia que hoy habrá pintura de manos.\"",
+      "evidencia_logro": "El niño muestra una actitud proactiva, participa con energía en las canciones y se involucra rápidamente en las propuestas del docente.",
+      "tip_psicologico": "Valide y canalice esa energía. El entusiasmo excesivo puede derivar en desorden; enseñe al niño a expresar su alegría con palabras y gestos controlados."
+    }
+  ],
+  "periodo_2": [
+    {
+      "id": "CON-005",
+      "concepto": "Curiosidad",
+      "definicion_pedagogica": "Proceso de indagación activa donde el niño utiliza sus sentidos para clasificar y entender su realidad. En el segundo periodo, se busca que la curiosidad pase de ser una reacción espontánea a una búsqueda de solución de problemas simples.",
+      "definicion_estudiante": "Es cuando quieres descubrir secretos del mundo, como por qué las plantas son verdes o cómo vuelan los pájaros.",
+      "habilidad_malla": "Pensamiento Científico",
+      "ejemplo_aula": "\"Preguntar constantemente por qué el agua cambia de color al mezclarla con tempera.\"",
+      "evidencia_logro": "El estudiante manipula objetos de diferentes texturas y formas buscando entender cómo funcionan o qué hay dentro de ellos.",
+      "tip_psicologico": "Proporcione materiales 'abiertos' (como bloques, arena o telas) que no tengan una sola forma de uso, permitiendo que la curiosidad guíe la experimentación."
+    },
+    {
+      "id": "CON-006",
+      "concepto": "Empatía",
+      "definicion_pedagogica": "Capacidad incipiente de reconocer estados emocionales en el otro. Aunque el niño de jardín es predominantemente egocéntrico, empieza a desarrollar la 'teoría de la mente' al identificar cuando un par sufre o ríe.",
+      "definicion_estudiante": "Es mirar el corazón de tu amigo y tratar de entender si está feliz o triste para darle un abrazo.",
+      "habilidad_malla": "Conciencia Social",
+      "ejemplo_aula": "\"Acercarse a un compañero que se cayó y preguntarle si le duele o traerle su juguete favorito.\"",
+      "evidencia_logro": "El niño detiene su actividad personal para observar a un par que está llorando o expresa verbalmente 'él está triste'.",
+      "tip_psicologico": "Modele la empatía con su propio comportamiento. Use frases como: 'Veo que Juan está triste, ¿qué podemos hacer para que se sienta mejor?' para guiar la respuesta prosocial."
+    },
+    {
+      "id": "CON-007",
+      "concepto": "Paciencia",
+      "definicion_pedagogica": "Refuerzo de la tolerancia a la frustración leve mediante la espera. Se enfoca en la capacidad del niño para entender que el tiempo del grupo es diferente al tiempo individual.",
+      "definicion_estudiante": "Es esperar a que la semillita crezca sin desesperarse, sabiendo que con el tiempo saldrá la flor.",
+      "habilidad_malla": "Convivencia Armónica",
+      "ejemplo_aula": "\"Respetar el tiempo de palabra de un compañero durante el círculo de conversación.\"",
+      "evidencia_logro": "El estudiante permanece sentado o en su lugar asignado mientras los demás terminan una tarea, sin interrumpir.",
+      "tip_psicologico": "Premie el esfuerzo de la espera con reconocimiento verbal positivo inmediato: 'Me encanta cómo esperaste tu turno, fuiste muy valiente'."
+    },
+    {
+      "id": "CON-008",
+      "concepto": "Entusiasmo",
+      "definicion_pedagogica": "La canalización de la energía emocional hacia metas compartidas. En este nivel, el entusiasmo ayuda a fortalecer los lazos de pertenencia al grupo escolar.",
+      "definicion_estudiante": "Es tener muchas ganas de compartir tus juguetes y tus juegos con todos tus amigos.",
+      "habilidad_malla": "Trabajo en equipo",
+      "ejemplo_aula": "\"Celebrar con gritos de alegría cuando el grupo logra construir una torre muy alta entre todos.\"",
+      "evidencia_logro": "El niño invita a otros a participar en su actividad con alegría y energía positiva.",
+      "tip_psicologico": "Vincule el entusiasmo con el logro grupal para que el niño aprenda que la alegría compartida es doblemente satisfactoria."
+    },
+    {
+      "id": "CON-009",
+      "concepto": "Esperanza",
+      "definicion_pedagogica": "Expectativa positiva hacia eventos futuros. En la infancia temprana, la esperanza se construye sobre la confianza en que el entorno responderá a sus necesidades y que los problemas son transitorios.",
+      "definicion_estudiante": "Es saber que después de la lluvia siempre sale el sol y que mañana será un día muy lindo para jugar.",
+      "habilidad_malla": "Resiliencia",
+      "ejemplo_aula": "\"Decir: 'No llores, mañana mi mamá me traerá el carrito para que juguemos' cuando se pierde un juguete.\"",
+      "evidencia_logro": "El niño cambia una actitud de queja por una de expectativa positiva ante una situación que no puede resolver en el momento.",
+      "tip_psicologico": "Ayude al niño a visualizar el futuro inmediato positivo. Use frases como: 'Hoy no pudimos ir al parque, pero imagínate lo divertido que será cuando vayamos mañana'."
+    },
+    {
+      "id": "CON-010",
+      "concepto": "Frustración",
+      "definicion_pedagogica": "Respuesta emocional ante el bloqueo de un objetivo. Es una oportunidad pedagógica crítica para enseñar gestión emocional, pasando del desborde (berrinche) a la comunicación de la necesidad.",
+      "definicion_estudiante": "Es sentir un poquito de enojo cuando algo no te sale bien, como cuando un dibujo no queda como querías.",
+      "habilidad_malla": "Gestión de emociones",
+      "ejemplo_aula": "\"Intentar armar un rompecabezas, no poder y respirar profundo en lugar de tirar las piezas.\"",
+      "evidencia_logro": "El niño pide ayuda verbalmente cuando se siente bloqueado en lugar de reaccionar con agresión física o llanto incontrolado.",
+      "tip_psicologico": "Normalice el error. Diga: 'Está bien equivocarse, así es como nuestro cerebro aprende a hacer cosas difíciles'."
+    },
+    {
+      "id": "CON-011",
+      "concepto": "Amistad",
+      "definicion_pedagogica": "Vinculación afectiva basada en la reciprocidad y el juego. En Jardín, la amistad es situacional pero fundamental para el desarrollo del lenguaje social y las normas de convivencia.",
+      "definicion_estudiante": "Es querer mucho a tus compañeros, jugar juntos y prestarse los colores con cariño.",
+      "habilidad_malla": "Relaciones Interpersonales",
+      "ejemplo_aula": "\"Darle la mano a un compañero para caminar juntos hacia el comedor.\"",
+      "evidencia_logro": "El niño identifica a sus compañeros por su nombre y busca la compañía de otros para realizar juegos simbólicos.",
+      "tip_psicologico": "Fomente juegos cooperativos donde se necesiten dos personas para lograr un objetivo (como cargar una caja grande) para fortalecer el vínculo de amistad."
+    }
+  ],
+  "periodo_3": [
+    {
+      "id": "CON-012",
+      "concepto": "Empatía",
+      "definicion_pedagogica": "Evolución de la empatía hacia la acción compasiva. El niño no solo reconoce la emoción ajena, sino que busca consolar o ayudar de manera activa siguiendo modelos sociales.",
+      "definicion_estudiante": "Es prestarle tu juguete favorito a alguien que está triste para que se sienta feliz otra vez.",
+      "habilidad_malla": "Responsabilidad Social",
+      "ejemplo_aula": "\"Ceder el turno en el columpio a un compañero que ha esperado mucho tiempo y se ve cansado.\"",
+      "evidencia_logro": "El niño propone soluciones para ayudar a otros: '¿Te ayudo a recoger los bloques?'",
+      "tip_psicologico": "Lea cuentos sobre emociones y pregunte: '¿Cómo crees que se siente el personaje?', ayudando a que el niño proyecte sus propios sentimientos en otros."
+    },
+    {
+      "id": "CON-013",
+      "concepto": "Paciencia",
+      "definicion_pedagogica": "Consolidación de la espera como una norma social integrada. El niño comprende que el orden y el tiempo son necesarios para el funcionamiento del grupo.",
+      "definicion_estudiante": "Es esperar a que la maestra termine de hablar antes de levantar la mano para contar tu historia.",
+      "habilidad_malla": "Habilidades de escucha",
+      "ejemplo_aula": "\"Permanecer sentado tranquilamente mientras se reparten las onces.\"",
+      "evidencia_logro": "El estudiante reduce significativamente las interrupciones impulsivas durante las actividades dirigidas.",
+      "tip_psicologico": "Use la técnica de 'tiempo de espera': si el niño interrumpe, pídale con un gesto amable que ponga su mano en su corazón y respire antes de hablar."
+    },
+    {
+      "id": "CON-014",
+      "concepto": "Culpa",
+      "definicion_pedagogica": "Sentimiento displacentero que surge ante la transgresión de una norma o el daño accidental a otro. Bien manejada, la culpa fomenta la conciencia moral y la reparación del daño.",
+      "definicion_estudiante": "Es sentirte un poco mal aquí adentro cuando rompes algo o lastimas a alguien sin querer, y querer arreglarlo.",
+      "habilidad_malla": "Conciencia Ética",
+      "ejemplo_aula": "\"Pedir perdón y ayudar a recoger los crayones después de haberlos tirado en un momento de enojo.\"",
+      "evidencia_logro": "El niño admite su responsabilidad ante un suceso: 'Yo lo hice', y muestra disposición para reparar la acción.",
+      "tip_psicologico": "Evite el castigo humillante. Enfoque la culpa hacia la reparación: 'Hiciste sentir mal a tu amigo, ¿cómo podemos ayudarlo para que se sienta mejor?'."
+    },
+    {
+      "id": "CON-015",
+      "concepto": "Frustración",
+      "definicion_pedagogica": "Manejo de la frustración mediante la perseverancia. El niño empieza a entender que el fracaso inicial es parte del proceso de aprendizaje y no una condición definitiva.",
+      "definicion_estudiante": "Es cuando no puedes abrocharte el abrigo, pero lo intentas una y otra vez hasta que lo logras.",
+      "habilidad_malla": "Persistencia",
+      "ejemplo_aula": "\"Intentar dibujar un círculo, que salga un poco chueco y volver a intentarlo en otra hoja.\"",
+      "evidencia_logro": "El niño no abandona la tarea ante el primer obstáculo y acepta sugerencias para mejorar su desempeño.",
+      "tip_psicologico": "Descomponga las tareas difíciles en pasos muy pequeños. El éxito en pequeños pasos reduce la carga de frustración y motiva al niño a seguir."
+    },
+    {
+      "id": "CON-016",
+      "concepto": "Superación",
+      "definicion_pedagogica": "Sentimiento de competencia y autoeficacia. Surge cuando el niño percibe su propio progreso en habilidades motoras, cognitivas o sociales que antes le resultaban inalcanzables.",
+      "definicion_estudiante": "Es cuando antes no sabías saltar en un pie y ahora ¡ya puedes hacerlo muy bien!",
+      "habilidad_malla": "Autoestima",
+      "ejemplo_aula": "\"Mostrar con orgullo cómo ya puede comer solo con la cuchara sin derramar la sopa.\"",
+      "evidencia_logro": "El niño verbaliza sus logros: '¡Mira lo que hice!' o '¡Ya soy grande, ya sé hacer esto!'",
+      "tip_psicologico": "Cree un 'muro de los logros' donde se celebren no solo los resultados finales, sino los esfuerzos por aprender cosas nuevas."
+    },
+    {
+      "id": "CON-017",
+      "concepto": "Amistad",
+      "definicion_pedagogica": "Desarrollo de la lealtad y el cuidado mutuo. Las relaciones entre pares se vuelven más estables y se basan en el reconocimiento de las preferencias del otro.",
+      "definicion_estudiante": "Es invitar a un amigo nuevo a jugar contigo para que nadie se sienta solito en el recreo.",
+      "habilidad_malla": "Inclusión",
+      "ejemplo_aula": "\"Compartir los cubos de construcción con el niño que acaba de llegar al salón.\"",
+      "evidencia_logro": "El estudiante muestra conductas de ayuda y cooperación espontánea con sus compañeros más cercanos.",
+      "tip_psicologico": "Facilite actividades de pareja rotativas para que el niño aprenda a establecer vínculos de amistad con diferentes tipos de personalidades."
+    }
+  ],
+  "periodo_4": [
+    {
+      "id": "CON-018",
+      "concepto": "Empatía",
+      "definicion_pedagogica": "Interiorización de la empatía como valor de convivencia. El niño demuestra una comprensión más profunda de las causas de las emociones de los demás y ajusta su conducta para favorecer el bienestar grupal.",
+      "definicion_estudiante": "Es hablar pasito cuando tu compañero está descansando porque sabes que necesita silencio.",
+      "habilidad_malla": "Comportamiento Prosocial",
+      "ejemplo_aula": "\"Guardar silencio cuando la maestra dice que tiene dolor de cabeza, para que se sienta mejor.\"",
+      "evidencia_logro": "El niño ajusta su nivel de actividad o volumen de voz considerando las necesidades o estados de ánimo detectados en los demás.",
+      "tip_psicologico": "Refuerce positivamente cuando el niño actúe sin que se le pida: 'Qué detalle tan lindo tuviste al cuidar el sueño de tu amigo'."
+    },
+    {
+      "id": "CON-019",
+      "concepto": "Culpa",
+      "definicion_pedagogica": "La culpa se transforma en responsabilidad. El niño es capaz de anticipar que ciertas acciones dañinas traerán sentimientos de culpa y, por tanto, empieza a evitarlas por convicción propia.",
+      "definicion_estudiante": "Es recordar que no debemos empujar para no sentirnos tristes después por haber lastimado a un amigo.",
+      "habilidad_malla": "Autocontrol",
+      "ejemplo_aula": "\"Detener la mano antes de quitarle un juguete a otro niño, recordando que eso hace sentir mal a ambos.\"",
+      "evidencia_logro": "El estudiante manifiesta arrepentimiento genuino y propone acciones concretas para remediar sus errores sin intervención directa del docente.",
+      "tip_psicologico": "Diferencie entre la persona y la acción. Diga: 'Tú eres un niño bueno, pero esa acción de morder no estuvo bien. ¿Cómo la arreglamos?'."
+    },
+    {
+      "id": "CON-020",
+      "concepto": "Esperanza",
+      "definicion_pedagogica": "La esperanza ligada al esfuerzo personal. El niño confía en que, si se esfuerza o espera con paciencia, los resultados positivos llegarán, consolidando una mentalidad de crecimiento.",
+      "definicion_estudiante": "Es estar muy emocionado porque sabes que pronto llegará la Navidad o tu cumpleaños y te estás portando muy bien.",
+      "habilidad_malla": "Orientación al logro",
+      "ejemplo_aula": "\"Esperar con alegría el día de la clausura para mostrarle a los papás todo lo que aprendió en el año.\"",
+      "evidencia_logro": "El niño mantiene una actitud optimista incluso en periodos de transición o cambios en la rutina escolar.",
+      "tip_psicologico": "Fomente la visualización positiva de los cambios, como el paso al siguiente grado, para que la esperanza mitigue el miedo a lo desconocido."
+    },
+    {
+      "id": "CON-021",
+      "concepto": "Superación",
+      "definicion_pedagogica": "Culminación del proceso de aprendizaje del año lectivo. Se enfoca en la conciencia de la propia evolución histórica: el niño reconoce lo que no sabía hacer antes y lo que domina ahora.",
+      "definicion_estudiante": "Es mirar tus dibujos de principio de año y ver que ahora pintas mucho más lindo y sin salirte de la raya.",
+      "habilidad_malla": "Metacognición incipiente",
+      "ejemplo_aula": "\"Contarle a la maestra: '¿Se acuerda que antes yo lloraba al entrar? ¡Ya no, ya soy un niño grande!'\"",
+      "evidencia_logro": "El estudiante realiza con destreza actividades que al inicio del año le generaban frustración o resistencia.",
+      "tip_psicologico": "Realice una actividad de cierre donde cada niño identifique su mayor logro del año, reforzando su identidad como alguien capaz de superar retos."
+    },
+    {
+      "id": "CON-022",
+      "concepto": "Amistad",
+      "definicion_pedagogica": "Consolidación de las primeras redes sociales. La amistad se entiende como un compromiso de cuidado mutuo que trasciende el aula de clase y se manifiesta en la protección del otro.",
+      "definicion_estudiante": "Es decirle a tus amigos: '¡Te voy a extrañar en vacaciones!', y prometer que jugarán mucho cuando regresen.",
+      "habilidad_malla": "Vínculos afectivos",
+      "ejemplo_aula": "\"Ayudar a un amigo a buscar su saquito perdido antes de irse a casa para que no se vaya triste.\"",
+      "evidencia_logro": "El niño demuestra afecto físico y verbal genuino hacia sus pares y reconoce la importancia de los amigos en su felicidad diaria.",
+      "tip_psicologico": "Promueva el intercambio de dibujos o detalles de despedida al finalizar el periodo para cerrar el ciclo escolar con un sentimiento de conexión y afecto."
+    }
+  ]
+}

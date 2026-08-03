@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 5,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Routine Mirror",
+            "un_reto_sugerido": "¿Cómo cambian las actividades de un niño en el campo frente a uno en la ciudad según las horas del día?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una grabación de sonidos de una ciudad y un campo a diferentes horas, identificando momentos del día (morning, afternoon, night).",
+              "visual": "Construir una 'Línea del Tiempo Comparativa' usando lana y pinzas de ropa, donde cuelguen dibujos de su rutina y la de un compañero, usando números ordinales (first, second...).",
+              "produccion": "Explicar oralmente las similitudes y diferencias encontradas en las rutinas, utilizando vocabulario de actividades diarias y momentos del día."
+            },
+            "para_pensar": [
+              "¿Por qué las personas en diferentes climas tienen rutinas distintas?",
+              "¿Cómo afecta el uso excesivo de pantallas a nuestra rutina de sueño? (Impacto CTS)"
+            ],
+            "pistas_del_exito": [
+              "Compara y contrasta su rutina diaria con la de otros identificando frecuencias.",
+              "Usa correctamente números cardinales y ordinales al describir secuencias."
+            ],
+            "un_refuerzo": "Utilizar un reloj analógico de juguete para practicar las horas mientras se escucha la descripción de la rutina."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Politeness Ambassador",
+            "un_reto_sugerido": "¿Cómo podemos resolver un malentendido en el salón de clases usando solo palabras corteses en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de situaciones de conflicto (tropezar, tomar un lápiz sin permiso) y proponer gestos de disculpa.",
+              "visual": "Juego de rol 'The Guest': Los estudiantes simulan recibir a un visitante extranjero, practicando saludos según la hora, presentaciones personales y disculpas.",
+              "produccion": "Sostener una conversación fluida donde se describan físicamente (edad, rasgos) y expresen cómo se sienten ante diferentes situaciones sociales."
+            },
+            "para_pensar": [
+              "¿Por qué la cortesía facilita la comunicación entre personas que hablan idiomas diferentes?",
+              "¿Cómo han cambiado las normas de cortesía con el uso de los chats y redes sociales?"
+            ],
+            "pistas_del_exito": [
+              "Pide y acepta disculpas de forma simple y cortés en un contexto real.",
+              "Se describe a sí mismo y a otros usando frases cortas sobre edad y rasgos físicos."
+            ],
+            "un_refuerzo": "Crear un 'Diccionario de Bolsillo de la Cortesía' con frases clave como 'I'm sorry', 'Excuse me' y 'My pleasure'."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Tradition Treasure Hunt",
+            "un_reto_sugerido": "¿Qué pistas en un texto nos permiten saber si una celebración es un cumpleaños o una festividad nacional?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar invitaciones reales de diferentes eventos y buscar palabras que se repitan (Date, Place, Time, RSVP).",
+              "visual": "Crear un 'Mural de Tradiciones' donde clasifiquen recortes de festividades (Christmas, Birthdays) según el lugar y momento en que ocurren.",
+              "produccion": "Leer un texto narrativo corto sobre una tradición y completar un organizador gráfico de 'Who, What, When, Where'."
+            },
+            "para_pensar": [
+              "¿Qué elementos de nuestras tradiciones locales podrían sorprender a alguien de otro país?",
+              "¿Cómo influyen las tradiciones en el consumo de recursos naturales (comida, energía)?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la idea general y detalles específicos en textos informativos cortos.",
+              "Ubica en el tiempo y el espacio las acciones descritas en una narración sencilla."
+            ],
+            "un_refuerzo": "Usar códigos de colores para resaltar en el texto los nombres propios (lugares) y las fechas (momentos)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Storyboard Architect",
+            "un_reto_sugerido": "¿Cómo contar una historia emocionante usando solo cuatro imágenes y conectores de secuencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una tira cómica sin texto y tratar de narrar lo que sucede usando conectores en español para luego buscar sus pares en inglés.",
+              "visual": "Diseñar un 'Storyboard' de una anécdota personal, dibujando la secuencia y escribiendo oraciones que usen conectores de adición y secuencia.",
+              "produccion": "Escribir una narración corta con inicio, desarrollo y desenlace, verificando la ortografía de palabras frecuentes."
+            },
+            "para_pensar": [
+              "¿Por qué es importante seguir un orden lógico al contar una historia?",
+              "¿Cómo ayudan las imágenes a las personas que no saben leer a entender una noticia?"
+            ],
+            "pistas_del_exito": [
+              "Produce un texto narrativo corto que responde a las preguntas básicas del evento.",
+              "Enlaza frases usando conectores de secuencia (first, then, finally) de forma coherente."
+            ],
+            "un_refuerzo": "Proporcionar una lista de conectores y una estructura de 'párrafo sándwich' para organizar las ideas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Time Machine Detective",
+            "un_reto_sugerido": "¿Podemos reconstruir lo que hizo un explorador ayer basándonos solo en los sonidos de su diario de viaje?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una secuencia de sonidos (pasos, lluvia, una puerta abriéndose) y decir si la acción ocurrió 'now' o 'yesterday'.",
+              "visual": "Juego de 'Memory' con tarjetas de verbos: una tarjeta tiene el verbo en presente y la otra en pasado (ej. Go/Went, Play/Played).",
+              "produccion": "Identificar en un audio expresiones de tiempo pasado (last week, yesterday) y asociarlas con acciones específicas."
+            },
+            "para_pensar": [
+              "¿Por qué es importante para los científicos registrar lo que sucedió en el pasado?",
+              "¿Cómo la tecnología nos permite 'escuchar' el pasado (grabaciones antiguas)?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente entre acciones en presente y pasado simple al escuchar.",
+              "Identifica verbos regulares e irregulares en contextos de escucha sencillos."
+            ],
+            "un_refuerzo": "Escuchar canciones cortas en pasado y levantar una tarjeta roja cuando escuchen un verbo terminado en '-ed'."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "Yesterday's News Anchor",
+            "un_reto_sugerido": "¿Cómo entrevistarías a un compañero sobre su fin de semana sin usar ninguna palabra en presente?",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de actividades divertidas que hicieron el fin de semana y clasificarlas en 'did' o 'didn't'.",
+              "visual": "Crear un 'Micrófono de Reportero' y realizar entrevistas en parejas usando preguntas como 'Did you...?' y respuestas cortas.",
+              "produccion": "Mantener un diálogo sobre eventos pasados usando expresiones de tiempo (yesterday, last month) y seleccionando el tiempo verbal correcto."
+            },
+            "para_pensar": [
+              "¿Cómo cambia nuestra percepción de una noticia si ocurrió ayer o hace un año?",
+              "¿Qué papel juega la memoria en la construcción de nuestra identidad?"
+            ],
+            "pistas_del_exito": [
+              "Responde a preguntas sobre eventos pasados con estructuras gramaticales adecuadas.",
+              "Usa expresiones de tiempo para ubicar acciones con precisión en sus diálogos."
+            ],
+            "un_refuerzo": "Tener un cuadro de apoyo visual con la estructura de las preguntas: Did + Person + Verb?"
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Plot Master",
+            "un_reto_sugerido": "¿Qué pasaría si el conflicto de una historia nunca se resolviera?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer los títulos y ver las portadas de tres cuentos diferentes para predecir el escenario y los personajes.",
+              "visual": "Crear un 'Mapa de la Historia' (Story Map) gigante en el piso, donde los estudiantes caminen sobre las estaciones: Character, Setting, Conflict, Resolution.",
+              "produccion": "Identificar y describir por escrito los elementos de la narrativa en una historia corta leída en clase."
+            },
+            "para_pensar": [
+              "¿Por qué las historias de diferentes culturas suelen tener estructuras similares?",
+              "¿Cómo influyen los escenarios (clima, geografía) en las decisiones de los personajes?"
+            ],
+            "pistas_del_exito": [
+              "Identifica los elementos de la narrativa (personajes, trama, conflicto) en textos cortos.",
+              "Compara y contrasta diferentes historias basándose en su desenlace."
+            ],
+            "un_refuerzo": "Utilizar iconos universales para identificar el conflicto (un rayo) y la resolución (una llave) en el texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Instruction Engineer",
+            "un_reto_sugerido": "¿Cómo dar órdenes precisas a un robot para que no cometa errores en una tarea sencilla?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Simón Dice' (Simon Says) usando verbos imperativos (Stop, Sit, Draw) para observar la reacción inmediata.",
+              "visual": "Diseñar un 'Manual de Usuario' para un invento imaginario, usando oraciones en imperativo y conectores de secuencia.",
+              "produccion": "Escribir un proceso de varios pasos (ej. una receta o un experimento) usando el imperativo y verificando la ortografía."
+            },
+            "para_pensar": [
+              "¿Por qué las señales de tránsito usan imperativos visuales y no textos largos?",
+              "¿Qué impacto tiene en la seguridad seguir instrucciones precisas en un laboratorio?"
+            ],
+            "pistas_del_exito": [
+              "Usa el imperativo para dar instrucciones claras en un texto escrito.",
+              "Divide una tarea compleja en pasos secuenciales lógicos usando conectores."
+            ],
+            "un_refuerzo": "Proporcionar tarjetas con verbos de acción (Cut, Glue, Mix) para que el estudiante las organice antes de escribir."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Habitat Explorer",
+            "un_reto_sugerido": "¿Podemos adivinar cuántos animales hay en un hábitat solo escuchando sus sonidos y descripciones de cantidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar audios de diferentes biomas (selva, océano, desierto) e identificar qué animales podrían vivir allí.",
+              "visual": "Crear un 'Ecosistema en una Caja' (Diorama) y, mientras escuchan descripciones, colocar 'some', 'a lot of' o 'a few' animales de juguete.",
+              "produccion": "Interpretar descripciones orales sobre animales, clasificándolos por su hábitat y características físicas escuchadas."
+            },
+            "para_pensar": [
+              "¿Cómo afecta el cambio climático a los sonidos naturales de un hábitat?",
+              "¿Por qué es importante usar términos precisos de cantidad en la ciencia?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica vocabulario relacionado con animales y sus hábitats tras la escucha.",
+              "Identifica expresiones de cantidad (some, any, a lot) en contextos descriptivos."
+            ],
+            "un_refuerzo": "Usar imágenes de apoyo (flashcards) de los animales mencionados en el audio para facilitar la asociación."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Wildlife Advocate",
+            "un_reto_sugerido": "¿Cómo convencerías a las personas de proteger un animal en peligro usando solo tres razones poderosas?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotos de animales en peligro y expresar sentimientos (I feel sad, I am worried) usando el vocabulario aprendido.",
+              "visual": "Realizar un 'Debate de Hábitats': cada estudiante defiende un animal y explica por qué su hábitat es el más importante.",
+              "produccion": "Sostener una conversación sobre actividades habituales de cuidado ambiental y expresar opiniones sobre la protección animal."
+            },
+            "para_pensar": [
+              "¿Qué acciones humanas ponen en riesgo los hábitats de los animales?",
+              "¿Cómo puede la tecnología ayudar a rastrear y proteger especies en peligro? (Relación CTS)"
+            ],
+            "pistas_del_exito": [
+              "Usa vocabulario específico para describir animales y justificar su importancia.",
+              "Expresa opiniones claras sobre la protección del medio ambiente en diálogos simples."
+            ],
+            "un_refuerzo": "Utilizar una lista de adjetivos (big, dangerous, beautiful) para ayudar en la descripción de los animales."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Monument Hunter",
+            "un_reto_sugerido": "¿Qué hace que un monumento sea famoso en todo el mundo y cómo lo describirías a un turista?",
+            "ruta_de_exploracion": {
+              "explorar": "Ver fotos de monumentos (Eiffel Tower, Pyramids, Statue of Liberty) y tratar de adivinar en qué continente están.",
+              "visual": "Crear un 'Mapa Mundi Interactivo' en el salón, pegando descripciones cortas en inglés al lado de cada país o monumento correspondiente.",
+              "produccion": "Leer textos descriptivos sobre lugares del mundo y comparar sus características (clima, tamaño, ubicación)."
+            },
+            "para_pensar": [
+              "¿Por qué algunos monumentos se convierten en símbolos de la identidad de un país?",
+              "¿Cómo el turismo masivo puede afectar la conservación de los monumentos históricos?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario relacionado con lugares del mundo y monumentos en lecturas.",
+              "Expresa su opinión sobre un lugar que le gustaría visitar basándose en lo leído."
+            ],
+            "un_refuerzo": "Asociar palabras clave (monument, city, country) con sus respectivas imágenes antes de la lectura profunda."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Celebration Designer",
+            "un_reto_sugerido": "¿Cómo diseñar una invitación que sea tan clara que nadie se pierda el evento?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar diferentes tipos de tarjetas (invitación, felicitación, agradecimiento) y listar sus partes esenciales.",
+              "visual": "Elaborar tarjetas físicas de invitación para un 'Evento Global' imaginario, incluyendo fecha, lugar y un mensaje de bienvenida.",
+              "produccion": "Escribir textos cortos que describan su estado de ánimo y preferencias respecto a celebraciones, usando ortografía correcta."
+            },
+            "para_pensar": [
+              "¿Cómo las invitaciones digitales están reemplazando a las de papel y qué impacto tiene esto en el ambiente?",
+              "¿Por qué es importante incluir información clara sobre el 'dónde' y 'cuándo' en una comunicación escrita?"
+            ],
+            "pistas_del_exito": [
+              "Escribe tarjetas con mensajes cortos de invitación siguiendo un modelo.",
+              "Usa adecuadamente patrones gramaticales para expresar gustos y estados de ánimo."
+            ],
+            "un_refuerzo": "Proporcionar una plantilla con los campos vacíos (To, From, Date, Place) para guiar la escritura."
+          }
+        }
+      ]
+    }
+  ]
+}

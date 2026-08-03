@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 11,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G11-P1-T1",
+          "nombre_taller": "Mi Brújula Personal: Propósito e Identidad",
+          "conceptos_relacionados": [
+            "Propósito (Inicial)",
+            "Identidad personal",
+            "Duelo de cierre"
+          ],
+          "proposito_experiencia": "Orientar decisiones frente a la incertidumbre, profundizar el autoconocimiento y reflexionar sobre el cierre de etapa escolar.",
+          "recursos_eco": "Cuaderno personal, preguntas de reflexión, espacio para compartir en grupos pequeños.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Estamos en un momento de grandes decisiones. Hoy, vamos a afinar nuestra brújula para saber quiénes somos y hacia dónde queremos ir'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre su 'Propósito (Inicial)', vinculando decisiones futuras con su rol en la comunidad. Abordan la 'Identidad personal' analizando su crecimiento y los rasgos que desean conservar. Luego, realizan la 'Actividad 3: El cierre también se siente', que aborda el 'Duelo de cierre' al reflexionar sobre las emociones al despedirse del colegio. Use el ejemplo: 'Elegí estudiar ingeniería ambiental porque quiero aportar a soluciones reales en mi comunidad'. 'Me di cuenta de que disfruto escuchar a otros y eso forma parte esencial de quien soy'. 'Me emociona graduarme, pero también siento el dolor de dejar atrás a mis amigos'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te motiva a tomar decisiones importantes en este momento de tu vida?' y '¿Qué emociones aparecen cuando piensas en el final de esta etapa?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para articular su propósito, reflexionar sobre su identidad y procesar las emociones del duelo de cierre.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P1-T2",
+          "nombre_taller": "Mi Voz, Mi Decisión: Autoeficacia y Coraje",
+          "conceptos_relacionados": [
+            "Autoeficacia",
+            "Coraje Emocional",
+            "Propósito (decisiones)"
+          ],
+          "proposito_experiencia": "Fortalecer la confianza en las propias capacidades, la valentía para expresar sentimientos y la habilidad para vincular decisiones con propósitos.",
+          "recursos_eco": "Casos de dilemas personales, ejercicios de rol para conversaciones difíciles, hoja de reflexión sobre decisiones.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Hoy, vamos a descubrir la fuerza de nuestra voz interior y la valentía para defender lo que creemos, con la confianza de que podemos lograr lo que nos proponemos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre momentos donde demostraron 'Autoeficacia', confiando en sus capacidades. Practican el 'Coraje Emocional' en conversaciones difíciles. Luego, conectan sus 'Propósito (decisiones)' con escenarios futuros, asegurando alineación. Use el ejemplo: 'Pensé que no podría liderar el proyecto, pero confié en mis capacidades y salió muy bien'. 'Hablé con mis padres sobre mis verdaderos planes de carrera, aunque temía su reacción'. 'Antes de aceptar una oferta, pensé si esa opción se alineaba con el impacto que quiero generar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te da confianza para enfrentar nuevos desafíos?' y '¿Cómo vinculas tus decisiones con tus propósitos más grandes?'.",
+          "revision_proposito": "Evaluar la expresión de autoeficacia, el coraje emocional para la autoexpresión y la capacidad de vincular decisiones con propósitos.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P1-T3",
+          "nombre_taller": "La Fuerza de la Determinación: Integridad y Perseverancia",
+          "conceptos_relacionados": [
+            "Determinación",
+            "Integridad",
+            "Coraje Emocional"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad de mantener metas a pesar de obstáculos, actuar con honestidad y coraje para defender principios éticos.",
+          "recursos_eco": "Historias de perseverancia, dilemas éticos, ejercicios de toma de postura.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'La vida nos pondrá pruebas, pero con determinación e integridad, podemos superar cualquier obstáculo y defender lo que es correcto'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre su 'Determinación' para superar desafíos académicos o personales. Abordan la 'Integridad' al analizar situaciones donde actuaron con honestidad. Se refuerza el 'Coraje Emocional' al practicar cómo defender sus principios éticos. Use el ejemplo: 'Aunque el examen de ingreso era muy difícil, seguí estudiando porque sé lo que quiero lograr'. 'Devolví el dinero que encontré en el salón porque sabía que no era correcto quedármelo'. 'Tuve el coraje de pedir disculpas a mi compañero por haberle hablado mal'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué situaciones te exigen más determinación?' y '¿Por qué es importante mantener la integridad, incluso cuando es difícil?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para mantener la determinación, actuar con integridad y mostrar coraje emocional en situaciones éticas.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G11-P2-T1",
+          "nombre_taller": "Re-significando mi Historia: Resignificación y Coraje Emocional",
+          "conceptos_relacionados": [
+            "Resignificación",
+            "Coraje Emocional",
+            "Integridad"
+          ],
+          "proposito_experiencia": "Reinterpretar experiencias difíciles, expresar sentimientos con valentía y actuar con coherencia en momentos desafiantes.",
+          "recursos_eco": "Actividad 3: 'El cierre también se siente' (con énfasis en resignificación), escenarios de situaciones incómodas.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'A veces, las experiencias difíciles nos dejan lecciones valiosas. Hoy aprenderemos a reescribir nuestra historia para ver su fortaleza'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 3: El cierre también se siente', enfocándose en las situaciones difíciles que lograron resignificar con madurez. Practican el 'Coraje Emocional' para expresar lo que sienten, incluso en situaciones de incomodidad. Se refuerza la 'Integridad' al actuar con honestidad y coherencia en estos momentos. Use el ejemplo: 'Al principio veía mi error como un fracaso, pero ahora entiendo que fue una oportunidad para crecer'. 'Hablé con mis padres sobre mis verdaderos planes de carrera, aunque temía su reacción'. 'Devolví el dinero que encontré en el salón porque sabía que no era correcto quedármelo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué situaciones difíciles logras resignificar hoy con más madurez?' y '¿Qué conversaciones importantes necesitas tener antes de cerrar este ciclo?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para resignificar experiencias, expresar coraje emocional y mantener la integridad.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P2-T2",
+          "nombre_taller": "El Arte de Adaptarse: Resiliencia y Regulación Emocional",
+          "conceptos_relacionados": [
+            "Resiliencia (Transición a",
+            "Regulación emocional",
+            "Adaptación al cambio"
+          ],
+          "proposito_experiencia": "Fomentar la resiliencia ante la adversidad, regular emociones intensas y adaptarse a cambios inesperados manteniendo el bienestar.",
+          "recursos_eco": "Casos de cambios inesperados (ej. cambio de planes, resultados no esperados), técnicas de respiración, mindfulness.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'La vida es un río en constante movimiento. Hoy aprenderemos a fluir con ella, adaptarnos a los cambios y mantener la calma en la tormenta'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre la 'Resiliencia (Transición a)' la adversidad y cómo reformular metas. Practican la 'Regulación emocional' con técnicas para manejar emociones intensas y gestionarlas. Abordan la 'Adaptación al cambio' discutiendo estrategias para ajustarse a modificaciones inesperadas. Use el ejemplo: 'Cuando no fui admitido en mi primera opción, busqué alternativas y ajusté mis expectativas'. 'Antes de responder en medio de la discusión, respiré, pensé y luego hablé con calma'. 'Los cambios en el calendario de admisiones me inquietaron, pero actué con flexibilidad y me ajusté'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a mantener la calma en situaciones estresantes?' y '¿Cómo te adaptas a los cambios inesperados en tus planes?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para demostrar resiliencia, regular emociones y adaptarse a cambios de forma constructiva.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P2-T3",
+          "nombre_taller": "Construyendo mi Futuro: Proyecto de Vida y Trascendencia",
+          "conceptos_relacionados": [
+            "Proyecto de vida con",
+            "Trascendencia",
+            "Identidad personal"
+          ],
+          "proposito_experiencia": "Integrar metas personales, vocacionales y sociales en el proyecto de vida, buscando dejar una huella positiva y actuando con coherencia a la identidad.",
+          "recursos_eco": "Materiales para elaborar un 'mapa de vida' (imágenes, textos), preguntas para la Actividad 5: 'La huella que quiero dejar'.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Tu vida es tu obra maestra. Hoy vamos a soñar en grande y a trazar el camino para dejar una huella significativa en el mundo'.",
+          "momento_desarrollo_vivencia": "Los estudiantes desarrollan su 'Proyecto de vida con' integración de metas personales, vocacionales y sociales. Reflexionan sobre la 'Trascendencia', comprendiendo que es actuar con sentido y coherencia. Retoman la 'Identidad personal' (Actividad 2) para asegurar que su proyecto sea auténtico. Use el ejemplo: 'Quiero ser médico rural porque deseo mejorar la calidad de vida de comunidades vulnerables'. 'Me gustaría que me recuerden como alguien que usó su profesión para ayudar a los demás'. 'Me di cuenta de que disfruto escuchar a otros y eso forma parte esencial de quien soy'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué impacto deseas tener en el mundo a través de tu proyecto de vida?' y '¿Cómo quieres que los demás te recuerden al cerrar esta etapa?'.",
+          "revision_proposito": "Evaluar la claridad y coherencia del proyecto de vida, la comprensión de la trascendencia y la conexión con la identidad personal.",
+          "tiempo_aplicacion": "45 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G11-P3-T1",
+          "nombre_taller": "La Voz de la Conciencia: Integridad y Coraje para el Bienestar",
+          "conceptos_relacionados": [
+            "Integridad",
+            "Coraje Emocional",
+            "Propósito (decisiones)"
+          ],
+          "proposito_experiencia": "Mantener principios éticos, expresar convicciones con valentía y alinear decisiones con el propósito personal y colectivo.",
+          "recursos_eco": "Dilemas éticos complejos, escenarios de presión de grupo, técnicas de toma de decisiones.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestra conciencia es nuestra guía más confiable. Hoy aprenderemos a escucharla y a actuar con valentía y honestidad, incluso cuando sea difícil'.",
+          "momento_desarrollo_vivencia": "Los estudiantes analizan situaciones donde se exige 'Integridad', practicando cómo mantener sus valores. Desarrollan el 'Coraje Emocional' para enfrentar conversaciones difíciles y expresar su verdad. Conectan sus 'Propósito (decisiones)' con escenarios complejos, asegurando que sus acciones reflejen sus valores. Use el ejemplo: 'Cumplí mi promesa de ayudar a mi amigo con la tarea, aunque me invitaron a otro plan'. 'Hablé con mis padres sobre mis verdaderos planes de carrera, aunque temía su reacción'. 'Antes de aceptar una oferta, pensé si esa opción se alineaba con el impacto que quiero generar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué valor te ayuda a mantener tu integridad en momentos difíciles?' y '¿Cómo el coraje te permite ser fiel a ti mismo y a tu propósito?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para demostrar integridad, expresar coraje emocional y alinear sus decisiones con su propósito.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P3-T2",
+          "nombre_taller": "Nuevas Miradas: Búsqueda de Apoyo y Regulación Emocional",
+          "conceptos_relacionados": [
+            "Búsqueda de apoyo",
+            "Regulación emocional",
+            "Resiliencia (Transición a"
+          ],
+          "proposito_experiencia": "Desarrollar la habilidad de pedir ayuda, regular emociones intensas y mantener la resiliencia en situaciones de transición.",
+          "recursos_eco": "Casos donde se necesita ayuda, técnicas de comunicación efectiva, escenarios de transición (universidad, trabajo).",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'No estamos solos en este camino. Saber pedir ayuda es una fortaleza, y manejar nuestras emociones nos permite enfrentar cualquier transición con resiliencia'.",
+          "momento_desarrollo_vivencia": "Los estudiantes practican la 'Búsqueda de apoyo', identificando a personas de confianza y cómo comunicar sus necesidades. Refuerzan la 'Regulación emocional' con estrategias avanzadas para manejar el estrés y la ansiedad. Abordan la 'Resiliencia (Transición a)' a la adversidad, enfocándose en cómo reformular metas y superar desafíos en nuevas etapas. Use el ejemplo: 'Cuando me sentí abrumado por las opciones de carrera, pedí una cita con mi orientador'. 'Antes de responder en medio de la discusión, respiré, pensé y luego hablé con calma'. 'Cuando no fui admitido en mi primera opción, busqué alternativas y ajusté mis expectativas'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te detiene a veces de pedir ayuda?' y '¿Cómo la regulación emocional te ayuda a manejar las transiciones de la vida?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para buscar apoyo, regular sus emociones y demostrar resiliencia en transiciones.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P3-T3",
+          "nombre_taller": "El Compromiso Ético: Coherencia y Responsabilidad Social",
+          "conceptos_relacionados": [
+            "Compromiso ético y soc",
+            "Responsabilidad Social",
+            "Trascendencia"
+          ],
+          "proposito_experiencia": "Establecer y tomar decisiones coherentes con principios, actuar pensando en el bienestar común y trascender a través de acciones significativas.",
+          "recursos_eco": "Dilemas éticos comunitarios, proyectos de servicio social, reflexiones sobre el impacto personal.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestras acciones tienen un eco en el mundo. Hoy, vamos a comprometernos con un camino ético que beneficie a todos y deje una huella positiva'.",
+          "momento_desarrollo_vivencia": "Los estudiantes analizan el 'Compromiso ético y soc' en situaciones de la vida real, buscando coherencia entre principios y acciones. Desarrollan la 'Responsabilidad Social' al actuar pensando en el bienestar común y el cuidado del entorno. Conectan con la 'Trascendencia' al reflexionar sobre el impacto que desean tener. Use el ejemplo: 'Participé en un negocio que no respetaba normas legales, aunque me ofrecían buen pago'. 'Cuidé los materiales del salón para que otros también puedan usarlos'. 'Me gustaría que me recuerden como alguien que usó su profesión para ayudar a los demás'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué significa actuar con un compromiso ético en tu vida?' y '¿Qué acción te gustaría realizar para contribuir al bienestar de tu comunidad?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para demostrar compromiso ético, asumir responsabilidad social y comprender la trascendencia de sus acciones.",
+          "tiempo_aplicacion": "45 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G11-P4-T1",
+          "nombre_taller": "Mi Legado de Bienestar: Identidad y Autoeficacia en la Comunidad",
+          "conceptos_relacionados": [
+            "Identidad personal",
+            "Autoeficacia",
+            "Propósito (Inicial)"
+          ],
+          "proposito_experiencia": "Consolidar la identidad personal, fortalecer la autoeficacia y alinear el propósito inicial con el impacto deseado en la comunidad.",
+          "recursos_eco": "Actividad 2: 'Reconocer quién soy al cerrar una etapa', proyecto final de vida, reflexiones sobre el impacto comunitario.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Hemos construido una identidad fuerte. Hoy, vamos a proyectar quiénes somos y qué capacidades tenemos para dejar un legado positivo en nuestro entorno'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 2: Reconocer quién soy al cerrar una etapa', conectando su crecimiento personal con los rasgos que desean conservar. Refuerzan su 'Autoeficacia' al reflexionar sobre cómo sus capacidades pueden ayudar a su comunidad. Reafirman su 'Propósito (Inicial)' vinculando sus decisiones con soluciones reales en su entorno. Use el ejemplo: 'Me di cuenta de que disfruto escuchar a otros y eso forma parte esencial de quien soy'. 'Pensé que no podría liderar el proyecto, pero confié en mis capacidades y salió muy bien'. 'Elegí estudiar ingeniería ambiental porque quiero aportar a soluciones reales en mi comunidad'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aspectos de ti se fortalecieron durante tu paso por el colegio?' y '¿Cómo quieres que los demás te recuerden al cerrar esta etapa y comenzar una nueva?'.",
+          "revision_proposito": "Evaluar la integración de la identidad, autoeficacia y propósito en la visión de un legado positivo en la comunidad.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P4-T2",
+          "nombre_taller": "Vínculos Auténticos: Apego Seguro e Integridad en las Relaciones",
+          "conceptos_relacionados": [
+            "Apego seguro",
+            "Integridad",
+            "Coraje Emocional"
+          ],
+          "proposito_experiencia": "Analizar relaciones significativas desde la autonomía emocional, mantener la integridad y demostrar coraje para construir vínculos seguros y respetuosos.",
+          "recursos_eco": "Actividad 4: 'Vínculos que acompañan, no que atan', dilemas de amistad/pareja, ejercicios de comunicación asertiva.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Nuestras relaciones son fundamentales. Hoy, aprenderemos a construir vínculos que nos nutran, basados en la autonomía, el respeto y la honestidad'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 4: Vínculos que acompañan, no que atan', analizando una relación significativa desde la autonomía emocional y el respeto mutuo. Refuerzan la 'Integridad' al discutir cómo actuar con honestidad en sus relaciones. Practican el 'Coraje Emocional' para comunicar límites y expresar sentimientos en relaciones significativas. Use el ejemplo: 'Respeto mis límites y los del otro en mis relaciones'. 'Cumplí mi promesa de ayudar a mi amigo con la tarea, aunque me invitaron a otro plan'. 'He necesitado coraje emocional para decir lo que siento en mi relación'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué características hacen que una relación sea segura y sana para ti?' y '¿Qué tipo de vínculos quieres construir en la siguiente etapa de tu vida?'.",
+          "revision_proposito": "Evaluar la comprensión de apego seguro, la aplicación de integridad en relaciones y el uso de coraje emocional para la comunicación.",
+          "tiempo_aplicacion": "40 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G11-P4-T3",
+          "nombre_taller": "El Manifiesto de mi Ser: Conciencia de Capacidades y Trascendencia Final",
+          "conceptos_relacionados": [
+            "Uso responsable del Pro",
+            "Trascendencia",
+            "Compromiso ético y soc"
+          ],
+          "proposito_experiencia": "Utilizar las capacidades personales de forma responsable, comprender la trascendencia de sus acciones y establecer un compromiso ético al finalizar la etapa escolar.",
+          "recursos_eco": "Actividad 5: 'La huella que quiero dejar', creación de un 'manifiesto personal' de cierre de etapa, debates sobre responsabilidad social.",
+          "momento_inicio_conexion": "Diga a los jóvenes: 'Hoy, cerramos una etapa importante de nuestras vidas. Es momento de declarar cómo usaremos todo lo que somos para dejar una marca positiva en el mundo'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre el 'Uso responsable del Pro' de sus capacidades, considerando cómo pueden ayudar a defender causas justas. Reafirman la 'Trascendencia' al reflexionar sobre el impacto que desean tener. Establecen un 'Compromiso ético y soc' para la vida que comienza, articulando los valores que guiarán sus decisiones futuras. Use el ejemplo: 'Siento que mi habilidad para comunicar puede ayudar a defender causas justas'. 'Me gustaría que me recuerden como alguien que usó su profesión para ayudar a los demás'. 'Establecí mi compromiso ético para la vida que comienza'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué compromisos personales te llevas para la vida que comienza?' y '¿Cómo quieres que tu presencia en el mundo contribuya al bienestar de otros?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para articular el uso responsable de sus capacidades, la comprensión de la trascendencia y el establecimiento de un compromiso ético final.",
+          "tiempo_aplicacion": "45 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "7",
+  "nombre_archivo": "t_ciencias_sociales_7_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Navegantes del Tiempo",
+            "un_reto_sugerido": "Construir un mapa comparativo que muestre cómo ha cambiado la visión del mundo desde la cartografía medieval hasta las imágenes satelitales actuales.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar mapas antiguos con monstruos marinos y figuras bíblicas para imaginar qué sentían los exploradores medievales al viajar.",
+              "visual": "Dibujar un esquema que compare un mapamundi del siglo XII con una captura de pantalla de Google Earth del mismo territorio.",
+              "produccion": "Diseñar una 'Bitácora de Viaje' de un explorador moderno que use GPS para mapear una de las regiones naturales de Colombia."
+            },
+            "para_pensar": [
+              "¿Cómo influye lo que creemos saber sobre un lugar en la forma en que lo dibujamos?",
+              "¿Por qué los avances tecnológicos han hecho que el mundo parezca más pequeño hoy que en la Edad Media?"
+            ],
+            "pistas_del_exito": [
+              "Explica al menos dos diferencias entre la cartografía medieval y la contemporánea.",
+              "Ubica correctamente las regiones naturales de Colombia en un contexto moderno."
+            ],
+            "un_refuerzo": "Video corto sobre cómo los satélites toman fotos de la Tierra en tiempo real."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Foro Romano en mi Barrio",
+            "un_reto_sugerido": "Identificar cinco elementos de la vida cotidiana (leyes, construcción o juegos) en su comunidad que tengan su origen en la Antigua Roma.",
+            "ruta_de_exploracion": {
+              "explorar": "Realizar un 'Mini-Torneo' de juegos que involucren reglas claras, simulando los juegos públicos romanos.",
+              "visual": "Crear un collage fotográfico o dibujo de infraestructuras locales (puentes, acueductos o vías) comparándolas con las ruinas romanas.",
+              "produccion": "Redactar un 'Manifiesto de Ciudadano Romano-Moderno' sobre la importancia del matrimonio o las leyes de convivencia."
+            },
+            "para_pensar": [
+              "¿Por qué un imperio tan poderoso como el Romano terminó desapareciendo?",
+              "¿Qué señales de 'decadencia' crees que podría tener un Estado en la actualidad?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona el legado romano con la infraestructura o el sistema legal actual de Latinoamérica.",
+              "Argumenta con coherencia al menos dos causas de la crisis del imperio romano."
+            ],
+            "un_refuerzo": "Recorrido virtual por el Coliseo Romano usando herramientas de 360 grados."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Escudo de Derechos",
+            "un_reto_sugerido": "Resolver un caso de discriminación escolar utilizando la Acción de Tutela como mecanismo de protección.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de titulares de noticias sobre casos donde se vulneran derechos fundamentales en Colombia.",
+              "visual": "Cuadro comparativo entre la Declaración Universal de los DDHH y los derechos fundamentales de la Constitución colombiana.",
+              "produccion": "Simulacro de redacción de una tutela sencilla para defender el derecho a la igualdad de un compañero."
+            },
+            "para_pensar": [
+              "¿Cuál es la diferencia entre tener un derecho y saber cómo protegerlo?",
+              "¿Por qué la discriminación es una amenaza para la democracia en Colombia?"
+            ],
+            "pistas_del_exito": [
+              "Identifica situaciones específicas donde es procedente usar la tutela.",
+              "Plantea soluciones argumentadas frente a hechos de vulneración de derechos."
+            ],
+            "un_refuerzo": "Infografía sobre los pasos para presentar una Acción de Tutela sin necesidad de abogado."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Arte de Escuchar y Disentir",
+            "un_reto_sugerido": "Simular una sesión de Gobierno Escolar donde se deba tomar una decisión que beneficie a todo el grupo a pesar de los desacuerdos.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego 'El Teléfono Roto del Gobierno': Intentar transmitir una propuesta de mejora escolar y ver cómo cambia según la escucha de cada uno.",
+              "visual": "Mapa mental sobre las consecuencias positivas y negativas de tres decisiones colectivas diferentes.",
+              "produccion": "Decálogo del 'Disenso Constructivo' para aplicar en las discusiones del aula."
+            },
+            "para_pensar": [
+              "¿Por qué es valioso que en un grupo no todos piensen igual?",
+              "¿Qué pasa cuando un representante escolar no cumple lo que prometió y nadie hace seguimiento?"
+            ],
+            "pistas_del_exito": [
+              "Practica la escucha activa repitiendo con sus propias palabras la idea de un compañero.",
+              "Usa la libertad de expresión de manera respetuosa durante los debates."
+            ],
+            "un_refuerzo": "Lectura de los perfiles de los candidatos actuales al gobierno escolar de la institución."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Cartógrafos del Nuevo Mundo",
+            "un_reto_sugerido": "Comparar la organización económica de las colonias americanas (española, portuguesa e inglesa) mediante un mapa de recursos.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de satélite actuales de zonas agrícolas antiguas y adivinar qué se cultivaba allí hace 400 años.",
+              "visual": "Crear una infografía que muestre el uso de la cartografía en actividades cotidianas como pedir un domicilio o viajar.",
+              "produccion": "Maqueta o diagrama comparativo sobre los tipos de explotación (minería vs plantación) en las colonias americanas."
+            },
+            "para_pensar": [
+              "¿Cómo cambió la forma de ver el mundo tras el descubrimiento de América?",
+              "¿Por qué la cartografía fue una herramienta de poder para los imperios coloniales?"
+            ],
+            "pistas_del_exito": [
+              "Describe las diferencias en la tenencia de la tierra entre colonias españolas e inglesas.",
+              "Explica cómo se modificaron las representaciones del mundo con el paso del tiempo."
+            ],
+            "un_refuerzo": "Uso de capas históricas en Google Earth para ver el crecimiento de ciudades coloniales."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Castillos y Pirámides",
+            "un_reto_sugerido": "Realizar un cuadro comparativo entre el sistema feudal europeo y la organización de una cultura precolombina (Maya o Azteca).",
+            "ruta_de_exploracion": {
+              "explorar": "Ver fragmentos de películas sobre la vida en un castillo medieval y discutir quién trabajaba y quién mandaba.",
+              "visual": "Dibujar la pirámide social del feudalismo frente a la pirámide social de una cultura precolombina.",
+              "produccion": "Escribir un 'Diario de un campesino' comparando un día de trabajo en un feudo europeo vs en una ciudad precolombina."
+            },
+            "para_pensar": [
+              "¿En qué se parecen el poder de la iglesia medieval y el poder de los sacerdotes precolombinos?",
+              "¿Por qué la desigualdad social era la base de estas dos sociedades?"
+            ],
+            "pistas_del_exito": [
+              "Señala al menos tres similitudes entre las sociedades medievales y las precolombinas.",
+              "Describe correctamente el funcionamiento del modelo económico feudal."
+            ],
+            "un_refuerzo": "Cuento corto sobre el intercambio de productos entre un siervo feudal y un comerciante azteca."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Mediadores de Paz",
+            "un_reto_sugerido": "Organizar un 'Taller de Negociación' para resolver un conflicto por el uso del espacio común en el colegio.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de juego de roles donde dos personas quieren el mismo objeto y deben negociar para compartirlo.",
+              "visual": "Esquema de 'Puntos de Vista' donde se registren las necesidades de ambas partes en un conflicto.",
+              "produccion": "Redactar un 'Acuerdo de Paz de Aula' con pasos claros para resolver problemas sin violencia."
+            },
+            "para_pensar": [
+              "¿Por qué el conflicto puede ser una oportunidad para aprender algo nuevo de los demás?",
+              "¿Qué consecuencias tiene en la vida diaria no saber negociar ante un desacuerdo?"
+            ],
+            "pistas_del_exito": [
+              "Plantea al menos dos alternativas pacíficas para resolver un conflicto cotidiano.",
+              "Reconoce y respeta el punto de vista del otro durante el simulacro."
+            ],
+            "un_refuerzo": "Lectura de una fábula sobre la importancia de la conciliación."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Hogar Seguro, Familia Protegida",
+            "un_reto_sugerido": "Crear un folleto informativo sobre los derechos fundamentales de las familias colombianas (salud, vivienda, educación).",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevista a un adulto de la familia sobre qué necesidades son las más difíciles de cubrir en el hogar.",
+              "visual": "Mural de acciones solidarias: Dibujar formas en las que el grupo puede apoyar a alguien en situación difícil.",
+              "produccion": "Carta dirigida a una autoridad local expresando pacíficamente una injusticia detectada en el barrio."
+            },
+            "para_pensar": [
+              "¿Cómo afecta a un estudiante que su familia no tenga acceso a una vivienda digna?",
+              "¿Cuál es la diferencia entre autoridad justa y uso injusto del poder?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente los derechos fundamentales que protegen a la familia.",
+              "Propone una acción solidaria concreta para miembros de la comunidad vulnerables."
+            ],
+            "un_refuerzo": "Video sobre la importancia de la solidaridad en las comunidades locales."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Urbanistas del Futuro",
+            "un_reto_sugerido": "Mapear las zonas de mayor vulnerabilidad (pobreza o falta de planificación) en su municipio y proponer una mejora urbana.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata barrial o uso de fotos para identificar dónde hay basura, falta de vías o construcciones informales.",
+              "visual": "Diseñar un glosario visual con conceptos como 'Conurbación', 'Área Metropolitana' y 'Planificación'.",
+              "produccion": "Maqueta de una 'Ciudad Sostenible' que resuelva un problema de hacinamiento o servicios públicos."
+            },
+            "para_pensar": [
+              "¿Por qué la gente sigue migrando del campo a la ciudad si en las zonas urbanas hay tanta pobreza?",
+              "¿Qué impacto tiene la falta de planificación urbana en la seguridad de los ciudadanos?"
+            ],
+            "pistas_del_exito": [
+              "Utiliza correctamente al menos tres conceptos de geografía urbana.",
+              "Explica las causas y consecuencias de los asentamientos informales en su contexto."
+            ],
+            "un_refuerzo": "Video sobre cómo han crecido las ciudades en Colombia en los últimos 50 años."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Encuentro de Dos Mundos",
+            "un_reto_sugerido": "Producir un reportaje histórico sobre las consecuencias culturales y demográficas que tuvo la llegada de los europeos para los pueblos indígenas.",
+            "ruta_de_exploracion": {
+              "explorar": "Degustación o exhibición de productos que llegaron de Europa y productos que América dio al mundo.",
+              "visual": "Mapa de rutas de colonización (española, portuguesa e inglesa) resaltando las zonas de mayor impacto cultural.",
+              "produccion": "Crear un 'Manifiesto por la Diversidad' que valore la herencia indígena y afro en la identidad colombiana."
+            },
+            "para_pensar": [
+              "¿Por qué es importante hablar de diversidad étnica hoy si la conquista ocurrió hace siglos?",
+              "¿Qué tradiciones de los pueblos ancestrales todavía se mantienen en tu región?"
+            ],
+            "pistas_del_exito": [
+              "Interpreta las consecuencias demográficas negativas de la colonización.",
+              "Argumenta la importancia de la diversidad cultural en la identidad latinoamericana."
+            ],
+            "un_refuerzo": "Lectura de mitos indígenas sobre la creación del mundo frente a la visión europea."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Viaje al Año 1000",
+            "un_reto_sugerido": "Comparar la organización social y cultural de París (Europa) frente a Tikal (Centroamérica) en el año 1000 d.C.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de asociación: ¿Qué había en París que no había en Tikal y viceversa en el año 1000?",
+              "visual": "Dibujar una 'Calle Típica' de una ciudad europea y una precolombina del siglo XI resaltando sus diferencias.",
+              "produccion": "Ensayo corto sobre las continuidades del ordenamiento político medieval que aún persisten hoy."
+            },
+            "para_pensar": [
+              "¿Eran las sociedades precolombinas 'menos desarrolladas' o simplemente diferentes a las europeas?",
+              "¿Qué pasó con el desarrollo de las culturas americanas cuando llegaron los europeos?"
+            ],
+            "pistas_del_exito": [
+              "Compara al menos dos características culturales de ciudades de diferentes continentes en el año 1000.",
+              "Identifica las rupturas en el desarrollo de las culturas indígenas tras la conquista."
+            ],
+            "un_refuerzo": "Galería de imágenes de pirámides mayas y catedrales góticas antiguas."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Círculos de Empatía",
+            "un_reto_sugerido": "Diseñar una campaña escolar de 'Cuidado Especial' para niños, ancianos y personas con discapacidad en la institución.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de sensibilización: Intentar realizar una tarea cotidiana con los ojos vendados o sin usar una mano.",
+              "visual": "Mapa de riesgos y ayudas en la escuela: Señalar rampas, zonas difíciles y puntos de apoyo para personas excluidas.",
+              "produccion": "Video o póster que explique el impacto psicológico de la discriminación en la autoestima de los jóvenes."
+            },
+            "para_pensar": [
+              "¿Cómo influye mi trato hacia personas con gustos distintos en su bienestar personal?",
+              "¿Por qué actuar con independencia ante el grupo para defender a alguien excluido me hace un líder?"
+            ],
+            "pistas_del_exito": [
+              "Evalúa sus propias acciones frente a situaciones de discriminación.",
+              "Propone una estrategia de cuidado para una población vulnerable en el espacio público."
+            ],
+            "un_refuerzo": "Charla con un experto o video sobre derechos de las personas con discapacidad."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Gran Salto Urbano",
+            "un_reto_sugerido": "Analizar cómo la industrialización colombiana en las últimas décadas ha transformado la movilidad y el medio ambiente de su ciudad.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer un listado de los problemas de movilidad (trancones) que ven camino al colegio y proponer una causa.",
+              "visual": "Gráfico comparativo de los sistemas de producción tradicionales frente a los industriales modernos.",
+              "produccion": "Propuesta de una 'Eco-Industria' local que no afecte los sistemas de producción tradicionales de la región."
+            },
+            "para_pensar": [
+              "¿Qué gana y qué pierde un campesino cuando decide mudarse a la ciudad para trabajar en una fábrica?",
+              "¿Por qué las ciudades actuales tienen problemas similares a las ciudades de la era industrial temprana?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona la migración campo-ciudad con la sobrepoblación urbana actual.",
+              "Compara problemáticas de contaminación actuales con periodos históricos previos."
+            ],
+            "un_refuerzo": "Lectura sobre la historia de las primeras fábricas en Medellín o Bogotá."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Despertar de la Modernidad",
+            "un_reto_sugerido": "Crear una obra artística (pintura o literatura) que capture el espíritu del Renacimiento y su cambio de pensamiento.",
+            "ruta_de_exploracion": {
+              "explorar": "Comparar el arte medieval (rígido y religioso) con el arte renacentista (detallado y humano) para notar el cambio de visión.",
+              "visual": "Mapa temático de las ciudades estratégicas del Renacimiento en Europa por su riqueza cultural.",
+              "produccion": "Debate sobre las implicaciones políticas de la Reforma Protestante en la libertad de pensamiento actual."
+            },
+            "para_pensar": [
+              "¿Por qué se dice que el Renacimiento puso al ser humano en el centro del mundo?",
+              "¿Cómo influyó el nuevo pensamiento científico de la Modernidad en nuestra vida diaria actual?"
+            ],
+            "pistas_del_exito": [
+              "Describe acontecimientos que marcaron el paso a la Edad Moderna.",
+              "Explica la importancia económica de las ciudades renacentistas italianas."
+            ],
+            "un_refuerzo": "Galería digital de obras de Leonardo da Vinci y Miguel Ángel."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Tribunal de Paz Escolar",
+            "un_reto_sugerido": "Resolver un conflicto complejo en el aula mediante la aplicación de técnicas de Arbitraje y Mediación Escolar.",
+            "ruta_de_exploracion": {
+              "explorar": "Búsqueda de ejemplos de conflictos que terminaron en paz gracias al diálogo en la historia de Colombia.",
+              "visual": "Infografía sobre las diferencias entre Negociación, Conciliación y Arbitraje.",
+              "produccion": "Diseño de un 'Rincón de la Mediación' en el salón con herramientas para el diálogo autónomo."
+            },
+            "para_pensar": [
+              "¿Es posible fortalecer la dignidad de una persona incluso cuando está en un conflicto?",
+              "¿Por qué el sistema político colombiano actual se basa en la mediación y no solo en el castigo?"
+            ],
+            "pistas_del_exito": [
+              "Aplica técnicas de mediación escolar de forma efectiva durante el simulacro.",
+              "Explica cómo el conflicto puede ser una oportunidad de aprendizaje interpersonal."
+            ],
+            "un_refuerzo": "Taller práctico sobre cómo ser un mediador escolar exitoso."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Ciudadanos del Bien Común",
+            "un_reto_sugerido": "Liderar una jornada de embellecimiento del espacio público escolar o del barrio promoviendo el respeto por el medio ambiente.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar las señales de tránsito cercanas y discutir cómo respetarlas protege la vida de todos.",
+              "visual": "Mapa de 'Riesgos Viales y Sexuales': Identificar peligros en el entorno y proponer medidas de autocuidado.",
+              "produccion": "Campaña de redes sociales o cartelera sobre la importancia de los derechos sexuales y reproductivos."
+            },
+            "para_pensar": [
+              "¿Por qué el espacio público se considera patrimonio de todos y cómo lo afectamos al dañarlo?",
+              "¿Qué relación hay entre el autocuidado físico y el respeto al medio ambiente?"
+            ],
+            "pistas_del_exito": [
+              "Implementa una acción preventiva frente a riesgos viales.",
+              "Explica la importancia de la autonomía en el ejercicio de los derechos sexuales."
+            ],
+            "un_refuerzo": "Video sobre educación vial y respeto a las señales de tránsito."
+          }
+        }
+      ]
+    }
+  ]
+}

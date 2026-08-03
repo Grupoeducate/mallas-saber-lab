@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 4,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Time Traveler's Passport",
+            "un_reto_sugerido": "¿Cómo podrías explicarle a un viajero del tiempo quién eres y qué haces en un día común usando solo sonidos y mímica antes de las palabras?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una serie de sonidos ambientales (una alarma, agua corriendo, platos, juegos) y tratar de adivinar a qué momento del día pertenecen (morning, afternoon, night).",
+              "visual": "Crear un 'Reloj de Rutinas' usando un plato de cartón o un círculo de papel, donde cada hora tenga un dibujo de una acción cotidiana y el número correspondiente hasta el 1000 (ej. 7:00 AM - Wake up).",
+              "produccion": "Relacionar los sonidos escuchados con las horas del reloj y verbalizar la rutina en inglés usando conectores de secuencia simples."
+            },
+            "para_pensar": [
+              "¿Por qué es importante organizar nuestras actividades en momentos específicos del día?",
+              "¿Cómo han cambiado las rutinas humanas con la invención de la luz eléctrica? (Impacto CTS)"
+            ],
+            "pistas_del_exito": [
+              "Asocia correctamente el sonido de una acción con su nombre en inglés.",
+              "Identifica números hasta 1000 al hablar de horas o cantidades de objetos en su rutina."
+            ],
+            "un_refuerzo": "Utilizar flashcards con dibujos de acciones y etiquetas de texto para emparejar antes de realizar la escucha."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Greeting Station",
+            "un_reto_sugerido": "¿Cómo cambiaría tu forma de saludar si conocieras a un niño de tu edad frente a un científico famoso en una feria de ciencias?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un video corto o imágenes de personas saludándose en diferentes contextos y adivinar quién tiene más autoridad o confianza basándose en el lenguaje corporal.",
+              "visual": "Juego de roles 'Speed Dating' educativo: los estudiantes rotan por estaciones saludando a sus compañeros usando diferentes niveles de cortesía y preguntando datos personales.",
+              "produccion": "Sostener una conversación breve donde deletreen su nombre, digan su edad y describan un objeto de su mochila usando números hasta el 1000."
+            },
+            "para_pensar": [
+              "¿Qué nos dice el tono de voz sobre los sentimientos de una persona?",
+              "¿Cómo facilita la tecnología (celulares) que nos saludemos hoy en día comparado con el pasado?"
+            ],
+            "pistas_del_exito": [
+              "Mantiene una conversación simple respondiendo a 'Who, When, Where'.",
+              "Deletrea palabras conocidas con fluidez durante el diálogo."
+            ],
+            "un_refuerzo": "Tener un 'guion de bolsillo' con las preguntas clave (What is your name? How old are you?) para consultar durante el juego de roles."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Map of My Daily World",
+            "un_reto_sugerido": "¿Puedes reconstruir la historia de un niño de otro país solo leyendo las pistas de los lugares que visita en un mapa?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar un mapa ilustrado de una ciudad desconocida e identificar iconos universales (escuela, parque, hospital).",
+              "visual": "Dibujar un mapa del tesoro en el salón de clases colocando 'pistas escritas' en inglés en diferentes preposiciones de lugar (under the chair, on the table).",
+              "produccion": "Leer un texto corto sobre una tradición cultural y ubicar en el mapa los lugares y momentos mencionados (When and Where)."
+            },
+            "para_pensar": [
+              "¿Cómo ayudan los mapas y las señales visuales a entender un idioma que no conocemos bien?",
+              "¿Qué impacto tiene el turismo en los lugares tradicionales de una comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Ubica correctamente momentos y lugares en un texto narrativo corto.",
+              "Asocia descripciones escritas con los dibujos correspondientes en el mapa."
+            ],
+            "un_refuerzo": "Resaltar con diferentes colores en el texto las palabras que responden a 'Who' (azul), 'Where' (rojo) y 'When' (verde)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Sequence Architect",
+            "un_reto_sugerido": "¿Cómo podrías escribir un manual de instrucciones para un robot que no sabe cómo prepararse para ir a la escuela?",
+            "ruta_de_exploracion": {
+              "explorar": "Ordenar físicamente una serie de imágenes desordenadas que muestran un proceso (ej. sembrar una planta) sin usar palabras.",
+              "visual": "Crear un 'Acordeón de Secuencias' con papel, donde cada doblez contiene una oración y un dibujo usando conectores (First, Then, Finally).",
+              "produccion": "Escribir una descripción breve de una secuencia de eventos cotidiana, asegurando la ortografía correcta de palabras frecuentes."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si olvidamos un paso en una secuencia de instrucciones?",
+              "¿Cómo ayudan los diagramas de flujo en la programación de computadoras? (Relación con Tecnología)"
+            ],
+            "pistas_del_exito": [
+              "Enlaza frases usando conectores de secuencia y adición de forma lógica.",
+              "Escribe descripciones cortas basadas en una secuencia de ilustraciones."
+            ],
+            "un_refuerzo": "Proporcionar una lista de conectores (First, Next, Then, Finally) en un tablero visual para que el estudiante los elija."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Identity Detective",
+            "un_reto_sugerido": "¿Podrías identificar a un 'sospechoso' en una multitud basándote solo en una descripción auditiva de sus gustos y apariencia?",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar descripciones de personajes famosos o dibujos animados y levantar la mano cuando escuchen un rasgo físico específico (tall, hair color).",
+              "visual": "Juego de 'Bingo de Preferencias': escuchar audios cortos de personas hablando de sus hobbies y marcar en una tabla quién prefiere qué.",
+              "produccion": "Comparar mediante un cuadro comparativo simple las preferencias escuchadas con las propias, usando 'I like' vs 'He/She likes'."
+            },
+            "para_pensar": [
+              "¿Por qué es importante respetar los gustos de los demás aunque sean diferentes a los nuestros?",
+              "¿Cómo influyen los medios de comunicación en nuestra percepción de la belleza física?"
+            ],
+            "pistas_del_exito": [
+              "Identifica rasgos físicos y expresiones de gusto en un audio corto.",
+              "Justifica de manera sencilla por qué prefiere una actividad sobre otra."
+            ],
+            "un_refuerzo": "Escuchar el audio varias veces, enfocándose primero solo en los adjetivos físicos y luego en las preferencias."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Emotion Mirror",
+            "un_reto_sugerido": "¿Cómo podemos comunicar nuestras emociones en inglés cuando las palabras no son suficientes?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar tarjetas con rostros que expresan diferentes emociones y tratar de imitar el sonido que haría una persona sintiéndose así.",
+              "visual": "Crear 'Máscaras de Emociones' (happy, sad, excited) y realizar un juego de roles donde el estudiante debe cambiar de máscara según la situación planteada.",
+              "produccion": "Mantener un diálogo donde pregunten y respondan sobre sus sentimientos actuales y los rasgos físicos de un compañero de forma respetuosa."
+            },
+            "para_pensar": [
+              "¿Es posible sentir dos emociones al mismo tiempo?",
+              "¿Cómo han ayudado los 'emojis' a la comunicación global en la era digital?"
+            ],
+            "pistas_del_exito": [
+              "Responde a preguntas sobre gustos y sentimientos con frases completas.",
+              "Describe la apariencia física de otros usando el vocabulario adecuado."
+            ],
+            "un_refuerzo": "Usar un 'termómetro de emociones' visual para señalar cómo se siente antes de intentar decirlo en inglés."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "Festival World Tour",
+            "un_reto_sugerido": "¿Qué elementos hacen que una celebración sea única en un país pero extraña en otro?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar imágenes de celebraciones (Halloween, Diwali, Carnaval) y buscar objetos comunes (comida, luces, disfraces).",
+              "visual": "Crear un 'Pasaporte Cultural' donde peguen recortes o dibujen elementos de una festividad leída en un texto auténtico.",
+              "produccion": "Responder preguntas tipo 'What, Who, When, Where' sobre un texto corto que describe una tradición cultural específica."
+            },
+            "para_pensar": [
+              "¿Qué pasaría si todas las culturas celebraran lo mismo de la misma forma?",
+              "¿Cómo afecta el uso de materiales no biodegradables en las festividades al medio ambiente?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce elementos culturales y nombres propios en textos sencillos.",
+              "Compara y contrasta tradiciones de diferentes países basándose en la lectura."
+            ],
+            "un_refuerzo": "Proporcionar un glosario visual con los términos clave de la festividad (ej. Pumpkin, Candle, Mask)."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Personality Profile",
+            "un_reto_sugerido": "¿Cómo escribirías una carta de presentación para un club de amigos donde resaltes lo mejor de tu personalidad?",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de adjetivos positivos en español y buscar sus equivalentes en inglés usando un diccionario o apoyo visual.",
+              "visual": "Diseñar un 'Avatar' de papel y escribir alrededor de él oraciones que describan su personalidad y estado de ánimo actual.",
+              "produccion": "Escribir un diálogo corto o un párrafo donde se use el vocabulario de sentimientos y rasgos personales para describir a alguien del entorno."
+            },
+            "para_pensar": [
+              "¿Cómo influyen nuestras acciones en la forma en que los demás perciben nuestra personalidad?",
+              "¿Puede la inteligencia artificial tener personalidad o sentimientos? (Debate CTS)"
+            ],
+            "pistas_del_exito": [
+              "Usa adecuadamente estructuras gramaticales para describir rasgos y estados de ánimo.",
+              "Verifica la ortografía de las palabras de uso frecuente en sus descripciones."
+            ],
+            "un_refuerzo": "Utilizar plantillas de oraciones con espacios en blanco (ej. I am ____ and I feel ____)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Hobby Radio",
+            "un_reto_sugerido": "¿Puedes identificar qué actividad está haciendo alguien solo por el ritmo de su respiración o el sonido de sus pasos?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Sonidos en Acción': escuchar grabaciones de personas haciendo ejercicio, pintando o cocinando e identificar el verbo de acción.",
+              "visual": "Crear un 'Tablero de Acciones' donde los estudiantes muevan una ficha según las actividades que escuchan en una narración corta.",
+              "produccion": "Interpretar y explicar por qué a un personaje le gusta o no una actividad basándose en las pistas auditivas de su tono de voz."
+            },
+            "para_pensar": [
+              "¿Por qué tener un hobby es importante para la salud mental?",
+              "¿Cómo la tecnología ha creado nuevos hobbies (ej. e-sports) que no existían hace 20 años?"
+            ],
+            "pistas_del_exito": [
+              "Identifica y relaciona vocabulario de tiempo libre y emociones en audios.",
+              "Explica razones sencillas de gustos y disgustos tras escuchar una opinión."
+            ],
+            "un_refuerzo": "Usar mímica (Total Physical Response) mientras se escucha la palabra de la acción para reforzar la memoria auditiva."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Live Reporter",
+            "un_reto_sugerido": "¿Cómo reportarías lo que está sucediendo en tu salón de clases en este preciso momento para un noticiero internacional?",
+            "ruta_de_exploracion": {
+              "explorar": "Observar una imagen con muchas personas haciendo diferentes cosas y tratar de describir una acción sin decir el nombre del objeto (ej. 'He is eating something red').",
+              "visual": "Dinámica 'Freeze Frame': un grupo de estudiantes hace una estatua de una escena, y otro estudiante debe 'entrevistarlos' preguntando qué están haciendo (Present Continuous).",
+              "produccion": "Mantener una conversación donde describa su información personal, sus emociones y las acciones que realiza habitualmente."
+            },
+            "para_pensar": [
+              "¿Qué diferencia hay entre lo que hacemos siempre y lo que estamos haciendo justo ahora?",
+              "¿Cómo ayudan las cámaras de seguridad a entender eventos en tiempo real?"
+            ],
+            "pistas_del_exito": [
+              "Usa el presente continuo para describir acciones que suceden en el momento.",
+              "Habla de cantidades y cuenta objetos hasta mil con precisión."
+            ],
+            "un_refuerzo": "Practicar primero con verbos de acción simples (run, eat, sleep) antes de pasar a estructuras más complejas."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Story Alchemist",
+            "un_reto_sugerido": "¿Es posible cambiar el final de una historia si cambiamos el lugar donde ocurre la acción?",
+            "ruta_de_exploracion": {
+              "explorar": "Leer un cuento corto ilustrado y predecir qué pasará en la siguiente página basándose solo en los dibujos.",
+              "visual": "Crear un 'Cubo de Historias' (Story Cubes) con dibujos de personajes, lugares y acciones. Lanzarlos y leer las combinaciones resultantes.",
+              "produccion": "Diferenciar en un texto el uso de rutinas (Present Simple) frente a acciones del momento (Present Continuous) y responder preguntas de comprensión."
+            },
+            "para_pensar": [
+              "¿Por qué los personajes de los cuentos suelen tener rutinas muy marcadas?",
+              "¿Cómo la ciencia ficción imagina las rutinas del futuro en otros planetas?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce la estructura del presente continuo en textos cortos narrativos.",
+              "Identifica quién, qué, cuándo y dónde en una narración de interés."
+            ],
+            "un_refuerzo": "Subrayar con dos colores diferentes las acciones que ocurren 'siempre' y las que ocurren 'ahora' en el texto."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Creative Scriptwriter",
+            "un_reto_sugerido": "¿Cómo podrías crear un personaje que sea totalmente opuesto a ti y escribir un día en su vida?",
+            "ruta_de_exploracion": {
+              "explorar": "Analizar perfiles de personajes de libros conocidos y listar sus características físicas y de personalidad.",
+              "visual": "Elaborar un 'Storyboard' (guion gráfico) de 4 cuadros para una historia corta, asegurando que haya una secuencia lógica.",
+              "produccion": "Escribir una historia corta original que incluya personajes, escenario, trama y el uso de conectores de secuencia."
+            },
+            "para_pensar": [
+              "¿Qué hace que una historia sea interesante para el lector?",
+              "¿Cómo el reciclaje de papel puede ayudar a que más niños tengan libros para escribir sus historias?"
+            ],
+            "pistas_del_exito": [
+              "Expresa opiniones de forma clara y respetuosa sobre temas de interés.",
+              "Escribe una historia corta con una estructura gramatical coherente y ortografía cuidada."
+            ],
+            "un_refuerzo": "Proporcionar un inicio de historia (prompts) para que el estudiante solo tenga que completar el desarrollo y el final."
+          }
+        }
+      ]
+    }
+  ]
+}

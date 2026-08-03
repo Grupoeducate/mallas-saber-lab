@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "grado": 8,
+    "area": "Proyecto Socioemocional"
+  },
+  "periodos": [
+    {
+      "numero_periodo": 1,
+      "talleres": [
+        {
+          "id_taller": "G8-P1-T1",
+          "nombre_taller": "Mi Brújula Interna: Autonomía e Incertidumbre",
+          "conceptos_relacionados": [
+            "Autonomía (Nivel 1: Identidad)",
+            "Incertidumbre (Nivel 1: Aceptación)",
+            "Límites Internos (Nivel 1: Autocuidado)"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de tomar decisiones basadas en la propia identidad, aceptar la incertidumbre y establecer límites internos para el autocuidado.",
+          "recursos_eco": "Situaciones de decisiones recientes (Actividad 1), escenarios de decisiones futuras que generan dudas (Actividad 6), situaciones de presión social (Actividad 4).",
+          "momento_inicio_conexion": "Diga a los niños: 'Crecer es aprender a navegar, a veces sin un mapa claro. Hoy afinaremos nuestra brújula interna para elegir nuestro camino y cuidarnos en la travesía'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 1: Autonomía – Elegir desde mí', identificando una decisión bajo presión externa y reflexionando sobre su criterio personal. Se aborda la 'Incertidumbre' con la 'Actividad 6: Incertidumbre – No saber también es parte', reflexionando sobre decisiones futuras que generan dudas y las emociones asociadas. Finalmente, se trabajan los 'Límites Internos' con la 'Actividad 4: Límites internos – Decirme hasta aquí', identificando límites para el autocuidado emocional. Use el ejemplo: 'Decidí inscribirme en arte porque me gusta, aunque mis amigos se fueron a otra actividad'. 'No sé qué pasará el próximo año, pero entiendo que sentir dudas es parte de crecer'. 'Me puse el límite de no acostarme tarde para poder rendir bien en mis clases'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo supiste que era una decisión propia?' y '¿Qué límite interno quieres reforzar para cuidarte emocionalmente?'.",
+          "revision_proposito": "Observar la capacidad de los estudiantes para tomar decisiones autónomas, aceptar la incertidumbre y establecer límites internos para el bienestar.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P1-T2",
+          "nombre_taller": "El Poder de Recuperarse: Frustración y Resiliencia",
+          "conceptos_relacionados": [
+            "Frustración (Nivel 1: Tolerancia)",
+            "Resiliencia (Nivel 1: Superación)",
+            "Equilibrio Emocional (Nivel 1: Regulación)"
+          ],
+          "proposito_experiencia": "Reconocer la frustración sin culparse, desarrollar la capacidad de superarse ante un fracaso y aplicar estrategias para recuperar el equilibrio emocional.",
+          "recursos_eco": "Experiencias recientes de frustración (Actividad 3), identificación de estrategias personales para la calma (Actividad 9).",
+          "momento_inicio_conexion": "Diga a los niños: 'A veces las cosas no salen como esperamos, y eso es frustrante. Pero dentro de nosotros tenemos el poder de levantarnos y seguir adelante'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 3: Frustración – Cuando no sale como esperaba', describiendo una experiencia reciente de frustración y analizando su reacción. Se introduce la 'Resiliencia' como la capacidad de sobreponerse y utilizar el fracaso para aprender, diseñando un plan de acción para una próxima vez. Se conecta con el 'Equilibrio Emocional' a través de la 'Actividad 9: Equilibrio emocional – Volver al centro', identificando estrategias personales para recuperar la calma después de una emoción intensa. Use el ejemplo: 'Me sentí muy frustrado por la mala nota en el examen, pero respiré y evité romper la hoja'. 'Reprobé el examen, pero analicé mis errores y diseñé un plan de estudio para la próxima vez'. 'Estaba furioso, así que me salí un momento del salón para no decir nada malo'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué aprendiste de esa experiencia de frustración?' y '¿Qué haces para volver a la calma después de una emoción intensa?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reconocer, tolerar la frustración, demostrar resiliencia y aplicar estrategias de regulación emocional.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P1-T3",
+          "nombre_taller": "Mi Voz Auténtica: Coherencia e Integridad",
+          "conceptos_relacionados": [
+            "Coherencia (Nivel 1: Alineación)",
+            "Integridad (Nivel 1: Ética)",
+            "Autoexigencia (Nivel 1: Saludable)"
+          ],
+          "proposito_experiencia": "Actuar de manera consistente con el propio pensamiento y sentimiento, mantener principios morales y motivarse sin caer en el perfeccionismo tóxico.",
+          "recursos_eco": "Situaciones de incoherencia interna (Actividad 2), dilemas éticos donde nadie observa (Actividad 10), análisis de metas personales (Actividad 5).",
+          "momento_inicio_conexion": "Diga a los niños: 'Ser auténtico es cuando lo que pensamos, decimos y hacemos, está en sintonía. Hoy construiremos esa armonía dentro de nosotros'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 2: Coherencia – Lo que pienso, siento y hago', analizando una situación de incoherencia interna y reflexionando sobre su impacto. Se introduce la 'Integridad' con la 'Actividad 10: Integridad – Ser fiel a lo que creo', reflexionando sobre decisiones éticas donde nadie observaba. Se conecta con la 'Autoexigencia' a través de la 'Actividad 5: Autoexigencia – Exigirme sin dañarme', analizando metas personales y la exigencia asociada. Use el ejemplo: 'Dije que iba a ser honesto en el trabajo grupal, así que hice mi parte sin copiar'. 'Pude haber copiado la respuesta del examen del compañero de al lado, pero mantuve mi integridad y respondí con lo que sabía'. 'Quiero sacar buenas notas, pero entiendo que mi valor como persona no depende solo de ellas'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo influye la coherencia en la confianza personal?' y '¿Qué significa para ti actuar con integridad?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para demostrar coherencia, mantener la integridad y gestionar la autoexigencia de manera saludable.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 2,
+      "talleres": [
+        {
+          "id_taller": "G8-P2-T1",
+          "nombre_taller": "Mi Plan de Vuelo: Autodirección y Propósito de Vida",
+          "conceptos_relacionados": [
+            "Autodirección (Nivel 1: Metas)",
+            "Propósito de Vida (Nivel 1: Proyección)",
+            "Autonomía (Nivel 1: Identidad)"
+          ],
+          "proposito_experiencia": "Organizar pasos concretos y disciplina para lograr objetivos, proyectar talentos y decisiones en el futuro y fortalecer la toma de decisiones basada en la identidad.",
+          "recursos_eco": "Plantilla de plan semanal (Actividad 8), ejercicios para identificar talentos e intereses, situaciones de decisiones futuras.",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro futuro es como un viaje, y hoy crearemos nuestro plan de vuelo para llegar a donde queremos ir'.",
+          "momento_desarrollo_vivencia": "Los estudiantes realizan la 'Actividad 8: Autodirección – Organizarme desde adentro', revisando su organización semanal y detectando hábitos. Se introduce el 'Propósito de Vida' al reflexionar sobre cómo sus talentos y decisiones construyen su futuro. Se conecta con la 'Autonomía' al tomar decisiones basadas en su identidad. Use el ejemplo: 'Me organicé una semana sola para terminar el proyecto antes de la fecha límite sin estresarme'. 'Entiendo que mis talentos y decisiones actuales construyen mi futuro y estudio no solo por la nota, sino porque quiero ser ingeniero'. 'Decidí inscribirme en arte porque me gusta, aunque mis amigos se fueron a otra actividad'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué hábito quieres mejorar para tu autodirección?' y '¿Cómo influye tu identidad en tu propósito de vida?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para autodirigirse hacia metas, proyectar su propósito de vida y tomar decisiones autónomas.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P2-T2",
+          "nombre_taller": "Construyendo Comunidad: Empatía y Responsabilidad Social",
+          "conceptos_relacionados": [
+            "Empatía Cognitiva (Nivel 2: Contribución Social)",
+            "Responsabilidad Social (Refuerzo)",
+            "Coherencia (Nivel 1: Alineación)"
+          ],
+          "proposito_experiencia": "Comprender necesidades de la comunidad, actuar pensando en el bienestar común y mantener coherencia entre valores y acciones.",
+          "recursos_eco": "Casos de problemas comunitarios, debate sobre cómo contribuir al colegio/barrio, situaciones de incoherencia (Actividad 2).",
+          "momento_inicio_conexion": "Diga a los niños: 'No somos islas, somos parte de una gran comunidad. Hoy veremos cómo nuestras acciones pueden hacer una diferencia positiva'.",
+          "momento_desarrollo_vivencia": "Los estudiantes aplican la 'Empatía Cognitiva (Nivel 2: Contribución Social)' al identificar necesidades de su comunidad. Se refuerza la 'Responsabilidad Social' actuando en pro del bienestar común. Se conecta con la 'Coherencia' al reflexionar sobre la alineación entre lo que piensan, sienten y hacen en relación con la comunidad. Use el ejemplo: 'Entiendo las necesidades de mi comunidad (no solo de amigos) y propuse una campaña anti-basura en el colegio'. 'Cuidé los materiales del salón para que otros también puedan usarlos'. 'Dije que iba a ser honesto en el trabajo grupal, así que hice mi parte sin copiar'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo crees que tus acciones pueden impactar a tu comunidad?' y '¿Qué sentiste cuando no fuiste coherente en una situación social?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar empatía en un contexto social, demostrar responsabilidad social y mantener la coherencia.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P2-T3",
+          "nombre_taller": "Súper Habilidades: Resiliencia y Regulación Emocional",
+          "conceptos_relacionados": [
+            "Resiliencia (Nivel 1: Superación)",
+            "Equilibrio Emocional (Nivel 1: Regulación)",
+            "Frustración (Nivel 1: Tolerancia)"
+          ],
+          "proposito_experiencia": "Desarrollar la capacidad de superarse ante desafíos, recuperar el equilibrio emocional y tolerar la frustración de manera efectiva.",
+          "recursos_eco": "Escenarios de fracasos o dificultades (examen reprobado, desacuerdo con amigos), identificación de estrategias de calma (Actividad 9).",
+          "momento_inicio_conexion": "Diga a los niños: 'Todos enfrentamos momentos difíciles, pero dentro de nosotros tenemos 'súper habilidades' para superarlos y mantener la calma'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre cómo la 'Resiliencia' les permite sobreponerse a fracasos. Practican estrategias de 'Equilibrio Emocional' para recuperar la calma después de emociones intensas. Analizan la 'Frustración', reconociéndola como una emoción desagradable sin culparse. Use el ejemplo: 'Reprobé el examen, pero analicé mis errores y diseñé un plan de estudio para la próxima vez'. 'Estaba furioso, así que me salí un momento del salón para no decir nada malo'. 'Me sentí muy frustrado por la mala nota, pero respiré y evité romper la hoja'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué estrategia te funciona mejor para recuperar el equilibrio?' y '¿Qué aprendiste de una experiencia en la que te frustraste mucho?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar resiliencia, regular emociones y tolerar la frustración.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 3,
+      "talleres": [
+        {
+          "id_taller": "G8-P3-T1",
+          "nombre_taller": "El Constructor de Mi Mismo: Autonomía y Límites Saludables",
+          "conceptos_relacionados": [
+            "Autonomía (Nivel 1: Identidad)",
+            "Límites Internos (Nivel 1: Autocuidado)",
+            "Autoexigencia (Nivel 1: Saludable)"
+          ],
+          "proposito_experiencia": "Fortalecer la capacidad de tomar decisiones basadas en la propia identidad, establecer límites para el autocuidado y motivarse sin caer en el perfeccionismo.",
+          "recursos_eco": "Escenarios de presión de grupo (Actividad 1, 4), análisis de metas personales (Actividad 5), técnicas de relajación.",
+          "momento_inicio_conexion": "Diga a los niños: 'Somos los arquitectos de nuestra propia vida. Hoy construiremos bases sólidas para decidir desde nuestro ser y protegernos'.",
+          "momento_desarrollo_vivencia": "Los estudiantes exploran la 'Autonomía' al reflexionar sobre decisiones influenciadas por presión externa. Refuerzan los 'Límites Internos' identificando cuáles les ayudan a cuidarse emocionalmente. Se conecta con la 'Autoexigencia (Saludable)' analizando metas personales y la exigencia asociada. Use el ejemplo: 'Decidí inscribirme en arte porque me gusta, aunque mis amigos se fueron a otra actividad'. 'Me puse el límite de no acostarme tarde para poder rendir bien en mis clases'. 'Quiero sacar buenas notas, pero entiendo que mi valor como persona no depende solo de ellas'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué decisiones te cuesta más tomar por ti mismo?' y '¿Cómo puedes regular tu autoexigencia para no dañarte?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para ejercer autonomía, establecer límites internos y gestionar la autoexigencia de forma saludable.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P3-T2",
+          "nombre_taller": "Navegando la Incertidumbre: Aceptación y Confianza",
+          "conceptos_relacionados": [
+            "Incertidumbre (Nivel 1: Aceptación)",
+            "Equilibrio Emocional (Nivel 1: Regulación)",
+            "Resiliencia (Nivel 1: Superación)"
+          ],
+          "proposito_experiencia": "Aprender a gestionar la ansiedad que produce no saber qué pasará, recuperar la calma después de emociones intensas y sobreponerse a desafíos.",
+          "recursos_eco": "Decisiones futuras que generan dudas (Actividad 6), estrategias de calma (Actividad 9), experiencias de fracaso o dificultad.",
+          "momento_inicio_conexion": "Diga a los niños: 'La vida está llena de sorpresas, algunas nos gustan y otras nos dan miedo. Hoy aprenderemos a abrazar la incertidumbre con confianza'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre la 'Incertidumbre', identificando emociones asociadas y estrategias para tolerarla. Practican el 'Equilibrio Emocional', identificando estrategias para recuperar la calma. Se conecta con la 'Resiliencia' al analizar cómo se han sobrepuesto a fracasos y los han utilizado para aprender. Use el ejemplo: 'No sé qué pasará el próximo año, pero entiendo que sentir dudas es parte de crecer'. 'Estaba furioso, así que me salí un momento del salón para no decir nada malo'. 'Reprobé el examen, pero analicé mis errores y diseñé un plan de estudio para la próxima vez'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué te ayuda a tolerar la incertidumbre?' y '¿Qué aprendiste de una experiencia en la que te recuperaste de un fracaso?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aceptar la incertidumbre, regular sus emociones y demostrar resiliencia.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P3-T3",
+          "nombre_taller": "El Corazón de la Integridad: Coherencia y Responsabilidad",
+          "conceptos_relacionados": [
+            "Integridad (Nivel 1: Ética)",
+            "Coherencia (Nivel 1: Alineación)",
+            "Responsabilidad Social (Refuerzo)"
+          ],
+          "proposito_experiencia": "Mantener principios morales, actuar consistentemente con lo que se piensa y siente, y asumir responsabilidad por el bienestar común.",
+          "recursos_eco": "Dilemas éticos donde nadie observa (Actividad 10), situaciones de incoherencia interna (Actividad 2), casos de contribución social.",
+          "momento_inicio_conexion": "Diga a los niños: 'La integridad es cuando nuestro corazón, mente y acciones van de la mano. Hoy fortaleceremos ese lazo de verdad dentro de nosotros'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre la 'Integridad', analizando decisiones éticas tomadas sin ser observados. Se conecta con la 'Coherencia' al analizar situaciones de incoherencia interna. Se refuerza la 'Responsabilidad Social' actuando pensando en el bienestar común. Use el ejemplo: 'Pude haber copiado la respuesta del examen del compañero de al lado, pero mantuve mi integridad y respondí con lo que sabía'. 'Dije que iba a ser honesto en el trabajo grupal, así que hice mi parte sin copiar'. 'Cuidé los materiales del salón para que otros también puedan usarlos'.",
+          "momento_cierre_integracion": "Pregunte: '¿Por qué la integridad no siempre es fácil?' y '¿Cómo influye la coherencia en la confianza que los demás tienen en ti?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para demostrar integridad, coherencia y responsabilidad social en sus acciones.",
+          "tiempo_aplicacion": "30 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    },
+    {
+      "numero_periodo": 4,
+      "talleres": [
+        {
+          "id_taller": "G8-P4-T1",
+          "nombre_taller": "Mi Proyecto de Vida: Autodirección y Propósito en Acción",
+          "conceptos_relacionados": [
+            "Autodirección (Nivel 1: Metas)",
+            "Propósito de Vida (Nivel 1: Proyección)",
+            "Autonomía (Nivel 1: Identidad)"
+          ],
+          "proposito_experiencia": "Organizar pasos concretos y disciplina para lograr objetivos personales, proyectar talentos en el futuro y fortalecer la toma de decisiones basada en la identidad.",
+          "recursos_eco": "Diseño de un 'proyecto de vida' personal (sueños, metas a corto y largo plazo), plantilla de planificación (Actividad 8).",
+          "momento_inicio_conexion": "Diga a los niños: 'Nuestro propósito de vida es como una semilla que plantamos hoy para que florezca mañana. Hoy daremos los primeros pasos para cultivarla'.",
+          "momento_desarrollo_vivencia": "Los estudiantes revisan su 'Autodirección' al planificar metas a corto y mediano plazo. Reflexionan sobre su 'Propósito de Vida', conectando talentos, intereses y valores con futuras decisiones. Se enfatiza la 'Autonomía' al tomar decisiones para su proyecto de vida. Use el ejemplo: 'Me organicé una semana sola para terminar el proyecto antes de la fecha límite sin estresarme'. 'Entiendo que mis talentos y decisiones actuales construyen mi futuro y estudio no solo por la nota, sino porque quiero ser ingeniero'. 'Decidí inscribirme en arte porque me gusta, aunque mis amigos se fueron a otra actividad'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué hábito quieres mejorar para alcanzar tus metas?' y '¿Cómo impacta tu propósito de vida en las decisiones que tomas hoy?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para establecer metas autodirigidas, proyectar su propósito de vida y tomar decisiones autónomas.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P4-T2",
+          "nombre_taller": "Un Mundo Mejor: Empatía y Responsabilidad para la Transformación",
+          "conceptos_relacionados": [
+            "Empatía Cognitiva (Nivel 2: Contribución Social)",
+            "Responsabilidad Social (Refuerzo)",
+            "Integridad (Nivel 1: Ética)"
+          ],
+          "proposito_experiencia": "Comprender y actuar ante las necesidades sociales, asumir responsabilidad por el entorno y mantener principios éticos en la contribución comunitaria.",
+          "recursos_eco": "Proyectos de servicio comunitario (diseño de campaña, acción de voluntariado), dilemas éticos en contextos sociales.",
+          "momento_inicio_conexion": "Diga a los niños: 'Cada uno de nosotros tiene el poder de transformar el mundo que nos rodea. Hoy veremos cómo nuestra empatía y responsabilidad pueden ser una fuerza de cambio'.",
+          "momento_desarrollo_vivencia": "Los estudiantes aplican la 'Empatía Cognitiva (Nivel 2: Contribución Social)' al diseñar un proyecto de contribución social para su comunidad. Se refuerza la 'Responsabilidad Social' al asumir tareas específicas y se conecta con la 'Integridad' al reflexionar sobre la importancia de actuar éticamente en el servicio. Use el ejemplo: 'Entiendo las necesidades de mi comunidad (no solo de amigos) y propuse una campaña anti-basura en el colegio'. 'Cuidé los materiales del salón para que otros también puedan usarlos'. 'Pude haber copiado la respuesta del examen del compañero de al lado, pero mantuve mi integridad y respondí con lo que sabía'.",
+          "momento_cierre_integracion": "Pregunte: '¿Cómo tu proyecto de contribución social puede generar un impacto positivo?' y '¿Por qué es importante mantener la integridad en el servicio a los demás?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para aplicar empatía en proyectos sociales, demostrar responsabilidad e integridad en la contribución comunitaria.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        },
+        {
+          "id_taller": "G8-P4-T3",
+          "nombre_taller": "Celebrando Mi Evolución: Autoconocimiento y Crecimiento",
+          "conceptos_relacionados": [
+            "Autonomía (Nivel 1: Identidad)",
+            "Resiliencia (Nivel 1: Superación)",
+            "Propósito de Vida (Nivel 1: Proyección)"
+          ],
+          "proposito_experiencia": "Celebrar los aprendizajes del año, reconociendo el crecimiento en autonomía, la capacidad de superación y la consolidación del propósito de vida.",
+          "recursos_eco": "Certificados de logros, mural de 'Mi Evolución' (dibujos o escritos sobre el año), música de celebración.",
+          "momento_inicio_conexion": "Diga a los niños: 'Este año hemos crecido mucho, como un árbol fuerte. Hoy celebraremos cada raíz de nuestra autonomía y cada rama de nuestra resiliencia'.",
+          "momento_desarrollo_vivencia": "Los estudiantes reflexionan sobre su 'Autonomía', identificando decisiones clave que tomaron. Celebran su 'Resiliencia' al compartir cómo superaron desafíos. Conectan estos aprendizajes con la consolidación de su 'Propósito de Vida'. Se crea un 'Mural de Mi Evolución' donde cada uno plasma su crecimiento. Use el ejemplo: 'Decidí inscribirme en arte porque me gusta, aunque mis amigos se fueron a otra actividad'. 'Reprobé el examen, pero analicé mis errores y diseñé un plan de estudio para la próxima vez'. 'Entiendo que mis talentos y decisiones actuales construyen mi futuro y estudio no solo por la nota, sino porque quiero ser ingeniero'.",
+          "momento_cierre_integracion": "Pregunte: '¿Qué es lo que más te enorgullece de tu crecimiento este año?' y '¿Qué nuevo desafío te gustaría asumir el próximo año, basado en tu propósito de vida?'.",
+          "revision_proposito": "Evaluar la capacidad de los estudiantes para reflexionar sobre su autonomía, resiliencia y la conexión con su propósito de vida al final del año.",
+          "tiempo_aplicacion": "35 minutos",
+          "enlace_multimedia": null
+        }
+      ]
+    }
+  ]
+}

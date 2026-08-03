@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano",
+        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano. Comparo y explico los sistemas de defensa y ataque de algunos animales y plantas en el aspecto morfológico y fisiológico.",
         "dba": [
           "DBA-NAT-8-4 Analiza relaciones entre sistemas de órganos (excretor, inmune, nervioso, endocrino, óseo y muscular) con los procesos de regulación de las funciones en los seres vivos."
         ],
@@ -36,8 +36,9 @@
           "NAT-8-D1-E4 Explica, haciendo uso de las leyes termodinámicas, el funcionamiento térmico de diferentes máquinas (motor de combustión, refrigerador)."
         ],
         "saberes": [
-          "Primera ley de la Termodinámica",
-          "Segunda ley de la Termodinámica"
+          "Sistemas termodinámicos (Abierto, Cerrado, Aislado)",
+          "Primera ley de la termodinámica",
+          "Segunda ley de la termodinámica"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -65,7 +66,7 @@
     "2": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano",
+        "estandar": "Explico la importancia de las hormonas en la regulación de las funciones en el ser humano. Comparo y explico los sistemas de defensa y ataque de algunos animales y plantas en el aspecto morfológico y fisiológico.",
         "dba": [
           "DBA-NAT-8-4 Analiza relaciones entre sistemas de órganos (excretor, inmune, nervioso, endocrino, óseo y muscular) con los procesos de regulación de las funciones en los seres vivos."
         ],
@@ -74,7 +75,8 @@
           "NAT-8-D4-E4 Explica, a través de ejemplos, los efectos de hábitos no saludables en el funcionamiento adecuado de los sistemas excretor, nervioso, inmune, endocrino, óseo y muscular."
         ],
         "saberes": [
-          "Estabilidad en las condiciones internas: homeostasis"
+          "Homeostasis desde la regulación hormonal y neuronal. (Cerebro)",
+          "Hábitos no saludables (Daños en los órganos)"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -131,8 +133,9 @@
           "NAT-8-D5-E2 Explica los sistemas de reproducción sexual y asexual en animales y reconoce sus efectos en la variabilidad y preservación de especies."
         ],
         "saberes": [
-          "Reproducción sexual",
-          "Reproducción asexual"
+          "Reproducción asexual (Fisión binaria, Gemación, Fragmentación)",
+          "Reproducción sexual (Bisexual, Hermafrodismo, Partenogénesis)",
+          "Diferencias"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -150,9 +153,8 @@
           "NAT-8-D2-E4 Predice algunas de las propiedades (estado de agregación, solubilidad, temperatura de ebullición y de fusión) de los compuestos químicos a partir del tipo de enlace de sus átomos dentro de sus moléculas."
         ],
         "saberes": [
-          "Enlaces químicos",
-          "Enlace iónico",
-          "Enlace covalente"
+          "Enlaces químicos (iónico, Covalente (polar y apolar), Metálico)",
+          "Interacción intra e inter molecular"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -180,7 +182,7 @@
     "4": [
       {
         "componente": "Entorno Vivo",
-        "estandar": "Comparo diferentes sistemas de reproducción. Justifico la importancia de la reproducción sexual en el mantenimiento de la variabilidad.",
+        "estandar": "Comparo diferentes sistemas de reproducción. Justifico la importancia de la reproducción sexual en el mantenimiento de la variabilidad. Analizo las consecuencias del control de la natalidad en las poblaciones",
         "dba": [
           "DBA-NAT-8-5 Analiza la reproducción (asexual, sexual) de distintos grupos de seres vivos y su importancia para la preservación de la vida en el planeta."
         ],
@@ -189,9 +191,9 @@
           "NAT-8-D5-E4 Explica la importancia de la aplicación de medidas preventivas de patologías relacionadas con el sistema reproductor."
         ],
         "saberes": [
-          "Preservación de la vida en el planeta",
-          "Sistema reproductor masculino",
-          "Sistema reproductor femenino"
+          "PSistemas reproductores (Femenino, Masculino)",
+          "Embarazos riesgosos (Adolescentes, Mayor a 40 años)",
+          "Patologías del sistema (Trastornos hormonales, Problemas estructurales (quistes, fibromas, etc.), Disfunciones)"
         ],
         "socioemocional": null,
         "diccionario": null,

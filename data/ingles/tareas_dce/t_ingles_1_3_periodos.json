@@ -1,0 +1,276 @@
+
+{
+  "area": "Inglés",
+  "grado": 1,
+  "tipo_malla": "3_periodos",
+  "numero_periodos": 3,
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "Simon Says: Classroom Mission",
+            "un_reto_sugerido": "¿Puedo seguir misiones secretas en el salón usando solo comandos en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Stop and Go' donde el docente da instrucciones rápidas (Stand up, Sit down) y los estudiantes deben reaccionar al sonido.",
+              "visual": "Circuito de habilidades: Usar cinta en el piso o tiza para crear estaciones donde cada marca indica una acción (Jump, Be quiet, Open the book) usando materiales escolares reales.",
+              "produccion": "El 'Examen del Capitán': El estudiante escucha una secuencia de 3 comandos y los ejecuta correctamente frente a sus compañeros."
+            },
+            "para_pensar": [
+              "¿Por qué es importante seguir instrucciones para mantener el orden y la seguridad en el salón?",
+              "¿Cómo nos ayudan las señales visuales (avisos) a entender reglas sin necesidad de hablar?"
+            ],
+            "pistas_del_exito": [
+              "Responde correctamente a comandos como 'Open the book' y 'Rise your hand' sin ayuda visual.",
+              "Identifica el significado de señales de cortesía como 'Please' y 'Thanks' en contexto."
+            ],
+            "un_refuerzo": "Uso de tarjetas con dibujos (Flashcards) que representen la acción para asociar el sonido con la imagen de forma permanente."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Friendship Interview",
+            "un_reto_sugerido": "¿Cómo puedo conocer a mis nuevos amigos usando preguntas básicas en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Uso de un micrófono de juguete (o un tubo de cartón) para simular un programa de televisión donde nos saludamos.",
+              "visual": "Creación de una 'Pelota de Preguntas': Una pelota con etiquetas (Name, Age, Feelings). Al lanzarla, el niño responde según donde quede su pulgar.",
+              "produccion": "Diálogo en parejas: Los estudiantes intercambian saludos y preguntan 'What is your name?' y 'How old are you?' de forma fluida."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien te saluda amablemente por tu nombre?",
+              "¿Por qué es importante preguntar 'Are you ok?' cuando vemos a un amigo triste?"
+            ],
+            "pistas_del_exito": [
+              "Formula y responde preguntas sobre información personal con pronunciación inteligible.",
+              "Utiliza frases de cortesía espontáneamente durante el diálogo."
+            ],
+            "un_refuerzo": "Role-play guiado con títeres de dedo para reducir la timidez al hablar."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Classroom Scavenger Hunt",
+            "un_reto_sugerido": "¿Soy capaz de encontrar objetos perdidos siguiendo pistas escritas y colores?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura en voz alta de un cuento corto ilustrado donde los objetos del salón cobran vida y se presentan por su color.",
+              "visual": "Etiquetado del salón: Los estudiantes reciben etiquetas autoadhesivas (o papel con cinta) y deben pegarlas en el objeto correcto (Book, Pen, Eraser).",
+              "produccion": "Bingo de Objetos y Colores: El estudiante marca en su tablero imágenes que corresponden a oraciones simples como 'The book is blue'."
+            },
+            "para_pensar": [
+              "¿Cómo ayudan los colores a organizar nuestros materiales escolares?",
+              "¿Qué pasaría si los objetos no tuvieran nombre? ¿Cómo los buscaríamos?"
+            ],
+            "pistas_del_exito": [
+              "Relaciona correctamente 5 palabras escritas con sus objetos reales en el aula.",
+              "Identifica los números del 1 al 10 al contar elementos en una imagen."
+            ],
+            "un_refuerzo": "Asociación de parejas (Memory game) con tarjetas de palabra e imagen del vocabulario del aula."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "My Secret Agent ID Card",
+            "un_reto_sugerido": "¿Cómo puedo registrar mi información personal para identificarme como un estudiante de primer grado?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de diferentes tipos de carnés (escolar, de biblioteca) para identificar qué datos son necesarios.",
+              "visual": "Taller de dibujo: El estudiante dibuja su autorretrato y usa colores para expresar cómo se siente hoy (I'm happy/sad).",
+              "produccion": "Diligenciamiento de un formato sencillo de carné con: Name, Age, Gender (boy/girl) y una frase sobre su estado de ánimo."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que nuestras pertenencias tengan nuestro nombre escrito?",
+              "¿Cómo podemos expresar nuestras emociones sin usar palabras, solo con dibujos?"
+            ],
+            "pistas_del_exito": [
+              "Escribe su nombre y edad correctamente en un formato preestablecido.",
+              "Completa oraciones sencillas sobre sensaciones personales (I'm ok)."
+            ],
+            "un_refuerzo": "Uso de letras móviles o recortes de revistas para armar su nombre y palabras de emociones."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Family Portrait Gallery",
+            "un_reto_sugerido": "¿Puedo identificar a los miembros de una familia y sus juguetes favoritos solo escuchando descripciones?",
+            "ruta_de_exploracion": {
+              "explorar": "Escucha de una canción sobre la familia (Family Finger) identificando los roles (Mom, Dad, Brother).",
+              "visual": "Dictado de dibujo: El docente describe una escena ('The ball is big', 'The doll is small') y los niños dibujan lo que escuchan.",
+              "produccion": "Identificación auditiva: El estudiante señala en un póster al miembro de la familia que el docente describe físicamente (Tall/Short)."
+            },
+            "para_pensar": [
+              "¿En qué se parecen y en qué son diferentes los miembros de tu familia?",
+              "¿Por qué es importante cuidar nuestros juguetes y compartirlos?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce el vocabulario de la familia y adjetivos de tamaño al escucharlos.",
+              "Asocia descripciones físicas con imágenes correspondientes."
+            ],
+            "un_refuerzo": "Juego de adivinanzas 'Who is it?' usando descripciones muy simples y gestos."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The 'I Like' Café",
+            "un_reto_sugerido": "¿Cómo puedo expresar mis gustos y conocer los de mis compañeros de forma respetuosa?",
+            "ruta_de_exploracion": {
+              "explorar": "Mesa redonda con imágenes de comida y deportes. Los niños usan pulgares arriba/abajo para mostrar agrado.",
+              "visual": "Creación de un 'Menú de Gustos': Recortar imágenes de revistas de cosas que les gustan y cosas que no (I like sports / I don't like vegetables).",
+              "produccion": "Mini-exposición: El estudiante presenta su menú diciendo: 'I like... but I don't like...' ante el grupo."
+            },
+            "para_pensar": [
+              "¿Está bien que no nos gusten las mismas cosas que a nuestros amigos?",
+              "¿Por qué es saludable intentar comer vegetales aunque a veces no nos gusten?"
+            ],
+            "pistas_del_exito": [
+              "Usa las estructuras 'I like' e 'I don't like' para referirse a actividades y alimentos.",
+              "Clasifica correctamente imágenes de gustos personales."
+            ],
+            "un_refuerzo": "Uso de caritas (Emoji stickers) para marcar gustos en una lista de imágenes prediseñada."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "My Daily Adventure Map",
+            "un_reto_sugerido": "¿Puedo organizar las actividades que hago desde que amanece hasta que anochece?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de un cuento de imágenes sobre la rutina de un animal (ej. un oso que se despierta y va a la escuela).",
+              "visual": "Reloj de rutinas: Crear un reloj de cartón donde las horas son reemplazadas por dibujos de acciones (Wake up, Have breakfast, Go to bed).",
+              "produccion": "Ordenamiento lógico: El estudiante recibe tarjetas desordenadas de la rutina y las organiza cronológicamente leyendo las etiquetas."
+            },
+            "para_pensar": [
+              "¿Por qué tener una rutina nos ayuda a ser más organizados y saludables?",
+              "¿Qué actividades de tu rutina diaria cuidan el medio ambiente (ej. cerrar la llave al cepillarse)?"
+            ],
+            "pistas_del_exito": [
+              "Identifica verbos de acción relacionados con la rutina diaria.",
+              "Sigue instrucciones ilustradas para completar una secuencia temporal."
+            ],
+            "un_refuerzo": "Mímica de rutinas: Un estudiante hace la acción y los demás deben leer la tarjeta que corresponde a esa acción."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Emotion & Frequency Journal",
+            "un_reto_sugerido": "¿Cómo puedo describir con qué frecuencia hago mis actividades favoritas y cómo me hacen sentir?",
+            "ruta_de_exploracion": {
+              "explorar": "Uso de un semáforo de emociones (Rojo: Angry, Amarillo: Sad, Verde: Happy) para clasificar sentimientos.",
+              "visual": "Gráfico de barras humano: Los niños se ubican en filas según si 'Always', 'Sometimes' o 'Never' hacen una actividad (ej. comer dulces).",
+              "produccion": "Diario visual: El estudiante escribe oraciones cortas usando adverbios de frecuencia y dibujos de emociones (I always go to school. I am happy)."
+            },
+            "para_pensar": [
+              "¿Qué actividades te hacen sentir 'Happy' y cuáles 'Angry'? ¿Cómo podemos manejar el enojo?",
+              "¿Es bueno hacer 'Always' (siempre) las mismas cosas o es divertido variar?"
+            ],
+            "pistas_del_exito": [
+              "Escribe oraciones simples usando 'Always', 'Sometimes' y 'Never' correctamente.",
+              "Describe imágenes usando vocabulario de emociones básicas."
+            ],
+            "un_refuerzo": "Completar oraciones con espacios en blanco (Fill in the blanks) apoyado por un banco de palabras visual."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Lingüístico (Escucha)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Celebration Radio",
+            "un_reto_sugerido": "¿Puedo reconocer qué festividad se celebra escuchando sonidos, música y descripciones?",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de sonidos: Escuchar campanas, risas, sonidos de disfraces o fuegos artificiales para adivinar la fiesta.",
+              "visual": "Caja sorpresa de festividades: Sacar objetos (un gorro de Navidad, una máscara, un pastel) y asociarlos con el nombre de la celebración en inglés.",
+              "produccion": "Presentación de tradiciones: El estudiante escucha una descripción de una festividad y debe dibujar el elemento principal mencionado."
+            },
+            "para_pensar": [
+              "¿Por qué las familias celebran fechas especiales de formas diferentes?",
+              "¿Cómo podemos celebrar sin generar demasiada basura o desperdiciar comida?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de celebraciones (Christmas, Birthday, Halloween) al escucharlo.",
+              "Reconoce fechas y meses relacionados con festividades importantes."
+            ],
+            "un_refuerzo": "Uso de canciones temáticas de festividades para reforzar el vocabulario rítmicamente."
+          }
+        },
+        {
+          "componente": "Lingüístico (Conversación)",
+          "guia_didactica": {
+            "la_estrategia": "The Party Planner Talk",
+            "un_reto_sugerido": "¿Cómo puedo invitar a alguien a una celebración y contarle qué actividades haremos?",
+            "ruta_de_exploracion": {
+              "explorar": "Observación de videos cortos de desfiles o fiestas para identificar acciones (Dance, Eat candies, See parades).",
+              "visual": "Taller de 'Party Props': Crear elementos de fiesta con papel reciclado y practicar diálogos de invitación.",
+              "produccion": "Juego de roles: Un estudiante invita a otro a su 'Favorite Holiday' y menciona 2 actividades que se realizan (We eat cake, we dance)."
+            },
+            "para_pensar": [
+              "¿Cuál es tu actividad favorita en una fiesta y por qué nos hace felices compartir con otros?",
+              "¿Cómo podemos incluir a todos los compañeros en nuestras celebraciones escolares?"
+            ],
+            "pistas_del_exito": [
+              "Responde preguntas sobre qué, quién, cuándo y dónde referidas a una fiesta.",
+              "Describe acciones sencillas de celebraciones usando frases cortas."
+            ],
+            "un_refuerzo": "Uso de un guion gráfico (Storyboard) para guiar la conversación paso a paso."
+          }
+        },
+        {
+          "componente": "Sociolingüístico (Lectura)",
+          "guia_didactica": {
+            "la_estrategia": "The Celebration Menu Explorer",
+            "un_reto_sugerido": "¿Qué comidas especiales se sirven en las fiestas del mundo y cómo se llaman en inglés?",
+            "ruta_de_exploracion": {
+              "explorar": "Lectura de un catálogo de comidas típicas con imágenes llamativas (Candy, Turkey, Cake, Fish).",
+              "visual": "Modelado con plastilina (o masa de harina): Crear platos típicos de una festividad y ponerles etiquetas con su nombre en inglés.",
+              "produccion": "Búsqueda de información: El estudiante lee un texto muy corto sobre una fiesta y encierra en un círculo los alimentos y objetos que encuentre."
+            },
+            "para_pensar": [
+              "¿Por qué la comida es una parte tan importante de nuestra cultura y celebraciones?",
+              "¿Qué alimentos de las fiestas son saludables y cuáles debemos comer con moderación?"
+            ],
+            "pistas_del_exito": [
+              "Identifica vocabulario de alimentos típicos en textos cortos apoyados por imágenes.",
+              "Relaciona objetos de celebración (Balloon, Gift) con su nombre escrito."
+            ],
+            "un_refuerzo": "Sopa de letras visual donde las palabras a buscar están representadas por dibujos de comida."
+          }
+        },
+        {
+          "componente": "Pragmático (Escritura)",
+          "guia_didactica": {
+            "la_estrategia": "The Global Greeting Card",
+            "un_reto_sugerido": "¿Cómo puedo escribir un mensaje de felicitación para alguien especial en una fecha importante?",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de tarjetas de felicitación reales para ver cómo se estructuran (Para quién, el mensaje, de quién).",
+              "visual": "Diseño de tarjeta: Usar materiales reciclados, escarcha o colores para decorar una tarjeta de 'Happy Birthday' o 'Merry Christmas'.",
+              "produccion": "Escritura creativa: El estudiante redacta un mensaje corto (ej. 'Happy Birthday Mom, I love you') y decora su tarjeta."
+            },
+            "para_pensar": [
+              "¿Cómo se siente una persona cuando recibe un detalle escrito a mano por nosotros?",
+              "¿Cómo podemos usar materiales reciclados para crear regalos hermosos?"
+            ],
+            "pistas_del_exito": [
+              "Escribe mensajes cortos de felicitación con ortografía aproximada pero comprensible.",
+              "Lista acciones o elementos culturales propios de su comunidad en inglés."
+            ],
+            "un_refuerzo": "Plantillas de tarjetas con frases pre-escritas para completar (Tracing) y decorar."
+          }
+        }
+      ]
+    }
+  ]
+}

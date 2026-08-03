@@ -1,0 +1,272 @@
+{
+  "identificacion_grado": 3,
+  "area_identificacion": "Proyecto Socioemocional",
+  "periodo_1": [
+    {
+      "id": "CON-001",
+      "concepto": "Autocontrol",
+      "definicion_pedagogica": "En grado 3, el autocontrol se entiende como la capacidad del estudiante para regular voluntariamente sus respuestas emocionales y conductuales ante situaciones que le generan enojo, frustración o excitación, especialmente en interacciones con pares y adultos. Implica reconocer las señales internas de activación (pensamientos impulsivos, aumento de tono de voz, deseos de responder de inmediato) y aplicar estrategias de pausa, respiración y reflexión antes de actuar. Esta habilidad profundiza la competencia de regulación emocional descrita en la malla del ciclo 1 y se vuelve clave para sostener el esfuerzo académico, prevenir conflictos y tomar decisiones más ajustadas a las normas de convivencia escolar.  ",
+      "definicion_estudiante": "El autocontrol es la habilidad para manejar lo que sientes y lo que haces cuando estás muy enojado o alterado. Lo practicas cuando respiras, cuentas o piensas antes de contestar, en lugar de responder de inmediato con gritos o gestos feos. Cuando usas el autocontrol, te cuidas a ti mismo y evitas problemas con tus compañeros y profesores.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Mostré autocontrol cuando respiré antes de contestar enojado.\"",
+      "evidencia_logro": "El docente observa que, ante situaciones que generan enojo o molestia, el estudiante se detiene brevemente antes de responder, utiliza estrategias como respirar o contar y es capaz de modificar una respuesta impulsiva por una más calmada, reduciendo así discusiones y conductas disruptivas en el aula.  ",
+      "tip_psicologico": "Practicar con el grupo rutinas breves de respiración y conteo que puedan utilizar antes de responder cuando se sienten molestos. Recordar al estudiante, en el momento, que puede tomarse unos segundos para pensar antes de hablar, reforzando cuando lo hace de manera autónoma. Trabajar con ejemplos concretos de la vida diaria en los que el autocontrol le haya ayudado a evitar un conflicto, para que reconozca su utilidad."
+    },
+    {
+      "id": "CON-002",
+      "concepto": "Amabilidad",
+      "definicion_pedagogica": "La amabilidad se refiere al conjunto de comportamientos prosociales cotidianos mediante los cuales el estudiante demuestra respeto, cuidado y consideración hacia los demás a través de gestos, palabras y acciones. En grado 3, implica no solo ayudar cuando se le pide, sino también anticiparse a necesidades de otros, usar un lenguaje cordial y evitar burlas o comentarios que hieran. Esta habilidad fortalece las competencias de habilidades sociales y convivencia, y contribuye a un clima de aula donde se promueve la cooperación y el apoyo mutuo entre pares.  ",
+      "definicion_estudiante": "La amabilidad es tratar bien a los demás con tus gestos, tus palabras y tus acciones. Eres amable cuando ayudas a recoger los cuadernos de un compañero, saludas con respeto, escuchas con atención o prestas algo sin pelear. Ser amable hace que los demás se sientan bien contigo y que el salón sea un lugar más agradable.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Fui amable cuando ayudé a recoger los cuadernos de un compañero.\"",
+      "evidencia_logro": "El docente identifica que el estudiante utiliza un tono cordial al dirigirse a los demás, ofrece ayuda de manera espontánea en tareas sencillas y evita conductas hostiles como burlas, empujones o comentarios despectivos, especialmente en momentos de alta interacción grupal.  ",
+      "tip_psicologico": "Reconocer explícitamente los actos de amabilidad que ocurren en el aula, nombrando la conducta y el efecto positivo que tuvo en otros. Incluir actividades donde los estudiantes puedan escribir o decir en voz alta acciones amables que han recibido o realizado, reforzando la idea de que estos gestos construyen el clima del grupo. En situaciones de conflicto, invitar a los estudiantes a pensar qué respuesta amable hubiera ayudado más que la reacción impulsiva que tuvieron."
+    },
+    {
+      "id": "CON-003",
+      "concepto": "Identidad",
+      "definicion_pedagogica": "La identidad, en el contexto de grado 3, se refiere a la construcción que el estudiante hace de sí mismo a partir de sus características personales, gustos, habilidades, historias y pertenencias familiares y culturales. Trabajar la identidad implica favorecer que el niño reconozca y valore sus fortalezas, acepte sus áreas de mejora y desarrolle un sentido de orgullo saludable por quién es, lo que se relaciona con la competencia de conciencia emocional y con procesos de autoaceptación. Una identidad fortalecida protege frente a la presión de pares y contribuye a la participación segura en actividades académicas y sociales.  ",
+      "definicion_estudiante": "La identidad es la idea que tienes sobre quién eres: lo que te gusta, lo que sabes hacer, cómo eres por dentro y por fuera y a qué familia y grupo perteneces. La fortaleces cuando dices con orgullo qué cosas te hacen único, sin compararte todo el tiempo con los demás. Cuando conoces y valoras tu identidad, te sientes más seguro para participar y tomar decisiones.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Fortalezco mi identidad cuando digo con orgullo que me gusta mi forma de ser.\"",
+      "evidencia_logro": "El docente observa que el estudiante habla de sus características personales con respeto hacia sí mismo, reconoce habilidades y gustos sin menospreciarse y participa en actividades de presentación o exposición mostrándose cada vez más cómodo al hablar de quién es.  ",
+      "tip_psicologico": "Proponer dinámicas donde cada estudiante comparta aspectos positivos de sí mismo, evitando comparaciones y juicios entre pares. Utilizar proyectos que permitan a los niños explorar su historia, sus gustos y sus logros, mostrando estos productos al grupo como fuente de orgullo. Intervenir ante comentarios autocríticos excesivos, ayudando al estudiante a identificar fortalezas reales que respalden una imagen más equilibrada de sí mismo."
+    },
+    {
+      "id": "CON-004",
+      "concepto": "Análisis de Causas y Consecuencias Emocionales",
+      "definicion_pedagogica": "El análisis de causas y consecuencias emocionales consiste en que el estudiante explique por qué se siente de cierta manera, identifique los pensamientos y situaciones que activan sus emociones y reconozca cómo sus propias palabras y acciones impactan en los estados emocionales de otras personas. En grado 3, esta habilidad integra procesos cognitivos y emocionales más complejos, incluyendo la comprensión de que factores como el cansancio o el estrés influyen en el estado de ánimo. Desarrollarla fortalece la metacognición emocional y permite al estudiante tomar decisiones más responsables sobre cómo actuar y qué estrategias de regulación utilizar.  ",
+      "definicion_estudiante": "Analizar las causas y consecuencias emocionales es poder explicar por qué te sientes de cierta forma y cómo eso afecta lo que haces y cómo se sienten los demás. Por ejemplo, darte cuenta de que estás triste porque extrañas a tu familia o que tus palabras enojadas hicieron sentir mal a un amigo. También es entender que estar cansado o estresado puede cambiar tu humor y hacer que reacciones diferente.",
+      "habilidad_malla": "Reconocimiento emocional",
+      "ejemplo_aula": "\"Puedo explicar que estoy triste porque extrañé a mi familia.\" / \"Comprendo que pensar 'no puedo' me hace sentir desmotivado.\" / \"Reconozco que mis palabras enojadas hicieron sentir mal a mi amigo.\"",
+      "evidencia_logro": "El docente constata que el estudiante es capaz de describir situaciones específicas que originan sus emociones, vincular pensamientos como \"no puedo\" o \"nadie me quiere\" con cambios en su estado de ánimo y reconocer cómo sus palabras o acciones han influido en cómo se sienten sus compañeros.  ",
+      "tip_psicologico": "Durante conversaciones individuales o grupales sobre situaciones difíciles, guiar al estudiante con preguntas como \"¿qué pasó?\", \"¿qué pensaste?\" y \"¿qué sentiste?\" para ayudarle a organizar la secuencia causa–pensamiento–emoción–consecuencia. Utilizar mapas o diagramas simples donde pueda escribir o dibujar estas relaciones. Reforzar cuando el niño identifica con claridad tanto la causa de su emoción como el efecto que sus reacciones tuvieron en los demás."
+    },
+    {
+      "id": "CON-005",
+      "concepto": "Conciencia Emocional en Relación con el Aprendizaje",
+      "definicion_pedagogica": "La conciencia emocional en relación con el aprendizaje implica que el estudiante reconozca cómo estados como la motivación, la curiosidad, la preocupación o la distracción influyen directamente en su capacidad para concentrarse y comprender los contenidos escolares. En grado 3, esta habilidad favorece que el niño identifique qué emociones le ayudan a aprender mejor y cuáles interfieren, conectando la gestión emocional con el rendimiento académico. Este vínculo fortalece las competencias de conciencia emocional y autorregulación, promoviendo que el estudiante asuma un rol más activo en la organización de sus condiciones internas para aprender.  ",
+      "definicion_estudiante": "Tener conciencia emocional en el aprendizaje es darte cuenta de cómo tus emociones influyen en la forma en que estudias. Por ejemplo, saber que cuando estás emocionado por un tema te concentras más, y que cuando estás muy distraído o preocupado te cuesta entender. Al reconocer esto, puedes buscar maneras de calmarte o motivarte para aprender mejor.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Reconozco que sentirme emocionado por un tema me ayuda a concentrarme más en clase.\" / \"Entiendo que si estoy muy distraído, mis emociones no me dejan aprender bien.\"",
+      "evidencia_logro": "El docente observa que el estudiante comenta cómo su estado emocional afecta su desempeño (por ejemplo, reconoce que la preocupación por algo externo le impidió concentrarse) y que comienza a aplicar pequeñas estrategias para mejorar su disposición, como organizar su puesto, pedir aclaraciones o solicitar un momento para tranquilizarse.  ",
+      "tip_psicologico": "Incluir en las rutinas de clase preguntas breves sobre cómo se sienten al comenzar una actividad y cómo creen que eso influirá en su trabajo. Cuando un estudiante manifiesta dificultades de concentración, explorar conjuntamente si hay emociones que estén interfiriendo y qué puede hacer para regularlas. Resaltar ejemplos en los que un cambio emocional positivo mejoró el aprendizaje, ayudándoles a ver la conexión entre ambos aspectos."
+    },
+    {
+      "id": "CON-006",
+      "concepto": "Identificación de Emociones Complejas",
+      "definicion_pedagogica": "La identificación de emociones complejas supone que el estudiante distinga emociones que se parecen entre sí (como miedo y nerviosismo), reconozca la presencia simultánea de emociones aparentemente contradictorias (alegría y tristeza) y comprenda que la forma en que se muestra una emoción hacia afuera no siempre coincide con cómo se siente internamente. En grado 3, esta habilidad amplía el vocabulario emocional y la precisión con la que el niño describe su experiencia, lo que favorece una comunicación más clara y procesos de regulación emocional más ajustados.  ",
+      "definicion_estudiante": "Identificar emociones complejas es darte cuenta de que hay emociones que se parecen, como miedo y nervios, y que a veces puedes sentir cosas diferentes al mismo tiempo, como estar feliz y triste a la vez. También es entender que una persona puede mostrar una cara tranquila pero sentirse preocupada por dentro. Cuanto mejor distingues tus emociones, más fácil es explicarlas y manejarlas.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Puedo identificar que el miedo y el nerviosismo se sienten parecidos pero son diferentes.\" / \"Reconozco que me siento feliz por un regalo, pero a la vez un poco triste porque se acabó el día.\"",
+      "evidencia_logro": "El docente identifica que el estudiante nombra emociones más específicas que las básicas, compara cómo se sienten entre sí y describe situaciones en las que experimenta dos emociones simultáneas o distintas de lo que aparenta mostrar, demostrando mayor sofisticación en su lenguaje emocional.  ",
+      "tip_psicologico": "Utilizar historias, películas cortas o situaciones de aula para preguntar qué emociones creen que está sintiendo un personaje y si pueden ser más de una. Invitar a los estudiantes a completar frases como \"me sentí..., pero también...\" para describir experiencias propias. Introducir gradualmente nuevos términos emocionales (como frustración, alivio, orgullo) y vincularlos con emociones básicas conocidas para enriquecer su repertorio."
+    },
+    {
+      "id": "CON-007",
+      "concepto": "Influencia de Emociones en Decisiones y Relaciones",
+      "definicion_pedagogica": "Esta habilidad se centra en que el estudiante comprenda cómo las emociones influyen en las decisiones que toma y en la forma en que se relaciona con los demás. En grado 3, implica reconocer que ciertas emociones pueden conducir a decisiones apresuradas o poco reflexivas y que estas decisiones impactan en la calidad de sus vínculos. También abarca la comprensión de que diferentes personas pueden sentir cosas distintas ante una misma situación, lo que amplía la perspectiva y la empatía.  ",
+      "definicion_estudiante": "La influencia de emociones en decisiones y relaciones es darte cuenta de que, cuando estás muy enojado, triste o muy feliz, puedes tomar decisiones rápidas sin pensar bien, y eso afecta cómo tratas a los demás. También es entender que lo que a ti te da risa a otro le puede dar miedo, porque no todos sienten igual. Si reconoces esto, puedes detenerte antes de actuar y cuidar mejor tus relaciones.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Sé que mi enojo me hizo tomar una decisión rápida que no fue buena.\" / \"Identifico cómo mi tristeza afecta mi forma de tratar a mis amigos en el recreo.\" / \"Comprendo que lo que a mí me da risa, a otro le puede dar miedo.\"",
+      "evidencia_logro": "El docente observa que el estudiante reconoce momentos en los que una emoción fuerte lo llevó a actuar sin pensar y puede describir cómo eso afectó a sus compañeros, y que, progresivamente, empieza a cuestionar sus decisiones antes de ejecutarlas cuando nota que una emoción intensa está presente.  ",
+      "tip_psicologico": "Después de situaciones conflictivas o decisiones apresuradas, invitar al estudiante a revisar qué emoción estaba sintiendo y cómo influyó en lo que hizo. Trabajar con ejemplos anticipados, preguntando \"¿qué pasaría si tomaras esta decisión estando muy enojado vs. estando calmado?\". Promover que antes de actuar en momentos de intensidad emocional se hagan preguntas internas como \"¿esto ayuda o lastima mi relación con los demás?\"."
+    },
+    {
+      "id": "CON-008",
+      "concepto": "Petición de Ayuda para Entender Emociones",
+      "definicion_pedagogica": "La petición de ayuda para entender emociones implica que el estudiante reconozca que hay momentos en los que sus emociones son tan intensas o confusas que requiere el acompañamiento de un adulto o de un par de confianza para comprenderlas y gestionarlas. En grado 3, se busca que el niño supere la idea de que debe resolverlo todo solo y vea la búsqueda de ayuda como una estrategia legítima de autorregulación, alineada con la competencia de autonomía emocional y con la orientación a la auto regulación descrita en la malla.  ",
+      "definicion_estudiante": "Pedir ayuda para entender tus emociones es darte cuenta de que a veces lo que sientes es tan fuerte o tan raro que necesitas hablar con alguien para comprenderlo y manejarlo mejor. Puede ser con la maestra, con la orientadora, con un familiar o con un amigo de confianza. Cuando pides ayuda, estás cuidando tu bienestar y evitando que la emoción te desborde.",
+      "habilidad_malla": "Auto regulación",
+      "ejemplo_aula": "\"Sé que necesito hablar con la maestra cuando una emoción es demasiado fuerte y no sé cómo manejarla.\"",
+      "evidencia_logro": "El docente constata que el estudiante identifica momentos en los que se siente sobrepasado por sus emociones y, en lugar de actuar impulsivamente, solicita un espacio de conversación o apoyo con un adulto, mostrando disposición para explorar lo que siente y buscar estrategias de manejo.  ",
+      "tip_psicologico": "Explicar de manera explícita que pedir ayuda es una conducta de cuidado y no una señal de debilidad, señalando quiénes son los adultos disponibles para escuchar. Practicar frases breves que los estudiantes puedan usar cuando necesiten apoyo emocional. Asegurar respuestas consistentes y sensibles por parte del adulto para que el niño asocie la petición de ayuda con experiencias seguras y contenedoras."
+    }
+  ],
+  "periodo_2": [
+    {
+      "id": "CON-009",
+      "concepto": "Respeto por la Diferencia",
+      "definicion_pedagogica": "El respeto por la diferencia se refiere a la aceptación activa de la diversidad de opiniones, gustos, habilidades y formas de ser presentes en el aula, reconociendo que estas enriquecen al grupo. En grado 3, esta habilidad incluye respetar las decisiones del colectivo aunque no coincidan con las preferencias individuales y evitar conductas de burla o exclusión. Se articula con las competencias de habilidades sociales y convivencia, así como con la orientación de la malla hacia la resolución pacífica de conflictos y el respeto de acuerdos.  ",
+      "definicion_estudiante": "El respeto por la diferencia es entender que no todos piensan, sienten o quieren lo mismo que tú, y que eso está bien. Lo practicas cuando aceptas la decisión del grupo aunque no haya sido tu idea preferida, cuando no te burlas de lo que le gusta a otra persona y cuando permites que cada uno sea como es. Respetar las diferencias ayuda a que todos se sientan incluidos.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Mostré respeto por la diferencia cuando dejé que mi compañero eligiera el juego.\"",
+      "evidencia_logro": "El docente observa que el estudiante acepta sin quejas excesivas las decisiones tomadas por el grupo o por mayoría, evita comentarios despectivos sobre gustos o características de otros y colabora con compañeros diversos, no solo con sus amigos cercanos.  ",
+      "tip_psicologico": "Generar espacios en los que cada estudiante comparta algo que lo hace diferente y que los demás expresen valoraciones respetuosas sobre ello. Intervenir de inmediato cuando se presenten burlas o comentarios discriminatorios, utilizando el momento para reforzar la importancia del respeto por la diferencia. Variar la composición de equipos de trabajo para favorecer la interacción con compañeros con estilos y características distintas."
+    },
+    {
+      "id": "CON-010",
+      "concepto": "Perseverancia",
+      "definicion_pedagogica": "La perseverancia es la capacidad del estudiante para continuar intentando una tarea o meta a pesar de la dificultad, el error o el cansancio, manteniendo el esfuerzo hasta lograr mejoras. En grado 3, se relaciona con la competencia de autonomía emocional y con la orientación de la malla hacia la persistencia y el esfuerzo ante retos académicos. Fomentar la perseverancia contribuye a evitar abandonos rápidos, fortalece la tolerancia a la frustración y apoya la consolidación de aprendizajes complejos como la multiplicación o la lectura comprensiva.  ",
+      "definicion_estudiante": "La perseverancia es seguir adelante aunque algo sea difícil y te cueste trabajo. Es practicar muchas veces una operación, un deporte o una habilidad hasta que ves que mejoras, en lugar de rendirte al primer error. Cuando eres perseverante, poco a poco logras cosas que al principio parecían imposibles.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Usé perseverancia cuando seguí practicando multiplicaciones aunque me costaba.\"",
+      "evidencia_logro": "El docente constata que el estudiante continúa trabajando en actividades desafiantes durante el tiempo acordado, solicita ayuda cuando la necesita y, aunque se equivoque, retoma el intento sin abandonar de inmediato la tarea.  ",
+      "tip_psicologico": "Ayudar al estudiante a dividir las tareas difíciles en pasos más pequeños y alcanzables, celebrando cada avance. Registrar en una tabla o cuaderno los progresos obtenidos gracias a la práctica, para que pueda visualizar el efecto de su esfuerzo. Utilizar ejemplos personales o de personajes conocidos que hayan logrado metas importantes gracias a la perseverancia."
+    },
+    {
+      "id": "CON-011",
+      "concepto": "Autorrespeto",
+      "definicion_pedagogica": "El autorrespeto implica que el estudiante se valore a sí mismo, reconozca su dignidad y se trate con consideración, evitando autoagresiones físicas o verbales y protegiéndose de situaciones en las que se sienta maltratado. En grado 3, esta habilidad se relaciona con la identidad y la autoaceptación, así como con la capacidad de poner límites claros ante conductas que lo hacen sentir incómodo o humillado. Un buen nivel de autorrespeto favorece que el niño cuide su bienestar emocional y busque apoyo cuando experimenta burlas, acoso o descalificaciones.  ",
+      "definicion_estudiante": "El autorrespeto es tratarnos bien a nosotros mismos, reconocer que valemos y que merecemos ser tratados con respeto. Lo practicas cuando hablas bien de ti, cuidas tu cuerpo y tus emociones y dices \"no me gusta que me insulten\" cuando alguien te trata mal. Respetarte a ti mismo también significa no decirte cosas muy feas por dentro cuando te equivocas.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Hablé autorrespeto cuando dije 'no me gusta que me insulten'.\"",
+      "evidencia_logro": "El docente observa que el estudiante utiliza un lenguaje interno y externo menos descalificador hacia sí mismo, expresa con claridad cuando una conducta de otros le resulta ofensiva y busca ayuda adulta cuando se enfrenta a situaciones de maltrato o burla persistente.  ",
+      "tip_psicologico": "Invitar a los estudiantes a identificar frases negativas que se dicen a sí mismos y a transformarlas en mensajes más respetuosos y realistas. Reforzar cuando un alumno pone límites sanos diciendo que algo no le gusta o le hace daño. Crear acuerdos de aula donde se explicite que el respeto comienza por la forma en que cada uno se habla y se trata a sí mismo."
+    },
+    {
+      "id": "CON-012",
+      "concepto": "Control Emocional Consciente",
+      "definicion_pedagogica": "El control emocional consciente hace alusión a la capacidad del estudiante para reconocer cuándo una emoción intensa está afectando su comportamiento y decidir de manera intencional aplicar estrategias de regulación adecuadas. En grado 3, implica anticipar las consecuencias de reaccionar impulsivamente, reflexionar antes de actuar y utilizar recursos como la respiración, el distanciamiento breve o el diálogo interno para disminuir la intensidad emocional. Esta habilidad se integra en la competencia de regulación emocional y autoncontrol, consolidando procesos iniciados en grados anteriores.  ",
+      "definicion_estudiante": "El control emocional consciente es darte cuenta de que una emoción, como el enojo o la frustración, te está haciendo perder el control y elegir usar una estrategia para calmarte antes de actuar. Es pensar en lo que puede pasar si respondes con gritos o golpes y decidir respirar, alejarte o contar antes de hacerlo. Así cuidas tus relaciones y evitas problemas mayores.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Reconozco cuándo mi enojo me hace perder el control y decido respirar profundo.\" / \"Pienso en las consecuencias antes de reaccionar con rabia.\" / \"Sé cómo calmarme cuando siento mucha frustración en el juego.\"",
+      "evidencia_logro": "El docente identifica que el estudiante verbaliza cuándo está a punto de perder el control, menciona las posibles consecuencias de reaccionar impulsivamente y pone en práctica de manera observable una o más estrategias de regulación antes de que la situación escale.  ",
+      "tip_psicologico": "Trabajar con el estudiante un \"plan personal\" en el que especifique qué hará cuando sienta que está perdiendo el control, incluyendo pasos concretos y señales de alerta. Utilizar autorregistros sencillos para que, después de episodios emocionales intensos, revise qué hizo bien y qué podría mejorar. Reforzar cuando logra detenerse y aplicar una estrategia, aunque el resultado no sea perfecto."
+    },
+    {
+      "id": "CON-013",
+      "concepto": "Diálogo para Resolver Conflictos",
+      "definicion_pedagogica": "El diálogo para resolver conflictos consiste en utilizar la comunicación respetuosa como herramienta principal para abordar desacuerdos y problemas, buscando soluciones justas y mutuamente aceptables. En grado 3, esto implica escuchar, expresar el propio punto de vista sin agresión, proponer alternativas y aprender de los errores para responder de forma más adecuada en el futuro. La habilidad está directamente vinculada con la competencia de convivencia y con los estándares de resolución pacífica de conflictos presentes en la malla.  ",
+      "definicion_estudiante": "El diálogo para resolver conflictos es hablar con calma y respeto cuando hay un problema, en lugar de pelear o gritar. Es escuchar lo que el otro siente y piensa, explicar lo que tú sientes y buscar juntos una solución que sea justa para todos. También es evitar discutir por cosas pequeñas y aprender de lo que pasó para reaccionar mejor la próxima vez.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Uso el diálogo para resolver un conflicto con un compañero sin gritar.\" / \"Busco soluciones justas para todos cuando hay un desacuerdo.\" / \"Evito decir cosas hirientes cuando discuto con mi amigo.\"",
+      "evidencia_logro": "El docente observa que el estudiante propone hablar en vez de pelear ante un conflicto, escucha la versión del compañero, ofrece o acepta soluciones razonables y evita recurrir a insultos o comentarios que agraven la situación.  ",
+      "tip_psicologico": "Enseñar una secuencia clara para el diálogo en conflictos (escuchar, expresar, proponer, acordar) utilizando tarjetas o pósters como apoyo visual. Practicar mediante juegos de rol distintos tipos de desacuerdos y guiar a los estudiantes en la búsqueda de soluciones equitativas. Después de un conflicto real, revisar con los implicados qué partes del diálogo funcionaron bien y qué se podría mejorar."
+    },
+    {
+      "id": "CON-014",
+      "concepto": "Empatía y Perdón en Conflictos",
+      "definicion_pedagogica": "La empatía y el perdón en conflictos se centran en la capacidad del estudiante para comprender que él mismo puede equivocarse y que los otros también cometen errores, favoreciendo la expresión de disculpas, la ayuda para calmarse y la decisión de no mantener rencores prolongados. En grado 3, esta habilidad incluye reflexionar sobre qué podría haber hecho mejor después de una disputa, lo que fortalece la responsabilidad y el aprendizaje socioemocional. Se vincula con la competencia de habilidades sociales y con los procesos restaurativos que ayudan a mantener la cohesión del grupo.  ",
+      "definicion_estudiante": "La empatía y el perdón en conflictos es darte cuenta de que tú y los demás se pueden equivocar, comprender cómo se siente el otro, pedir disculpas cuando hace falta y estar dispuesto a perdonar cuando alguien te pide perdón. También es intentar ayudar a un compañero a calmarse cuando está muy enojado y pensar qué podrías hacer mejor la próxima vez que tengas un problema parecido.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Reconozco que me equivoqué y pido disculpas a mi compañero.\" / \"Intento ayudar a mi amigo a calmarse cuando está enojado.\" / \"Puedo perdonar cuando alguien se equivoca conmigo y no guardar rencor.\"",
+      "evidencia_logro": "El docente constata que el estudiante asume su responsabilidad en los conflictos, ofrece disculpas sinceras, muestra disposición para apoyar a compañeros que están alterados y decide continuar la relación sin mantenerse en una postura de rechazo permanente.  ",
+      "tip_psicologico": "Facilitar espacios de reflexión posterior a los conflictos en los que se aborden tanto las emociones propias como las del otro, y se identifiquen acciones de mejora. Modelar la expresión de perdón y mostrar cómo este contribuye a la paz del grupo. Reconocer públicamente los gestos de reconciliación auténtica para que se conviertan en ejemplos positivos para el curso."
+    },
+    {
+      "id": "CON-015",
+      "concepto": "Manejo de Emociones en Conflictos",
+      "definicion_pedagogica": "El manejo de emociones en conflictos aborda la capacidad del estudiante para reconocer cómo cambian sus emociones durante un desacuerdo, identificar pensamientos que le ayudan a sentirse más tranquilo y decidir cuándo es necesario retirarse temporalmente para evitar que la situación empeore. En grado 3, esta habilidad combina conciencia emocional, regulación y habilidades de resolución de problemas, y resulta esencial para prevenir escaladas de violencia verbal o física.  ",
+      "definicion_estudiante": "Manejar tus emociones en un conflicto es darte cuenta de cómo cambian mientras discutes y elegir qué hacer para que el problema no se haga más grande. Es reconocer si sientes miedo, rabia o ganas de llorar, pensar en soluciones que te den calma y saber cuándo necesitas alejarte un momento para no decir o hacer algo de lo que luego te arrepientas.",
+      "habilidad_malla": "Regulación emocional",
+      "ejemplo_aula": "\"Reconozco que mi miedo me hizo querer huir durante un conflicto.\" / \"Identifico que pensar en una solución me hace sentir más tranquilo en una discusión.\" / \"Sé que necesito alejarme un momento si siento que el conflicto va a empeorar.\"",
+      "evidencia_logro": "El docente observa que el estudiante es capaz de describir cómo se siente al inicio, durante y después de un conflicto, elige pensamientos o estrategias que disminuyen su tensión y, cuando nota que está a punto de perder el control, se aparta momentáneamente de la situación o pide ayuda adulta.  ",
+      "tip_psicologico": "Trabajar con el estudiante la identificación de \"termómetros emocionales\" que indiquen cuándo la intensidad de la emoción es alta y qué acciones puede tomar en cada nivel. Proponer frases de auto instrucción como \"puedo respirar\", \"puedo pedir tiempo\" o \"puedo buscar una solución\" para que las utilice en medio del conflicto. Reforzar cuando se retira a tiempo o pide apoyo antes de que la situación escale."
+    }
+  ],
+  "periodo_3": [
+    {
+      "id": "CON-016",
+      "concepto": "Colaboración",
+      "definicion_pedagogica": "La colaboración en grado 3 se refiere a la participación activa y responsable del estudiante en actividades de equipo, aportando ideas, compartiendo tareas y promoviendo la inclusión de todos los miembros. Va más allá de simplemente trabajar al lado de otros, e implica promover que todos participen y valorar los logros tanto individuales como colectivos. Esta habilidad se relaciona con la competencia de convivencia y con la orientación de la malla hacia la cooperación y el trabajo en equipo.  ",
+      "definicion_estudiante": "La colaboración es trabajar en equipo con tus compañeros, compartir ideas y trabajos y ayudar a que todos participen. Es ofrecerte para repartir materiales, invitar a otros a tus juegos y alegrarte por los logros del grupo, no solo por los tuyos. Cuando colaboras, el trabajo se hace más rápido y el recreo es más divertido para todos.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Colaboré cuando ayudé a mi grupo a repartir materiales para el trabajo.\" / \"Ayudo a que todos puedan participar en el juego de mesa.\" / \"Invito a mis amigos a unirse a mis juegos en el recreo.\"",
+      "evidencia_logro": "El docente identifica que el estudiante participa de forma comprometida en actividades grupales, comparte recursos y tareas, y se preocupa por integrar a compañeros que suelen quedar al margen, mostrando satisfacción por los logros del grupo.  ",
+      "tip_psicologico": "Organizar tareas cooperativas con roles definidos y rotativos, de forma que todos tengan oportunidad de liderar y apoyar. Después de cada trabajo en equipo, realizar una breve retroalimentación sobre cómo se vivió la colaboración, destacando actitudes positivas. Invitar a los estudiantes a proponer formas de colaboración en actividades que no sean solo académicas, como recreos o proyectos de curso."
+    },
+    {
+      "id": "CON-017",
+      "concepto": "Justicia",
+      "definicion_pedagogica": "La justicia se vincula con el deseo del estudiante de que las situaciones se resuelvan de manera equitativa, respetando los derechos y necesidades de todos, y con la disposición a reconocer sus errores y reparar cuando ha actuado de forma injusta. En grado 3, esta habilidad implica identificar situaciones en las que alguien recibe más o menos de lo que corresponde, cuestionar decisiones parciales y promover acuerdos que contemplen a todo el grupo. Se conecta con la competencia de convivencia y con el respeto de normas y acuerdos.  ",
+      "definicion_estudiante": "La justicia es querer que las cosas se hagan de manera justa para todos, sin ventajas ni trampas. Es tratar a tus compañeros con igualdad, compartir los materiales, respetar los turnos y pedir disculpas cuando sabes que no actuaste de forma correcta. Cuando eres justo, los demás confían más en ti y el grupo funciona mejor.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Apliqué justicia cuando dije que todos debíamos tener el mismo número de dulces.\" / \"Trato a todos con igualdad y justicia en el juego.\" / \"Pido disculpas cuando interrumpí a mi compañero sin querer.\"",
+      "evidencia_logro": "El docente observa que el estudiante propone soluciones equitativas en repartos o juegos, señala con respeto cuando algo no le parece justo y acepta asumir su responsabilidad cuando ha interrumpido o se ha beneficiado indebidamente en una situación.  ",
+      "tip_psicologico": "Presentar situaciones hipotéticas o de la vida diaria en las que haya que decidir qué es lo más justo, analizando diferentes puntos de vista. Animar a los estudiantes a expresar sus percepciones sobre la justicia en el aula y a construir juntos acuerdos que consideren las necesidades de todos. Reforzar cuando un estudiante reclama justicia no solo para sí mismo, sino también para un compañero."
+    },
+    {
+      "id": "CON-018",
+      "concepto": "Comunicación Respetuosa y Asertiva",
+      "definicion_pedagogica": "Esta habilidad integra la expresión clara y directa de opiniones y emociones con el respeto hacia la dignidad de los demás, incluso en contextos de desacuerdo. En grado 3, se espera que el estudiante sea capaz de dar su punto de vista sin ofender, mantener un tono tranquilo, reconocer el impacto de sus palabras y ajustar su mensaje para que otros lo comprendan. Se articula con la competencia de comunicación emocional de la malla y es fundamental para la convivencia y la resolución de conflictos.  ",
+      "definicion_estudiante": "La comunicación respetuosa y asertiva es decir lo que piensas y sientes con claridad, pero sin insultar ni levantar la voz. Es explicar tus ideas de diferentes maneras si alguien no entiende y cuidar las palabras que usas para que no dañen a otros. Así puedes defender tu punto de vista sin perder el respeto ni la amistad.",
+      "habilidad_malla": "Comunicación emocional",
+      "ejemplo_aula": "\"Puedo expresar mis ideas con respeto incluso si no estoy de acuerdo con mi amigo.\" / \"Sé dar mi punto de vista sin ofender a mis compañeros.\" / \"Reconozco que mis palabras pueden afectar a otros, así que hablo con calma.\"",
+      "evidencia_logro": "El docente constata que el estudiante participa en debates o discusiones en clase utilizando un tono adecuado, evitando insultos y siendo capaz de reformular su explicación cuando nota que otros no comprenden, manteniendo el respeto incluso en desacuerdos.  ",
+      "tip_psicologico": "Realizar ejercicios en los que los estudiantes practiquen decir lo mismo de manera agresiva, pasiva y asertiva, analizando las consecuencias de cada estilo. Introducir y practicar frases puente como \"yo pienso que…\", \"desde mi punto de vista…\", que faciliten un lenguaje respetuoso. Corregir de inmediato expresiones ofensivas, ofreciendo alternativas más adecuadas que el estudiante pueda repetir."
+    },
+    {
+      "id": "CON-019",
+      "concepto": "Escucha Activa y Valoración de la Opinión del Otro",
+      "definicion_pedagogica": "La escucha activa y la valoración de la opinión del otro implican que el estudiante preste atención plena a quien habla, respete los turnos, procese la información recibida y reconozca el valor de puntos de vista distintos al propio. En grado 3, esta habilidad es esencial para el trabajo colaborativo, la resolución de conflictos y el aprendizaje significativo, ya que permite integrar aportes diversos y construir conocimiento de manera conjunta.  ",
+      "definicion_estudiante": "Escuchar activamente es prestar mucha atención antes de responder, mirando a la persona que habla y concentrándote en lo que dice. Valorar la opinión del otro es respetar lo que piensa, aunque no estés de acuerdo, y tomarte un tiempo para dialogar en lugar de contestar de inmediato. También es saber cuándo hablar y cuándo es mejor quedarte escuchando.",
+      "habilidad_malla": "Habilidades sociales",
+      "ejemplo_aula": "\"Escucho atentamente antes de responder a mi maestro.\" / \"Valoro la opinión de mi compañero aunque piense diferente sobre el proyecto.\" / \"Respeto cuando mi amigo necesita tiempo para hablar sobre algo difícil.\"",
+      "evidencia_logro": "El docente observa que el estudiante mantiene contacto visual, espera su turno para hablar, puede repetir o parafrasear lo que el otro dijo antes de responder y evita interrumpir, especialmente en situaciones de discusión grupal.  ",
+      "tip_psicologico": "Incorporar dinámicas en las que los estudiantes deban resumir lo que el compañero anterior dijo antes de aportar su propia idea. Establecer señales visuales o verbales que indiquen cuándo es momento de escuchar y cuándo de hablar. Reforzar cuando un estudiante demuestra haber comprendido la opinión del otro aun cuando no esté de acuerdo, destacando la calidad de su escucha."
+    },
+    {
+      "id": "CON-020",
+      "concepto": "Búsqueda de Acuerdos y Reconocimiento Mutuo",
+      "definicion_pedagogica": "La búsqueda de acuerdos y el reconocimiento mutuo se refieren a la capacidad del estudiante para negociar soluciones compartidas cuando existen diferencias y para valorar tanto el esfuerzo propio como el del grupo en el logro de metas comunes. En grado 3, esta habilidad implica reconocer que la buena comunicación facilita amistades y que los logros del grupo son resultado del aporte de todos. Se vincula con la competencia de convivencia y con la orientación de la malla hacia la cooperación y el respeto de normas y acuerdos.  ",
+      "definicion_estudiante": "Buscar acuerdos es intentar encontrar una solución que funcione para todos cuando hay diferencias, en lugar de querer ganar siempre. El reconocimiento mutuo es darse cuenta de que comunicarse bien ayuda a tener amigos y valorar lo que cada uno hizo para que el grupo lograra algo. Cuando haces esto, los problemas se resuelven mejor y todos se sienten importantes.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Busco acuerdos con mis compañeros cuando tenemos diferencias en el juego.\" / \"Reconozco que, al comunicarme bien, logro tener más amigos.\" / \"Valoro que el grupo logre terminar el trabajo juntos.\"",
+      "evidencia_logro": "El docente constata que el estudiante propone alternativas intermedias cuando hay desacuerdos, participa en la toma de decisiones colectivas y reconoce verbalmente el aporte de sus compañeros al éxito de un proyecto o actividad.  ",
+      "tip_psicologico": "Modelar procesos de negociación en voz alta, mostrando cómo se pueden integrar diferentes propuestas en un acuerdo común. Después de actividades grupales, invitar a los estudiantes a mencionar qué aportó cada integrante y cómo eso ayudó al resultado final. Promover que, ante conflictos, los propios niños sugieran opciones que contemplen las necesidades de todos los implicados."
+    }
+  ],
+  "periodo_4": [
+    {
+      "id": "CON-021",
+      "concepto": "Responsabilidad y Consecuencias",
+      "definicion_pedagogica": "La responsabilidad y consecuencias se relaciona con la capacidad del estudiante para reconocer cómo sus palabras y acciones afectan a otros, asumir los resultados de sus decisiones y esforzarse por convertirse en un modelo positivo dentro del grupo. En grado 3, esta habilidad implica aceptar errores sin excusas, reparar cuando ha causado daño y evitar repetir conductas que sabe que son perjudiciales. Se alinea con la competencia de autonomía emocional y con el énfasis de la malla en la convivencia y la resolución responsable de conflictos.  ",
+      "definicion_estudiante": "La responsabilidad y las consecuencias es darte cuenta de que lo que dices y haces tiene efectos en otras personas y en ti mismo. Es asumir cuando te equivocaste, pedir disculpas, reparar lo que dañaste y tratar de no repetir el mismo comportamiento. También es esforzarte por ser un buen ejemplo para tus compañeros en el salón.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Mostré responsabilidad cuando pedí disculpas por mis palabras ofensivas.\" / \"Asumo las consecuencias cuando rompo algo sin querer.\" / \"Me esfuerzo por ser un buen ejemplo para mis compañeros en el salón.\"",
+      "evidencia_logro": "El docente observa que el estudiante reconoce su participación en situaciones problemáticas sin culpar únicamente a otros, acepta las consecuencias acordadas y muestra cambios concretos en su conducta para evitar repetir el mismo error, intentando ser un referente positivo para el curso.  ",
+      "tip_psicologico": "Conversar con el estudiante sobre la relación entre sus decisiones y sus resultados, utilizando ejemplos concretos recientes. Involucrarlo en la definición de acciones reparadoras cuando se equivoca, para que sienta que participa activamente en la solución. Reforzar cuando se anticipa a una consecuencia negativa y decide actuar de forma diferente para prevenirla."
+    },
+    {
+      "id": "CON-022",
+      "concepto": "Autoaceptación",
+      "definicion_pedagogica": "La autoaceptación supone que el estudiante se reconozca como una persona valiosa con fortalezas y debilidades, y que se permita aprender desde el error sin caer en la autoexigencia extrema ni en la descalificación permanente. En grado 3, esta habilidad se vincula con la identidad y el autorrespeto, y es crucial para sostener la motivación y la perseverancia en contextos académicos donde las comparaciones entre pares son frecuentes. Una adecuada autoaceptación protege la salud emocional y favorece la construcción de metas realistas.  ",
+      "definicion_estudiante": "La autoaceptación es sentirte bien con lo que eres, con tus cualidades y también con las cosas que todavía estás aprendiendo. Es entender que nadie es perfecto, que equivocarse es parte del proceso y que puedes mejorar a tu propio ritmo sin compararte todo el tiempo con los demás.",
+      "habilidad_malla": "Conciencia emocional",
+      "ejemplo_aula": "\"Practiqué autoaceptación cuando entendí que aprendo a mi propio ritmo.\"",
+      "evidencia_logro": "El docente identifica que el estudiante habla de sí mismo con un lenguaje más equilibrado, reconoce avances personales aunque aún tenga dificultades y evita compararse de forma negativa constante con sus compañeros.  ",
+      "tip_psicologico": "Invitar al estudiante a elaborar una lista de sus fortalezas y de aspectos que está mejorando, revisándola periódicamente. Señalar momentos en los que se exige demasiado o se juzga con dureza, ayudándole a encontrar una mirada más comprensiva hacia sí mismo. Fomentar en el grupo una cultura donde se valoren los procesos y no solo los resultados finales."
+    },
+    {
+      "id": "CON-023",
+      "concepto": "Cumplimiento de Compromisos y Normas",
+      "definicion_pedagogica": "El cumplimiento de compromisos y normas implica que el estudiante realice las tareas y responsabilidades que ha aceptado, sin necesidad de recordatorios constantes, y que entienda las normas como acuerdos que facilitan la convivencia y la seguridad de todos. En grado 3, esta habilidad incluye respetar las decisiones del grupo y las reglas de la institución, incluso cuando no hay supervisión directa o premios inmediatos. Se conecta con las competencias de autonomía emocional y convivencia, y con los estándares de respeto de normas y acuerdos.  ",
+      "definicion_estudiante": "Cumplir compromisos y normas es hacer lo que dijiste que ibas a hacer y seguir las reglas del salón y del colegio, aunque nadie te esté vigilando o no te den un premio. Es entregar tus tareas, respetar las decisiones del grupo y cumplir con las normas de orden y respeto para que todos puedan estar seguros.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Cumplo mis compromisos sin que la maestra me lo recuerde.\" / \"Entiendo que las normas del salón ayudan a que todos estemos seguros.\" / \"Respeto las decisiones del grupo, aunque no siempre esté de acuerdo con ellas.\" / \"Cumplo con mis tareas aunque no haya premio.\"",
+      "evidencia_logro": "El docente observa que el estudiante trae sus tareas y materiales con regularidad, respeta las normas de comportamiento sin necesidad de constantes llamados de atención y acepta las decisiones colectivas sin sabotear las actividades del grupo.  ",
+      "tip_psicologico": "Trabajar con el estudiante la planificación de sus compromisos en una agenda o lista visible, revisándola diariamente. Dialogar sobre el sentido de las normas, relacionándolas con la protección y el bienestar común, para que no se perciban solo como imposiciones. Reforzar cuando cumple con sus responsabilidades incluso en ausencia de reconocimiento inmediato."
+    },
+    {
+      "id": "CON-024",
+      "concepto": "Cuidado del Entorno y Materiales",
+      "definicion_pedagogica": "El cuidado del entorno y materiales se refiere a que el estudiante proteja y mantenga en buen estado los espacios físicos del colegio y los recursos que utiliza, considerando que son bienes compartidos. En grado 3, esta habilidad fomenta la responsabilidad social, el sentido de pertenencia y el respeto por el trabajo de otros que han construido o mantenido esos espacios y materiales. Se relaciona con la competencia de convivencia y con la orientación de la malla hacia la participación activa en el aula.  ",
+      "definicion_estudiante": "Cuidar el entorno y los materiales es tratar el colegio como un lugar que es de todos y cuidar los objetos, tanto propios como del colegio, como si fueran tuyos. Es no rayar las paredes, no dañar las mesas, recoger la basura, guardar bien los libros y los juegos y avisar si algo se rompe para poder arreglarlo.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Cuido el colegio como un lugar que es de todos, no rayando las paredes.\" / \"Cuido los materiales del colegio como si fueran míos, guardándolos bien.\"",
+      "evidencia_logro": "El docente constata que el estudiante utiliza de forma adecuada los materiales, devuelve lo que toma prestado en buen estado, participa en las rutinas de limpieza del aula y evita conductas que deterioren el espacio escolar, corrigiendo a otros con respeto cuando observa mal uso.  ",
+      "tip_psicologico": "Asignar responsabilidades concretas relacionadas con el cuidado del entorno (como encargado de biblioteca, del rincón de materiales o de reciclaje) y rotarlas entre los estudiantes. Mostrar de forma visible el antes y después de acciones de cuidado para que aprecien su impacto. Reconocer públicamente a quienes demuestran una actitud constante de protección hacia los espacios y objetos comunes."
+    },
+    {
+      "id": "CON-025",
+      "concepto": "Promoción de la Convivencia Pacífica",
+      "definicion_pedagogica": "La promoción de la convivencia pacífica abarca un conjunto de conductas orientadas a mantener relaciones respetuosas, resolver problemas mediante el diálogo, evitar la culpabilización constante de otros, no participar en chismes o burlas y considerar el impacto de las propias decisiones en el bienestar colectivo. En grado 3, esta habilidad refleja un nivel más avanzado de responsabilidad social, donde el estudiante no solo se regula a sí mismo, sino que también fomenta el cumplimiento de reglas y la ayuda mutua en el grupo.  ",
+      "definicion_estudiante": "Promover la convivencia pacífica es tratar de resolver los problemas con diálogo y respeto, ayudar a que otros cumplan las reglas y evitar chismes, burlas o culpar siempre a los demás por lo que pasa. También es darte cuenta de cuándo tus acciones mejoran el ambiente del curso y colaborar cuando el grupo necesita ayuda para una tarea difícil.",
+      "habilidad_malla": "Convivencia",
+      "ejemplo_aula": "\"Trato de resolver los problemas con diálogo y respeto en el grupo.\" / \"Evito culpar a otros por mis errores y asumo los míos.\" / \"Reconozco cuándo mis acciones (como ayudar a un compañero) mejoran la convivencia.\" / \"Colaboro cuando el grupo necesita ayuda para una tarea difícil.\"",
+      "evidencia_logro": "El docente observa que el estudiante sugiere el diálogo frente a situaciones de tensión, evita sumarse a conductas de burla o difusión de rumores, asume su parte en los problemas y realiza acciones concretas que favorecen el buen ambiente del aula, como ayudar a un compañero o recordar reglas de manera respetuosa.  ",
+      "tip_psicologico": "Realizar con el grupo análisis de casos en los que se muestre cómo ciertas decisiones dañan o mejoran la convivencia, invitando a proponer alternativas pacíficas. Crear comités o roles de convivencia donde algunos estudiantes apoyen en recordar normas y mediar pequeños desacuerdos, siempre guiados por el adulto. Reforzar cuando un alumno renuncia a participar en chismes o burlas, destacando el valor de su elección para la paz del grupo."
+    },
+    {
+      "id": "CON-026",
+      "concepto": "Orgullo por el Buen Hacer",
+      "definicion_pedagogica": "El orgullo por el buen hacer se refiere a la satisfacción interna que experimenta el estudiante cuando se esfuerza y realiza una tarea con calidad, reconociendo sus propios avances sin depender únicamente del reconocimiento externo. En grado 3, esta habilidad se vincula con la motivación intrínseca, la autoevaluación positiva y la capacidad de fijarse metas de mejora personal. Potenciar este orgullo saludable contribuye a la perseverancia y a la construcción de una imagen de sí mismo como aprendiz competente.  ",
+      "definicion_estudiante": "El orgullo por el buen hacer es sentirte contento contigo mismo cuando haces algo bien porque te esforzaste, como entregar un trabajo completo o mejorar en algo que te costaba. También es alegrarte por tus avances, aunque todavía no seas perfecto, y seguir intentando para superarte cada día.",
+      "habilidad_malla": "Autonomía emocional",
+      "ejemplo_aula": "\"Me siento orgulloso de hacer bien mi trabajo en clase.\" / \"Me esfuerzo por mejorar en aquello que me cuesta, sintiéndome orgulloso de mis avances.\"",
+      "evidencia_logro": "El docente identifica que el estudiante reconoce logros propios vinculándolos con el esfuerzo realizado, expresa satisfacción por sus avances sin necesidad de premios materiales y utiliza esa emoción positiva como motivación para seguir mejorando.  ",
+      "tip_psicologico": "Invitar a los estudiantes a llevar un registro de sus logros y mejoras, por pequeño que sea el avance, y a compartir periódicamente alguno del que se sientan especialmente orgullosos. En la retroalimentación, enfatizar la relación entre el esfuerzo, las estrategias utilizadas y el resultado obtenido. Evitar comparaciones entre compañeros y animar a cada estudiante a medir su progreso respecto a sí mismo, no solo frente al grupo."
+    }
+  ]
+}

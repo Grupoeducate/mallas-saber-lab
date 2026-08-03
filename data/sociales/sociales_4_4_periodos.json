@@ -1,7 +1,7 @@
 {
   "area": "Ciencias Sociales y Competencias Ciudadanas",
   "grado": "4",
-  "tipo_malla": "Malla Periódica",
+  "tipo_malla": "4_periodos",
   "numero_periodos": 4,
   "periodos": {
     "1": [
@@ -15,7 +15,13 @@
           "Compara la cantidad de habitantes que viven en las ciudades colombianas con la población ubicada en los sectores rurales (a partir de la información del último censo de población realizado en el país o de otra fuente).",
           "Expresa razones por las cuales actualmente la población se concentra más en las ciudades que en el campo."
         ],
-        "saberes": ["Ubicación espacial", "El uso del suelo", "Lo urbano y lo rural", "Demografía urbana y rural", "El censo"],
+        "saberes": [
+          "Ubicación espacial",
+          "Lo urbano y lo rural",
+          "El uso del suelo",
+          "Demografía urbana y rural",
+          "El censo"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -96,7 +102,11 @@
           "Busca información en diferentes fuentes sobre los legados culturales de las comunidades indígenas y describe su situación actual.",
           "Explica las razones por las cuales la población indígena se vio reducida con la llegada de los europeos."
         ],
-        "saberes": ["Banda", "Clan", "Tribu", "Culturas ancestrales", "Periodo prehispánico"],
+        "saberes": [
+          "Banda, Clan, Tribu",
+          "Culturas ancestrales",
+          "Periodo prehispánico"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -161,7 +171,10 @@
           "Explica cómo era la vida de los pueblos cuando no existía la energía eléctrica, el acueducto, el alcantarillado y el servicio de teléfono, entre otros.",
           "Relaciona el acceso a las tecnologías de la salud como los hospitales, las vacunas, y los medicamentos, con el bienestar de las familias."
         ],
-        "saberes": ["Organizaciones humanas primigenias", "Organizaciones actuales", "La tecnología", "El antes y el ahora"],
+        "saberes": [
+          "Comparacion entre las primeras organizacines humanas y organizaciones actuales",
+          "La tecnología: el antes y el ahora"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -175,7 +188,12 @@
           "Describe los derechos de la niñez y asume una posición crítica frente a situaciones de discriminación y abuso por irrespeto a rasgos individuales de las personas.",
           "Se identifica como un sujeto de derechos con unos deberes para con la comunidad educativa desde su participación en diferentes eventos escolares."
         ],
-        "saberes": ["Los derechos humanos", "Derechos de la niñez", "La discriminación", "El racismo"],
+        "saberes": [
+          "Los derechos humanos y de la niñez",
+          "La igualdad y el respeto por las diferencias",
+          "La discriminación",
+          "El racismo"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -212,7 +230,12 @@
           "Reconoce los factores económicos, sociales y políticos que influyen en la satisfacción de las necesidades básicas de las personas en la sociedad colombiana.",
           "Expresa la responsabilidad que conlleva ser parte de una comunidad y sugiere posibles actuaciones en la búsqueda de la satisfacción de las necesidades básicas."
         ],
-        "saberes": ["Regiones naturales del mundo", "Factores económicos sociales y políticos", "Intervención escolar por la alimentación"],
+        "saberes": [
+          "Las necesidades básicas y su relación con el entorno natural",
+          "Regiones naturales del mundo",
+          "Factores económicos, sociales y políticos que influyen en la satisfacción de las necesidades básicas de las personas en la sociedad colombiana",
+          "Propuesta de intervencio escolar (en busqueda de comunidades sin alimentación)"
+        ],
         "socioemocional": null,
         "diccionario": null,
         "tareas_dce": null,
@@ -267,4 +290,5 @@
       }
     ]
   }
+
 }

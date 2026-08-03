@@ -1,0 +1,363 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "1",
+  "nombre_archivo": "t_ciencias_sociales_1_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mi Escuela es un Mapa Gigante",
+            "un_reto_sugerido": "Convertirse en un 'Explorador Escolar' y guiar a un compañero hacia la cafetería usando puntos cardinales.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Simón dice' enfocado en lateralidad (mano derecha arriba, paso a la izquierda) y búsqueda del sol para hallar el oriente.",
+              "visual": "Crear un plano con plastilina o bloques de madera que represente los lugares clave de la escuela (Rectoría, Patio, Salón).",
+              "produccion": "Dibujar el 'Mapa del Tesoro' de su barrio, marcando dónde queda la tienda, el parque y su casa usando flechas de dirección."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber dónde queda nuestra derecha y nuestra izquierda para no perdernos?",
+              "¿Cómo ayudan los puntos cardinales a los marineros o exploradores?"
+            ],
+            "pistas_del_exito": [
+              "Ubica correctamente el patio de recreo y la cafetería en un dibujo de la escuela.",
+              "Identifica al menos dos instituciones sociales (iglesia, CAI, parque) en su comunidad."
+            ],
+            "un_refuerzo": "Utilizar una brújula casera o una aplicación de brújula en el celular para identificar el Norte en el salón."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Tren del Tiempo",
+            "un_reto_sugerido": "Organizar las actividades del día en un 'Reloj de Aventuras' para diferenciar lo que se hizo ayer de lo que se hará mañana.",
+            "ruta_de_exploracion": {
+              "explorar": "Cantar una canción sobre los días de la semana y los meses del año para aprender su orden.",
+              "visual": "Diseñar un calendario de colores donde cada día tenga un dibujo de la actividad principal (ej: deporte, dibujo, familia).",
+              "produccion": "Crear una 'Línea del Ayer, Hoy y Mañana' con fotos o dibujos de lo que desayunó, lo que estudia ahora y lo que sueña hacer mañana."
+            },
+            "para_pensar": [
+              "¿Qué cosas duran mucho tiempo (como un mes) y qué cosas duran poquito (como un minuto)?",
+              "¿Por qué los días siempre tienen el mismo orden?"
+            ],
+            "pistas_del_exito": [
+              "Nombra los 7 días de la semana sin equivocarse.",
+              "Diferencia actividades que realizó el día anterior de las que realizará el día siguiente."
+            ],
+            "un_refuerzo": "Relacionar actividades con el reloj: dibujar un sol para el día y una luna para la noche."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Museo del 'Antes y Ahora'",
+            "un_reto_sugerido": "Realizar una galería de fotos o dibujos que muestren cómo ha cambiado su barrio o su salón de clase desde que empezó el año.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar un relato del docente sobre cómo era la escuela hace muchos años y compararlo con lo que ven hoy.",
+              "visual": "Dibujar dos escenas: una del primer día de clase (antes) y una del día de hoy (ahora).",
+              "produccion": "Crear un mural grupal que muestre una transformación física del barrio (un parque nuevo, una calle pintada) y explicar para qué sirve."
+            },
+            "para_pensar": [
+              "¿Qué cosas de ti han cambiado desde que eras un bebé hasta ahora que estás en primero?",
+              "¿Por qué cambian los lugares donde vivimos (casas, calles)?"
+            ],
+            "pistas_del_exito": [
+              "Relata al menos un acontecimiento social importante ocurrido en el aula.",
+              "Describe un cambio físico que haya visto en su comunidad recientemente."
+            ],
+            "un_refuerzo": "Entrevistar a un abuelo o adulto mayor sobre cómo eran los juegos antes."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Micrófono del Respeto",
+            "un_reto_sugerido": "Participar en una 'Asamblea de Decisiones' para elegir el nombre del equipo de juegos del salón.",
+            "ruta_de_exploracion": {
+              "explorar": "Dinámica de 'El Teléfono Roto' para entender la importancia de escuchar bien antes de hablar.",
+              "visual": "Dibujar una 'Cara de Escucha' (orejas grandes, boca cerrada) para recordar las reglas del grupo.",
+              "produccion": "Realizar una votación por colores para decidir una actividad grupal, expresando por qué eligieron ese color."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando alguien te escucha con mucha atención?",
+              "¿Qué pasa si todos hablamos al mismo tiempo en el salón?"
+            ],
+            "pistas_del_exito": [
+              "Comparte un interés personal frente al grupo de forma clara.",
+              "Aporta una opinión respetuosa durante una decisión colectiva en el aula."
+            ],
+            "un_refuerzo": "Uso de un 'objeto de la palabra' (pelota o peluche) para ceder el turno de hablar."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Reporteros de mi Recorrido",
+            "un_reto_sugerido": "Describir el camino de la casa al colegio resaltando los 'puntos mágicos' (tienda, parque, iglesia) que encuentra.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata imaginaria en el salón: 'Damos tres pasos, vemos una tienda de helados a la derecha, seguimos al Norte'.",
+              "visual": "Maqueta sencilla con cajas de cartón representando su casa, la escuela y un lugar representativo del barrio.",
+              "produccion": "Dibujo detallado del recorrido casa-colegio usando flechas y convenciones (ej: un árbol para el parque)."
+            },
+            "para_pensar": [
+              "¿Cuál es el lugar que más te gusta de tu barrio y por qué es importante para todos?",
+              "¿Qué pasaría si en el barrio no hubiera señales para llegar a la escuela?"
+            ],
+            "pistas_del_exito": [
+              "Localiza en un dibujo la iglesia o el parque de su barrio usando puntos cardinales.",
+              "Describe verbalmente al menos tres lugares que ve en su ruta diaria al colegio."
+            ],
+            "un_refuerzo": "Juego de 'Simón Dice' con el mapa del barrio proyectado o dibujado en el piso."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "La Fiesta de los Cumpleaños",
+            "un_reto_sugerido": "Crear un 'Muro de la Familia' donde se ordene quién nació antes y quién nació después.",
+            "ruta_de_exploracion": {
+              "explorar": "Lluvia de ideas: ¿Quién es el más mayor de la casa? ¿Quién es el más pequeño?",
+              "visual": "Dibujar a los miembros de la familia como si fueran una escalera (el más alto/mayor arriba, el más bajo/menor abajo).",
+              "produccion": "Diseñar una tarjeta de cumpleaños para el compañero que cumple años próximamente, anotando su edad actual."
+            },
+            "para_pensar": [
+              "¿Por qué celebramos el día en que nacimos?",
+              "¿Cómo sabemos quién es mayor entre dos amigos si no conocemos sus edades?"
+            ],
+            "pistas_del_exito": [
+              "Identifica correctamente quiénes en su familia nacieron antes que él.",
+              "Nombra la fecha de cumpleaños de al menos un familiar cercano."
+            ],
+            "un_refuerzo": "Realizar un pastel de plastilina con el número de velas de su edad actual."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Mi Comunidad es mi Equipo",
+            "un_reto_sugerido": "Crear un 'Álbum de Organizaciones' que muestre quiénes nos cuidan en la familia, el colegio y el barrio.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de roles: Representar al profesor en el colegio, al papá/mamá en la familia y al vecino en el barrio.",
+              "visual": "Mapa conceptual con dibujos de los tres grupos: Mi Familia (hogar), Mi Colegio (estudio), Mi Barrio (vecinos).",
+              "produccion": "Escribir o dictar una pregunta para un líder de la comunidad (ej: el cura o el policía) sobre algo importante que pasó en el barrio."
+            },
+            "para_pensar": [
+              "¿En qué se parece tu familia a tu salón de clase?",
+              "¿Qué pasaría si nadie cuidara de las organizaciones de nuestro barrio?"
+            ],
+            "pistas_del_exito": [
+              "Nombra las tres organizaciones principales a las que pertenece (familia, colegio, barrio).",
+              "Formula una pregunta sobre un suceso destacado de su comunidad."
+            ],
+            "un_refuerzo": "Video sobre cómo funcionan los bomberos o la policía en una comunidad."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Emocionómetro del Buen Trato",
+            "un_reto_sugerido": "Reconocer las emociones en las caras de sus amigos y proponer una acción de 'buen trato' para cada una.",
+            "ruta_de_exploracion": {
+              "explorar": "Frente a un espejo, hacer caras de alegría, tristeza, rabia y temor; adivinar qué siente el compañero por su gesto.",
+              "visual": "Crear paletas de emociones (emojis) para mostrar cómo se siente durante diferentes momentos del día.",
+              "produccion": "Dramatización de una situación de 'amor y cuidado' (ej: ayudar a alguien que se cayó) frente a una de maltrato."
+            },
+            "para_pensar": [
+              "¿Cómo se siente tu cuerpo cuando recibes un abrazo o una palabra bonita?",
+              "¿Qué podemos hacer cuando sentimos mucha rabia para no herir a los demás?"
+            ],
+            "pistas_del_exito": [
+              "Identifica al menos una situación donde se vulnera el derecho al buen trato.",
+              "Nombra las 4 emociones básicas correctamente."
+            ],
+            "un_refuerzo": "Lectura de un cuento sobre la importancia de los abrazos y el respeto."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Detectives del Clima y el Relieve",
+            "un_reto_sugerido": "Modelar en arcilla una montaña y un valle, y explicar qué ropa usaría en cada lugar según el clima.",
+            "ruta_de_exploracion": {
+              "explorar": "Sentir la diferencia de temperatura usando un cubo de hielo (frío/invierno) y una lámpara o el sol (calor/verano).",
+              "visual": "Dibujar un paisaje que incluya una montaña, una isla y un río, usando colores para el sol o la lluvia.",
+              "produccion": "Cartelera de 'Problemas Ambientales' del barrio (ej: basura en el parque) y una idea para solucionarlo."
+            },
+            "para_pensar": [
+              "¿Por qué a veces llueve mucho y otras veces hace mucho calor en nuestro barrio?",
+              "¿Cómo ayudan los parques y las carreteras (infraestructura) a nuestra comunidad?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia las sensaciones de calor y frío en su propio cuerpo.",
+              "Reconoce una forma de relieve (montaña o valle) en su entorno geográfico."
+            ],
+            "un_refuerzo": "Hacer un molinillo de viento para observar cómo se mueve el aire en el patio."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Yo Soy Único e Irrepetible",
+            "un_reto_sugerido": "Crear un 'Autorretrato Mágico' que resalte lo que lo hace especial y diferente a sus amigos.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Encuentra al gemelo': Buscar compañeros que tengan el mismo color de ojos o el mismo gusto por un dulce.",
+              "visual": "Dibujar su silueta en un papel grande y escribir dentro sus gustos, costumbres y cualidades.",
+              "produccion": "Presentar frente al grupo un objeto que represente una costumbre de su familia (ej: una receta, un juguete)."
+            },
+            "para_pensar": [
+              "¿Te imaginas un mundo donde todos fuéramos exactamente iguales? ¿Sería divertido?",
+              "¿Qué cualidad tuya crees que ayuda a que el salón sea más feliz?"
+            ],
+            "pistas_del_exito": [
+              "Menciona al menos tres características físicas que lo hacen único.",
+              "Identifica una diferencia de gusto o costumbre con un compañero del salón."
+            ],
+            "un_refuerzo": "Uso de un espejo para observar detalles únicos (pecas, forma de la sonrisa, cabello)."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Constructores de Acuerdos",
+            "un_reto_sugerido": "Proponer una nueva norma para el juego en el recreo que ayude a que todos participen y nadie pelee.",
+            "ruta_de_exploracion": {
+              "explorar": "Intentar jugar algo sin reglas; luego discutir por qué es difícil jugar así y crear tres reglas básicas.",
+              "visual": "Crear el 'Mural de las Manos': Cada mano pintada representa un compromiso con una norma del salón.",
+              "produccion": "Simulacro de resolución de conflicto: Representar una pelea por un juguete y mostrar cómo se soluciona hablando."
+            },
+            "para_pensar": [
+              "¿Por qué trabajar en equipo nos ayuda a terminar las tareas más rápido?",
+              "¿Para qué sirven las normas en nuestra casa y en el colegio?"
+            ],
+            "pistas_del_exito": [
+              "Colabora activamente en la creación de un acuerdo grupal.",
+              "Reconoce la importancia del trabajo en equipo para lograr una meta común."
+            ],
+            "un_refuerzo": "Lectura del Manual de Convivencia infantil con pictogramas o dibujos."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Mundo de los Muchos Colores",
+            "un_reto_sugerido": "Organizar una 'Feria de la Diversidad' donde se celebren los diferentes gustos, orígenes y géneros del salón.",
+            "ruta_de_exploracion": {
+              "explorar": "Ver imágenes de niños de diferentes etnias (indígenas, afros, blancos) y comentar qué ropa o peinados usan.",
+              "visual": "Dibujar a dos personas con oficios diferentes (ej: un médico y una bombera) resaltando que ambos son importantes.",
+              "produccion": "Crear un 'Diploma de Respeto' para un compañero que siempre es amable con los demás, sin importar sus diferencias."
+            },
+            "para_pensar": [
+              "¿Por qué es importante aceptar a los amigos que tienen más o menos dinero que nosotros?",
+              "¿Cómo podemos ayudar a alguien que viene de otro país o ciudad a sentirse bien en nuestro salón?"
+            ],
+            "pistas_del_exito": [
+              "Menciona y valora una característica que lo hace diferente a sus pares.",
+              "Demuestra respeto hacia un compañero con costumbres distintas."
+            ],
+            "un_refuerzo": "Video sobre la igualdad de derechos entre niños y niñas."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mi Casa es mi Refugio",
+            "un_reto_sugerido": "Hacer un dibujo de los materiales de su casa (ladrillo, madera, barro) y explicar cómo lo protege el hogar.",
+            "ruta_de_exploracion": {
+              "explorar": "Taller sensorial: Tocar muestras de materiales (madera, piedra, cemento, paja) para sentir su dureza.",
+              "visual": "Plano creativo de su casa: Dibujar dónde queda la cocina, los cuartos y el lugar donde se siente más seguro.",
+              "produccion": "Crear una casita de cartón que represente una vivienda típica de su barrio que debe ser cuidada (patrimonio)."
+            },
+            "para_pensar": [
+              "¿De qué lugares venían tus abuelos antes de llegar a vivir a la casa de ahora?",
+              "¿Por qué la vivienda es un lugar de amor y cuidado?"
+            ],
+            "pistas_del_exito": [
+              "Nombra al menos dos materiales usados en la construcción de su casa.",
+              "Identifica el valor de la vivienda como espacio de seguridad familiar."
+            ],
+            "un_refuerzo": "Cuento sobre 'Los tres cerditos' para analizar materiales de construcción."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Cualidades que Brillan",
+            "un_reto_sugerido": "Identificar una cualidad en cada miembro de su familia y crear una 'Medalla al Mérito' para ellos.",
+            "ruta_de_exploracion": {
+              "explorar": "Sentarse en círculo y decir una cualidad positiva del compañero de la derecha (amabilidad, alegría, esfuerzo).",
+              "visual": "Árbol de las Cualidades: Dibujar un árbol donde las hojas sean las tradiciones que cuentan los abuelos.",
+              "produccion": "Grabar un audio o escribir un mensaje contando una tradición familiar que aprendió de sus mayores."
+            },
+            "para_pensar": [
+              "¿Qué cualidades tuyas te ayudan a hacer más amigos en el colegio?",
+              "¿Por qué es importante escuchar las historias que cuentan las personas mayores?"
+            ],
+            "pistas_del_exito": [
+              "Reconoce una cualidad personal que le ayuda a estar mejor con los demás.",
+              "Nombra una tradición cultural de su barrio o vereda."
+            ],
+            "un_refuerzo": "Traer un objeto que represente una tradición familiar (ej: un tejido, una foto)."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Héroes de la Convivencia",
+            "un_reto_sugerido": "Crear un 'Escudo de la Sana Convivencia' que enseñe los deberes y derechos del Manual de Convivencia.",
+            "ruta_de_exploracion": {
+              "explorar": "Análisis de casos: '¿A quién pedir ayuda si un niño nos empuja o nos trata mal?' Conocer la ruta de protección.",
+              "visual": "Cartelera comparativa entre 'Lo que nos hace iguales' (derechos) y 'Lo que nos hace diferentes' (género, edad).",
+              "produccion": "Dramatización de una acción para evitar el maltrato escolar (ej: decir 'no' y buscar al profesor)."
+            },
+            "para_pensar": [
+              "¿Por qué el Manual de Convivencia es como un mapa para vivir felices en el colegio?",
+              "¿Cómo puedes ayudar a un compañero que se siente triste o maltratado?"
+            ],
+            "pistas_del_exito": [
+              "Identifica una situación de maltrato y sabe a quién acudir por ayuda.",
+              "Expresa respeto hacia los deberes establecidos en el Manual de Convivencia."
+            ],
+            "un_refuerzo": "Uso de títeres para representar la resolución pacífica de un problema."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Rincón de la Calma",
+            "un_reto_sugerido": "Practicar una técnica de respiración antes de participar en clase para manejar los nervios o la rabia.",
+            "ruta_de_exploracion": {
+              "explorar": "Ejercicio de 'La Tortuga': Encogerse cuando sentimos rabia, respirar profundo y salir con calma.",
+              "visual": "Dibujar 'La Nube de la Rabia' y cómo se convierte en un 'Sol de Tranquilidad' después de calmarse.",
+              "produccion": "Crear un 'Diario de Emociones' donde dibuje cómo se siente antes y después de trabajar en equipo."
+            },
+            "para_pensar": [
+              "¿Qué sientes en tu cuerpo cuando tienes mucha rabia o mucho miedo?",
+              "¿Por qué es mejor esperar a estar calmado antes de decirle algo a un compañero?"
+            ],
+            "pistas_del_exito": [
+              "Aplica una estrategia sencilla para calmarse (respiración) en el salón.",
+              "Describe cómo una emoción fuerte afecta su relación con los amigos."
+            ],
+            "un_refuerzo": "Juego de burbujas de jabón para practicar la exhalación suave y controlada."
+          }
+        }
+      ]
+    }
+  ]
+}

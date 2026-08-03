@@ -1,0 +1,364 @@
+{
+  "area": "Ciencias Sociales",
+  "grado": "2",
+  "nombre_archivo": "t_ciencias_sociales_2_4_periodos.json",
+  "periodos": [
+    {
+      "periodo_id": 1,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "El Tesoro de los Puntos Cardinales",
+            "un_reto_sugerido": "Guiar a un compañero a un lugar 'secreto' del colegio usando solo pasos y puntos cardinales.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego del 'Reloj Humano' en el patio para identificar Norte, Sur, Oriente y Occidente según la salida del sol.",
+              "visual": "Dibujar un croquis del salón de clases ubicando la puerta, las ventanas y el tablero usando los puntos cardinales.",
+              "produccion": "Crear un 'Mapa de la Ruta a la Escuela' donde se marquen los giros a la izquierda y derecha y los lugares más importantes del camino."
+            },
+            "para_pensar": [
+              "¿Por qué es importante saber dónde queda el Norte si nos perdemos en un lugar nuevo?",
+              "¿Cómo medían las distancias las personas antes de que existieran los metros?"
+            ],
+            "pistas_del_exito": [
+              "Usa correctamente los términos izquierda, derecha, adelante y atrás.",
+              "Identifica la distancia -cerca o lejos- entre dos puntos del colegio usando pasos."
+            ],
+            "un_refuerzo": "Utilizar una brújula casera (aguja y fomi en agua) para ver hacia dónde marca siempre el Norte."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Baúl de mis Raíces",
+            "un_reto_sugerido": "Escribir una pequeña historia sobre cómo llegó su familia al municipio donde viven ahora.",
+            "ruta_de_exploracion": {
+              "explorar": "Traer una fotografía antigua de la familia y contar qué estaba pasando en ese momento.",
+              "visual": "Dibujar una 'Línea del Tiempo de Mi Familia' desde el nacimiento de los abuelos hasta el suyo.",
+              "produccion": "Grabar un video corto o hacer un dibujo sobre un viaje o mudanza importante que haya hecho su familia."
+            },
+            "para_pensar": [
+              "¿Cómo sería tu vida si tu familia nunca se hubiera mudado de su lugar de origen?",
+              "¿Qué cosas de tu familia te hacen sentir orgulloso de ser colombiano?"
+            ],
+            "pistas_del_exito": [
+              "Describe correctamente quiénes integraban su familia antes de que él naciera.",
+              "Reconoce el municipio de procedencia de sus padres o abuelos."
+            ],
+            "un_refuerzo": "Entrevistar al integrante más anciano de la familia sobre un juego que jugaba cuando era niño."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "La Feria de los Super-Trabajos",
+            "un_reto_sugerido": "Explicar a través de un dibujo cómo el trabajo de sus padres ayuda a que todos en la casa estén bien.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de los trabajos que ven en su barrio (panadero, tendero, policía, médico) y jugar a las adivinanzas de oficios.",
+              "visual": "Crear un collage con recortes o dibujos sobre las diferentes actividades económicas que hay en su comunidad.",
+              "produccion": "Dramatizar en grupos pequeños un oficio de la comunidad y explicar qué beneficios trae a los vecinos."
+            },
+            "para_pensar": [
+              "¿Qué pasaría en el barrio si nadie quisiera trabajar en la recolección de basura o en la panadería?",
+              "¿Por qué los niños no deben trabajar y cuál es su principal 'trabajo' en este momento?"
+            ],
+            "pistas_del_exito": [
+              "Identifica al menos tres trabajos diferentes en su entorno cercano.",
+              "Explica cómo el trabajo de los adultos se convierte en sustento para el hogar."
+            ],
+            "un_refuerzo": "Cuento corto sobre la importancia de cada trabajo en una pequeña aldea."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Guardianes de la Escucha Atenta",
+            "un_reto_sugerido": "Crear un 'Acuerdo de Palabra' para que todos en el salón sean escuchados con respeto.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego del 'Teléfono Roto' para notar qué pasa cuando no escuchamos bien a los demás.",
+              "visual": "Diseñar un cartel con dibujos que muestren la diferencia entre una norma impuesta y un acuerdo entre amigos.",
+              "produccion": "Escribir en una 'Nube de Ideas' tres cosas que le disgustan del salón y proponer cómo cambiarlas sin pelear."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando estás hablando y alguien te interrumpe o te ignora?",
+              "¿Por qué es mejor ponerse de acuerdo que obligar a los demás a cumplir una norma?"
+            ],
+            "pistas_del_exito": [
+              "Expresa una inconformidad usando palabras tranquilas y claras.",
+              "Diferencia correctamente entre una norma del colegio y un acuerdo del salón."
+            ],
+            "un_refuerzo": "Taller de 'El Semáforo de la Palabra': Rojo (parar y escuchar), Amarillo (pensar) y Verde (hablar)."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 2,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Mi Municipio en Plastilina",
+            "un_reto_sugerido": "Construir una maqueta del relieve de su localidad usando materiales reciclados y plastilina.",
+            "ruta_de_exploracion": {
+              "explorar": "Caminata de observación por los alrededores de la escuela para identificar si hay montañas, valles o llanuras.",
+              "visual": "Dibujar un 'Antes y Después' del paisaje del municipio (cómo era antes de las carreteras y cómo es hoy).",
+              "produccion": "Exposición de maquetas donde se señalen los lugares turísticos más bonitos del municipio."
+            },
+            "para_pensar": [
+              "¿Qué cosas de tu municipio hizo la naturaleza y qué cosas hicieron los seres humanos?",
+              "¿Cómo cambian las carreteras la vida de las personas que viven en las montañas?"
+            ],
+            "pistas_del_exito": [
+              "Nombra correctamente al menos tres formas del relieve (montaña, valle, llanura).",
+              "Identifica un cambio en el paisaje provocado por una construcción humana."
+            ],
+            "un_refuerzo": "Taller de fotografía: capturar con un dibujo el lugar más representativo de su barrio."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "El Árbol de las Mil Historias",
+            "un_reto_sugerido": "Completar su árbol genealógico identificando de qué lugares venían sus tíos, primos y abuelos.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar una canción o historia que le gustara a sus abuelos y tratar de aprenderla.",
+              "visual": "Crear un mural con las copias de los Registros Civiles (o dibujos de ellos) para ver las fechas de nacimiento.",
+              "produccion": "Dibujar el 'Mapa de mis Raíces' uniendo con flechas los lugares donde nacieron sus antepasados."
+            },
+            "para_pensar": [
+              "¿Por qué es importante guardar fotos y documentos antiguos de la familia?",
+              "¿Qué historias de tus antepasados te gustaría contarle a tus hijos en el futuro?"
+            ],
+            "pistas_del_exito": [
+              "Ubica al menos a tres generaciones en su árbol genealógico.",
+              "Identifica una razón por la cual su familia se ha movido de lugar."
+            ],
+            "un_refuerzo": "Llevar un objeto antiguo de casa y contar su historia al grupo."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Trabajos de Ayer y Hoy",
+            "un_reto_sugerido": "Realizar una comparación entre un trabajo que hacían sus abuelos y cómo se hace ese mismo trabajo hoy.",
+            "ruta_de_exploracion": {
+              "explorar": "Entrevistar a un abuelo sobre qué herramientas usaba para trabajar cuando era joven.",
+              "visual": "Dibujar un cuadro comparativo entre los trabajos del campo (rural) y los trabajos de la ciudad (urbana).",
+              "produccion": "Crear un cartel de 'No al Trabajo Infantil' explicando por qué los niños deben estar en la escuela jugando y aprendiendo."
+            },
+            "para_pensar": [
+              "¿Qué herramientas tecnológicas facilitan los trabajos hoy que antes no existían?",
+              "¿Por qué es importante que los niños no trabajen y se dediquen a estudiar?"
+            ],
+            "pistas_del_exito": [
+              "Diferencia claramente un trabajo rural de uno urbano.",
+              "Rechaza con argumentos la explotación laboral infantil."
+            ],
+            "un_refuerzo": "Video sobre cómo se hacía el pan o la ropa antiguamente comparado con las fábricas modernas."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Semáforo de las Emociones",
+            "un_reto_sugerido": "Identificar en una situación de juego cómo sus acciones pueden hacer sentir felices o tristes a sus amigos.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de mímica de emociones: representar alegría, rabia, tristeza y miedo para que los demás adivinen.",
+              "visual": "Dibujar un 'Mapa de Consecuencias': Si grito a un amigo (acción) -> mi amigo se pone triste (consecuencia).",
+              "produccion": "Escribir una 'Carta de Buen Trato' para un compañero, resaltando algo positivo de su forma de ser."
+            },
+            "para_pensar": [
+              "¿Cómo puedes calmar tu rabia para no herir los sentimientos de los demás?",
+              "¿Por qué nada justifica tratar mal a un niño o una niña?"
+            ],
+            "pistas_del_exito": [
+              "Identifica la relación entre una emoción y un comportamiento.",
+              "Describe una consecuencia de sus actos en un compañero."
+            ],
+            "un_refuerzo": "Lectura de un cuento sobre el perdón y la reconciliación entre amigos."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 3,
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Arquitectos de mi Tierra",
+            "un_reto_sugerido": "Modelar con arcilla o materiales reciclados una vivienda típica rural y una urbana, mostrando sus diferencias.",
+            "ruta_de_exploracion": {
+              "explorar": "Observar fotos de diferentes casas: edificios, chozas indígenas, casas de madera y casas de ladrillo.",
+              "visual": "Crear un álbum de 'Tipos de Vivienda' clasificándolas por los materiales con que están hechas.",
+              "produccion": "Hacer un dibujo de 'La Casa de mis Sueños' explicando si le gustaría vivir en el campo o en la ciudad y por qué."
+            },
+            "para_pensar": [
+              "¿Por qué las casas del campo son diferentes a los apartamentos de la ciudad?",
+              "¿Cómo protegen las casas de los grupos étnicos a las personas del clima de su región?"
+            ],
+            "pistas_del_exito": [
+              "Identifica materiales de construcción típicos de su zona.",
+              "Nombra al menos una ventaja de vivir en la ciudad y una de vivir en el campo."
+            ],
+            "un_refuerzo": "Construir una casa pequeña con palitos de helado o cartón siguiendo un diseño propio."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Un Mundo de Amigos Diferentes",
+            "un_reto_sugerido": "Presentar a un compañero del salón resaltando su comida favorita, su juego preferido y algo especial de su cultura.",
+            "ruta_de_exploracion": {
+              "explorar": "Compartir en grupo cuál es su plato de comida favorito y descubrir quiénes tienen gustos parecidos o muy diferentes.",
+              "visual": "Hacer una cartelera de 'Manos de Colores' donde cada estudiante dibuje un rasgo que lo hace único.",
+              "produccion": "Escribir un 'Pacto de Respeto' donde se comprometan a no burlarse de nadie por su forma de hablar o vestir."
+            },
+            "para_pensar": [
+              "¿Por qué el salón sería aburrido si todos fuéramos exactamente iguales?",
+              "¿Qué puedes hacer si ves que alguien está excluyendo a un compañero por su religión o su color de piel?"
+            ],
+            "pistas_del_exito": [
+              "Describe al menos dos características que hacen diferente a un grupo humano de otro.",
+              "Propone una acción para que todos se sientan incluidos en los juegos."
+            ],
+            "un_refuerzo": "Video sobre las diferentes etnias que viven en Colombia y sus tradiciones."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Mi Lugar en el Mapa",
+            "un_reto_sugerido": "Ubicar en el mapa de su municipio el barrio, vereda o corregimiento donde vive.",
+            "ruta_de_exploracion": {
+              "explorar": "Aprender el nombre de su barrio o vereda y preguntar por qué se llama así (historia del nombre).",
+              "visual": "Colorear el croquis de su municipio identificando las zonas urbanas y las rurales.",
+              "produccion": "Crear una 'Guía Turística de mi Barrio' señalando el parque, la iglesia, la escuela y la tienda principal."
+            },
+            "para_pensar": [
+              "¿Qué cosas compartes con las personas que viven en tu mismo barrio o vereda?",
+              "¿Cómo ayudan los puntos cardinales a encontrar una dirección en el municipio?"
+            ],
+            "pistas_del_exito": [
+              "Identifica el croquis de su municipio entre otros mapas.",
+              "Ubica su localidad usando Norte, Sur, Oriente y Occidente."
+            ],
+            "un_refuerzo": "Juego de 'Simón Dice' con direcciones: 'Simón dice camina hacia el Norte del salón'."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "Escuadrón Anti-Burlas",
+            "un_reto_sugerido": "Diseñar una campaña de carteles para el colegio que diga 'No a la exclusión' y explique por qué todos somos valiosos.",
+            "ruta_de_exploracion": {
+              "explorar": "Escuchar historias de vida de personas que superaron dificultades y reflexionar sobre su valentía.",
+              "visual": "Dibujar una situación donde un niño se siente triste por ser excluido y otra donde está feliz porque lo invitaron a jugar.",
+              "produccion": "Realizar un 'Círculo de Elogios' donde cada niño le diga algo bonito al compañero de al lado."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando tus amigos te invitan a participar en sus juegos?",
+              "¿Qué podrías decirle a un amigo que se está burlando de otra persona para que deje de hacerlo?"
+            ],
+            "pistas_del_exito": [
+              "Identifica un comportamiento que excluye a alguien del grupo.",
+              "Muestra interés y respeto por las historias de vida de sus compañeros."
+            ],
+            "un_refuerzo": "Lectura del cuento 'El Patito Feo' adaptado para hablar de inclusión."
+          }
+        }
+      ]
+    },
+    {
+      "periodo_id": 4,
+      "guia_didactica": {},
+      "guias_por_componente": [
+        {
+          "componente": "Espacio y ambiente",
+          "guia_didactica": {
+            "la_estrategia": "Viajeros en el Tiempo",
+            "un_reto_sugerido": "Clasificar los medios de transporte de su comunidad en una tabla de 'Pasado' y 'Presente'.",
+            "ruta_de_exploracion": {
+              "explorar": "Preguntar a los padres cómo llegaban al colegio cuando eran niños: ¿a pie, a caballo, en bus antiguo?",
+              "visual": "Hacer dibujos de transportes terrestres, acuáticos y aéreos que se usan en su región.",
+              "produccion": "Inventar y dibujar un 'Transporte del Futuro' que use poco tiempo para llegar muy lejos y no contamine."
+            },
+            "para_pensar": [
+              "¿Por qué los medios de transporte de ahora son más rápidos que los de antes?",
+              "¿Cuál es el transporte más usado en tu vereda o barrio y por qué es el mejor para ese lugar?"
+            ],
+            "pistas_del_exito": [
+              "Clasifica correctamente los medios de transporte por su medio (aire, tierra, agua).",
+              "Identifica una ventaja y una desventaja del transporte que más utiliza."
+            ],
+            "un_refuerzo": "Armar un avión de papel o un barco de papel y jugar a carreras de transporte."
+          }
+        },
+        {
+          "componente": "Historia y cultura",
+          "guia_didactica": {
+            "la_estrategia": "Detectives de la Amistad",
+            "un_reto_sugerido": "Crear un 'Directorio de Ayuda' con los nombres de los adultos a los que puede acudir si ve algo injusto.",
+            "ruta_ de_exploracion": {
+              "explorar": "Hacer un juego de mímica sobre cómo se siente un niño que es incluido y uno que es excluido.",
+              "visual": "Dibujar una 'Ruta de Apoyo' que empiece en el estudiante y termine en el profesor o la familia.",
+              "produccion": "Escribir un 'Mensaje de Valor' para un compañero que haya pasado por un momento difícil de exclusión."
+            },
+            "para_pensar": [
+              "¿Cómo te sientes cuando logras ayudar a alguien que estaba siendo rechazado?",
+              "¿Quién es la persona en la que más confías en el colegio cuando tienes un problema?"
+            ],
+            "pistas_del_exito": [
+              "Identifica una acción discriminatoria en un cuento o situación real.",
+              "Sabe a quién pedir ayuda en el colegio ante una situación de abuso."
+            ],
+            "un_refuerzo": "Dramatizar qué hacer si alguien intenta excluirnos de una actividad escolar."
+          }
+        },
+        {
+          "componente": "Ético político",
+          "guia_didactica": {
+            "la_estrategia": "Mi Barrio tiene Nombre",
+            "un_reto_sugerido": "Investigar el nombre de tres lugares importantes de su municipio (ríos, cerros, plazas) y por qué se llaman así.",
+            "ruta_de_exploracion": {
+              "explorar": "Hacer una lista de los nombres de las calles o lugares que más le gustan de su municipio.",
+              "visual": "Dibujar el escudo de su municipio y explicar qué significan sus dibujos (colores, animales, plantas).",
+              "produccion": "Crear un mapa gigante del salón de clase comparándolo con cómo se organiza un municipio."
+            },
+            "para_pensar": [
+              "¿Por qué es importante que los lugares tengan nombres propios (topónimos)?",
+              "¿En qué se parece tu familia a la organización de tu municipio?"
+            ],
+            "pistas_del_exito": [
+              "Ubica al menos dos nombres geográficos (topónimos) de su localidad.",
+              "Diferencia entre un grupo pequeño como el aula y uno grande como el municipio."
+            ],
+            "un_refuerzo": "Sopa de letras con los nombres de los barrios o veredas de su municipio."
+          }
+        },
+        {
+          "componente": "Competencias Ciudadanas",
+          "guia_didactica": {
+            "la_estrategia": "El Corazón de la Empatía",
+            "un_reto_sugerido": "Realizar una 'Misión de Afecto' haciendo algo que ayude a que una persona triste se sienta mejor.",
+            "ruta_de_exploracion": {
+              "explorar": "Juego de 'Abrazos que Sí y Abrazos que No': Aprender a poner límites a expresiones que nos incomodan.",
+              "visual": "Dibujar una 'Caja de Herramientas del Cariño': Palabras bonitas, ayuda con las tareas, escuchar, etc.",
+              "produccion": "Representar en un dibujo una situación donde un niño protege su integridad y sabe decir 'no' ante un maltrato."
+            },
+            "para_pensar": [
+              "¿Cómo puedes diferenciar una caricia de cariño de una que te hace sentir incómodo?",
+              "¿A quién le contarías si alguien te hace sentir mal o te trata con violencia?"
+            ],
+            "pistas_del_exito": [
+              "Identifica una ruta de ayuda clara ante una situación de maltrato.",
+              "Realiza una acción concreta para ayudar a un compañero en malestar."
+            ],
+            "un_refuerzo": "Video educativo sobre el cuidado del cuerpo y la prevención del maltrato."
+          }
+        }
+      ]
+    }
+  ]
+}
