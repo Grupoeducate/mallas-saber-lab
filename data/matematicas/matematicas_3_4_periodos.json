@@ -164,6 +164,7 @@
           "DBA-MAT-3-5: Realiza estimaciones y mediciones de volumen, capacidad, longitud, área, peso de objetos o la duración de eventos como parte del proceso para resolver diferentes problemas."
         ],
         "evidencias": [
+          "MAT-3-D7-E1: Localiza objetos o personas a partir de la descripción o representación de una trayectoria y construye representaciones pictóricas para describir sus relaciones. ",
           "MAT-3-D7-E2: Identifica y describe patrones de movimientde figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras.",
           "MAT-3-D5-E1: Compara objetos según su longitud, área, capacidad, volumen, etc.",
           "MAT-3-D5-E2: Hace estimaciones de longitud, área, volumen, peso y tiempo según su necesidad en la situación."
@@ -232,7 +233,8 @@
           "DBA-MAT-3-5: Realiza estimaciones y mediciones de volumen, capacidad, longitud, área, peso de objetos o la duración de eventos como parte del proceso para resolver diferentes problemas."
         ],
         "evidencias": [
-          "MAT-3-D7-E2: Identifica y describe patrones de movimiento de figuras bidimensionales que se asocian con transformaciones como: reflexiones, traslaciones y rotaciones de figuras.",
+          "MAT-3-D7-E3: Identifica las propiedades de los objetos que se conservan y las que varían cuando se realizan este tipo de transformaciones.",
+          "MAT-3-D7-E4:  Plantea y resuelve situaciones en las que se requiere analizar las transformaciones de diferentes figuras en el plano.",
           "MAT-3-D5-E3: Hace estimaciones de volumen, área y longitud en presencia de los objetos y los instrumentos de medida y en ausencia de ellos. ",
           "MAT-3-D5-E4: Empaca objetos en cajas y recipientes variados y calcula la cantidad que podría caber, para ello tiene en cuenta la forma y volumen de los objetos  empacar y la capacidad del recipiente en el que se empaca."
         ],
