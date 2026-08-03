@@ -1,5 +1,4 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+  "area": "Ciencias Sociales",
   "grado": "4",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -9,7 +8,7 @@
         "componente": "Espacio y Ambiente",
         "estandar": "Utilizo coordenadas, escalas y convenciones para ubicar los fenómenos históricos y culturales en mapas y planos de representación.",
         "dba": [
-          "DBA-SOC-4-1 Diferencia las características geográficas del medio urbano y el medio rural, mediante el reconocimiento de la concentración de la población y el uso del suelo, que se da en ellos. Comprende la importancia de los límites geográficos y el establecimiento de las fronteras en la organización de los territorios."
+          "DBA-SOC-4-1 Diferencia las características geográficas del medio urbano y el medio rural, mediante el reconocimiento de la con centración de la población y el uso del suelo, que se da en ellos. Comprende la importancia de los límites geográficos y el establecimiento de las fronteras en la organización de los territorios."
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce los usos del suelo propios de las ciudades (comercial, industrial, habitacional, deportivo y educativo, entre otros) y los del campo (agrícola, ganadero, minero, forestal y turístico, entre otros) a partir de la lectura de mapas temáticos. Reconoce los límites geográficos de Colombia a partir de la lectura de un mapa político",
@@ -50,13 +49,13 @@
       },
       {
         "componente": "Ético – político",
-        "estandar": "Comparo características del sistema político administrativo de Colombia –ramas del poder público– en las diferentes épocas. Explico semejanzas y diferencias entre organizaciones político-administrativas.",
+        "estandar": "Comparo características del sistema político administrativo de Colombia –ramas del poder público– en las diferentes épocas. Explico semejanzas y diferencias entre organizaciones políti co-administrativas.",
         "dba": [
-          "DBA-SOC-4-3 Comprende la importancia de la división de poderes en una democracia y la forma como funciona en Colombia."
+          "DBA-SOC-4-3 Comprende la importancia de la división de poderes en una de mocracia y la forma como funciona en Colombia."
         ],
         "evidencias": [
-          "(Saber Conocer) Diferencia las ramas del poder público (Legislativa, Ejecutiva y Judicial), sus funciones e importancia en el equilibrio de poderes. Reconoce la importancia del voto popular como mecanismo de participación para ejercer la democracia en Colombia a partir del análisis de casos.",
-          "(Saber Hacer) Describe el papel de los órganos de control (procuraduría, contraloría y la defensoría del pueblo), para el funcionamiento de la democracia y el equilibrio de poderes.",
+          "(Saber Conocer) Diferencia las ramas del poder público (Legislativa, Ejecutiva y Judicial), sus funciones e importancia en el equilibrio de pode res. Reconoce la importancia del voto popular como mecanismo de participación para ejercer la democracia en Colombia a partir del análisis de casos.",
+          "(Saber Hacer) Describe el papel de los órganos de control (procuraduría, con traloría y la defensoría del pueblo), para el funcionamiento de la democracia y el equilibrio de poderes.",
           "(Saber Aplicar) Explica las responsabilidades de los cargos de elección popular (personeros estudiantiles, alcaldes, concejales, gobernadores, diputados, congresistas, presidente de la república)."
         ],
         "saberes": [
@@ -98,8 +97,8 @@
           "DBA-SOC-4-4 Evalúa la importancia de satisfacer las necesidades básicas para el bienestar individual, familiar y colectivo"
         ],
         "evidencias": [
-          "(Saber Conocer) Identifica las necesidades básicas de todo ser humano (vivienda, alimentación, salud, educación y empleo) y explica si se satisfacen en su comunidad.",
-          "(Saber Aplicar) Clasifica en orden de importancia las necesidades básicas que presentan los habitantes del territorio colombiano en la actualidad."
+          "(Saber Conocer) Identifica las necesidades básicas de todo ser humano (vivien da, alimentación, salud, educación y empleo) y explica si se sa tisfacen en su comunidad.",
+          "(Saber Aplicar) Clasifica en orden de importancia las necesidades básicas que presentan los habitantes del territorio colombiano en la actuali dad."
         ],
         "saberes": [
           "Las necesidades humanas",
@@ -113,13 +112,13 @@
       },
       {
         "componente": "Historia y Cultura",
-        "estandar": "Comparo características de las primeras organizaciones humanas con las de las organizaciones de mi entorno.",
+        "estandar": "Comparo características de las primeras organizaciones huma nas con las de las organizaciones de mi entorno.",
         "dba": [
-          "DBA-SOC-4-5 Comprende las razones de algunos cambios socioculturales en Colombia, motivados en los últimos años por el uso de la tecnología."
+          "DBA-SOC-4-5 Comprende las razones de algunos cambios socioculturales en Colombia, motivados en los últimos años por el uso de la tecno logía."
         ],
         "evidencias": [
           "(Saber Hacer) Explica cómo era la vida de los pueblos cuando no existía la energía eléctrica, el acueducto, el alcantarillado y el servicio de teléfono, entre otros.",
-          "(Saber Aplicar) Relaciona el acceso a las tecnologías de la salud como los hospitales, las vacunas, y los medicamentos, con el bienestar de las familias."
+          "(Saber Aplicar) Relaciona el acceso a las tecnologías de la salud como los hos pitales, las vacunas, y los medicamentos, con el bienestar de las familias."
         ],
         "saberes": [
           "Comparación entre las primeras organizaciones humanos y las organizaciones actuales",
@@ -132,13 +131,13 @@
       },
       {
         "componente": "Ético – político",
-        "estandar": "Asumo una posición crítica frente a situaciones de discriminación y abuso por irrespeto a los rasgos individuales de las personas (etnia, género…) y propongo formas de cambiarlas. (Tomado de desarrollo compromisos personales y sociales)",
+        "estandar": "Asumo una posición crítica frente a situaciones de discrimina ción y abuso por irrespeto a los rasgos individuales de las perso nas (etnia, género…) y propongo formas de cambiarlas. (Tomado de desarrollo compromisos personales y sociales)",
         "dba": [
-          "DBA-SOC-4-6 Analiza los derechos que protegen la niñez y los deberes que deben cumplirse en una sociedad democrática para el desarrollo de una sana convivencia"
+          "DBA-SOC-4-6 Analiza los derechos que protegen la niñez y los deberes que de ben cumplirse en una sociedad democrática para el desarrollo de una sana convivencia"
         ],
         "evidencias": [
           "(Saber Hacer) Describe los derechos de la niñez y asume una posición crítica frente a situaciones de discriminación y abuso por irrespeto a rasgos individuales de las personas.",
-          "(Saber Aplicar) Se identifica como un sujeto de derechos con unos deberes para con la comunidad educativa desde su participación en diferentes eventos escolares."
+          "(Saber Aplicar) Se identifica como un sujeto de derechos con unos deberes para con la comunidad educativa desde su participación en diferen tes eventos escolares."
         ],
         "saberes": [
           "Los derechos humanos y de la niñez.",
@@ -179,13 +178,13 @@
           "DBA-SOC-4-7 Evalúa la importancia de satisfacer las necesidades básicas para el bienestar individual, familiar y colectivo"
         ],
         "evidencias": [
-          "(Saber Conocer) Reconoce los factores económicos, sociales y políticos que influyen en la satisfacción de las necesidades básicas de las personas en la sociedad colombiana.",
-          "(Saber Aplicar) Expresa la responsabilidad que conlleva ser parte de una comunidad y sugiere posibles actuaciones en la búsqueda de la satisfacción de las necesidades básicas."
+          "(Saber Conocer) Reconoce los factores económicos, sociales y políticos que in fluyen en la satisfacción de las necesidades básicas de las per sonas en la sociedad colombiana.",
+          "(Saber Aplicar) Expresa la responsabilidad que conlleva ser parte de una co munidad y sugiere posibles actuaciones en la búsqueda de la satisfacción de las necesidades básicas."
         ],
         "saberes": [
           "Las regiones naturales del mundo.",
           "Factores económicos, sociales y políticos que influyen en la satisfacción de las necesidades básicas de las personas en la sociedad colombiana.",
-          "Propuesta de intervención escolar (En búsqueda de comunidades sin alimentación)"
+          "Propuesta de intervención escolar (En búsqueda de comunida des sin alimentación)"
         ],
         "socioemocional": null,
         "diccionario": null,
@@ -194,13 +193,13 @@
       },
       {
         "componente": "Historia y Cultura",
-        "estandar": "Identifico algunas condiciones políticas, sociales, económicas y tecnológicas que permitieron las exploraciones de la antigüedad y el medioevo.",
+        "estandar": "Identifico algunas condiciones políticas, sociales, económicas y tecnológicas que permitieron las exploraciones de la antigüe dad y el medioevo.",
         "dba": [
-          "DBA-SOC-4-8 Comprende las razones de algunos cambios socioculturales en Colombia, motivados en los últimos años por el uso de la tecnología"
+          "DBA-SOC-4-8 Comprende las razones de algunos cambios socioculturales en Colombia, motivados en los últimos años por el uso de la tecno logía"
         ],
         "evidencias": [
           "(Saber Hacer) Describe la importancia de los medios de comunicación en el desarrollo de la política y la cultura ciudadana del país.",
-          "(Saber Aplicar) Expresa sus opiniones sobre los cambios generados en las relaciones con su familia, desde el uso del teléfono, la TV y el Internet entre otras tecnologías y, deduce los efectos que han tenido en la vida de las personas."
+          "(Saber Aplicar) Expresa sus opiniones sobre los cambios generados en las rela ciones con su familia, desde el uso del teléfono, la TV y el Inter net entre otras tecnologías y, deduce los efectos que han tenido en la vida de las personas."
         ],
         "saberes": [
           "Condiciones políticas, sociales, económicas y tecnológicas que permitieron las exploraciones de la antigüedad y el medioevo.",
@@ -213,17 +212,17 @@
       },
       {
         "componente": "Ético – político",
-        "estandar": "Identifico y describo algunas características de las organizaciones político-administrativas colombianas en diferentes épocas (Real Audiencia, Congreso, Concejo Municipal…)",
+        "estandar": "Identifico y describo algunas características de las organizacio nes político-administrativas colombianas en diferentes épocas (Real Audiencia, Congreso, Concejo Municipal…)",
         "dba": [
-          "DBA-SOC-4-9 Analiza los derechos que protegen la niñez y los deberes que deben cumplirse en una sociedad democrática para el desarrollo de una sana convivencia"
+          "DBA-SOC-4-9 Analiza los derechos que protegen la niñez y los deberes que de ben cumplirse en una sociedad democrática para el desarrollo de una sana convivencia"
         ],
         "evidencias": [
-          "(Saber Conocer) Reconoce las personas, instituciones y autoridades a las que puede acudir para la protección defensa de los derechos de la niñez y explica cómo buscar apoyo de ser necesario, en la personería estudiantil, el comité de convivencia escolar, la comisaría de familia, el Instituto Colombiano de Bienestar Familiar (ICBF) y/o la Policía Nacional.",
-          "(Saber Hacer) Describe situaciones en las que se ven vulnerados los derechos de la niñez y propone posibles soluciones para resolverlas."
+          "(Saber Conocer) Reconoce las personas, instituciones y autoridades a las que puede acudir para la protección defensa de los derechos de la niñez y explica cómo buscar apoyo de ser necesario, en la per sonería estudiantil, el comité de convivencia escolar, la comi saría de familia, el Instituto Colombiano de Bienestar Familiar (ICBF) y/o la Policía Nacional.",
+          "(Saber Hacer) Describe situaciones en las que se ven vulnerados los derechos de la niñez y propone posibles soluciones para resolverlas.",
         ],
         "saberes": [
-          "Organizaciones político-administrativas colombianas en diferentes épocas: (Real Audiencia, Congreso, Concejo Municipal…)",
-          "Instituciones que protegen los derechos de los niños en Colombia."
+          "Organizaciones político-administrativas colombianas en dife rentes épocas: (Real Audiencia, Congreso, Concejo Municipal…)",
+          "Instituciones que protegen los derechos de los niños en Colom bia."
         ],
         "socioemocional": null,
         "diccionario": null,

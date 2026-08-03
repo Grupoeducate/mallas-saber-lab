@@ -1,16 +1,9 @@
-// FILE: js/data-loader.js | VERSION: v10.8 Stable
+// FILE: js/data-loader.js | VERSION: v10.5 Stable
 window.MallasData = {};
 
-/**
- * REGLA DE ORO: NORMALIZACIÓN UNIFICADA
- * Elimina acentos, espacios y convierte a minúsculas para vinculación exacta.
- */
 window.normalizarTexto = function(texto) {
     if (!texto) return "";
-    return texto.normalize("NFD")
-                .replace(/[\u0300-\u036f]/g, "")
-                .toLowerCase()
-                .trim();
+    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 };
 
 /**
@@ -28,15 +21,14 @@ async function asegurarDatosGrado(areaKey, grado) {
   const llaveArea = normalizarTexto(area.nombre);
   const llaveEco = normalizarTexto(config.AREAS["proyecto-socioemocional"].nombre);
 
-  // Verificación de integridad en memoria para evitar peticiones repetidas
+  // Verificamos si ya existe EXACTAMENTE esta combinación en memoria
   if (window.MallasData[llaveArea]?.[gradoStr]?.[tipo]) return true;
 
-  // CACHE-BUSTING: Forzamos al navegador a pedir la versión más reciente del servidor
-  const buster = new Date().getTime();
-  
-  const rutaBase = `data/${area.carpeta}/${area.prefijo}_${gradoStr}_${tipo}.json?v=${buster}`;
-  const rutaTareas = `data/${area.carpeta}/tareas_dce/t_${area.prefijo}_${gradoStr}_${tipo}.json?v=${buster}`;
-  const rutaEco = `data/${config.AREAS["proyecto-socioemocional"].carpeta}/${config.AREAS["proyecto-socioemocional"].prefijo}_${gradoStr}_${tipo}.json?v=${buster}`;
+  // Cache-Busting: Añadimos un timestamp para evitar que el navegador use archivos viejos
+  const t = new Date().getTime();
+  const rutaBase = `data/${area.carpeta}/${area.prefijo}_${gradoStr}_${tipo}.json?v=${t}`;
+  const rutaTareas = `data/${area.carpeta}/tareas_dce/t_${area.prefijo}_${gradoStr}_${tipo}.json?v=${t}`;
+  const rutaEco = `data/${config.AREAS["proyecto-socioemocional"].carpeta}/${config.AREAS["proyecto-socioemocional"].prefijo}_${gradoStr}_${tipo}.json?v=${t}`;
 
   try {
     // Carga paralela de la tríada de archivos
@@ -46,13 +38,12 @@ async function asegurarDatosGrado(areaKey, grado) {
       fetch(rutaEco).then(r => r.ok ? r.json() : null).catch(() => null)
     ]);
 
-    // Validación crítica: La Malla Académica es obligatoria
     if (!resBase) {
-      console.error(`Error Crítico: No se encontró la malla académica en ${rutaBase}`);
-      return false;
+        console.warn(`Archivo no encontrado o error: ${rutaBase}`);
+        return false;
     }
 
-    // 1. Almacenamiento Malla Académica
+    // Estructura de almacenamiento por Modalidad
     if (!window.MallasData[llaveArea]) window.MallasData[llaveArea] = {};
     if (!window.MallasData[llaveArea][gradoStr]) window.MallasData[llaveArea][gradoStr] = {};
     window.MallasData[llaveArea][gradoStr][tipo] = resBase;

@@ -1,5 +1,5 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+
+  "area": "Ciencias Sociales",
   "grado": "3",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -118,7 +118,7 @@
           "DBA-SOC-3-5 Comprende la importancia del tiempo en la organización de las actividades sociales, económicas y culturales en su comunidad."
         ],
         "evidencias": [
-          "(Saber Hacer) Describe el tiempo dedicado en su familia a actividades como trabajar, estudiar, viajar, jugar, practicar deporte y leer. Compara las actividades escolares, familiares y de uso del tiempo libre, llevadas a cabo el año pasado con las que realiza actualmente y expresa aquellas que quiere hacer el año próximo.",
+          "(Saber Hacer) Describe el tiempo dedicado en su familia a actividades como trabajar, estudiar, viajar, jugar, practicar deporte y leer.". Compara las actividades escolares, familiares y de uso del tiempo libre, llevadas a cabo el año pasado con las que realiza actualmente y expresa aquellas que quiere hacer el año próximo.",
           "(Saber Aplicar) Organiza las actividades personales y familiares con base en el uso del calendario. Elabora esquemas con la distribución del tiempo dedicado en procesos de producción y/o extracción de un producto típico en su región."
         ],
         "saberes": [
@@ -139,7 +139,7 @@
         ],
         "evidencias": [
           "(Saber Hacer) Diferencia los órganos y las funciones del poder público que tiene el departamento (gobernador, diputados y jueces) de los que tiene el municipio y los resguardos.",
-          "(Saber Aplicar) Explica la importancia del gobierno departamental en el mejoramiento de las condiciones de vida de los ciudadanos, en cuanto a educación, obras públicas, salud y recreación."
+          "(Saber Aplicar) Explica la importancia del gobierno departamental en el mejoramiento de las condiciones de vida de los ciudadanos, en cuanto a educación, obras públicas, salud y recreación.",
         ],
         "saberes": [
           "Estructura del Estado colombiano",
@@ -201,7 +201,7 @@
           "DBA-SOC-3-8 Analiza las contribuciones de los grupos humanos que habitan en su departamento, municipio o lugar donde vive, a partir de sus características culturales: lengua, organización social, tipo de vivienda, cosmovisión y uso del suelo."
         ],
         "evidencias": [
-          "(Saber Hacer) Caracteriza aquellos grupos humanos que habitan en su región (afrodescendientes, raizales, blancos, indígenas, gitanos y/o mestizos). Describe las expresiones culturales de cada uno de los grupos humanos identificados en su departamento, municipio, resguardo o lugar donde vive."
+          "(Saber Hacer) Caracteriza aquellos grupos humanos que habitan en su región (afrodescendientes, raizales, blancos, indígenas, gitanos y/o mestizos).". Describe las expresiones culturales de cada uno de los grupos humanos identificados en su departamento, municipio, resguardo o lugar donde vive.",
         ],
         "saberes": [
           "Grupos étnicos de mi región",

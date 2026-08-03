@@ -1,5 +1,4 @@
-{
-"area": "Ciencias Sociales y Competencias Ciudadanas",
+  "area": "Ciencias Sociales",
   "grado": "10",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -34,7 +33,7 @@
           "DBA-SOC-10-2 Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural."
         ],
         "evidencias": [
-          "(Saber Hacer) Establece semejanzas y diferencia entre los conflictos asociados a la convivencia social, a escala regional y nacional. Compara los diferentes tipos de violencia (directa, estructural y cultural) que generan los actores armados y sus repercusiones en la vida nacional."
+          "(Saber Hacer) Establece semejanzas y diferencia entre los conflictos asociados a la convivencia social, a escala regional y nacional. Compara los diferentes tipos de violencia (directa, estructural y cultural) que generan los actores armados y sus repercusiones en la vida nacional.",
         ],
         "saberes": [
           "Bipartidismo en Colombia.",
@@ -194,7 +193,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Identifica y usa conceptos sociales básicos (económicos, políticos, culturales y geográficos). Identifica diferentes modelos de desarrollo económico utilizados en Colombia y algunos países del mundo.",
-          "(Saber Hacer) Diferencia conceptos como capitalismo, socialismo, neoliberalismo, liberalismo económico, marxismo, leninismo. Comprende el impacto de los modelos de desarrollo económico en la actualidad."
+          "(Saber Hacer) Diferencia conceptos como capitalismo, socialismo, neoliberalismo, liberalismo económico, marxismo, leninismo. Comprende el impacto de los modelos de desarrollo económico en la actualidad.",
         ],
         "saberes": [
           "Economía, microeconomía y macroeconomía.",
@@ -216,7 +215,7 @@
           "DBA-SOC-10-10 Analiza los conflictos bélicos presentes en las sociedades contemporáneas, sus causas y consecuencias, así como su incidencia en la vida cotidiana de los pueblos."
         ],
         "evidencias": [
-          "(Saber Hacer) Explica y representa las transformaciones geopolíticas que se dieron en el mundo después de las guerras mundiales desde la interpretación de mapas temáticos. Argumenta acerca de las causas directas e indirectas que determinaron el inicio de los conflictos bélicos mundiales."
+          "(Saber Hacer) Explica y representa las transformaciones geopolíticas que se dieron en el mundo después de las guerras mundiales desde la interpretación de mapas temáticos. Argumenta acerca de las causas directas e indirectas que determinaron el inicio de los conflictos bélicos mundiales.",
         ],
         "saberes": [
           "Periodo entre guerras (Avances militares, tecnológicos y científicos) durante la II guerra mundial.",
@@ -276,6 +275,4 @@
       }
     ]
   }
-
 }
-

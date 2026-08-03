@@ -1,4 +1,4 @@
-// FILE: js/render-progresion.js | VERSION: v10.8 Stable
+// FILE: js/render-progresion.js | VERSION: v10.4 Stable
 window.ProgresionMotor = (function() {
   // Estado interno sincronizado con la configuración global
   let est = { areaId: '', areaNombre: '', gradoCentral: 0, componente: '', tipo: '4_periodos' };
@@ -16,12 +16,9 @@ window.ProgresionMotor = (function() {
     const config = window.APP_CONFIG.AREAS;
     // Vinculación dinámica de IDs
     est.areaId = Object.keys(config).find(k => config[k].nombre === nom);
-    est.areaNombre = nom; 
-    est.gradoCentral = parseInt(gr); 
-    est.componente = comp; // Captura si es "todos" o un nombre específico
-    est.tipo = window.APP_CONFIG.TIPO_MALLA; // Sincronización Bimodal
-
-    if (ov) ov.classList.add('mostrar-flex');
+    est.areaNombre = nom; est.gradoCentral = parseInt(gr); est.componente = comp; 
+    est.tipo = window.APP_CONFIG.TIPO_MALLA;
+    ov.classList.add('mostrar-flex');
     renderizar();
   }
 
@@ -37,12 +34,8 @@ window.ProgresionMotor = (function() {
     dibujar(cPr, (g - 1 < -1) ? null : String(g - 1));
     dibujar(cAc, String(g));
     dibujar(cNx, (g + 1 > 11) ? null : String(g + 1));
-    
-    // Navegación interna del modal
-    const btnP = document.getElementById('prog-prev');
-    const btnN = document.getElementById('prog-next');
-    if (btnP) btnP.disabled = (g <= -1);
-    if (btnN) btnN.disabled = (g >= 11);
+    document.getElementById('prog-prev').disabled = (g <= -1);
+    document.getElementById('prog-next').disabled = (g >= 11);
   }
 
   /**
@@ -52,32 +45,44 @@ window.ProgresionMotor = (function() {
     if (!cont) return;
     const h = cont.previousElementSibling;
     cont.innerHTML = '';
-
-    if (grStr === null) {
-      if (h) h.textContent = "---";
-      cont.innerHTML = '<p style="text-align:center;color:#999;padding-top:20px;">Fin de secuencia curricular.</p>';
-      return;
-    }
-
+    if (grStr === null) { if (h) h.textContent = "---"; cont.innerHTML = '<p style="text-align:center;color:#999;padding-top:20px;">Fin de secuencia.</p>'; return; }
+    
     if (h) h.textContent = (grStr === "0" ? "Transición (0)" : (grStr === "-1" ? "Jardín (-1)" : `Grado ${grStr}°`));
     
-    // Lógica Híbrida v10.8: Preescolar usa DBA, resto usa Estándares
+    // DETECCIÓN HÍBRIDA (v10.4)
     const esPreescolar = (grStr === "0" || grStr === "-1");
-    const datos = obtenerDatosCruce(grStr, esPreescolar);
+    const datos = obtener(grStr, esPreescolar);
 
-    if (datos.length === 0) {
-      cont.innerHTML = '<p style="text-align:center;padding:20px;color:#888;">Sin registros para esta selección.</p>';
-    } else {
-      datos.forEach(texto => {
-        const d = document.createElement('div');
+    if (datos.length === 0) { 
+      cont.innerHTML = '<p style="text-align:center;padding:20px;color:#888;">Sin datos disponibles.</p>'; 
+    } else { 
+      datos.forEach(t => { 
+        const d = document.createElement('div'); 
         d.className = 'prog-estandar-item';
         
-        // Formateo de Badges para Progresión
-        const parts = texto.split(':');
-        if (parts.length > 1 && parts[0].trim().length < 30) {
-           d.innerHTML = `<span class="badge-id">${parts[0].trim()}</span><div style="margin-top:8px;">${parts.slice(1).join(':').trim()}</div>`;
+        // Aplicación de Badges en Progresión
+        const parts = t.split(':');
+        if (parts.length > 1 && (parts[0].toLowerCase().includes('dba') || parts[0].trim().length < 20)) {
+           d.innerHTML = `<span class="badge-id">${parts[0].trim()}</span><div style="margin-top:5px;">${parts.slice(1).join(':').trim()}</div>`;
         } else {
-           d.innerHTML = texto;
+           d.innerHTML = t;
+        }
+        cont.appendChild(d); 
+      }); 
+    }
+  }
+
+  function obtener(grStr, esPre) {
+    const malla = window.MallasData[normalizarTexto(est.areaNombre)]?.[grStr]?.[est.tipo];
+    if (!malla || !malla.periodos) return [];
+    let ac = [];
+    Object.keys(malla.periodos).forEach(p => {
+      malla.periodos[p].forEach(it => {
+        const coincide = normalizarTexto(it.componente || it.competencia) === normalizarTexto(est.componente);
+        // Puente Pedagógico: En grado 1, permitir ver estándares aunque vengamos de DBA
+        if (coincide || (est.gradoCentral <= 0 && grStr === "1")) {
+          const c = esPre ? it.dba : it.estandar;
+          if (c) { if (Array.isArray(c)) ac.push(...c); else ac.push(c); }
         }
         cont.appendChild(d);
       });
@@ -126,32 +131,21 @@ window.ProgresionMotor = (function() {
   const bCerrar = document.getElementById('btn-cerrar-progresion');
   if (bCerrar) bCerrar.onclick = () => ov.classList.remove('mostrar-flex');
   
-  const bPrev = document.getElementById('prog-prev');
-  if (bPrev) {
-    bPrev.onclick = async () => { 
-      if (est.gradoCentral > -1) {
-        est.gradoCentral--; 
-        window.RenderEngine.setCargando(true);
-        // Carga dinámica bimodal de grados adyacentes
-        await asegurarDatosGrado(est.areaId, est.gradoCentral - 1); 
-        renderizar();
-        window.RenderEngine.setCargando(false);
-      }
-    };
-  }
+  document.getElementById('prog-prev').onclick = async () => { 
+    if (est.gradoCentral > -1) {
+      est.gradoCentral--; window.RenderEngine.setCargando(true); 
+      await asegurarDatosGrado(est.areaId, est.gradoCentral - 1); 
+      renderizar(); window.RenderEngine.setCargando(false); 
+    }
+  };
   
-  const bNext = document.getElementById('prog-next');
-  if (bNext) {
-    bNext.onclick = async () => { 
-      if (est.gradoCentral < 11) {
-        est.gradoCentral++; 
-        window.RenderEngine.setCargando(true);
-        await asegurarDatosGrado(est.areaId, est.gradoCentral + 1); 
-        renderizar();
-        window.RenderEngine.setCargando(false);
-      }
-    };
-  }
+  document.getElementById('prog-next').onclick = async () => { 
+    if (est.gradoCentral < 11) {
+      est.gradoCentral++; window.RenderEngine.setCargando(true); 
+      await asegurarDatosGrado(est.areaId, est.gradoCentral + 1); 
+      renderizar(); window.RenderEngine.setCargando(false); 
+    }
+  };
 
   return { abrir };
 })();

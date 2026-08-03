@@ -1,4 +1,4 @@
-// FILE: js/ui-filtros.js | VERSION: v10.8.2 Stable
+// FILE: js/ui-filtros.js | VERSION: v10.5 Stable
 document.addEventListener('DOMContentLoaded', () => {
   const areaSel = document.getElementById('area');
   const gradoSel = document.getElementById('grado');
@@ -8,31 +8,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const btnProg = document.getElementById('btn-progresion');
   const btnTop = document.getElementById('btn-top');
   const radiosPeriodos = document.querySelectorAll('input[name="periodos"]');
-  
-  const modal = document.getElementById('modal-notificacion');
-  const modalMsg = document.getElementById('modal-mensaje');
-  const btnCerrarModal = document.getElementById('btn-cerrar-modal');
 
-  // SEGURIDAD NACIONAL
+  // SEGURIDAD ANTI-COPIA
   document.addEventListener('contextmenu', e => e.preventDefault());
   document.addEventListener('keydown', e => {
-    if (e.ctrlKey && ['c','u','i','s','p'].includes(e.key.toLowerCase())) {
+    if (e.ctrlKey && ['c','u','i','s'].includes(e.key)) {
       e.preventDefault();
-      mostrarError("Acceso Protegido - El contenido de esta malla no puede ser copiado.");
+      alert("Contenido Protegido - Plataforma ECO");
     }
   });
 
-  function mostrarError(mensaje) {
-    if (modalMsg) modalMsg.textContent = mensaje;
-    if (modal) modal.classList.add('mostrar-flex');
-    window.RenderEngine.setCargando(false);
-  }
-
-  if (btnCerrarModal) btnCerrarModal.onclick = () => modal.classList.remove('mostrar-flex');
-
-  /**
-   * LIMPIEZA DE INTERFAZ Y RESULTADOS
-   */
   function resetResultados() {
     const contMalla = document.getElementById('contenedor-malla');
     const resPrincipal = document.getElementById('resultados-principal');
@@ -43,12 +28,14 @@ document.addEventListener('DOMContentLoaded', () => {
     btnProg.disabled = true;
   }
 
-  // --- ESCUCHADOR DE MODALIDAD (3P / 4P) ---
+  // LÓGICA DE CONMUTACIÓN DE MODALIDAD (3P / 4P)
   radiosPeriodos.forEach(radio => {
     radio.addEventListener('change', (e) => {
-      window.APP_CONFIG.TIPO_MALLA = window.APP_CONFIG.MODALIDADES_TIEMPO[e.target.value];
+      const seleccion = e.target.value;
+      window.APP_CONFIG.TIPO_MALLA = window.APP_CONFIG.MODALIDADES_TIEMPO[seleccion];
+      
+      // Limpieza profunda al cambiar de modalidad
       resetResultados();
-      // Reset total en cascada
       areaSel.value = "";
       gradoSel.innerHTML = '<option value="">Seleccionar</option>';
       gradoSel.disabled = true;
@@ -56,19 +43,17 @@ document.addEventListener('DOMContentLoaded', () => {
       periodoSel.disabled = true;
       compSel.innerHTML = '<option value="todos">Todos</option>';
       compSel.disabled = true;
+      
+      console.log(`Sistema conmutado a: ${window.APP_CONFIG.TIPO_MALLA}`);
     });
   });
 
-  // --- ESCUCHADOR DE ÁREA ---
   areaSel.addEventListener('change', () => {
     resetResultados();
     // Reset Grado, Periodo y Componente
     gradoSel.innerHTML = '<option value="">Seleccionar</option>';
     periodoSel.innerHTML = '<option value="">Seleccionar</option>';
     periodoSel.disabled = true;
-    compSel.innerHTML = '<option value="todos">Todos</option>';
-    compSel.disabled = true;
-
     if (areaSel.value) {
       window.APP_CONFIG.GRADOS.forEach(g => {
         const opt = document.createElement('option'); opt.value = g;
@@ -79,14 +64,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // --- ESCUCHADOR DE GRADO (MEJORA v10.8.2) ---
   gradoSel.addEventListener('change', () => {
     resetResultados();
     // REINICIO OBLIGATORIO DE PERIODO Y COMPONENTE
     periodoSel.innerHTML = '<option value="">Seleccionar</option>';
-    compSel.innerHTML = '<option value="todos">Todos</option>';
-    compSel.disabled = true;
-
     if (gradoSel.value) {
       const maxP = window.APP_CONFIG.TIPO_MALLA === "3_periodos" ? 3 : 4;
       for (let i = 1; i <= maxP; i++) {
@@ -97,7 +78,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // --- ESCUCHADOR DE PERIODO ---
   periodoSel.addEventListener('change', async () => {
     resetResultados();
     // REINICIO OBLIGATORIO DE COMPONENTE
@@ -115,6 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       if (dataGrado?.periodos?.[periodoSel.value]) {
         const items = dataGrado.periodos[periodoSel.value];
+        compSel.innerHTML = '<option value="todos">Todos</option>';
         const componentesUnicos = [...new Set(items.map(it => it.componente || it.competencia))];
         componentesUnicos.forEach(n => {
           if (n) {
@@ -130,10 +111,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   btnBuscar.addEventListener('click', () => {
-    if (!areaSel.value || !gradoSel.value || !periodoSel.value) {
-      mostrarError("Faltan criterios: Seleccione Área, Grado y Periodo.");
-      return;
-    }
     const config = window.APP_CONFIG.AREAS[areaSel.value];
     const malla = window.MallasData[normalizarTexto(config.nombre)]?.[gradoSel.value]?.[window.APP_CONFIG.TIPO_MALLA];
     if (!malla) return;
@@ -150,14 +127,10 @@ document.addEventListener('DOMContentLoaded', () => {
     try {
       await Promise.all(grados.map(gr => asegurarDatosGrado(areaSel.value, gr)));
       window.ProgresionMotor.abrir(window.APP_CONFIG.AREAS[areaSel.value].nombre, gradoSel.value, compSel.value);
-    } catch { 
-      mostrarError("Error al cargar la secuencia de progresión.");
-    }
+    } catch { }
     window.RenderEngine.setCargando(false);
   });
 
-  window.onscroll = () => { 
-    if (btnTop) btnTop.style.display = (window.scrollY > 400) ? 'block' : 'none'; 
-  };
+  window.onscroll = () => { if (btnTop) btnTop.style.display = (window.scrollY > 400) ? 'block' : 'none'; };
   if (btnTop) btnTop.onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
 });

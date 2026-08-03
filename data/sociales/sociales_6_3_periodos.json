@@ -1,5 +1,5 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+
+  "area": "Ciencias Sociales",
   "grado": "6",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -197,8 +197,8 @@
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce la organización económica de diferentes grupos étnicos en Colombia.",
-          "(Saber Hacer) Comparo la organización económica de diferentes países y culturas. Describe características de las regiones naturales de Colombia. Describo características de la organización económicas de Colombia"
-],
+          "(Saber Hacer) Comparo la organización económica de diferentes países y culturas. Describe características de las regiones naturales de Colombia. Describo características de la organización económicas de Colombia",
+        ],
         "saberes": [
           "Economía",
           "La organización económica.",
@@ -277,6 +277,4 @@
       }
     ]
   }
-
 }
-

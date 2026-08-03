@@ -1,5 +1,5 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+
+  "area": "Ciencias Sociales",
   "grado": "3",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -35,7 +35,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce las procedencias y los recorridos de los integrantes de su núcleo familiar antes de llegar al municipio donde viven actualmente, a través de relatos.",
-          "(Saber Hacer) Describe las características de la conformación de su familia antes de su nacimiento."
+          "(Saber Hacer) Describe las características de la conformación de su familia antes de su nacimiento.",
         ],
         "saberes": [
           "Mi familia, mi origen.",
@@ -55,7 +55,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Identifica los trabajos u oficios que las personas de su comunidad realizan para obtener su sustento y el de la familia.",
-          "(Saber Hacer) Describe las actividades económicas que realizan los adultos en su hogar y los beneficios que éstas traen para todos los integrantes de la familia."
+          "(Saber Hacer) Describe las actividades económicas que realizan los adultos en su hogar y los beneficios que éstas traen para todos los integrantes de la familia.",
         ],
         "saberes": [
           "Formas de organización social.",
@@ -138,7 +138,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce experiencias donde algunos niños son explotados laboralmente y expresa razones para rechazar estas situaciones.",
-          "(Saber Hacer) Compara los oficios que los abuelos realizaban anteriormente respecto de cómo se realizan hoy y diferencia los trabajos característicos de las zonas urbanas y rurales."
+          "(Saber Hacer) Compara los oficios que los abuelos realizaban anteriormente respecto de cómo se realizan hoy y diferencia los trabajos característicos de las zonas urbanas y rurales.",
         ],
         "saberes": [
           "Trabajos de antes y trabajos actuales.",
@@ -180,7 +180,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Diferencia los cambios vividos en los medios de transporte en su entorno cercano, a partir de relatos de su familia.",
-          "(Saber Hacer) Representa gráficamente la movilidad en su comunidad e identifica sus ventajas y desventajas."
+          "(Saber Hacer) Representa gráficamente la movilidad en su comunidad e identifica sus ventajas y desventajas.",
         ],
         "saberes": [
           "Los medios de transporte pasado y presente",
@@ -199,7 +199,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Identifica las acciones que generan discriminación en su entorno y sabe a quién acudir para pedir ayuda y protección.",
-          "(Saber Hacer) Describe diversas características de los grupos humanos (etnia, edad, religión, género) y explica aquello que más le gusta de sus compañeros y lo que pudiera cambiarse para mejorar la convivencia en el grupo."
+          "(Saber Hacer) Describe diversas características de los grupos humanos (etnia, edad, religión, género) y explica aquello que más le gusta de sus compañeros y lo que pudiera cambiarse para mejorar la convivencia en el grupo.",
         ],
         "saberes": [
           "Características de los grupos humanos",

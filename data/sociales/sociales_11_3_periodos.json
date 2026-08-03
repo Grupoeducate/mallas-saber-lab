@@ -1,5 +1,5 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+
+  "area": "Ciencias Sociales",
   "grado": "11",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -65,7 +65,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce acciones y propuestas que ha creado la Organización de Naciones Unidas -ONU- (Protocolos ambientales y Cumbres de la Tierra), para evitar los efectos del calentamiento global en el mundo.",
-          "(Saber Hacer) Describe las razones económicas y políticas que sustentan aquellos países que más influyen en el problema del calentamiento global para no cambiar sus prácticas. Explica las acciones que se sugieren desde las instituciones y organizaciones ambientales en Colombia para disminuir los efectos del calentamiento global."
+          "(Saber Hacer) Describe las razones económicas y políticas que sustentan aquellos países que más influyen en el problema del calentamiento global para no cambiar sus prácticas.". Explica las acciones que se sugieren desde las instituciones y organizaciones ambientales en Colombia para disminuir los efectos del calentamiento global."
         ],
         "saberes": [
           "Medio ambiente",
@@ -130,7 +130,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Reconoce las características fundamentales de los dos bloques hegemónicos (Capitalista- Comunista), como sistemas políticos y económicos que se consolidaron en el marco de la Guerra Fría.",
-          "(Saber Hacer) Explica las implicaciones que trajo a la vida cotidiana de los pueblos el que sus países hicieran parte de uno u otro bloque."
+          "(Saber Hacer) Explica las implicaciones que trajo a la vida cotidiana de los pueblos el que sus países hicieran parte de uno u otro bloque.",
         ],
         "saberes": [
           "El orden mundial del siglo XX.",

@@ -1,5 +1,5 @@
-{
-  "area": "Ciencias Sociales y Competencias Ciudadanas",
+
+  "area": "Ciencias Sociales",
   "grado": "7",
   "tipo_malla": "3_periodos",
   "numero_periodos": 3,
@@ -238,7 +238,7 @@
         ],
         "evidencias": [
           "(Saber Conocer) Identifica las consecuencias de los conflictos en la vida cotidiana de las personas y plantea acciones para resolverlos de manera negociada. Reconoce los distintos puntos de vista de personas o grupos en una situación de conflicto, para plantear posibles alternativas de solución.",
-          "(Saber Hacer) Compara diferentes estrategias para la solución de conflictos, como la negociación, el arbitraje, la conciliación, la mediación escolar y el diálogo, para la construcción de escenarios de paz y el fortalecimiento de la dignidad de las personas. Explica situaciones donde el conflicto se ha convertido en una oportunidad para aprender y fortalecer las relaciones interpersonales y sociales."
+          "(Saber Hacer) Compara diferentes estrategias para la solución de conflictos, como la negociación, el arbitraje, la conciliación, la mediación escolar y el diálogo, para la construcción de escenarios de paz y el fortalecimiento de la dignidad de las personas.". Explica situaciones donde el conflicto se ha convertido en una oportunidad para aprender y fortalecer las relaciones interpersonales y sociales."
         ],
         "saberes": [
           "Alternativas y soluciones pacíficas a la resolución de conflictos.",

@@ -72,69 +72,130 @@
         "fuente": null
       }
     ],
-    "2": [
-      {
-        "componente": "Numérico Variacional",
-        "estandar": "Resuelvo y formulo problemas cuya estrategia de solución requiera de las relaciones y propiedades de los números naturales y sus operaciones. Uso diversas estrategias de cálculo y de estimación para resolver problemas en situaciones aditivas y multiplicativas. Analizo y explico relaciones de dependencia entre cantidades que varían en el tiempo con cierta regularidad en situaciones económicas, sociales y de las ciencias naturales.",
-        "dba": [
-          "DBA-MAT-5-1: Interpreta y utiliza los números naturales y racionales en su representación fraccionaria para formular y resolver problemas aditivos, multiplicativos y que involucren operaciones de potenciación.",
-          "DBA-MAT-5-8: Describe e interpreta variaciones de dependencia entre cantidades y las representa por medio de gráficas."
-        ],
-        "evidencias": [
-          "MAT-5-D1-E3: Determina las operaciones suficientes y necesarias para solucionar diferentes tipos de problemas.",
-          "MAT-5-D1-E4: Resuelve problemas que requieran reconocer un patrón de medida asociado a un número natural o a un racional fraccionario.",
-          "MAT-5-D8-E3: Trabaja sobre números desconocidos para dar respuestas a los problemas."
-        ],
-        "saberes": [
-          "Empleo asertivo de operaciones para resolver problemas.",
-          "Resolución de problemas mediante el hallazgo de incógnitas."
-        ],
-        "socioemocional": null,
-        "diccionario": null,
-        "tareas_dce": null,
-        "fuente": null
-      },
-      {
-        "componente": "Espacial Métrico",
-        "estandar": "Conjeturo y verifico los resultados de aplicar transformaciones a figuras en el plano para construir diseños. Justifico relaciones de dependencia del área y volumen, respecto a las dimensiones de figuras y sólidos.",
-        "dba": [
-          "DBA-MAT-5-4: Justifica relaciones entre superficie y volumen, respecto a dimensiones de figuras y sólidos, y elige las unidades apropiadas según el tipo de medición directa e indirecta, los instrumentos y los procedimientos.",
-          "DBA-MAT-5-6: Identifica y describe propiedades que caracterizan un cuerpo en términos de la bidimensionalidad y la tridimensionalidad y resuelve problemas en relación con la composición y descomposición de las formas."
-        ],
-        "evidencias": [
-          "MAT-5-D6-E3: Determina las mediciones reales de una figura a partir de un registro gráfico (un plano).",
-          "MAT-5-D6-E4: Construye y descompone figuras planas y sólidos a partir de medidas establecidas.",
-          "MAT-5-D6-E5: Utiliza transformaciones a figuras en el plano para describirlas y calcular sus medidas.",
-          "MAT-5-D4-E3: Construye y descompone figuras planas y sólidos a partir de medidas establecidas.",
-          "MAT-5-D4-E4: Realiza estimaciones y mediciones con unidades apropiadas según sea longitud, área o volumen."
-        ],
-        "saberes": [
-          "Emplea transformaciones de figuras para determinar sus medidas reales.",
-          "Construcción de figuras planas y sólidos."
-        ],
-        "socioemocional": null,
-        "diccionario": null,
-        "tareas_dce": null,
-        "fuente": null
-      },
-      {
-        "componente": "Aleatorio",
-        "estandar": "Uso e interpreto la media o promedio y la mediana y comparo lo que indican.",
-        "dba": [
-          "DBA-MAT-5-11: Utiliza la media y la mediana para resolver problemas en los que se requiere presentar o resumir el comportamiento de un conjunto de datos."
-        ],
-        "evidencias": [
-          "MAT-5-D11-E1: Interpreta y encuentra la media y la mediana en un conjunto de datos usando estrategias gráficas y numéricas.",
-          "MAT-5-D11-E2: Explica la información que brinda cada medida en relación con el conjunto de datos."
-        ],
-        "saberes": [
-          "Media y mediana."
-        ],
-        "socioemocional": null,
-        "diccionario": null,
-        "tareas_dce": null,
-        "fuente": null
-      }
+   "3": [
+  {
+    "componente": "Numérico Variacional",
+    "estandar": "Resuelvo y formulo problemas en situaciones de proporcionalidad directa, inversa y producto de medidas. Identifico la potenciación y la radicación en contextos matemáticos y no matemáticos. Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos. Describe y desarrolla estrategias algoritmos, propiedades de las operaciones básicas y sus relaciones para hacer estimaciones y cálculos al solucionar problemas de potenciación.",
+    "dba": [
+      "DBA-MAT-5-2: Describe y desarrolla estrategias algoritmos, propiedades de las operaciones básicas y sus relaciones para hacer estimaciones y cálculos al solucionar problemas de potenciación.",
+      "DBA-MAT-5-9: Utiliza operaciones no convencionales, encuentra propiedades y resuelve ecuaciones en donde están involucradas."
+    ],
+    "evidencias": [
+      "MAT-5-D2-E2: Descompone un número en sus factores primos.",
+      "MAT-5-D2-E3: Identifica y utiliza las propiedades de la potenciación para resolver problemas aritmétricos.",
+      "MAT-5-D2-E4: Determina y argumenta acerca de la validez o no de estrategias para calcular potencias.",
+      "MAT-5-D9-E1: Interpreta y opera con operaciones no convencionales.",
+      "MAT-5-D9-E2: Explora y busca propiedades de tales operaciones."
+    ],
+    "saberes": [
+      "Saberes Propiedades de los números naturales y fraccionarios.",
+      "Saberes Operaciones no convencionales."
+    ],
+    "socioemocional": null,
+    "diccionario": null,
+    "tareas_dce": null,
+    "fuente": null
+  },
+  {
+    "componente": "Espacial Métrico",
+    "estandar": "Utilizo sistemas de coordenadas para especificar localizaciones y describir relaciones espaciales. Describo y argumento relaciones entre el perímetro y el área de figuras diferentes, cuando se fija una de estas medidas. Justifico relaciones de dependencia del área y volumen, respecto a las dimensiones de figuras y sólidos.",
+    "dba": [
+      "DBA-MAT-5-5: Explica las relaciones entre el perímetro y el área de diferentes figuras variaciones en el perímetro no implican variaciones en el área y viceversa a partir de mediciones, superposición de figuras, cálculo, entre otras.",
+      "DBA-MAT-5-7: Resuelve y propone situaciones en las que es necesario describir y localizar la posición y la trayectoria de un objeto con referencia al plano cartesiano."
+    ],
+    "evidencias": [
+      "MAT-5-D7-E2: Interpreta los elementos de un sistema de referencia ejes, cuadrantes, coordenadas.",
+      "MAT-5-D7-E3: Grafica en el plano cartesiano la posición de un objeto usando direcciones cardinales (norte, sur, oriente y occidente).",
+      "MAT-5-D5-E1: Compara diferentes figuras a partir de las medidas de sus lados.",
+      "MAT-5-D5-E2: Calcula las medidas de los lados de una figura a partir de su área.",
+      "MAT-5-D5-E3: Dibuja figuras planas cuando se dan las medidas de los lados."
+    ],
+    "saberes": [
+      "Saberes Coordenadas cartesianas.",
+      "Saberes Diseño de figuras planas. Comparación de diferentes figuras geométricas con base a sus lados."
+    ],
+    "socioemocional": null,
+    "diccionario": null,
+    "tareas_dce": null,
+    "fuente": null
+  },
+  {
+    "componente": "Aleatorio",
+    "estandar": "Describo la manera como parecen distribuirse los distintos datos de un conjunto de ellos y la comparo con la manera como se distribuyen en otros conjuntos de datos. Utiliza las medidas de tendencia central para resolver problemas en los que se requiere presentar o resumir el comportamiento de un conjunto de datos.",
+    "dba": [
+      "DBA-MAT-5-11: Utiliza la media y la mediana para resolver problemas en los que se requiere presentar o resumir el comportamiento de un conjunto de datos."
+    ],
+    "evidencias": [
+      "MAT-5-D11-E3: Selecciona una de las medidas como la más representativa del comportamiento del conjunto de datos estudiado.",
+      "MAT-5-D11-E4: Argumenta la selección realizada empleando semejanzas y diferencias entre lo que cada una de las medidas indica."
+    ],
+    "saberes": [
+      "Saberes Selección adecuada de medidas."
+    ],
+    "socioemocional": null,
+    "diccionario": null,
+    "tareas_dce": null,
+    "fuente": null
+  }
+],
+"4": [
+  {
+    "componente": "Numérico Variacional",
+    "estandar": "Identifico y uso medidas relativas en distintos contextos. Modelo situaciones de dependencia mediante la proporcionalidad directa e inversa. Identifico, en el contexto de una situación, la necesidad de un cálculo exacto o aproximado y lo razonable de los resultados obtenidos. Justifico regularidades y propiedades de los números, sus relaciones y operaciones. Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos.",
+    "dba": [
+      "DBA-MAT-5-3: Compara y ordena números fraccionarios a través de diversas interpretaciones, recursos y representaciones.",
+      "DBA-MAT-5-9: Utiliza operaciones no convencionales, encuentra propiedades y resuelve ecuaciones en donde están involucradas."
+    ],
+    "evidencias": [
+      "MAT-5-D3-E1: Representa fracciones con la ayuda de la recta numérica.",
+      "MAT-5-D3-E2: Determina criterios para ordenar fracciones y expresiones decimales de mayor a menor o viceversa.",
+      "MAT-5-D9-E3: Compara las propiedades de las operaciones convencionales de suma, resta, producto y división con las propiedades de las operaciones no convencionales.",
+      "MAT-5-D9-E4: Resuelve ecuaciones numéricas cuando se involucran operaciones no convencionales."
+    ],
+    "saberes": [
+      "Saberes Representación de fracciones en la recta numérica. Orden de fracciones. Proporcionalidad directa e inversa.",
+      "Saberes Comparación entre operaciones convencionales y no convencionales. Resolución de ecuaciones numéricas."
+    ],
+    "socioemocional": null,
+    "diccionario": null,
+    "tareas_dce": null,
+    "fuente": null
+  },
+  {
+    "componente": "Espacial Métrico",
+    "estandar": "Identifico, represento y utilizo ángulos en giros, aperturas, inclinaciones, figuras, puntas y esquinas en situaciones estáticas y dinámicas. Construyo objetos tridimensionales a partir de representaciones bidimensionales y puedo realizar el proceso contrario en contextos de arte, diseño y arquitectura. Utilizo y justifico el uso de la estimación para resolver problemas relativos a la vida social, económica y de las ciencias, utilizando rangos de variación. Utilizo diferentes procedimientos de cálculo para hallar el área de la superficie cie exterior y el volumen de algunos cuerpos sólidos.",
+    "dba": [
+      "DBA-MAT-5-5: Explica las relaciones entre el perímetro y el área de diferentes figuras variaciones en el perímetro no implican variaciones en el área y viceversa a partir de mediciones, superposición de figuras, cálculo, entre otras.",
+      "DBA-MAT-5-7: Resuelve y propone situaciones en las que es necesario describir y localizar la posición y la trayectoria de un objeto con referencia al plano cartesiano."
+    ],
+    "evidencias": [
+      "MAT-5-D7-E1: Localiza puntos en un mapa a partir de coordenadas cartesianas.",
+      "MAT-5-D7-E4: Emplea el plano cartesiano al plantear y resolver situaciones de localización.",
+      "MAT-5-D7-E5: Representa en forma gráfica y simbólica la localización y trayectoria de un objeto.",
+      "MAT-5-D5-E4: Propone estrategias para la solución de problemas relativos a la medida de la superficie de figuras planas.",
+      "MAT-5-D5-E5: Reconoce que figuras con áreas diferentes pueden tener el mismo perímetro.",
+      "MAT-5-D5-E6: Mide superficies y longitudes utilizando diferentes estrategias composición, recubrimiento, bordeado, cálculo."
+    ],
+    "saberes": [
+      "Saberes Resolución de problemas mediante el plano cartesiano.",
+      "Saberes Estrategias de resolución de problemas para calcular superficies de figuras planas."
+    ],
+    "socioemocional": null,
+    "diccionario": null,
+    "tareas_dce": null,
+    "fuente": null
+  },
+  {
+    "componente": "Aleatorio",
+    "estandar": "Resuelvo y formulo problemas a partir de un conjunto de datos provenientes de observaciones, consultas o experimentos. Predice la posibilidad de ocurrencia de un evento simple a partir de la relación entre los elementos del espacio muestral y los elementos del evento definido.",
+    "dba": [
+      "DBA-MAT-5-12: Predice la posibilidad de ocurrencia de un evento simple a partir de la relación entre los elementos del espacio muestral y los elementos del evento definido."
+    ],
+    "evidencias": [
+      "MAT-5-D12-E1: Reconoce situaciones aleatorias en contextos cotidianos.",
+      "MAT-5-D12-E2: Enumera todos los posibles resultados de un experimento aleatorio simple.",
+      "MAT-5-D12-E3: Identifica y enumera los resultados favorables de ocurrencia de un evento simple.",
+      "MAT-5-D12-E4: Anticipa la ocurrencia de un evento simple."
     ],
     "3": [
       {
