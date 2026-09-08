@@ -51,7 +51,7 @@ window.ProgresionMotor = (function() {
     
     // DETECCIÓN HÍBRIDA (v10.4)
     const esPreescolar = (grStr === "0" || grStr === "-1");
-    const datos = obtener(grStr, esPreescolar);
+    const datos = obtenerDatosCruce(grStr, esPreescolar);
 
     if (datos.length === 0) { 
       cont.innerHTML = '<p style="text-align:center;padding:20px;color:#888;">Sin datos disponibles.</p>'; 
@@ -69,23 +69,6 @@ window.ProgresionMotor = (function() {
         }
         cont.appendChild(d); 
       }); 
-    }
-  }
-
-  function obtener(grStr, esPre) {
-    const malla = window.MallasData[normalizarTexto(est.areaNombre)]?.[grStr]?.[est.tipo];
-    if (!malla || !malla.periodos) return [];
-    let ac = [];
-    Object.keys(malla.periodos).forEach(p => {
-      malla.periodos[p].forEach(it => {
-        const coincide = normalizarTexto(it.componente || it.competencia) === normalizarTexto(est.componente);
-        // Puente Pedagógico: En grado 1, permitir ver estándares aunque vengamos de DBA
-        if (coincide || (est.gradoCentral <= 0 && grStr === "1")) {
-          const c = esPre ? it.dba : it.estandar;
-          if (c) { if (Array.isArray(c)) ac.push(...c); else ac.push(c); }
-        }
-        cont.appendChild(d);
-      });
     }
   }
 
