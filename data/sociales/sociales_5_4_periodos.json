@@ -11,7 +11,7 @@
           "Identifico y describo características de las diferentes regiones naturales del mundo (desiertos, polos, selva húmeda tropical, océanos…).",
           "Identifico y describo algunas de las características humanas (sociales, culturales…) de las diferentes regiones naturales del mundo."
         ],
-        "dba": ["Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones."],
+        "dba": ["Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones. (1)"],
         "evidencias": [
           "Explica las formas de división territorial en Colombia: corregimiento, municipio, área metropolitana, departamento, región y territorio indígena.",
           "Caracteriza los territorios colombianos denominados distritos (capital, especial, industrial, portuario, turístico, histórico y biodiverso) y los diferencia de los municipios y de las ciudades capitales.",
@@ -34,7 +34,7 @@
           "Identifico, describo y comparo algunas características sociales, políticas, económicas y culturales de las comunidades prehispánicas de Colombia y América.",
           "Relaciono estas características con las condiciones del entorno particular de cada cultura."
         ],
-        "dba": ["Comprende que los cambios en la comunicación originados por los avances tecnológicos han generado transformaciones en la forma como se relacionan las personas en la sociedad actual."],
+        "dba": ["Comprende que los cambios en la comunicación originados por los avances tecnológicos han generado transformaciones en la forma como se relacionan las personas en la sociedad actual. (3)"],
         "evidencias": [
           "Explica la importancia que ha tenido la comunicación para la sociedad colombiana en el siglo XX y XXI.",
           "Compara las características de los medios de comunicación que emplearon sus padres (cuando eran niños), con los que él emplea en la actualidad.",
@@ -55,7 +55,7 @@
       {
         "componente": "Ético político",
         "estandar": ["Reconozco las responsabilidades que tienen las personas elegidas por voto popular y algunas características de sus cargos (personeros estudiantiles, concejales, congresistas, presidente…)."],
-        "dba": ["Comprende que en la sociedad colombiana existen derechos, deberes, principios y acciones para orientar y regular la convivencia de las personas."],
+        "dba": ["Comprende que en la sociedad colombiana existen derechos, deberes, principios y acciones para orientar y regular la convivencia de las personas. (7)"],
         "evidencias": [
           "Describe los beneficios o ventajas que conlleva vivir en un Estado democrático a través del estudio de la Constitución de 1991.",
           "Identifica los derechos fundamentales contemplados en la Constitución (Título II, capítulo 1), y su aplicabilidad en la vida cotidiana a partir del análisis de casos."
@@ -100,7 +100,7 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Clasifico y describo diferentes actividades económicas (producción, distribución, consumo…) en diferentes sectores económicos (agrícola, ganadero, minero, industrial...) y reconozco su impacto en las comunidades."],
-        "dba": ["Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones."],
+        "dba": ["Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones. (1)"],
         "evidencias": [
           "Relaciona la existencia de los pisos térmicos con los recursos naturales de cada región e identifica su incidencia en la diversidad de cultivos y actividades humanas."
         ],
@@ -121,12 +121,12 @@
           "Comparo características de los grupos prehispánicos con las características sociales, políticas, económicas y culturales actuales.",
           "Identifico los propósitos de las organizaciones coloniales españolas y describo aspectos básicos de su funcionamiento."
         ],
-        "dba": ["Analiza el periodo colonial en la Nueva Granada a partir de sus organizaciones políticas, económicas y sociales."],
+        "dba": ["Analiza el periodo colonial en la Nueva Granada a partir de sus organizaciones políticas, económicas y sociales. (4)"],
         "evidencias": [
-          "Compara el papel de las organizaciones políticas y administrativas coloniales (Consejo Supremo de Indias, Casa de Contratación de Sevilla, Real Audiencia, Cabildos, Real Hacienda y Virreinato) con las actuales.",
-          "Diferencia las formas organizativas del trabajo en la Colonia (encomienda, mita y resguardo) y sus transformaciones en el sistema económico actual.",
-          "Explica las diferencias entre los grupos sociales existentes en la Nueva Granada y las implicaciones en la estratificación de la población.",
-          "Examina el papel de la religión católica y su impacto en la vida cotidiana durante la época colonial."
+          "Compara el papel de las organizaciones políticas y administrativas como el Consejo Supremo de Indias, la Casa de Contratación de Sevilla, la Real Audiencia, los Cabildos, la Real Hacienda y el Virreinato con las actuales instituciones en Colombia. ",
+          "Diferencia las formas organizativas del trabajo en la Colonia (la encomienda, la mita y el resguardo) y sus transformaciones en el sistema económico actual en Colombia. ",
+          "Explica las diferencias entre los grupos sociales existentes en la Nueva Granada durante el periodo colonial y las implicaciones que tuvo en la estratificación de la población colombiana.",
+          "Examina el papel de la religión católica y su impacto en la vida cotidiana de las personas durante la época colonial a través del uso de diversas fuentes de información. "
         ],
         "saberes": ["Grupos prehispánicos", "Colonización", "Organizaciones coloniales", "Encomienda", "Mita", "Resguardo", "Sistema económico", "Nueva Granada", "Iglesia católica en la colonia"],
         "socioemocional": null,
@@ -137,10 +137,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Explico el impacto de algunos hechos históricos en la formación limítrofe del territorio colombiano (Virreinato de la Nueva Granada, Gran Colombia, separación de Panamá…)."],
-        "dba": ["Comprende que en la sociedad colombiana existen derechos, deberes, principios y acciones para orientar y regular la convivencia de las personas."],
+        "dba": ["Comprende que en la sociedad colombiana existen derechos, deberes, principios y acciones para orientar y regular la convivencia de las personas. (7)"],
         "evidencias": [
-          "Compara los derechos y deberes planteados en la Constitución Política con los contemplados en el manual de convivencia institucional.",
-          "Explica el valor de conocer los derechos y los mecanismos constitucionales para reclamar su cumplimiento."
+          "Compara los derechos y deberes planteados en la Constitución Política del país con los derechos y deberes contemplados en el manual de convivencia de su institución educativa.",
+          "Explica el valor que tiene conocer los derechos y los mecanismos constitucionales para reclamar su debido cumplimiento."
         ],
         "saberes": [
           "Convivencia social",
@@ -179,10 +179,10 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Reconozco los diferentes usos que se le dan a la tierra y a los recursos naturales en mi entorno y en otros (parques naturales, ecoturismo, ganadería, agricultura…)."],
-        "dba": ["Comprende las ventajas que tiene para Colombia su posición geográfica y astronómica en relación con la economía nacional."],
+        "dba": ["Comprende las ventajas que tiene para Colombia su posición geográfica y astronómica en relación con la economía nacional. (2)"],
         "evidencias": [
-          "Identifica la posición geográfica y astronómica del país, sus límites y extensión de sus fronteras terrestres y marítimas.",
-          "Establece relaciones entre latitud, longitud, altitud y proximidad al mar con la diversidad de climas en Colombia.",
+          "Identifica la posición geográfica y astronómica del país, sus límites y extensión de sus fronteras terrestres y marítimas mediante la lectura de mapas temáticos.",
+          "Establece relaciones entre latitud, longitud, altitud y la proximidad al mar, con la diversidad de climas en Colombia.",
           "Explica la presencia de la órbita geoestacionaria y su importancia para las telecomunicaciones del país."
         ],
         "saberes": ["Usos de la tierra", "Recursos naturales", "Ecoturismo", "Posición geográfica de Colombia", "Posición astronómica de Colombia", "Latitud", "Altitud", "Longitud"],
@@ -194,13 +194,12 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Identifico y comparo algunas causas que dieron lugar a los diferentes períodos históricos en Colombia (Descubrimiento, Colonia, Independencia...)."],
-        "dba": ["Analiza el origen y consolidación de Colombia como república y sus cambios políticos, económicos y sociales."],
+        "dba": ["Analiza el origen y consolidación de Colombia como república y sus cambios políticos, económicos y sociales. (5)"],
         "evidencias": [
-          "Plantea preguntas sobre los antecedentes que influenciaron la independencia de Colombia (revolución de los comuneros, invasiones napoleónicas).",
-          "Explica los acontecimientos que permitieron el nacimiento de la República y su incidencia económica y social.",
-          "Reconoce los cambios de fronteras experimentados por Colombia desde el siglo XIX hasta la actualidad.",
-          "Relaciona la aparición de los partidos políticos con las luchas ideológicas del siglo XIX."
-        ],
+          "Plantea preguntas sobre los antecedentes que influenciaron la independencia de Colombia (revolución de los comuneros, invasiones napoleónicas, entre otras).",
+          "Explica los acontecimientos que permitieron el nacimiento de la República y cómo estos incidieron en la vida económica y social de Colombia.",
+          "Reconoce los cambios de fronteras que ha experimentado Colombia desde comienzos del siglo XIX hasta la actualidad (la Gran Colombia, la República de la Nueva Granada, la Confederación Granadina, los Estados Unidos de Colombia y la República de Colombia) a partir de la lectura de mapas temáticos. ",
+          "Relaciona la aparición de los partidos políticos en Colombia con las luchas ideológicas que se dieron a lo largo del siglo XIX. "  ],
         "saberes": ["Períodos históricos en Colombia", "Revolución de los comuneros", "Invasiones napoleónicas", "La Gran Colombia", "República de la Nueva Granada", "Confederación Granadina", "Estados Unidos de Colombia", "Partidos políticos"],
         "socioemocional": null,
         "diccionario": null,
@@ -210,10 +209,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Conozco los Derechos de los Niños e identifico algunas instituciones locales, nacionales e internacionales que velan por su cumplimiento (personería estudiantil, comisaría de familia, Unicef…)."],
-        "dba": ["Analiza el papel de las organizaciones sociales en la preservación y el reconocimiento de los Derechos Humanos."],
+        "dba": ["Analiza el papel de las organizaciones sociales en la preservación y el reconocimiento de los Derechos Humanos. (8)"],
         "evidencias": [
-          "Explica las instituciones que defienden los Derechos Humanos y organizan proyectos comunitarios.",
-          "Reconoce la importancia de proteger la organización social y los derechos colectivos a través de mecanismos constitucionales."
+          "Explica las instituciones que defienden los Derechos Humanos y organizan proyectos en la comunidad (cabildos, juntas de acción comunal y juntas administradoras locales).  ",
+          "Reconoce la importancia de proteger la organización social y los derechos de las colectividades a través de los mecanismos estipulados en la Constitución nacional. "
         ],
         "saberes": ["Derechos de los niños", "Código de infancia y adolescencia", "Instituciones de derechos humanos", "Derechos sociales", "Derechos colectivos"],
         "socioemocional": null,
@@ -245,9 +244,9 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Identifico organizaciones que resuelven las necesidades básicas (salud, educación, vivienda, servicios públicos, vías de comunicación…) en mi comunidad, en otras y en diferentes épocas y culturas."],
-        "dba": ["Comprende las ventajas que tiene para Colombia su posición geográfica y astronómica en relación con la economía nacional."],
+        "dba": ["Comprende las ventajas que tiene para Colombia su posición geográfica y astronómica en relación con la economía nacional. (2)"],
         "evidencias": [
-          "Plantea preguntas que permiten reconocer la importancia de contar con dos océanos para el territorio y la economía nacional."
+          "Plantea preguntas que le permiten reconocer la importancia que tiene para el territorio colombiano y  la economía nacional, el hecho de contar con dos océanos."
         ],
         "saberes": [
           "Organizaciones de necesidades básicas de la población colombiana",
@@ -262,12 +261,12 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Reconozco la importancia de los aportes de algunos legados culturales, científicos, tecnológicos, artísticos, religiosos… en diversas épocas y entornos."],
-        "dba": ["Analiza los cambios ocurridos en la sociedad colombiana en la primera mitad del siglo XX, asociados a la expansión de la industria y el establecimiento de nuevas redes de comunicación."],
+        "dba": ["Analiza los cambios ocurridos en la sociedad colombiana en la primera mitad del siglo XX, asociados a la expansión de la industria y el establecimiento de nuevas redes de comunicación. (6)"],
         "evidencias": [
-          "Explica los cambios sociales y tecnológicos (radio, prensa, telares, ferrocarriles) de la primera mitad del siglo XX.",
-          "Reconoce la influencia de los partidos políticos (liberal y conservador) en la dinámica económica y social de la época.",
-          "Identifica las consecuencias de los conflictos (Guerra de los Mil Días, Masacre de las Bananeras, violencia partidista).",
-          "Propone acciones para vivir en una sociedad pacífica y constructora de paz."
+          "Explica los cambios sociales y tecnológicos (radio, prensa escrita, telares y ferrocarriles) que se dieron en Colombia en la primera mitad del siglo XX y su incidencia en la reconfiguración de actividades económicas y sociales en el país. ",
+          "Reconoce la influencia de los partidos políticos (liberal y conservador) en las dinámicas económicas y sociales de Colombia en la primera mitad del siglo XX a partir del uso de diferentes fuentes de información.",
+          "Identifica las consecuencias de los conflictos que afectaron la convivencia armónica de los ciudadanos colombianos en la primera mitad del siglo XX (Guerra de los Mil Días, masacre de las bananeras y la violencia partidista).",
+          "Participa en debates y propone acciones para vivir en una sociedad pacífica y constructora de una cultura de paz."
         ],
         "saberes": [
           "Legado ancestral",
@@ -285,10 +284,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Defiendo mis derechos y los de otras personas y contribuyo a denunciar ante las autoridades competentes casos en los que son vulnerados."],
-        "dba": ["Analiza el papel de las organizaciones sociales en la preservación y el reconocimiento de los Derechos Humanos."],
+        "dba": ["Analiza el papel de las organizaciones sociales en la preservación y el reconocimiento de los Derechos Humanos. (8)"],
         "evidencias": [
-          "Describe el funcionamiento de la Personería y Defensoría del Pueblo.",
-          "Participa en proyectos de gobierno escolar orientados al bien común y la solidaridad."
+          "Describe el funcionamiento de las instituciones que protegen los Derechos Humanos en Colombia (Personería y Defensoría del Pueblo).",
+          " Participa en proyectos colectivos (Gobierno Escolar, ambientales, convivencia y paz entre otros) orientados a alcanzar el bien común y a promover la solidaridad en su comunidad. "
         ],
         "saberes": [
           "El papel de las organizaciones sociales en la preservación y el reconocimiento de los Derechos humanos",
