@@ -87,7 +87,6 @@ window.RenderEngine = (function() {
   function plantillaAcademica(item, areaId, grado, periodo) {
     const tipoMalla = window.APP_CONFIG.TIPO_MALLA;
     const config = window.APP_CONFIG.AREAS[areaId];
-    const tipoMalla = window.APP_CONFIG.TIPO_MALLA;
     const llaveNormal = normalizarTexto(config.nombre);
     
     // 1. CRUCE DCE (Estructura B)
