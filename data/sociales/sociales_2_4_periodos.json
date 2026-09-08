@@ -8,12 +8,12 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Identifico y describo las características de un paisaje natural y de un paisaje cultural."],
-        "dba": ["Reconoce los puntos cardinales y los usa para orientarse en el desplazamiento de un lugar a otro."],
+        "dba": ["Reconoce los puntos cardinales y los usa para orientarse en el desplazamiento de un lugar a otro. (2)"],
         "evidencias": [
-          "Establece relaciones entre el espacio físico del salón de clases y otros espacios que hacen parte de la Institución Educativa a través de dibujos, gráficos o planos, utilizando los puntos cardinales.",
-          "Traza las rutas seguidas por algunos de sus compañeros de clase para llegar a la escuela y las representa en un dibujo.",
-          "Mide distancias reales entre varios lugares, con pasos y otras medidas que pueden inventarse en el grupo, identificando la distancia -cerca o lejos- entre dichos lugares.",
-          "Da orientaciones espaciales verbalmente o de otras formas para llegar a un lugar específico, utilizando expresiones de lateralidad (izquierda, derecha, adelante, atrás) y los puntos cardinales."
+          "Establece relaciones entre el espacio físico del salón de clases y otros espacios que hacen parte de la Institución Educativa a través de dibujos, gráficos o planos, utilizando los puntos cardinales. ",
+          "Traza las rutas seguidas por algunos de sus compañeros de clase para llegar a la escuela y las representa en un dibujo. ",
+          "Mide distancias reales entre varios lugares, con pasos y otras medidas que pueden inventarse en el grupo, identificando la distancia - cerca o lejos- entre dichos lugares. ",
+          "Da orientaciones espaciales verbalmente o de otras formas para llegar a un lugar específico, utilizando expresiones de lateralidad (izquierda, derecha, adelante, atrás) y los puntos cardinales. "
         ],
         "saberes": [
           "Paisaje natural y cultural",
@@ -31,7 +31,7 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Identifico y describo algunos elementos que permiten reconocerme como miembro de un grupo regional y de una nación (territorio, lenguas, costumbres, símbolos patrios…)."],
-        "dba": ["Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva."],
+        "dba": ["Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva. (3)"],
         "evidencias": [
           "Describe las características de la conformación de su familia antes de su nacimiento.",
           "Reconoce las procedencias y los recorridos de los integrantes de su núcleo familiar antes de llegar al municipio donde viven actualmente, a través de relatos."
@@ -50,7 +50,7 @@
       {
         "componente": "Ético político",
         "estandar": ["Comparo las formas de organización propias de los grupos pequeños (familia, salón de clase, colegio…) con las de los grupos más grandes (resguardo, territorios afrocolombianos, municipio…)."],
-        "dba": ["Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad"],
+        "dba": ["Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad (5)"],
         "evidencias": [
           "Identifica los trabajos u oficios que las personas de su comunidad realizan para obtener su sustento y el de la familia.",
           "Describe las actividades económicas que realizan los adultos en su hogar y los beneficios que éstas traen para todos los integrantes de la familia."
@@ -84,12 +84,12 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Establezco relaciones entre los accidentes geográficos y su representación gráfica."],
-        "dba": ["Comprende que el paisaje que vemos es resultado de las acciones humanas que se realizan en un espacio geográfico y que, por esta razón, dicho paisaje cambia."],
+        "dba": ["Comprende que el paisaje que vemos es resultado de las acciones humanas que se realizan en un espacio geográfico y que, por esta razón, dicho paisaje cambia. (1)"],
         "evidencias": [
-          "Traza las formas básicas del paisaje de su municipio a través de dibujos y la elaboración de maquetas con materiales reutilizables.",
-          "Explica los cambios que se han realizado en el paisaje del municipio debido a cultivos, construcciones, carreteras y parques.",
-          "Identifica las formas del relieve terrestre (montaña, valle, llanura, meseta e islas) en su localidad.",
-          "Expresa apreciaciones sobre paisajes observados en diferentes medios impresos y digitales."
+          "Identifica las formas del relieve que se encuentran en la superficie terrestre (montaña, valle, llanura, meseta e islas) y nombra aquellas que se observan en su localidad, comuna o vereda.",
+          "Expresa sus apreciaciones sobre los paisajes que observa en fotografías, folletos, revistas, periódicos y señala aquellos que prefiere. ",
+          "Traza las formas básicas del paisaje de su municipio a través de dibujos y la elaboración de maquetas con barro, plastilina o materiales reutilizables que consiga en su contexto. ",
+          "Explica los cambios que se han realizado en el paisaje del municipio debido a cultivos, construcciones recientes, carreteras, caminos, edificaciones y parques, entre otros."
         ],
         "saberes": ["Accidentes geográficos", "Representación gráfica", "Maquetas", "Relieve colombiano", "Cambios en el paisaje", "Lugares turísticos", "Taller de fotografía"],
         "socioemocional": null,
@@ -100,11 +100,10 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Reconozco en mi entorno cercano las huellas que dejaron las comunidades que lo ocuparon en el pasado (monumentos, museos, sitios de conservación histórica…)."],
-        "dba": ["Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva."],
+        "dba": ["Comprende la importancia de las fuentes históricas para la construcción de la memoria individual, familiar y colectiva. (3)"],
         "evidencias": [
-          "Establece secuencias de datos históricos personales y familiares mediante el registro civil.",
-          "Elabora un árbol genealógico identificando orígenes de sus antepasados.",
-          "Indaga por las razones de los desplazamientos de la población en su comunidad."
+          "Establece secuencias de datos históricos a nivel personal y familiar desde la lectura de su registro civil de nacimiento y elabora un árbol genealógico.",
+          "Indaga por los lugares de origen y las razones de los desplazamientos de la población en su comunidad."
         ],
         "saberes": ["Memoria histórica", "Fuentes de información", "Secuencia de datos", "Árbol genealógico"],
         "socioemocional": null,
@@ -115,11 +114,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Reconozco en mi entorno cercano las huellas que dejaron las comunidades que lo ocuparon en el pasado (monumentos, museos, sitios de conservación histórica…)."],
-        "dba": ["Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad."],
+        "dba": ["Analiza las actividades económicas de su entorno y el impacto de estas en la comunidad.(5)"],
         "evidencias": [
-          "Compara los oficios que los abuelos realizaban anteriormente con la forma en que se realizan hoy.",
-          "Diferencia los trabajos característicos de las zonas urbanas y rurales.",
-          "Reconoce y rechaza situaciones de explotación laboral infantil."
+          "Compara los oficios que los abuelos realizaban anteriormente respecto de cómo se realizan hoy y diferencia los trabajos característicos de las zonas urbanas y rurales.",
+          "Reconoce experiencias donde algunos niños son explotados laboralmente y expresa razones para rechazar estas situaciones"
         ],
         "saberes": ["Huellas del pasado", "Trabajos antiguos y actuales", "Diferencia urbano-rural", "Rechazo a la explotación infantil"],
         "socioemocional": null,
@@ -151,12 +149,12 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Establezco relaciones entre paisajes naturales y paisajes culturales."],
-        "dba": ["Compara las características de las viviendas de su municipio, vereda o lugar donde vive con las de otros lugares."],
+        "dba": ["Compara las características de las viviendas de su municipio, vereda o lugar donde vive con las de otros lugares. (6)"],
         "evidencias": [
           "Reconoce características de las viviendas rurales y urbanas a partir de sus materiales de construcción.",
           "Describe y diferencia características de las viviendas de los grupos étnicos mediante imágenes.",
           "Identifica cambios temporales en las estructuras de las viviendas.",
-          "Analiza ventajas y desventajas de vivir en zonas urbanas o rurales."
+          "Describe las ventajas y desventajas que representa tener vivienda en zona urbana o rural."
         ],
         "saberes": ["Paisajes naturales", "Paisajes culturales", "Vivienda rural", "Vivienda urbana", "Vivienda en el tiempo"],
         "socioemocional": null,
@@ -167,11 +165,10 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Reconozco situaciones de discriminación y abuso por irrespeto a los rasgos individuales de las personas y propongo formas de cambiarlas."],
-        "dba": ["Reconoce y rechaza situaciones de exclusión o discriminación en su familia, entre sus amigos y en los compañeros del salón de clase."],
+        "dba": ["Reconoce y rechaza situaciones de exclusión o discriminación en su familia, entre sus amigos y en los compañeros del salón de clase. (8)"],
         "evidencias": [
-          "Describe diversas características de los grupos humanos (etnia, edad, religión, género) en su entorno escolar.",
-          "Propone acciones para mejorar la convivencia y el respeto a la diferencia en el grupo.",
-          "Establece semejanzas y diferencias en las preferencias culturales (alimentos, juegos) de sus compañeros."
+          "Describe diversas características de los grupos humanos (etnia, edad, religión, género) y explica aquello que más le gusta de sus compañeros y lo que pudiera cambiarse para mejorar la convivencia en el grupo.",
+          "Establece semejanzas y diferencias entre los alimentos preferidos (en los integrantes de su familia) y en las preferencias en los juegos entre los compañeros del grupo en la escuela."
         ],
         "saberes": [
           "Los inmigrantes y tradiciones",
@@ -187,10 +184,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Identifico y describo algunos elementos que permiten reconocerme como miembro de un grupo regional y de una nación."],
-        "dba": ["Reconoce la organización territorial en su municipio, desde: comunas, corregimientos, veredas, localidades y territorios indígenas."],
+        "dba": ["Reconoce la organización territorial en su municipio, desde: comunas, corregimientos, veredas, localidades y territorios indígenas. (7)"],
         "evidencias": [
-          "Identifica el croquis de su municipio y lo diferencia de otros en el departamento.",
-          "Ubica en el mapa su comuna, corregimiento o localidad utilizando los puntos cardinales."
+          "Identifica el croquis de su municipio y lo diferencia entre los demás municipios del departamento.",
+          "Ubica las comunas, corregimientos, localidades y/o territorios indígenas en los que está organizado el territorio de su municipio, teniendo en cuenta los puntos cardinales."
         ],
         "saberes": ["Identidad regional", "Miembro de una comunidad", "Organización territorial municipal", "Ubicación espacial"],
         "socioemocional": null,
@@ -221,12 +218,12 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Identifico formas de medir el tiempo (horas, días, años...) y las relaciono con las actividades de las personas."],
-        "dba": ["Explica cambios y continuidades en los medios empleados por las personas para transportarse en su municipio, vereda o lugar donde vive."],
+        "dba": ["Explica cambios y continuidades en los medios empleados por las personas para transportarse en su municipio, vereda o lugar donde vive. (4)"],
         "evidencias": [
-          "Diferencia los cambios vividos en los medios de transporte a partir de relatos familiares.",
-          "Clasifica medios de transporte según su uso y medio (terrestre, acuático, aéreo).",
-          "Describe el transporte que más utiliza exponiendo sus ventajas y desventajas.",
-          "Representa gráficamente la movilidad en su comunidad."
+          "Diferencia los cambios vividos en los medios de transporte en su entorno cercano, a partir de relatos de su familia.",
+          "Clasifica las formas de transportarse de las personas según el medio utilizado.",
+          "Describe el medio de transporte que más usa para llegar o salir de su casa y expone sus ventajas y desventajas.",
+          "Representa gráficamente la movilidad en su comunidad e identifica sus ventajas y desventajas."
         ],
         "saberes": [
           "Medición del tiempo",
@@ -242,10 +239,10 @@
       {
         "componente": "Historia y cultura",
         "estandar": ["Reconozco situaciones de discriminación y abuso por irrespeto a los rasgos individuales y propongo formas de cambiarlas."],
-        "dba": ["Reconoce y rechaza situaciones de exclusión o discriminación en su familia, entre sus amigos y en los compañeros del salón de clase."],
+        "dba": ["Reconoce y rechaza situaciones de exclusión o discriminación en su familia, entre sus amigos y en los compañeros del salón de clase. (8)"],
         "evidencias": [
-          "Expresa sentimientos al sentirse incluido o excluido en actividades escolares.",
-          "Identifica acciones discriminatorias en su entorno y sabe a quién acudir por ayuda."
+          "Expresa sus sentimientos cuando es discriminadoo aceptado en una actividad escolar y reconoce la importancia que tiene conocer y aceptar a las personas.",
+          "Identifica las acciones que generan discriminación en su entorno y sabe a quién acudir para pedir ayuda y protección."
         ],
         "saberes": ["Proyecto de aula contra la discriminación", "Prevención de la exclusión", "Rutas de apoyo y protección"],
         "socioemocional": null,
@@ -256,10 +253,10 @@
       {
         "componente": "Ético político",
         "estandar": ["Reconoce y valora aspectos de las organizaciones sociales y políticas de mi entorno que promueven el desarrollo individual y comunitario."],
-        "dba": ["Reconoce la organización territorial en su municipio, desde: comunas, corregimientos, veredas, localidades y territorios indígenas."],
+        "dba": ["Reconoce la organización territorial en su municipio, desde: comunas, corregimientos, veredas, localidades y territorios indígenas. (7)"],
         "evidencias": [
-          "Nombra y ubica topónimos geográficos en su municipio.",
-          "Diferencia la organización de grupos pequeños (familia, aula) frente a grupos grandes (municipio, resguardo)."
+          "Nombra topónimos (nombres propios que adoptan los lugares geográficos) en su municipio y diferencia su ubicación en el medio urbano o rural.",
+          "Diferencia la organización de grupos pequeños como la familia, salón de clase, colegio con las de los grupos más grandes como resguardo, territorios afrocolombianos y municipio."
         ],
         "saberes": ["Topónimos", "Diferencia entre grupos sociales", "Organización política y administrativa"],
         "socioemocional": null,
