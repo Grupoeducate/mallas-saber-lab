@@ -8,8 +8,8 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": [
-          "Describo las principales características físicas de los diversos ecosistemas. (1)",
-          "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia. (2)"
+          "Describo las principales características físicas de los diversos ecosistemas.",
+          "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia."
         ],
         "dba": ["Evalúa el impacto producido por los avances tecnológicos en el desarrollo social y económico de Colombia en el siglo XIX. (6)"],
         "evidencias": [
@@ -24,12 +24,12 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Explico las principales características de algunas revoluciones de los siglos XVIII y XIX (Revolución Francesa, Revolución Industrial...). (1)"],
+        "estandar": ["Explico las principales características de algunas revoluciones de los siglos XVIII y XIX (Revolución Francesa, Revolución Industrial...). "],
         "dba": ["Analiza los procesos de expansión territorial desarrollados por Europa durante el siglo XIX y las nuevas manifestaciones imperialistas observadas en las sociedades contemporáneas. (4)"],
         "evidencias": [
           "Describe la expansión y distribución territorial de los imperios europeos en Asia y África durante el siglo XIX e interpreta mapas temáticos.",
           "Relaciona el crecimiento económico europeo con la explotación de Asia y África durante el siglo XIX.",
-          "Compara la influencia de los países colonialistas en el siglo XIX en ámbitos como el comercio y la industria manufacturera con la de las actuales potencias mundiales.",
+          "Compara la influencia de los países colonialistas en el siglo XIX en ámbitos como el comercio y la industria manufacturera, con la que ejercen las actuales potencias mundiales en el sector financiero, las telecomunicaciones, y las nuevas tecnologías de la información.  ",
           "Explica la influencia actual de países como Estados Unidos en la dinámica económica, social y política de Colombia (Tratado del Libre Comercio, lucha contra las drogas, éxodo de colombianos)."
         ],
         "saberes": ["Procesos de expansión territorial europea", "Siglo XIX", "Colonización", "Explotación de Asia y África", "Influencia de Estados Unidos en Colombia", "Dinámica económica y política actual"],
@@ -80,13 +80,13 @@
     "2": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Comparo las causas de algunas olas de migración y desplazamiento humano en nuestro territorio a lo largo del siglo XIX y la primera mitad del siglo XX. (4)"],
+        "estandar": ["Comparo las causas de algunas olas de migración y desplazamiento humano en nuestro territorio a lo largo del siglo XIX y la primera mitad del siglo XX."],
         "dba": ["Comprende el fenómeno de las migraciones en distintas partes del mundo y cómo afectan a las dinámicas de los países receptores y a países de origen. (2)"],
         "evidencias": [
-          "Describe el fenómeno de las migraciones humanas que tienen lugar en la actualidad hacia Europa y América del Norte.",
-          "Reconoce los niveles en el Índice de Desarrollo Humano obtenidos por los diferentes países que reciben migrantes.",
-          "Explica las principales diferencias entre los países que atraen emigrantes y aquellos de donde salen.",
-          "Argumenta los aportes que han realizado los migrantes a los países que los reciben y a la humanidad en general."
+          "Describe el fenómeno de las migraciones humanas que tienen lugar en la actualidad hacia Europa y hacia América del norte y los países de procedencia.",
+          "Reconoce los niveles en el Índice de Desarrollo Humano obtenidos por los diferentes países que reciben migrantes en campos como la educación, la salud y la seguridad.",
+          "Explica las principales diferencias entre los países que atraen emigrantes y aquellos de donde salen, así como las consecuencias del fenómeno de las migraciones en las relaciones entre los países.",
+          "Argumenta los aportes que han realizado los migrantes a los países que los reciben y a la humanidad en general, casos de algunos artistas, políticos, economistas y científicos naturales y sociales procedentes de otros países."
         ],
         "saberes": ["Fenómenos demográficos en el mundo", "Migraciones", "Desplazamientos en el mundo", "Índice de Desarrollo Humano", "Aportes de los migrantes"],
         "socioemocional": null,
@@ -96,12 +96,11 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Explico algunos procesos sociales, políticos y económicos posteriores en Colombia y América Latina. (2)"],
+        "estandar": ["Explico algunos procesos sociales, políticos y económicos posteriores en Colombia y América Latina. "],
         "dba": ["Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX y sus implicaciones para las sociedades contemporáneas. (5)"],
         "evidencias": [
           "Describe la influencia política y económica de las revoluciones francesa e Industrial en los procesos de independencia de las colonias americanas.",
-          "Reconoce los aportes de la Revolución Francesa en el campo político (Derechos del Hombre, soberanía popular, Constitución, división de poderes)."
-        ],
+          "Reconoce los aportes de la Revolución Francesa en el campo político (Derechos del Hombre y del Ciudadano, soberanía popular, Constitución, división de poderes y estados nacionales)."],
         "saberes": ["La revolución francesa", "Revolución Industrial", "Independencia de las colonias americanas", "Declaración de los derechos humanos"],
         "socioemocional": null,
         "diccionario": null,
@@ -111,12 +110,12 @@
       {
         "componente": "Ético político",
         "estandar": ["Identifico y comparo algunos de los procesos políticos que tuvieron lugar en el mundo en el siglo XIX y primera mitad del siglo XX. (5)"],
-        "dba": ["Analiza los cambios sociales, económicos, políticos y culturales generados por el surgimiento y consolidación del capitalismo en Europa. (3)"],
+        "dba": ["Analiza los cambios sociales, económicos, políticos y culturales generados por el surgimiento y consolidación del capitalismo en Europa y las razones por las cuales este sigue siendo un sistema económico vigente. (3)"],
         "evidencias": [
-          "Describe las transformaciones que se produjeron en Europa a finales del siglo XVIII y durante el siglo XIX que dieron paso al surgimiento del capitalismo.",
-          "Explica las características del sistema económico capitalista (propiedad privada, libre competencia, capital, consumo).",
-          "Compara los sistemas económicos actuales (capitalista, socialista y de economía mixta) desde la propiedad y planificación del Estado.",
-          "Reconoce las diferencias en el nivel de desarrollo económico entre los países de América Latina y de Europa en la actualidad."
+          "Describe las transformaciones que se produjeron en Europa a finales del siglo XVIII y durante el siglo XIX a partir del desarrollo del comercio y la industria dando paso al surgimiento y consolidación del capitalismo.",
+          "Explica las características del sistema económico capitalista (propiedad privada, libre competencia, capital, consumo,....) y las ventajas o desventajas que trae para las sociedades que lo han asumido.",
+          "Compara los sistemas económicos actuales (capitalista, socialista y el de economía mixta) desde ámbitos como: la propiedad, el consumo de los recursos, la planificación y el control del Estado.",
+          "Reconoce las diferencias en el nivel de desarrollo económico, político y cultural entre los países de América Latina y de Europa, en la actualidad."
         ],
         "saberes": ["El capitalismo", "Cambios sociales generados por el capitalismo", "Propiedad privada", "Libre competencia", "Sistemas económicos comparados", "Desarrollo en América Latina y Europa"],
         "socioemocional": null,
@@ -150,9 +149,8 @@
         "estandar": ["Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación."],
         "dba": ["Evalúa el impacto producido por los avances tecnológicos en el desarrollo social y económico de Colombia en el siglo XIX. (6)"],
         "evidencias": [
-          "Reconoce el papel de la Comisión Corográfica de Agustín Codazzi como un aporte a la planeación del territorio colombiano.",
-          "Explica algunos problemas ambientales provocados por procesos de industrialización en Colombia y realiza conjeturas sobre sus consecuencias."
-        ],
+          "Describe el papel del telégrafo, el correo, el ferrocarril, el barco de vapor, la industria textil y la electricidad en el desarrollo económico de Colombia. ",
+          "Relaciona los procesos de industrialización dados en el país con los cambios sociales como el crecimiento de las ciudades y la diversificación de la economía."],
         "saberes": ["Comisión Corográfica de Agustín Codazzi", "Representación cartográfica de Colombia", "Problemas ambientales por industrialización", "Gestión del territorio"],
         "socioemocional": null,
         "diccionario": null,
@@ -162,14 +160,13 @@
       {
         "componente": "Historia y cultura",
         "estandar": [
-          "Identifico y comparo algunos de los procesos políticos que tuvieron lugar en el mundo en el siglo XIX. (5)",
-          "Analizo las condiciones que dieron origen a los procesos de independencia de los pueblos americanos. (3)"
+          "Identifico y comparo algunos de los procesos políticos que tuvieron lugar en el mundo en el siglo XIX.",
+          "Analizo las condiciones que dieron origen a los procesos de independencia de los pueblos americanos."
         ],
-        "dba": ["Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX. (5)"],
+        "dba": ["Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX y sus implicaciones para las sociedades contemporáneas.   (5)"],
         "evidencias": [
-          "Compara la organización político-administrativa entre las colonias americanas bajo dominio europeo.",
-          "Argumenta acerca de las consecuencias que trae para los pueblos la intervención de Estados más desarrollados en países con economías en desarrollo."
-        ],
+          "Compara la organización político-administrativa entre las colonias americanas que estuvieron bajo el dominio europeo: inglesas, españolas, francesas, holandesas y portuguesas.",
+          "Argumenta acerca de las consecuencias que trae para los pueblos, en la actualidad, la intervención de algunos Estados más desarrollados en países con economías en desarrollo."],
         "saberes": ["Independencia de pueblos americanos", "Patria Boba", "Reconquista", "Intervencionismo extranjero", "Economías en desarrollo"],
         "socioemocional": null,
         "diccionario": null,
@@ -178,11 +175,11 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Identifico y explico algunos de los principales procesos políticos del siglo XIX en Colombia. (3)"],
+        "estandar": ["Identifico y explico algunos de los principales procesos políticos del siglo XIX en Colombia."],
         "dba": ["Comprende cómo se produjeron los procesos de independencia de las colonias americanas durante los siglos XVIII y XIX. (5)"],
         "evidencias": [
-          "Analiza los modelos de federalismo y centralismo en la formación de la república colombiana.",
-          "Explica el impacto de las reformas del radicalismo liberal en la sociedad del siglo XIX."
+          "Compara la organización político-administrativa entre las colonias americanas que estuvieron bajo el dominio europeo: inglesas, españolas, francesas, holandesas y portuguesas.",
+          "Argumenta acerca de las consecuencias que trae para los pueblos, en la actualidad, la intervención de algunos Estados más desarrollados en países con economías en desarrollo."
         ],
         "saberes": [
           "Condiciones sociales, economicas, politicas y culturales, que dieron origen a los proceso de independencia de los prueblos americanos",
@@ -224,8 +221,8 @@
     "4": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Comparo las maneras como distintas comunidades se han relacionado económicamente con el medio ambiente en Colombia (pesca, terrazas...). (3)"],
-        "dba": ["Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación."],
+        "estandar": ["Comparo las maneras como distintas comunidades se han relacionado económicamente con el medio ambiente en Colombia (pesca, terrazas...). "],
+        "dba": ["(EBC) Asumo una posición crítica frente al deterioro del medio ambiente y participo en su conservación."],
         "evidencias": [
           "Identifica el papel que las comunidades, etnias y culturas han tenido con el territorio y el medio ambiente.",
           "Reconoce las actividades económicas que generan el deterioro del medio ambiente y propone acciones de mejora."
@@ -238,13 +235,13 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Explico algunos de los grandes cambios sociales en Colombia entre el siglo XIX y XX (abolición de esclavitud, movimientos obreros...). (4)"],
-        "dba": ["Evalúa hechos trascendentales para la dignidad humana y describe las discriminaciones que aún se presentan. (7)"],
+        "estandar": ["Explico algunos de los grandes cambios sociales en Colombia entre el siglo XIX y XX (abolición de esclavitud, movimientos obreros...)."],
+        "dba": ["Evalúa hechos trascendentales para la dignidad humana (abolición de la esclavitud, reconocimiento de los derechos de las mujeres, derechos de las minorías) y describe las discriminaciones que aún se presentan.  (7)"],
         "evidencias": [
-          "Reconoce que la discriminación y la exclusión social son factores generadores de deterioro en las relaciones sociales.",
-          "Describe la situación actual de vulneración de los derechos fundamentales en Colombia.",
-          "Explica prejuicios relacionados con la exclusión histórica de mujeres, etnias y personas con discapacidad.",
-          "Propone acciones para mejorar el cumplimiento de los Derechos Humanos."
+          "Reconoce que la discriminación y la exclusión social son factores generadores de situaciones negativas como el deterioro de las relaciones entre personas o grupos, el incremento de la pobreza y la violencia, entre otras.",
+          "Describe la situación actual, desde casos concretos, de la vulneración de los derechos fundamentales de las personas en Colombia.",
+          "Explica algunas situaciones que develan prejuicios y estereotipos relacionados con la exclusión, la discriminación y la intolerancia a la diferencia, que han sufrido históricamente grupos como: mujeres, grupos étnicos minoritarios, homosexuales, personas con alguna condición de discapacidad.",
+          "Propone acciones para mejorar el cumplimiento de los Derechos Humanos y constitucionales en Colombia y en el mundo."
         ],
         "saberes": ["La dignidad humana", "Discriminación y exclusión social", "Abolición de la esclavitud", "Movimientos obreros", "Vulneración de derechos fundamentales", "Prejuicios históricos"],
         "socioemocional": null,
@@ -255,10 +252,10 @@
       {
         "componente": "Ético político",
         "estandar": [
-          "Comparo mecanismos de participación ciudadana en las constituciones de 1886 y 1991. (1)",
-          "Identifico formas de participación de movimientos sociales y sindicatos en el siglo XIX y XX. (2)"
+          "Comparo mecanismos de participación ciudadana en las constituciones de 1886 y 1991. ",
+          "Identifico formas de participación de movimientos sociales y sindicatos en el siglo XIX y XX."
         ],
-        "dba": ["Comprende la importancia de las asociaciones, gremios y organizaciones sindicales en la defensa de los derechos colectivos. (8)"],
+        "dba": ["Comprendelaimportanciadelasasociaciones, los gremios, los movimientos y organizaciones sindicales en la defensa de los derechos colectivos. (8)"],
         "evidencias": [
           "Describe el surgimiento de movimientos campesinos, estudiantiles y obreros en el siglo XX.",
           "Explica herramientas de resolución de conflictos como diálogo, conciliación y arbitraje.",
