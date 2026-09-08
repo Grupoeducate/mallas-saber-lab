@@ -163,7 +163,7 @@
           "Reconozco el cambio en la posición de la mujer en el mundo y en Colombia a lo largo del siglo XX y su incidencia en el desarrollo político, económico y social.",
           "Identifico y explico las luchas de los grupos étnicos en Colombia y América en busca de su reconocimiento social e igualdad de derechos."
         ],
-        "dba": ["Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación."],
+        "dba": [(EBC) "Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación."],
         "evidencias": [
           "Identifica prejuicios, estereotipos y emociones que me dificultan sentir empatía por algunas personas o grupos y exploro caminos para superarlos.",
           "Identifica y analiza dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto.",
@@ -181,7 +181,7 @@
           "Identifico las funciones que cumplen las oficinas de vigilancia y control del Estado.",
           "Identifico mecanismos e instituciones constitucionales que protegen los derechos fundamentales de los ciudadanos."
         ],
-        "dba": ["Pensamiento social: Comprender el Estado Social de Derecho, la organización del Estado y los mecanismos de participación ciudadana."],
+        "dba": ["Comprender el Estado Social de Derecho, la organización del Estado y los mecanismos de participación ciudadana. (guía de orientación Saber 11)"],
         "evidencias": [
           "Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia.",
           "Conoce la organización del Estado: Conoce las funciones y alcances de las ramas del poder y de los organismos de control.",
@@ -217,7 +217,7 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": ["Identifico y analizo las consecuencias sociales, económicas, políticas y culturales de los procesos de concentración de la población en los centros urbanos y abandono del campo."],
-        "dba": ["Comprende el impacto social del crecimiento económico desigual que se da en las diferentes regiones del país."],
+        "dba": ["Comprende el impacto social del crecimiento económico desigual que se da en las diferentes regiones del país." (DBA. 8 Grado 9.°],
         "evidencias": [
           "Compara las características que tienen las zonas con mejores índices de crecimiento económico respecto a aquellas con menor desarrollo.",
           "Explica posibles acciones a considerar en el mejoramiento del crecimiento de las regiones con menor índice de desarrollo humano."
@@ -250,9 +250,9 @@
         "dba": ["Evalúa la importancia de la solución negociada de los conflictos armados para la búsqueda de la paz. (2)"],
         "evidencias": [
           "Reconoce los principales conflictos sociales y políticos vividos en Colombia en las últimas décadas, a partir de la memoria histórica.",
-          "Explica la importancia que tiene para una sociedad la resolución pacífica de sus conflictos y el respeto por las diferencias políticas e ideológicas.",
-          "Describe las implicaciones que tiene para las sociedades democráticas considerar la justicia, la verdad, el perdón y la reparación de las víctimas.",
-          "Argumenta razones para defender la búsqueda de la paz como un deber ético, moral y constitucional."
+          "Explica la importancia que tiene para una sociedad la resolución pacífica de sus conflictos y el respeto por las diferencias políticas, ideológicas, de género, religiosas, étnicas o intereses económicos. ",
+          "Describe las implicaciones que tiene para las sociedades democráticas considerar la justicia, la verdad, el perdón y la reparación de las víctimas en los procesos de paz.",
+          "Argumenta razones para defender la búsqueda de la paz como un deber ético, moral y constitucional en el que se requiere el compromiso de todos los ciudadanos."
         ],
         "saberes": ["El conflicto", "Conflictos sociales y políticos en Colombia", "Proceso de paz en Colombia", "Diálogos en la Habana", "La JEP"],
         "socioemocional": null,
