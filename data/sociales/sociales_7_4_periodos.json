@@ -26,7 +26,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico algunas características sociales, políticas y económicas de diferentes períodos históricos a partir de manifestaciones artísticas de cada época. (6)"],
+        "estandar": ["Identifico algunas características sociales, políticas y económicas de diferentes períodos históricos a partir de manifestaciones artísticas de cada época."],
         "dba": ["Analiza la influencia del imperio romano en la cultura de occidente y los aportes en diversos campos como la literatura, las leyes, la ingeniería y la vida cotidiana. (3)"],
         "evidencias": [
           "Reconoce el imperio romano como un sistema político, militar y económico que ejerció control territorial sobre gran parte de Europa y que influyó en la cultura latinoamericana.",
@@ -112,7 +112,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico algunas situaciones que han generado conflictos en las organizaciones sociales (el uso de la mano de obra en el imperio egipcio, la expansión de los imperios, la tenencia de la tierra en el medioevo…). (7)"],
+        "estandar": ["Identifico algunas situaciones que han generado conflictos en las organizaciones sociales (el uso de la mano de obra en el imperio egipcio, la expansión de los imperios, la tenencia de la tierra en el medioevo…)."],
         "dba": ["Analiza la Edad Media como un periodo histórico que dio origen a instituciones sociales, económicas y políticas en relación con el mismo período de las sociedades precolombinas. (4)"],
         "evidencias": [
           "Describe los principales eventos que identificaron las sociedades europeas en la Edad Media (lucha entre imperios, modelo económico feudal, poder económico y político de la iglesia, desigualdad social).",
@@ -190,7 +190,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico y comparo las características de la organización social en las colonias españolas, portuguesas e inglesas en América. (8)"],
+        "estandar": ["Identifico y comparo las características de la organización social en las colonias españolas, portuguesas e inglesas en América."],
         "dba": ["Evalúa las causas y consecuencias de los procesos de Conquista y colonización europea dados en América. (6)"],
         "evidencias": [
           "Describe los procesos de Conquista y colonización en América, llevados a cabo por españoles, portugueses, ingleses, franceses y holandeses.",
@@ -262,7 +262,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico y comparo el legado de cada una de las culturas involucradas en el encuentro Europa-América-África. (9)"],
+        "estandar": ["Identifico y comparo el legado de cada una de las culturas involucradas en el encuentro Europa-América-África. "],
         "dba": ["Analiza el Renacimiento como una época que dio paso en Europa a una nueva configuración cultural en campos como las ciencias, la política, las artes y la literatura. (5)"],
         "evidencias": [
           "Describe algunos acontecimientos que dieron paso a la Modernidad e incidieron en un nuevo pensamiento político, social, económico e intelectual.",
@@ -279,7 +279,7 @@
       {
         "componente": "Ético político",
         "estandar": [
-          "Identifico y comparo el legado de cada una de las culturas involucradas en el encuentro Europa-América-África. (9)",
+          "Identifico y comparo el legado de cada una de las culturas involucradas en el encuentro Europa-América-África.",
           "Comparo entre sí algunos sistemas políticos estudiados y a su vez con el sistema político colombiano."
         ],
         "dba": ["Aplica procesos y técnicas de mediación de conflictos en pro del establecimiento de una cultura de la paz. (8)"],
