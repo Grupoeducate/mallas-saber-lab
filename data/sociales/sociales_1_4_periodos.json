@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Me ubico en el entorno físico y de representación (en mapas y planos) utilizando referentes espaciales como arriba, abajo, dentro, fuera, derecha, izquierda. (1)"],
+        "estandar": ["Me ubico en el entorno físico y de representación (en mapas y planos) utilizando referentes espaciales como arriba, abajo, dentro, fuera, derecha, izquierda."],
         "dba": ["Se ubica en el espacio que habita teniendo como referencia su propio cuerpo y los puntos cardinales. (1)"],
         "evidencias": [
           "Relaciona su izquierda-derecha, adelante– atrás con los puntos cardinales, al ubicar, en representaciones gráficas de la escuela, aquellos lugares como rectoría, cafetería, patio de recreo, coordinación y sala de profesores, entre otros.",
@@ -21,7 +21,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno. (3)"],
+        "estandar": ["Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno."],
         "dba": ["Describe el tiempo personal y se sitúa en secuencias de eventos propios y sociales. (3)"],
         "evidencias": [
           "Nombra ordenadamente los días de la semana y los meses del año.",
@@ -41,7 +41,7 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno (1)"],
+        "estandar": ["Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno"],
         "dba": ["Reconoce la noción de cambio a partir de las transformaciones que ha vivido en los últimos años a nivel personal, de su familia y del entorno barrial, veredal o del lugar donde vive. (4)"],
         "evidencias": [
           "Relata los principales acontecimientos sociales ocurridos en el aula de clase, por ejemplo, el inicio de la vida escolar, la celebración del día de los niños, las izadas de bandera o la celebración de cumpleaños, entre otros, diferenciando el antes y el ahora.",
@@ -75,7 +75,7 @@
     "2": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Establezco relaciones entre los espacios físicos que ocupo (salón de clase, colegio, municipio…) y sus representaciones (mapas, planos, maquetas...). (2)"],
+        "estandar": ["Establezco relaciones entre los espacios físicos que ocupo (salón de clase, colegio, municipio…) y sus representaciones (mapas, planos, maquetas...). "],
         "dba": ["Se ubica en el espacio que habita teniendo como referencia su propio cuerpo y los puntos cardinales. (1)"],
         "evidencias": [
           "Localiza en representaciones gráficas o dibujos de su barrio, vereda o lugar donde vive, algunos referentes (tienda, iglesia, parque, escuela) teniendo en cuenta los puntos cardinales y conoce los acontecimientos que se dan en estos lugares.",
@@ -89,7 +89,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno. (3)"],
+        "estandar": ["Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno."],
         "dba": ["Describe el tiempo personal y se sitúa en secuencias de eventos propios y sociales. (3)"],
         "evidencias": [
           "Identifica los miembros de su familia y verbaliza quiénes nacieron antes o después de él.",
@@ -103,7 +103,7 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno. (1)"],
+        "estandar": ["Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno."],
         "dba": ["Reconoce la noción de cambio a partir de las transformaciones que ha vivido en los últimos años a nivel personal, de su familia y del entorno barrial, veredal o del lugar donde vive. (4)"],
         "evidencias": [
           "Describe aquellas organizaciones sociales a las que pertenece en su comunidad: familia, colegio y vecindario.",
@@ -147,7 +147,7 @@
     "3": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Reconozco y describo las características físicas de las principales formas del paisaje. (4)"],
+        "estandar": ["Reconozco y describo las características físicas de las principales formas del paisaje."],
         "dba": ["Describe las características del paisaje geográfico del barrio vereda o lugar donde viven sus componentes y formas. (2)"],
         "evidencias": [
           "Reconoce las diferentes formas de relieve en su entorno geográfico o lugar donde vive, por ejemplo: costas, islas, montañas, valles, llanuras y/o mesetas.",
@@ -170,7 +170,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico algunas características físicas, sociales, culturales y emocionales que hacen de mí un ser único. (1)"],
+        "estandar": ["Identifico algunas características físicas, sociales, culturales y emocionales que hacen de mí un ser único."],
         "dba": ["Reconoce su individualidad y su pertenencia a los diferentes grupos sociales (5)"],
         "evidencias": [
           "Expresa algunas características físicas y emocionales que lo hacen un ser único.",
@@ -188,8 +188,8 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Reconozco algunas normas que han sido construidas entre compañeros y entre la familia. (7)"],
-        "dba": ["Participa en la construcción de acuerdos básicos sobre normas para el logro de metas comunes en su contexto cercano (compañeros y familia) y se compromete con su cumplimiento."],
+        "estandar": ["Reconozco algunas normas que han sido construidas entre compañeros y entre la familia."],
+        "dba": ["Participa en la construcción de acuerdos básicos sobre normas para el logro de metas comunes en su contexto cercano (compañeros y familia) y se compromete con su cumplimiento. (7)"],
         "evidencias": [
           "Presenta sus ideas, intereses y sentimientos frente a las normas establecidas en la familia, en el salón de clase y otros espacios.",
           "Expresa sus opiniones y colabora activamente en la construcción de los acuerdos grupales para la convivencia.",
@@ -246,7 +246,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Identifico y describo algunas características socioculturales de comunidades a las que pertenezco y de otras diferentes a las mías. (2)"],
+        "estandar": ["Identifico y describo algunas características socioculturales de comunidades a las que pertenezco y de otras diferentes a las mías."],
         "dba": ["Reconoce su individualidad y su pertenencia a los diferentes grupos sociales (5)"],
         "evidencias": [
           "Reconoce de sí mismo, de sus compañeros y de sus familiares aquellas cualidades que le ayudan a estar mejor entre los demás.",
@@ -260,7 +260,7 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Identifico situaciones cotidianas que indican cumplimiento o incumplimiento en las funciones de algunas organizaciones sociales y políticas de mi entorno. (2)"],
+        "estandar": ["Identifico situaciones cotidianas que indican cumplimiento o incumplimiento en las funciones de algunas organizaciones sociales y políticas de mi entorno."],
         "dba": ["Establece relaciones de convivencia desde el reconocimiento y el respeto de sí mismo y de los demás. (8)"],
         "evidencias": [
           "Expresa el valor de sí mismo y de cada uno de los integrantes de la clase, explicando aquello que los diferencia y los identifica: el género, la procedencia, la edad, las ideas y creencias, entre otras.",
