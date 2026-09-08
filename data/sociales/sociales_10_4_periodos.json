@@ -7,7 +7,7 @@
     "1": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Explico y evalúo el impacto del desarrollo industrial y tecnológico sobre el medio ambiente y el ser humano. (4)"],
+        "estandar": ["Explico y evalúo el impacto del desarrollo industrial y tecnológico sobre el medio ambiente y el ser humano. "],
         "dba": ["Analiza conflictos que se presentan en el territorio colombiano originados por la degradación ambiental, el escaso desarrollo económico y la inestabilidad política (1)"],
         "evidencias": [
           "Explica la disponibilidad y el uso del recurso hídrico en las diferentes regiones colombianas y los conflictos que se presentan en torno a este.",
@@ -22,9 +22,9 @@
       {
         "componente": "Historia y cultura",
         "estandar": [
-          "Explico el origen del régimen bipartidista en Colombia. (1)",
-          "Analizo el periodo conocido como “la Violencia” y establezco relaciones con las formas actuales de violencia. (2)",
-          "Identifico las causas, características y consecuencias del Frente Nacional. (3)"
+          "Explico el origen del régimen bipartidista en Colombia.",
+          "Analizo el periodo conocido como “la Violencia” y establezco relaciones con las formas actuales de violencia. ",
+          "Identifico las causas, características y consecuencias del Frente Nacional. "
         ],
         "dba": ["Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural. (2)"],
         "evidencias": [
@@ -78,7 +78,7 @@
     "2": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente. (5)"],
+        "estandar": ["Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente. "],
         "dba": ["Analiza conflictos que se presentan en el territorio colombiano originados por la degradación ambiental, el escaso desarrollo económico y la inestabilidad política (1)"],
         "evidencias": [
           "Describe el impacto ambiental, económico, social y político que ha tenido la minería legal e ilegal, a partir del estudio de casos provenientes de distintas fuentes de información."
@@ -91,7 +91,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Explico el surgimiento de la guerrilla, el paramilitarismo y el narcotráfico en Colombia. (4)"],
+        "estandar": ["Explico el surgimiento de la guerrilla, el paramilitarismo y el narcotráfico en Colombia. "],
         "dba": ["Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural. (2)"],
         "evidencias": [
           "Explica las características de la violencia ejercida en el contexto del conflicto armado en Colombia y cómo afecta la vida social y cultura.",
@@ -105,7 +105,7 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Reconozco y explico los cambios y continuidades en los movimientos guerrilleros en Colombia desde su surgimiento hasta la actualidad.(4)"],
+        "estandar": ["Reconozco y explico los cambios y continuidades en los movimientos guerrilleros en Colombia desde su surgimiento hasta la actualidad."],
         "dba": ["Evalúa las causas y consecuencias de la violencia en la segunda mitad del siglo XX en Colombia y su incidencia en los ámbitos social, político, económico y cultural. (2)"],
         "evidencias": [
           "Explica las características de la violencia ejercida en el contexto del conflicto armado en Colombia y cómo afecta la vida social y cultura.",
@@ -141,11 +141,11 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": [
-          "Identifico los principales postulados del liberalismo clásico, el socialismo, el marxismo-leninismo… y analizo la vigencia actual de algunos de ellos. (1)",
-          "Establezco algunas relaciones entre los diferentes modelos de desarrollo económico utilizados en Colombia y América Latina y las ideologías que los sustentan. (2)",
-          "Analizo el impacto de estos modelos en la región. (3)"
+          "Identifico los principales postulados del liberalismo clásico, el socialismo, el marxismo-leninismo… y analizo la vigencia actual de algunos de ellos. ",
+          "Establezco algunas relaciones entre los diferentes modelos de desarrollo económico utilizados en Colombia y América Latina y las ideologías que los sustentan. ",
+          "Analizo el impacto de estos modelos en la región. "
         ],
-        "dba": ["Comprende modelos conceptuales, sus características y contextos de aplicación."],
+        "dba": ["Comprende modelos conceptuales, sus características y contextos de aplicación. (Guía de Orientación Saber 11)"],
         "evidencias": [
           "Identifica y usa conceptos sociales básicos (económicos, políticos, culturales y geográficos).",
           "Diferencia conceptos como capitalismo, socialismo, neoliberalismo, liberalismo económico, marxismo, leninismo.",
@@ -160,7 +160,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...). (5)"],
+        "estandar": ["Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...)."],
         "dba": ["Analiza los conflictos bélicos presentes en las sociedades contemporáneas, sus causas y consecuencias, así como su incidencia en la vida cotidiana de los pueblos. (5)"],
         "evidencias": [
           "Reconoce los avances militares, tecnológicos y científicos que las potencias utilizaron durante las dos Guerras Mundiales y otros conflictos acaecidos en el siglo XX y asume una posición crítica frente a estos.",
@@ -179,8 +179,8 @@
         "evidencias": [
           "Describe las características demográficas, económicas, sociales, políticas y culturales de las sociedades actuales, en el marco de una sociedad de la información y bajo el paradigma de la globalización.",
           "Reconoce el papel de los organismos multilaterales en la formulación de políticas económicas, jurídicas, ambientales y educativas para los países que hacen parte de estas organizaciones.",
-          "Explica cómo los organismos multilaterales de los que hace parte Colombia inciden en sus políticas internas.",
-          "Argumenta el papel desempeñado por los organismos e instituciones nacionales e internacionales en el mantenimiento del bienestar y la paz."
+          "Explica cómo los organismos multilaterales de los que hace parte Colombia, inciden en sus políticas internas, desde el reconocimiento de las ventajas y desventajas que tiene el pertenecer a estos.",
+          "Argumenta el papel desempeñado por los organismos e instituciones nacionales e internacionales, en el mantenimiento del bienestar, la paz de los Estados y los Derechos Humanos."
         ],
         "saberes": ["Sociedad de la información", "Globalización", "Organismos multilaterales", "ONU", "OEA", "Cooperación internacional", "Derechos Humanos"],
         "socioemocional": null,
@@ -211,7 +211,7 @@
     "4": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente. (5)"],
+        "estandar": ["Analizo críticamente los factores que ponen en riesgo el derecho del ser humano a una alimentación sana y suficiente. ("],
         "dba": ["Analiza conflictos que se presentan en el territorio colombiano originados por la degradación ambiental, el escaso desarrollo económico y la inestabilidad política (1)"],
         "evidencias": [
           "Argumenta la pérdida de biodiversidad en el país a partir de la revisión de los informes del Ministerio del Medio Ambiente, las corporaciones autónomas regionales y/o las ONG dedicadas al tema."
@@ -224,7 +224,7 @@
       },
       {
         "componente": "Historia y cultura",
-        "estandar": ["Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...). (5)"],
+        "estandar": ["Analizo desde el punto de vista político, económico, social y cultural algunos de los hechos históricos mundiales sobresalientes del siglo XX (guerras-mundiales, conflicto en el Medio Oriente, caída del muro de Berlín...). "],
         "dba": ["Analiza los conflictos bélicos presentes en las sociedades contemporáneas, sus causas y consecuencias, así como su incidencia en la vida cotidiana de los pueblos. (5)"],
         "evidencias": [
           "Explica y representa las transformaciones geopolíticas que se dieron en el mundo después de las guerras mundiales desde la interpretación de mapas temáticos.",
@@ -239,8 +239,8 @@
       {
         "componente": "Ético político",
         "estandar": [
-          "Analizo el paso de un sistema democrático representativo a un sistema democrático participativo en Colombia. (2)",
-          "Identifico causas y consecuencias de los procesos de desplazamiento forzado de poblaciones y reconozco los derechos que protegen a estas personas. (5)"
+          "Analizo el paso de un sistema democrático representativo a un sistema democrático participativo en Colombia.",
+          "Identifico causas y consecuencias de los procesos de desplazamiento forzado de poblaciones y reconozco los derechos que protegen a estas personas."
         ],
         "dba": ["Comprende que existen multitud de culturas y una sola humanidad en el mundo y que entre ellas se presenta la discriminación y exclusión de algunos grupos, lo cual dificulta el bienestar de todos.(3)"],
         "evidencias": [
