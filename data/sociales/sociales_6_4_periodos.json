@@ -195,8 +195,8 @@
         "dba": ["Analiza cómo en las sociedades antiguas surgieron las primeras ciudades y el papel de la agricultura y el comercio para la expansión de estas. (4)"],
         "evidencias": [
           "Relaciona el origen de la agricultura con el desarrollo de las sociedades antiguas y la aparición de elementos que permanecen en la actualidad (canales de riego, la escritura, el ladrillo).",
-          "Explica el papel de los ríos Nilo, Tigris, Éufrates, Indo, Ganges, Huang He y Yangtsé Kiang, en la construcción de las primeras ciudades y el origen de las civilizaciones antiguas.",
-          "Establece las implicaciones del proceso de sedentarización, la domesticación de animales y el empleo de mano de obra esclavizada en la revolución agrícola.",
+          "Explica el papel de los ríos Nilo, Tigris, Éufrates, Indo, Ganges, Huang He y Yangtsé Kiang, en la construcción de las primeras ciudades y el origen de las civilizaciones antiguas y los ubica en un mapa actual de África y Asia.",
+          "Establece las implicaciones del proceso de sedentarización, la domesticación de animales y el empleo de mano de obra esclavizada, en la revolución agrícola para la humanidad. ",
           "Expresa opiniones sobre la influencia de la agricultura y las primeras obras de ingeniería en el desarrollo de las sociedades actuales."
         ],
         "saberes": [
@@ -217,9 +217,9 @@
         "dba": ["Analiza cómo en el escenario político democrático entran en juego intereses desde diferentes sectores sociales, políticos y económicos, los cuales deben ser dirimidos por los ciudadanos. (7)"],
         "evidencias": [
           "Describe el origen de la ciudadanía, los cambios que ha tenido en el tiempo y su significado actual.",
-          "Argumenta la importancia de participar activamente en la toma de decisiones para el bienestar colectivo.",
-          "Explica las consecuencias de la no participación activa en las decisiones de una comunidad.",
-          "Plantea razones para respetar las opiniones ajenas y aportar constructivamente a las discusiones del grupo."
+          "Argumenta la importancia de participar activamente en la toma de decisiones para el bienestar colectivo en la sociedad, en el contexto de una democracia.",
+          "Explica, a partir de ejemplos, las consecuencias que pueden tener, sobre sí mismo y sobre los demás, la no participación activa en las decisiones de una comunidad.",
+          "Plantea razones que permitan comprender la importancia de respetar las opiniones ajenas y aportar constructivamente a las discusiones en el grupo."
         ],
         "saberes": ["Historia de la democracia", "Origen de la ciudadanía", "Participación ciudadana", "Toma de decisiones", "Discusión constructiva"],
         "socioemocional": null,
@@ -257,8 +257,10 @@
           "Comparo las organizaciones económicas de diferentes culturas con las de la actualidad en Colombia.",
           "Describo las características que permiten dividir a Colombia en regiones naturales."
         ],
-        "dba": ["Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones. (1)"],
+        "dba": [ "Analiza los legados que las sociedades americanas prehispánicas dejaron en diversos campos. (Dba 5 grado 6°) ", 
+          "Comprende la organización territorial existente en Colombia y las particularidades geográficas de las regiones. (Dba. 1 Grado 5°)"],
         "evidencias": [
+          "(DBA 5-6° EV 1) Representa y sitúa en un mapa los espacios geográcos en que se desarrollaron sociedades prehispánicas como mayas, aztecas, incas, chibchas u otros grupos ancestrales. ", 
           "Reconoce la organización económica de diferentes grupos étnicos en Colombia.",
           "Describe las características de la organización económica de Colombia actual.",
           "Compara la organización económica de diferentes países y culturas.",
@@ -278,10 +280,10 @@
         ],
         "dba": ["Analiza los legados que las sociedades Americanas prehispánicas dejaron en diversos campos. (5)"],
         "evidencias": [
-          "Representa y sitúa en un mapa los espacios geográficos donde se desarrollaron sociedades prehispánicas (Mayas, Aztecas, Incas, Chibchas).",
-          "Describe los aportes tecnológicos y culturales de sociedades prehispánicas (calendario maya, arquitectura, astronomía, técnicas de cultivo).",
-          "Compara la estructura social, política y económica de las sociedades prehispánicas con las sociedades actuales del continente.",
-          "Explica la importancia de alimentos domesticados en América (maíz, tomate, papa) en la gastronomía contemporánea."
+          "Representa y sitúa en un mapa los espacios geógrafos en que se desarrollaron sociedades prehispánicas como mayas, aztecas, incas, chibchas u otros grupos ancestrales.",
+          "Describe los aportes tecnológicos y culturales de las sociedades prehispánicas como el calendario maya, la arquitectura, los aspectos religiosos, la astronomía y las técnicas de cultivo.",
+          "Compara la estructura social, política y económica de las sociedades prehispánicas, con las sociedades actuales del continente americano, y establece similitudes y diferencias en sus procesos históricos.",
+          "Explica la importancia de alimentos domesticados en América como el maíz, el tomate y la papa, en la gastronomía del mundo contemporáneo."
         ],
         "saberes": ["Sociedades prehispánicas", "Mayas, Aztecas e Incas", "Legado histórico prehispánico", "Aportes tecnológicos ancestrales", "Gastronomía antigua y moderna"],
         "socioemocional": null,
@@ -291,13 +293,13 @@
       },
       {
         "componente": "Ético político",
-        "estandar": ["Asumo una posición crítica frente a situaciones de discriminación y propongo formas de cambiarlas. (3)"],
+        "estandar": ["Asumo una posición crítica frente a situaciones de discriminación y propongo formas de cambiarlas."],
         "dba": ["Comprende que en una sociedad democrática no es aceptable ninguna forma de discriminación por origen étnico, creencias religiosas, género, discapacidad y/o apariencia física. (8)"],
         "evidencias": [
-          "Reconoce que las personas tenemos derecho a no ser discriminadas según la Declaración Universal de DDHH y la Constitución Nacional.",
-          "Argumenta cómo los derechos de las personas se basan en el principio de igualdad ante la ley.",
-          "Explica cómo la pertenencia a una sociedad multicultural contribuye a la construcción de su propia identidad.",
-          "Reconoce a partir de situaciones cotidianas que el respeto hacia el otro es inherente a la condición humana."
+          "Reconoce que las personas tenemos derecho a no ser discriminadas, a la luz de la Declaración Universal de los Derechos Humanos y de la Constitución Nacional de Colombia de 1991.",
+          "Argumenta cómo los derechos de las personas se basan en el principio de la igualdad ante la ley, aunque cada uno viva y se exprese de manera diferente.",
+          "Explica que pertenece a una sociedad multicultural y cómo ésta, ha contribuido a la construcción de su identidad (familia, colegio, barrio, región, país). ",
+          "Reconoce a partir de situaciones de la vida cotidiana que el respeto hacia el otro es inherente a la condición humana."
         ],
         "saberes": ["La discriminación", "El racismo", "Colombia país multicultural", "Interculturalidad", "Derechos e igualdad ante la ley"],
         "socioemocional": null,
