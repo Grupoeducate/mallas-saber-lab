@@ -8,8 +8,8 @@
       {
         "componente": "Espacio y ambiente",
         "estandar": [
-          "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia. (2)",
-          "Comparo las maneras como distintas comunidades, etnias y culturas se han relacionado económicamente con el medio ambiente en Colombia a lo largo de la historia (pesca de subienda, cultivo en terrazas...). (3)"
+          "Explico la manera como el medio ambiente influye en el tipo de organización social y económica que se da en las regiones de Colombia.",
+          "Comparo las maneras como distintas comunidades, etnias y culturas se han relacionado económicamente con el medio ambiente en Colombia a lo largo de la historia (pesca de subienda, cultivo en terrazas...)."
         ],
         "dba": ["Analiza la situación ambiental de los geosistemas más biodiversos de Colombia (selvas, páramos, arrecifes coralinos) y las problemáticas que enfrentan actualmente debido a la explotación a que han sido sometidos. (1)"],
         "evidencias": [
@@ -33,8 +33,8 @@
       {
         "componente": "Historia y cultura",
         "estandar": [
-          "Explico algunos de los grandes cambios sociales que se dieron en Colombia entre los siglos XIX y primera mitad del XX (abolición de la esclavitud, surgimiento de movimientos obreros...). (4)",
-          "Comparo estos procesos teniendo en cuenta sus orígenes y su impacto en situaciones políticas, económicas, sociales y culturales posteriores. (5)"
+          "Explico algunos de los grandes cambios sociales que se dieron en Colombia entre los siglos XIX y primera mitad del XX (abolición de la esclavitud, surgimiento de movimientos obreros...).",
+          "Comparo estos procesos teniendo en cuenta sus orígenes y su impacto en situaciones políticas, económicas, sociales y culturales posteriores. "
         ],
         "dba": ["Analiza los cambios sociales, políticos, económicos y culturales en Colombia en el siglo XX y su impacto en la vida de los habitantes del país. (4)"],
         "evidencias": [
@@ -100,7 +100,7 @@
     "2": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Explico el impacto de las migraciones y desplazamientos humanos en la vida política, económica, social y cultural de nuestro país en el siglo XIX y la primera mitad del siglo XX y lo comparo con los de la actualidad. (5)"],
+        "estandar": ["Explico el impacto de las migraciones y desplazamientos humanos en la vida política, económica, social y cultural de nuestro país en el siglo XIX y la primera mitad del siglo XX y lo comparo con los de la actualidad."],
         "dba": ["Comprende las consecuencias que han traído los procesos migratorios en la organización social y económica de Colombia en el siglo XX y en la actualidad. (2)"],
         "evidencias": [
           "Identifica en la historia de Colombia las causas de los movimientos migratorios y su influencia en las condiciones de vida de la población actual del país.",
@@ -132,7 +132,6 @@
         "estandar": ["Asumo una posición crítica frente a situaciones de discriminación y abuso por irrespeto a las posiciones ideológicas y propongo formas de cambiarlas."],
         "dba": ["Evalúa cómo todo conflicto puede solucionarse mediante acuerdos en que las personas ponen de su parte para superar las diferencias (7)"],
         "evidencias": [
-          "Establece posibles relaciones entre los hechos sociales y políticos de la segunda mitad del siglo XX en Colombia y los que tienen lugar en la actualidad.",
           "Explica las consecuencias de aquellas acciones que pueden causar sufrimiento a otras personas.",
           "Analiza los conflictos entre grupos con el fin de proponer alternativas de solución."
         ],
@@ -165,7 +164,7 @@
     "3": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Explico las políticas que orientaron la economía colombiana a lo largo del siglo XIX y primera mitad del XX (proteccionismo, liberalismo económico...). (7)"],
+        "estandar": ["Explico las políticas que orientaron la economía colombiana a lo largo del siglo XIX y primera mitad del XX (proteccionismo, liberalismo económico...)."],
         "dba": ["Comprende el impacto social del crecimiento económico desigual que se da en las diferentes regiones del país. (8)"],
         "evidencias": [
           "Reconoce cómo las condiciones geográficas regionales pueden influir en la construcción o no de infraestructuras y por ende en el crecimiento económico.",
@@ -255,7 +254,7 @@
     "4": [
       {
         "componente": "Espacio y ambiente",
-        "estandar": ["Explico las políticas que orientaron la economía colombiana a lo largo del siglo XIX y primera mitad del XX (proteccionismo, liberalismo económico...). (7)"],
+        "estandar": ["Explico las políticas que orientaron la economía colombiana a lo largo del siglo XIX y primera mitad del XX (proteccionismo, liberalismo económico...)."],
         "dba": ["Analiza las crisis económicas dadas en la Colombia contemporánea y sus repercusiones en la vida cotidiana de las personas. (3)"],
         "evidencias": [
           "Caracteriza a través de estudios de caso algunas crisis económicas en Colombia (sustitución de importaciones, financiera e hipotecaria [UPAC], ruptura del pacto internacional del café, crisis internacional del petróleo).",
